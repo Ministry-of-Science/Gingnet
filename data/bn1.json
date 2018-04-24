@@ -1,0 +1,1410 @@
+[
+  {
+    "number": "001",
+    "name": "Cannon",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Null",
+    "description": "A nice, big Cannon!"
+  },
+  {
+    "number": "002",
+    "name": "HiCannon",
+    "rarity": "**",
+    "damage": "80",
+    "element": "Null",
+    "description": "A nice, big Cannon!"
+  },
+  {
+    "number": "003",
+    "name": "M-Cannon",
+    "rarity": "***",
+    "damage": "120",
+    "element": "Null",
+    "description": "A nice, big Cannon!"
+  },
+  {
+    "number": "004",
+    "name": "Shotgun",
+    "rarity": "*",
+    "damage": "30",
+    "element": "Null",
+    "description": "Hits enemy and keeps goign 1pnl"
+  },
+  {
+    "number": "005",
+    "name": "CrossGun",
+    "rarity": "*",
+    "damage": "30",
+    "element": "Null",
+    "description": "4-panel diagonal blast"
+  },
+  {
+    "number": "006",
+    "name": "Spreader",
+    "rarity": "**",
+    "damage": "30",
+    "element": "Null",
+    "description": "Gun with a 1-panel blast"
+  },
+  {
+    "number": "007",
+    "name": "Bubbler",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Aqua",
+    "description": "Bubbles w/ a 1-panel blast"
+  },
+  {
+    "number": "008",
+    "name": "Heater",
+    "rarity": "**",
+    "damage": "70",
+    "element": "Fire",
+    "description": "Fire with a 1-panel blast"
+  },
+  {
+    "number": "009",
+    "name": "MiniBomb",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Null",
+    "description": "Throw a bomb! Depth=3"
+  },
+  {
+    "number": "010",
+    "name": "LilBomb",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Null",
+    "description": "Throw a bomb! Depth=3"
+  },
+  {
+    "number": "011",
+    "name": "CrosBomb",
+    "rarity": "**",
+    "damage": "70",
+    "element": "Null",
+    "description": "Throw a bomb! Depth=3"
+  },
+  {
+    "number": "012",
+    "name": "Big Bomb",
+    "rarity": "****",
+    "damage": "90",
+    "element": "Null",
+    "description": "Bomb with a big boom Depth=3"
+  },
+  {
+    "number": "013",
+    "name": "Sword",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Null",
+    "description": "Cut down enemies! Range=1"
+  },
+  {
+    "number": "014",
+    "name": "WideSwrd",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Null",
+    "description": "Cut down enemies! Range=1"
+  },
+  {
+    "number": "015",
+    "name": "LongSwrd",
+    "rarity": "**",
+    "damage": "80",
+    "element": "Null",
+    "description": "Cut down enemies! Range=2"
+  },
+  {
+    "number": "016",
+    "name": "FtrSword",
+    "rarity": "***",
+    "damage": "100",
+    "element": "Null",
+    "description": "Warrior's sword Range=3"
+  },
+  {
+    "number": "017",
+    "name": "KngtSwrd",
+    "rarity": "****",
+    "damage": "150",
+    "element": "Null",
+    "description": "Knight's sword Range=3"
+  },
+  {
+    "number": "018",
+    "name": "HeroSwrd",
+    "rarity": "*****",
+    "damage": "200",
+    "element": "Null",
+    "description": "Legendary sword Range=3"
+  },
+  {
+    "number": "019",
+    "name": "FireSwrd",
+    "rarity": "**",
+    "damage": "100",
+    "element": "Fire",
+    "description": "Cuts down column Range=1"
+  },
+  {
+    "number": "020",
+    "name": "AquaSwrd",
+    "rarity": "***",
+    "damage": "150",
+    "element": "Aqua",
+    "description": "Cuts down column Range=1"
+  },
+  {
+    "number": "021",
+    "name": "ElecSwrd",
+    "rarity": "***",
+    "damage": "120",
+    "element": "Elec",
+    "description": "Cuts down column Range=1"
+  },
+  {
+    "number": "022",
+    "name": "Muramasa",
+    "rarity": "*****",
+    "damage": "???",
+    "element": "Null",
+    "description": "Do damage = to your HP loss"
+  },
+  {
+    "number": "023",
+    "name": "ShokWave",
+    "rarity": "*",
+    "damage": "60",
+    "element": "Null",
+    "description": "Piercing ground wave"
+  },
+  {
+    "number": "024",
+    "name": "SoniWave",
+    "rarity": "**",
+    "damage": "80",
+    "element": "Null",
+    "description": "Piercing ground wave"
+  },
+  {
+    "number": "025",
+    "name": "DynaWave",
+    "rarity": "***",
+    "damage": "100",
+    "element": "Null",
+    "description": "Piercing ground wave"
+  },
+  {
+    "number": "026",
+    "name": "FireTowr",
+    "rarity": "**",
+    "damage": "100",
+    "element": "Fire",
+    "description": "Fire that can move up & down"
+  },
+  {
+    "number": "027",
+    "name": "AquaTowr",
+    "rarity": "**",
+    "damage": "120",
+    "element": "Aqua",
+    "description": "Water that can move up & down"
+  },
+  {
+    "number": "028",
+    "name": "WoodTowr",
+    "rarity": "**",
+    "damage": "140",
+    "element": "Wood",
+    "description": "Log that can move up & down"
+  },
+  {
+    "number": "029",
+    "name": "Quake1",
+    "rarity": "*",
+    "damage": "90",
+    "element": "Null",
+    "description": "Cracks a panel Depth=3"
+  },
+  {
+    "number": "030",
+    "name": "Quake2",
+    "rarity": "**",
+    "damage": "120",
+    "element": "Null",
+    "description": "Cracks a panel Depth=3"
+  },
+  {
+    "number": "031",
+    "name": "Quake3",
+    "rarity": "***",
+    "damage": "150",
+    "element": "Null",
+    "description": "Cracks a panel Depth=3"
+  },
+  {
+    "number": "032",
+    "name": "GutsPnch",
+    "rarity": "*",
+    "damage": "60",
+    "element": "Null",
+    "description": "Knocks stuff over Range=1"
+  },
+  {
+    "number": "033",
+    "name": "IcePunch",
+    "rarity": "**",
+    "damage": "80",
+    "element": "Aqua",
+    "description": "Knocks stuff over Range=1"
+  },
+  {
+    "number": "034",
+    "name": "Dash",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Null",
+    "description": "Knock over all in your path!"
+  },
+  {
+    "number": "035",
+    "name": "Howitzer",
+    "rarity": "****",
+    "damage": "150",
+    "element": "Null",
+    "description": "Breaks panels Depth=3"
+  },
+  {
+    "number": "036",
+    "name": "TriArrow",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Null",
+    "description": "Fires a 3-arrow burst"
+  },
+  {
+    "number": "037",
+    "name": "TriSpear",
+    "rarity": "**",
+    "damage": "50",
+    "element": "Null",
+    "description": "Fires a 3-spear burst"
+  },
+  {
+    "number": "038",
+    "name": "TriLance",
+    "rarity": "***",
+    "damage": "60",
+    "element": "Null",
+    "description": "Fires a 3-lance burst"
+  },
+  {
+    "number": "039",
+    "name": "Ratton1",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Null",
+    "description": "Missile that can turn once"
+  },
+  {
+    "number": "040",
+    "name": "Ratton2",
+    "rarity": "**",
+    "damage": "100",
+    "element": "Null",
+    "description": "Missile that can turn once"
+  },
+  {
+    "number": "041",
+    "name": "Ratton3",
+    "rarity": "***",
+    "damage": "120",
+    "element": "Null",
+    "description": "Missile that can turn once"
+  },
+  {
+    "number": "042",
+    "name": "Wave",
+    "rarity": "***",
+    "damage": "80",
+    "element": "Aqua",
+    "description": "3-row wave! [Aqua]"
+  },
+  {
+    "number": "043",
+    "name": "RedWave",
+    "rarity": "***",
+    "damage": "100",
+    "element": "Fire",
+    "description": "3-row wave! [Fire]"
+  },
+  {
+    "number": "044",
+    "name": "BigWave",
+    "rarity": "****",
+    "damage": "160",
+    "element": "Aqua",
+    "description": "3-row giant wave [Aqua]"
+  },
+  {
+    "number": "045",
+    "name": "Gaia1",
+    "rarity": "***",
+    "damage": "100",
+    "element": "Null",
+    "description": "Rolling 3-column explosion!"
+  },
+  {
+    "number": "046",
+    "name": "Gaia2",
+    "rarity": "****",
+    "damage": "130",
+    "element": "Null",
+    "description": "Rolling 3-column explosion!"
+  },
+  {
+    "number": "047",
+    "name": "Gaia3",
+    "rarity": "*****",
+    "damage": "160",
+    "element": "Null",
+    "description": "Rolling 3-column explosion!"
+  },
+  {
+    "number": "048",
+    "name": "Thunder1",
+    "rarity": "*",
+    "damage": "90",
+    "element": "Elec",
+    "description": "A rolling lightning attack"
+  },
+  {
+    "number": "049",
+    "name": "Thunder2",
+    "rarity": "**",
+    "damage": "120",
+    "element": "Elec",
+    "description": "A rolling lightning attack"
+  },
+  {
+    "number": "050",
+    "name": "Thunder3",
+    "rarity": "***",
+    "damage": "150",
+    "element": "Elec",
+    "description": "A rolling lightning attack"
+  },
+  {
+    "number": "051",
+    "name": "RingZap1",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Elec",
+    "description": "Lightning circles you once"
+  },
+  {
+    "number": "052",
+    "name": "RingZap2",
+    "rarity": "**",
+    "damage": "120",
+    "element": "Elec",
+    "description": "Lightning circles you twice"
+  },
+  {
+    "number": "053",
+    "name": "RingZap3",
+    "rarity": "***",
+    "damage": "100",
+    "element": "Elec",
+    "description": "Lightning circles you thrice"
+  },
+  {
+    "number": "054",
+    "name": "Typhoon",
+    "rarity": "*",
+    "damage": "30",
+    "element": "Null",
+    "description": "Creates a twister w/ 3 hits"
+  },
+  {
+    "number": "055",
+    "name": "Hurricane",
+    "rarity": "**",
+    "damage": "30",
+    "element": "Null",
+    "description": "Creates a twister w/ 5 hits"
+  },
+  {
+    "number": "056",
+    "name": "Cyclone",
+    "rarity": "***",
+    "damage": "30",
+    "element": "Null",
+    "description": "Creates a twister w/ 8 hits"
+  },
+  {
+    "number": "057",
+    "name": "Snakegg1",
+    "rarity": "*",
+    "damage": "130",
+    "element": "Null",
+    "description": "Squirming snake attack!"
+  },
+  {
+    "number": "058",
+    "name": "Snakegg2",
+    "rarity": "**",
+    "damage": "140",
+    "element": "Null",
+    "description": "Shocking snake attack!"
+  },
+  {
+    "number": "059",
+    "name": "Snakegg3",
+    "rarity": "***",
+    "damage": "150",
+    "element": "Null",
+    "description": "Scorching snake attack!"
+  },
+  {
+    "number": "060",
+    "name": "Drain1",
+    "rarity": "**",
+    "damage": "50",
+    "element": "Null",
+    "description": "Charge to drain HP from enemy"
+  },
+  {
+    "number": "061",
+    "name": "Drain2",
+    "rarity": "**",
+    "damage": "70",
+    "element": "Null",
+    "description": "Charge to drain HP from enemy"
+  },
+  {
+    "number": "062",
+    "name": "Drain3",
+    "rarity": "***",
+    "damage": "90",
+    "element": "Null",
+    "description": "Charge to drain HP from enemy"
+  },
+  {
+    "number": "063",
+    "name": "BodyBurn",
+    "rarity": "****",
+    "damage": "100",
+    "element": "Fire",
+    "description": "Engulf all around you in flames!"
+  },
+  {
+    "number": "064",
+    "name": "X-Panel1",
+    "rarity": "**",
+    "damage": "None (10 if hit)",
+    "element": "Null",
+    "description": "Erase 1 panel Range=1"
+  },
+  {
+    "number": "065",
+    "name": "X-Panel3",
+    "rarity": "***",
+    "damage": "None (10 if hit)",
+    "element": "Null",
+    "description": "Erase column Range=1"
+  },
+  {
+    "number": "066",
+    "name": "Hammer",
+    "rarity": "**",
+    "damage": "100",
+    "element": "Null",
+    "description": "Breaks cubes Range=1"
+  },
+  {
+    "number": "067",
+    "name": "MetGuard",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Hold A Btn for 3 sec defence!"
+  },
+  {
+    "number": "068",
+    "name": "IronShld",
+    "rarity": "**",
+    "damage": "None",
+    "element": "Null",
+    "description": "Hold btn. to create shield!"
+  },
+  {
+    "number": "069",
+    "name": "Recov10",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Recover 10HP"
+  },
+  {
+    "number": "070",
+    "name": "Recov30",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Recover 30HP"
+  },
+  {
+    "number": "071",
+    "name": "Recov50",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Recover 50HP"
+  },
+  {
+    "number": "072",
+    "name": "Recov80",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Recover 80HP"
+  },
+  {
+    "number": "073",
+    "name": "Recov120",
+    "rarity": "**",
+    "damage": "None",
+    "element": "Null",
+    "description": "Recover 120HP"
+  },
+  {
+    "number": "074",
+    "name": "Recov150",
+    "rarity": "**",
+    "damage": "None",
+    "element": "Null",
+    "description": "Recover 150HP"
+  },
+  {
+    "number": "075",
+    "name": "Recov200",
+    "rarity": "***",
+    "damage": "None",
+    "element": "Null",
+    "description": "Recover 200HP"
+  },
+  {
+    "number": "076",
+    "name": "Recov300",
+    "rarity": "****",
+    "damage": "None",
+    "element": "Null",
+    "description": "Recover 300HP"
+  },
+  {
+    "number": "077",
+    "name": "Steal",
+    "rarity": "***",
+    "damage": "None",
+    "element": "Null",
+    "description": "Steal left column of enemy area"
+  },
+  {
+    "number": "078",
+    "name": "Geddon1",
+    "rarity": "***",
+    "damage": "None",
+    "element": "Null",
+    "description": "All Panels become cracked!"
+  },
+  {
+    "number": "079",
+    "name": "Geddon2",
+    "rarity": "****",
+    "damage": "None",
+    "element": "Null",
+    "description": "Erases all empty panels"
+  },
+  {
+    "number": "080",
+    "name": "Escape",
+    "rarity": "***",
+    "damage": "None",
+    "element": "Null",
+    "description": "Escape from most enemies"
+  },
+  {
+    "number": "081",
+    "name": "Interupt",
+    "rarity": "***",
+    "damage": "None",
+    "element": "Null",
+    "description": "Destroy enemy chip data"
+  },
+  {
+    "number": "082",
+    "name": "Repair",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Repair panels in your area"
+  },
+  {
+    "number": "083",
+    "name": "TimeBom1",
+    "rarity": "**",
+    "damage": "80",
+    "element": "Null",
+    "description": "Sets time bomb in enemy area"
+  },
+  {
+    "number": "084",
+    "name": "TimeBom2",
+    "rarity": "***",
+    "damage": "120",
+    "element": "Null",
+    "description": "Sets time bomb in enemy area"
+  },
+  {
+    "number": "085",
+    "name": "TimeBom3",
+    "rarity": "****",
+    "damage": "160",
+    "element": "Null",
+    "description": "Sets time bomb in enemy area"
+  },
+  {
+    "number": "086",
+    "name": "Cloud",
+    "rarity": "*",
+    "damage": "30",
+    "element": "Aqua",
+    "description": "Rains up & down on 1 column"
+  },
+  {
+    "number": "087",
+    "name": "Cloudier",
+    "rarity": "**",
+    "damage": "50",
+    "element": "Aqua",
+    "description": "Rains up & down on 1 column"
+  },
+  {
+    "number": "088",
+    "name": "Cloudest",
+    "rarity": "***",
+    "damage": "100",
+    "element": "Aqua",
+    "description": "Rains up & down on 1 column"
+  },
+  {
+    "number": "089",
+    "name": "Mine1",
+    "rarity": "**",
+    "damage": "160",
+    "element": "Null",
+    "description": "Hides a mine in enemy area"
+  },
+  {
+    "number": "090",
+    "name": "Mine2",
+    "rarity": "***",
+    "damage": "180",
+    "element": "Null",
+    "description": "Hides a mine in enemy area"
+  },
+  {
+    "number": "091",
+    "name": "Mine3",
+    "rarity": "****",
+    "damage": "200",
+    "element": "Null",
+    "description": "Hides a mine in enemy area"
+  },
+  {
+    "number": "092",
+    "name": "Dynamyt1",
+    "rarity": "***",
+    "damage": "100",
+    "element": "Null",
+    "description": "Looks right for enemy"
+  },
+  {
+    "number": "093",
+    "name": "Dynamyt2",
+    "rarity": "***",
+    "damage": "120",
+    "element": "Null",
+    "description": "Looks right for enemy"
+  },
+  {
+    "number": "094",
+    "name": "Dynamyt3",
+    "rarity": "***",
+    "damage": "150",
+    "element": "Null",
+    "description": "Looks right for enemy"
+  },
+  {
+    "number": "095",
+    "name": "Remobit1",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Null",
+    "description": "Remote contorl smasher!"
+  },
+  {
+    "number": "096",
+    "name": "Remobit2",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Null",
+    "description": "Remote contorl smasher!"
+  },
+  {
+    "number": "097",
+    "name": "Remobit3",
+    "rarity": "*",
+    "damage": "120",
+    "element": "Null",
+    "description": "Remote contorl smasher!"
+  },
+  {
+    "number": "098",
+    "name": "Lockon1",
+    "rarity": "*",
+    "damage": "10",
+    "element": "Null",
+    "description": "Creates a lock on satellite!"
+  },
+  {
+    "number": "099",
+    "name": "Lockon2",
+    "rarity": "**",
+    "damage": "15",
+    "element": "Null",
+    "description": "Creates a lock on satellite!"
+  },
+  {
+    "number": "100",
+    "name": "Lockon3",
+    "rarity": "***",
+    "damage": "20",
+    "element": "Null",
+    "description": "Creates a lock on satellite!"
+  },
+  {
+    "number": "101",
+    "name": "Candle1",
+    "rarity": "**",
+    "damage": "None",
+    "element": "Fire",
+    "description": "Set candle & recover some HP"
+  },
+  {
+    "number": "102",
+    "name": "Candle2",
+    "rarity": "***",
+    "damage": "None",
+    "element": "Fire",
+    "description": "Set candle & recover some HP"
+  },
+  {
+    "number": "103",
+    "name": "Candle3",
+    "rarity": "****",
+    "damage": "None",
+    "element": "Fire",
+    "description": "Set candle & recover some HP"
+  },
+  {
+    "number": "104",
+    "name": "Anubis",
+    "rarity": "*****",
+    "damage": "???",
+    "element": "Null",
+    "description": "Set Anubis statue to reduce HP"
+  },
+  {
+    "number": "105",
+    "name": "IceCube",
+    "rarity": "**",
+    "damage": "None",
+    "element": "Aqua",
+    "description": "Creates ice cube Range=1"
+  },
+  {
+    "number": "106",
+    "name": "RockCube",
+    "rarity": "***",
+    "damage": "None",
+    "element": "Null",
+    "description": "Creates 3 rock cubes randomly"
+  },
+  {
+    "number": "107",
+    "name": "BstrGard",
+    "rarity": "***",
+    "damage": "None",
+    "element": "Null",
+    "description": "1-turn of MetGuard w/ B Btn"
+  },
+  {
+    "number": "108",
+    "name": "BstrBomb",
+    "rarity": "****",
+    "damage": "None",
+    "element": "Null",
+    "description": "1-turn of MiniBomb w/ B Btn"
+  },
+  {
+    "number": "109",
+    "name": "BstrSwrd",
+    "rarity": "****",
+    "damage": "None",
+    "element": "Null",
+    "description": "1-turn use of Sword with B Btn"
+  },
+  {
+    "number": "110",
+    "name": "BstrPnch",
+    "rarity": "****",
+    "damage": "None",
+    "element": "Null",
+    "description": "1-turn of GutsPnch with B Btn"
+  },
+  {
+    "number": "111",
+    "name": "SloGauge",
+    "rarity": "**",
+    "damage": "None",
+    "element": "Null",
+    "description": "Slow down custom gauge"
+  },
+  {
+    "number": "112",
+    "name": "FstGauge",
+    "rarity": "**",
+    "damage": "None",
+    "element": "Null",
+    "description": "Speeds up custom gauge"
+  },
+  {
+    "number": "113",
+    "name": "Invis1",
+    "rarity": "**",
+    "damage": "None",
+    "element": "Null",
+    "description": "Temporary immunity"
+  },
+  {
+    "number": "114",
+    "name": "Invis2",
+    "rarity": "***",
+    "damage": "None",
+    "element": "Null",
+    "description": "Temporary immunity"
+  },
+  {
+    "number": "115",
+    "name": "Invis3",
+    "rarity": "****",
+    "damage": "None",
+    "element": "Null",
+    "description": "Temporary immunity"
+  },
+  {
+    "number": "116",
+    "name": "Dropdown",
+    "rarity": "*****",
+    "damage": "None",
+    "element": "Null",
+    "description": "Invisible until you attack!"
+  },
+  {
+    "number": "117",
+    "name": "Popup",
+    "rarity": "*****",
+    "damage": "None",
+    "element": "Null",
+    "description": "Invisible when not attacking!"
+  },
+  {
+    "number": "118",
+    "name": "IronBody",
+    "rarity": "**",
+    "damage": "None",
+    "element": "Null",
+    "description": "30 seconds of stoneshape Defense UP"
+  },
+  {
+    "number": "119",
+    "name": "Barrier",
+    "rarity": "**",
+    "damage": "None",
+    "element": "Null",
+    "description": "Nullify 1 enemy attack"
+  },
+  {
+    "number": "120",
+    "name": "BblWrap1",
+    "rarity": "**",
+    "damage": "None",
+    "element": "Aqua",
+    "description": "Aqua wall comes back if damaged"
+  },
+  {
+    "number": "121",
+    "name": "BblWrap2",
+    "rarity": "**",
+    "damage": "None",
+    "element": "Aqua",
+    "description": "Aqua wall comes back if damaged"
+  },
+  {
+    "number": "122",
+    "name": "BblWrap3",
+    "rarity": "***",
+    "damage": "None",
+    "element": "Aqua",
+    "description": "Aqua wall comes back if damaged"
+  },
+  {
+    "number": "123",
+    "name": "LeafShld",
+    "rarity": "***",
+    "damage": "None",
+    "element": "Null",
+    "description": "Turns dmg from 1 hit into HP"
+  },
+  {
+    "number": "124",
+    "name": "AquaAura",
+    "rarity": "**",
+    "damage": "None",
+    "element": "Null",
+    "description": "Null<10dmg Weak vs. [Elec]"
+  },
+  {
+    "number": "125",
+    "name": "FireAura",
+    "rarity": "***",
+    "damage": "None",
+    "element": "Null",
+    "description": "Null<40dmg Weak vs. [Aqua]"
+  },
+  {
+    "number": "126",
+    "name": "WoodAura",
+    "rarity": "****",
+    "damage": "None",
+    "element": "Null",
+    "description": "Null<80dmn Weak vs. [Fire]"
+  },
+  {
+    "number": "127",
+    "name": "LifeAura",
+    "rarity": "*****",
+    "damage": "None",
+    "element": "Null",
+    "description": "Negate all attacks w/ damage<100"
+  },
+  {
+    "number": "128",
+    "name": "Roll",
+    "rarity": "***",
+    "damage": "None",
+    "element": "Null",
+    "description": "Hit enemy and heal some HP"
+  },
+  {
+    "number": "129",
+    "name": "Roll2",
+    "rarity": "****",
+    "damage": "None",
+    "element": "Null",
+    "description": "Hit enemy and heal some HP"
+  },
+  {
+    "number": "130",
+    "name": "Roll3",
+    "rarity": "*****",
+    "damage": "None",
+    "element": "Null",
+    "description": "Hit enemy and heal some HP"
+  },
+  {
+    "number": "131",
+    "name": "GutsMan",
+    "rarity": "***",
+    "damage": "40",
+    "element": "Null",
+    "description": "Shock foe and crack enemy area"
+  },
+  {
+    "number": "132",
+    "name": "GutsMan2",
+    "rarity": "****",
+    "damage": "70",
+    "element": "Null",
+    "description": "Shock foe and crack enemy area"
+  },
+  {
+    "number": "133",
+    "name": "GutsMan3",
+    "rarity": "*****",
+    "damage": "100",
+    "element": "Null",
+    "description": "Shock foe and crack enemy area"
+  },
+  {
+    "number": "134",
+    "name": "ProtoMan",
+    "rarity": "***",
+    "damage": "140",
+    "element": "Null",
+    "description": "Hit column w/ nearest enemy"
+  },
+  {
+    "number": "135",
+    "name": "ProtoMan2",
+    "rarity": "****",
+    "damage": "160",
+    "element": "Null",
+    "description": "Hit column w/ nearest enemy"
+  },
+  {
+    "number": "136",
+    "name": "ProtoMan3",
+    "rarity": "*****",
+    "damage": "180",
+    "element": "Null",
+    "description": "Hit column w/ nearest enemy"
+  },
+  {
+    "number": "137",
+    "name": "FireMan",
+    "rarity": "***",
+    "damage": "100",
+    "element": "Fire",
+    "description": "1 row fire arm"
+  },
+  {
+    "number": "138",
+    "name": "FireMan2",
+    "rarity": "****",
+    "damage": "120",
+    "element": "Fire",
+    "description": "1 row fire arm"
+  },
+  {
+    "number": "139",
+    "name": "FireMan3",
+    "rarity": "*****",
+    "damage": "150",
+    "element": "Fire",
+    "description": "1 row fire arm"
+  },
+  {
+    "number": "140",
+    "name": "NumbrMan",
+    "rarity": "***",
+    "damage": "???",
+    "element": "Null",
+    "description": "Die Rollx10 damage to enemy area"
+  },
+  {
+    "number": "141",
+    "name": "NumbrMn2",
+    "rarity": "****",
+    "damage": "???",
+    "element": "Null",
+    "description": "Die Rollx10 damage to enemy area"
+  },
+  {
+    "number": "142",
+    "name": "NumbrMn3",
+    "rarity": "*****",
+    "damage": "???",
+    "element": "Null",
+    "description": "Die Rollx10 damage to enemy area"
+  },
+  {
+    "number": "143",
+    "name": "StoneMan",
+    "rarity": "***",
+    "damage": "100",
+    "element": "Null",
+    "description": "Drops 3x3 stones on enemy area"
+  },
+  {
+    "number": "144",
+    "name": "StoneMn2",
+    "rarity": "****",
+    "damage": "100",
+    "element": "Null",
+    "description": "Drops 4x3 stones on enemy area"
+  },
+  {
+    "number": "145",
+    "name": "StoneMn3",
+    "rarity": "*****",
+    "damage": "100",
+    "element": "Null",
+    "description": "Drops 5x3 stones on enemy area"
+  },
+  {
+    "number": "146",
+    "name": "IceMan",
+    "rarity": "***",
+    "damage": "60",
+    "element": "Aqua",
+    "description": "Blizzard attack on enemy area"
+  },
+  {
+    "number": "147",
+    "name": "IceMan2",
+    "rarity": "****",
+    "damage": "80",
+    "element": "Aqua",
+    "description": "Blizzard attack on enemy area"
+  },
+  {
+    "number": "148",
+    "name": "IceMan3",
+    "rarity": "*****",
+    "damage": "100",
+    "element": "Aqua",
+    "description": "Blizzard attack on enemy area"
+  },
+  {
+    "number": "149",
+    "name": "ColorMan",
+    "rarity": "***",
+    "damage": "90",
+    "element": "Null",
+    "description": "Towers of [Aqua] & [Fire]!"
+  },
+  {
+    "number": "150",
+    "name": "ColorMn2",
+    "rarity": "****",
+    "damage": "110",
+    "element": "Null",
+    "description": "Towers of [Aqua] & [Fire]!"
+  },
+  {
+    "number": "151",
+    "name": "ColorMn3",
+    "rarity": "*****",
+    "damage": "130",
+    "element": "Null",
+    "description": "Towers of [Aqua] & [Fire]!"
+  },
+  {
+    "number": "152",
+    "name": "ElecMan",
+    "rarity": "***",
+    "damage": "90",
+    "element": "Elec",
+    "description": "Lightning hits enemy panel!"
+  },
+  {
+    "number": "153",
+    "name": "ElecMan2",
+    "rarity": "****",
+    "damage": "120",
+    "element": "Elec",
+    "description": "Lightning hits enemy panel!"
+  },
+  {
+    "number": "154",
+    "name": "ElecMan3",
+    "rarity": "*****",
+    "damage": "150",
+    "element": "Elec",
+    "description": "Lightning hits enemy panel!"
+  },
+  {
+    "number": "155",
+    "name": "BombMan",
+    "rarity": "***",
+    "damage": "120",
+    "element": "Null",
+    "description": "Enemy area CrossBomb Depth=3"
+  },
+  {
+    "number": "156",
+    "name": "BombMan2",
+    "rarity": "****",
+    "damage": "140",
+    "element": "Null",
+    "description": "Enemy area CrossBomb Depth=3"
+  },
+  {
+    "number": "157",
+    "name": "BombMan3",
+    "rarity": "*****",
+    "damage": "160",
+    "element": "Null",
+    "description": "Enemy area CrossBomb Depth=3"
+  },
+  {
+    "number": "158",
+    "name": "MagicMan",
+    "rarity": "***",
+    "damage": "100",
+    "element": "Null",
+    "description": "Magic fire = instant delete!?"
+  },
+  {
+    "number": "159",
+    "name": "MagicMn2",
+    "rarity": "****",
+    "damage": "120",
+    "element": "Null",
+    "description": "Magic fire = instant delete!?"
+  },
+  {
+    "number": "160",
+    "name": "MagicMn3",
+    "rarity": "*****",
+    "damage": "140",
+    "element": "Null",
+    "description": "Magic fire = instant delete!?"
+  },
+  {
+    "number": "161",
+    "name": "WoodMan",
+    "rarity": "***",
+    "damage": "60",
+    "element": "Wood",
+    "description": "Skewer entire enemy area"
+  },
+  {
+    "number": "162",
+    "name": "WoodMan2",
+    "rarity": "****",
+    "damage": "80",
+    "element": "Wood",
+    "description": "Skewer entire enemy area"
+  },
+  {
+    "number": "163",
+    "name": "WoodMan3",
+    "rarity": "*****",
+    "damage": "100",
+    "element": "Wood",
+    "description": "Skewer entire enemy area"
+  },
+  {
+    "number": "164",
+    "name": "SkullMan",
+    "rarity": "***",
+    "damage": "150",
+    "element": "Null",
+    "description": "Big skull attack on one enemy"
+  },
+  {
+    "number": "165",
+    "name": "SkullMn2",
+    "rarity": "****",
+    "damage": "180",
+    "element": "Null",
+    "description": "Big skull attack on one enemy"
+  },
+  {
+    "number": "166",
+    "name": "SkullMn3",
+    "rarity": "*****",
+    "damage": "210",
+    "element": "Null",
+    "description": "Big skull attack on one enemy"
+  },
+  {
+    "number": "167",
+    "name": "SharkMan",
+    "rarity": "***",
+    "damage": "90",
+    "element": "Aqua",
+    "description": "3-row shark fin attack"
+  },
+  {
+    "number": "168",
+    "name": "SharkMn2",
+    "rarity": "****",
+    "damage": "110",
+    "element": "Aqua",
+    "description": "3-row shark fin attack"
+  },
+  {
+    "number": "169",
+    "name": "SharkMn3",
+    "rarity": "*****",
+    "damage": "130",
+    "element": "Aqua",
+    "description": "3-row shark fin attack"
+  },
+  {
+    "number": "170",
+    "name": "PharoMan",
+    "rarity": "*****",
+    "damage": "100",
+    "element": "Null",
+    "description": "3-row coffin laser!"
+  },
+  {
+    "number": "171",
+    "name": "PharoMn2",
+    "rarity": "*****",
+    "damage": "120",
+    "element": "Null",
+    "description": "3-row coffin laser!"
+  },
+  {
+    "number": "172",
+    "name": "PharoMn3",
+    "rarity": "*****",
+    "damage": "140",
+    "element": "Null",
+    "description": "3-row coffin laser!"
+  },
+  {
+    "number": "173",
+    "name": "ShadoMan",
+    "rarity": "*****",
+    "damage": "80",
+    "element": "Null",
+    "description": "Split into 3 for star attack"
+  },
+  {
+    "number": "174",
+    "name": "ShadoMn2",
+    "rarity": "*****",
+    "damage": "90",
+    "element": "Null",
+    "description": "Split into 3 for star attack"
+  },
+  {
+    "number": "175",
+    "name": "ShadoMn3",
+    "rarity": "*****",
+    "damage": "100",
+    "element": "Null",
+    "description": "Split into 3 for star attack"
+  },
+  {
+    "number": "176",
+    "name": "Bass",
+    "rarity": "****",
+    "damage": "200",
+    "element": "Null",
+    "description": "Explodes on entire area!"
+  }
+]

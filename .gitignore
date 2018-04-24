@@ -1,0 +1,17 @@
+# OS garbage
+.DS_Store
+Thumbs.db
+
+
+
+# Folders
+.sass-cache
+_site
+Capfile
+config
+
+
+
+# Files
+*.css.map
+*.lock

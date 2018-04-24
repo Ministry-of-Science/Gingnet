@@ -1,0 +1,40 @@
+<head>
+    <meta charset="utf-8"/>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+    <meta name="author" content="NetOperator Wibby"/>
+    <meta name="description" content="Lightweight fuzzy-search, for BattleChips and such."/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Anonymous+Pro:400/Clear+Sans:200,400"/>
+    <link rel="stylesheet" href="css/style.css"/>
+
+    <script src="scripts/jquery-2.1.4.min.js"></script>
+
+    <script src="scripts/fuse.js"></script>
+    <script src="scripts/gingnet.js"></script>
+
+    <script>
+      var
+        _gauges = _gauges || [];
+
+      (function () {
+
+        if (document.location.hostname != "localhost") {
+          var
+            t = document.createElement("script");
+
+          t.async = true;
+          t.id = "gauges-tracker";
+          t.setAttribute("data-site-id", "4f21fccc613f5d5a40000003");
+          t.src = "//secure.gaug.es/track.js";
+
+          var
+            s = document.getElementsByTagName("script")[0];
+
+          s.parentNode.insertBefore(t, s);
+        }
+
+      })();
+    </script>
+  </head>

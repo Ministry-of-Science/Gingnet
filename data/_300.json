@@ -1,0 +1,2402 @@
+[
+  {
+    "number": "001",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "002",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "003",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "004",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "005",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "006",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "007",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "008",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "009",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "010",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "011",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "012",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "013",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "014",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "015",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "016",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "017",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "018",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "019",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "020",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "021",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "022",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "023",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "024",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "025",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "026",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "027",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "028",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "029",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "030",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "031",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "032",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "033",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "034",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "035",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "036",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "037",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "038",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "039",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "040",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "041",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "042",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "043",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "044",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "045",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "046",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "047",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "048",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "049",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "050",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "051",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "052",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "053",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "054",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "055",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "056",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "057",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "058",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "059",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "060",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "061",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "062",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "063",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "064",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "065",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "066",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "067",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "068",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "069",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "070",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "071",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "072",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "073",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "074",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "075",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "076",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "077",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "078",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "079",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "080",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "081",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "082",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "083",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "084",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "085",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "086",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "087",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "088",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "089",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "090",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "091",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "092",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "093",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "094",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "095",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "096",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "097",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "098",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "099",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "100",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "101",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "102",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "103",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "104",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "105",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "106",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "107",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "108",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "109",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "110",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "111",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "112",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "113",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "114",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "115",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "116",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "117",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "118",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "119",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "120",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "121",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "122",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "123",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "124",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "125",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "126",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "127",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "128",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "129",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "130",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "131",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "132",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "133",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "134",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "135",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "136",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "137",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "138",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "139",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "140",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "141",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "142",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "143",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "144",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "145",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "146",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "147",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "148",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "149",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "150",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "151",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "152",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "153",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "154",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "155",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "156",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "157",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "158",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "159",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "160",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "161",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "162",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "163",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "164",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "165",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "166",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "167",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "168",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "169",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "170",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "171",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "172",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "173",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "174",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "175",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "176",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "177",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "178",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "179",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "180",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "181",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "182",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "183",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "184",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "185",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "186",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "187",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "188",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "189",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "190",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "191",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "192",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "193",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "194",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "195",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "196",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "197",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "198",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "199",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "200",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "201",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "202",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "203",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "204",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "205",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "206",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "207",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "208",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "209",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "210",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "211",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "212",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "213",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "214",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "215",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "216",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "217",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "218",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "219",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "220",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "221",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "222",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "223",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "224",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "225",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "226",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "227",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "228",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "229",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "230",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "231",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "232",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "233",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "234",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "235",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "236",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "237",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "238",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "239",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "240",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "241",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "242",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "243",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "244",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "245",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "246",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "247",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "248",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "249",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "250",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "251",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "252",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "253",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "254",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "255",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "256",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "257",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "258",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "259",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "260",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "261",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "262",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "263",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "264",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "265",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "266",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "267",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "268",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "269",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "270",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "271",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "272",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "273",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "274",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "275",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "276",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "277",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "278",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "279",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "280",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "281",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "282",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "283",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "284",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "285",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "286",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "287",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "288",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "289",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "290",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "291",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "292",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "293",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "294",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "295",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "296",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "297",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "298",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "299",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  },
+  {
+    "number": "300",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "Normal",
+    "description": ""
+  }
+]

@@ -1,0 +1,17 @@
+title: Gingnet
+email: netopwibby@pw-software.com
+description: "Lightweight fuzzy-search, for BattleChips and such."
+url: "http://hikar.io/gingnet"
+
+twitter_username: netopwibby
+github_username: NetOperatorWibby
+
+exclude:
+  - Capfile
+  - chipList
+  - config
+
+markdown: rdiscount
+
+sass:
+  style: :compressed

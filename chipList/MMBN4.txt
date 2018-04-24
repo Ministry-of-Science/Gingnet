@@ -1,0 +1,8288 @@
+======================================================================
+~ |M|M|B|N|4|: |R|S|&|B|M| - |B|A|T|T|L|E| - |C|H|I|P| - |G|U|I|D|E| ~
+======================================================================
+
+- Megaman Battle Network 4: Red Sun/Blue Moon ~ Battle Chip Guide
+- By DX Xetrov (A. Douglas)
+
+The Megaman Battle Network Series, and all other Megaman related 
+contents are copyright to Capcom.
+
+This FAQ is copyright to myself, DX Xetrov (Anthony Douglas), 2004. It
+is only allowed to be posted on IGN, GameFAQs, and sites that I allow.
+It should NOT be on any other site without my permission. Do NOT copy 
+this guide in any way. That’s plagiarism and it’s illegal. If you want 
+to use this guide or ask questions about, just check out the Contact 
+Me section for all my information.  
+
+======================================================================
+Table of Contents
+======================================================================
+
+01. [INTRO] Introduction
+02. [CINFO] Chip Info
+03. [LIST1] Chip Checklist by Number/Class
+04. [LIST2] Chip Checklist by Code
+05. [LIST3] Chip Checklist by Type
+06. [SDCOW] Standard Chips Overview
+07. [MACOW] Mega Chips Overview
+08. [GACOW] Giga Chips Overview
+09. [STCOW] Secret Chips Overview
+10. [DRCOW] Dark Chips Overview
+11. [CHLOC] Chip Locations
+12. [FAQ--] Frequently Ask Questions 
+13. [LEGAL] Legal Information, Copyright, and Special Thanks
+14. [VERSI] Version History
+15. [CONTM] Contact Me
+
+(NOTE: Because of the massive amount of pages in this guide, Ctrl + F 
+is a god in this FAQ. Therefore, the words in brackets are keywords 
+that are given to each section. Simply type in the keyword to get to 
+the section of your choice easily.)
+
+======================================================================
+======================================================================
+
+
+
+======================================================================
+======================================================================
+[01] I N T R O D U C T I O N
+
+Keyword: [INTRO]
+
+***IMPORTANT: If you don’t want to see minor spoilers, then it’s 
+important that you do NOT read on. This FAQ might contain story 
+elements, or other surprises that you might not want to read until you
+see it in the game for yourself. Remember, you have been warned =P.
+
+Wow, I never thought I would see myself making a FAQ, but damn here 
+goes one now. Because this is my first ever FAQ, don’t expect to see 
+something that can easily be compared to the work of complete MMBN 
+experts. They’ve been writing for months on end. Even with this in 
+mind, I tried my damned hardest, so I’m hoping the turnout is decent. 
+
+I created this guide with the thought that it’ll help give reference 
+to all the Battle Chips in the game. It’ll be much easier for the 
+people viewing who already don’t know about many of the chips to 
+create folders to their liking.
+
+Anyways, with that aside, here is the important thing: The format that
+will be used for the Chips Overview sections. Not very hard to 
+understand:
+
+(NOTE: The overview sections are ordered by the Number/Class System).
+
+Chip Number and Name 
+-Codes the Chip comes in.
+-Damage the chip does.
+-Number of hits the chip does.
+-Chip type and MB.
+-Description 
+-Range (A TXT Map of the battlefield is given.)
+
+It’s time for this FAQ to get started. Hope you enjoy.   
+
+Fin.
+======================================================================
+======================================================================
+
+
+
+======================================================================
+======================================================================
+[02] C H I P  I N F O 
+
+Keyword: [CINFO]
+
+Chips, as most of you SHOULD already know, are the most important 
+things needed in a battle. They range from damaging the enemy, 
+supporting yourself, and changing field conditions. When not inside 
+battle, you place your Battle Chips inside a thing called a folder. 
+Only 30 Chips can be placed in this folder, no more, no less. This 
+system some what resembles that of a Card Game, were your Folder is 
+your Deck, and Chips are the Cards you place in it. 
+
+Here are the 3 important chip systems info that you should familiarize
+yourself with.
+
+----------------------------------------------------------------------
+
+*NUMBER/CLASS: Each Chip fits into a number/class system. There are 5 
+different classes of Chips: Standard, Mega, Giga, and the newly added
+Secret and Dark Classes. A numbering system is given for each class 
+as well, with the exception of Secret and Dark Chips. Here is a quick
+overview on each class:
+
+01. STANDARD CHIPS
+The most used Chip class in any folder. Only four of a single Standard
+Chip can be placed in your folder, even if their letter codes are 
+different (I.E. You can only play 2 Cannons A and 2 Cannons B).
+
+02. MEGA CHIPS
+Only ONE copy of any Mega Chip is allowed per Folder (I.E. You can 
+only play 1 Protoman B, and 1 MetalMan M). Also, only FIVE Mega Chips 
+are allowed per Folder (unless you use a Navi Customizer Program). 
+Mega Chips have somewhat of a sub category called Navi Chips. Navi 
+Chips are basically chips that involve the use of in-game Navis you‘ve
+meet. This is important to know because Navi+20 only works with these 
+types of chips. Red Sun and Blue Moon both have their own set of 18 
+additional Navi Chips, but they are NOT exclusive to that game. 
+
+*Basically, if a Red Sun Navi Mega Chip is traded to a Blue Moon cart,
+it will show up in your library as a Secret Chip. Also if you 
+encounter a Navi on the internet that you obtained through trading 
+Navi Soul Data with the opposite cart, and you obtain their chip, it 
+will show up in your library as a Secret Chip as well.* 
+
+03. GIGA CHIPS
+Only ONE Giga Chip can be placed per Folder (unless you use a Navi 
+Customizer Program). Red Sun and Blue Moon have their own set of Five
+Giga Chips that CANNOT be traded to other games.
+
+04. SECRET CHIPS
+Most of these chips count as Standard Chips. With the exception of 
+GUNSOLEX, Z-SAVER, GRANDPRIXPOWER, and DUO, these chips can be 
+obtained by beating certain Navis in Higsby Free Tournament, and only 
+once you’ve linked up with an opposing game cartridge to transfer Navi
+Soul data. 
+
+To obtain a higher level of any Chip, the opposing cartridge that you
+linked with has to be in a harder mode of play (i.e. Hard Mode for 
+level 2, Super Hard Mode for level 3). Collecting all these chips is 
+not necessary because you don‘t need them to fully complete the game.
+
+(NOTE: that Mega Chips exclusive to one version will show up as a 
+Secret Chip in the opposing version.)
+
+05. DARK CHIPS
+These chips don’t go towards the Chip Library. They appear randomly 
+when you’re Emotion window is in the Worried or Dark Megaman stat. Be
+warned, as 1 hit point will be PERMANENTLY deducted from your maximum 
+HP when you use a Dark Chip.
+
+----------------------------------------------------------------------
+
+*CODE: Each Chip has a corresponding letter code that goes along with
+it. Chips only have up to 3 Codes, not including the * code. Some 
+chips are only found in the * code, while some chips do not have the *
+code at all. Chips come in the following codes:
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z * 
+
+Alphabet system of course. Note that Dark Chips have no code, and 
+cannot be selected with any other chips except other Dark Chips.  
+
+----------------------------------------------------------------------
+
+*TYPE: Apart from the Class, and Code system, each Chip also fits into
+one of 14 different types. Types are used as sacrifices for the new 
+Double Soul function (excluding Normal and Dark). Also, Fire, Water, 
+Wood, and Electricity carry on elemental attributes, and have 
+strengths against enemies who carry an element. Fire burns Wood, Wood 
+demolishes Electricity, Electricity zaps Water, and Water soaks Fire. 
+Here is the list of types 
+
+(NOTE: RS stands for Red Sun exclusive, while BM stands for Blue
+Moon exclusive):
+
+01. Normal
+ICON: White Dot
+These chips do not go towards any Double Soul effects. 
+
+02. Fire
+ICON: Flame 
+These chips go for sacrifice for Fire Soul (RS). These do double 
+damage to Wood enemies, and also do double damage to enemies on Grass
+Panels. If a Wood enemy is on a Grass Panel, it will do 4x damage.
+
+03. Aqua (Water)
+ICON: 3 Water Droplets 
+These chips go towards sacrifice for Aqua Soul (BM). They do double 
+damage to Fire Enemies. 
+
+04. Wood 
+ICON: Leaf 
+These chips go towards sacrifice for Wood Soul (BM). They do double 
+damage to Electricity enemies. 
+
+05. Electricity
+ICON: Lightning Bolt
+These chips are sacrificed for Thunder Soul (RS). They do double 
+damage to Water enemies, and also double damage to enemies on Ice 
+Panels. If a Water enemy is on an Ice Panel, it will 4x damage.
+
+06. Wind 
+ICON: Cloud/Gust of Wind
+These chips are sacrificed for Wind Soul (RS). Chips like Wind and Fan
+either push an enemy to the back row, or pull them to the front. Half
+the chips in this type don’t do damage, but effect the enemy in some 
+way.
+
+07. Ground 
+ICON: 3 Earthquake Lines 
+These chips are used to sacrifice for Guts Soul (RS). Usually, these 
+chips change the panel conditions on the field. They crack panels, 
+turn them into holes, and in the case of Gutsman, damage panels as 
+well. 
+
+08. Recovery 
+ICON: 2 Hearts
+These chips are used to sacrifice for Roll Soul (RS). They do no 
+damage to the enemy, but heal your HP to a certain amount. 
+
+09. Invisibility
+ICON: Purple Outlined Person
+These chips are sacrificed for Search Soul (RS). These chips are used 
+to conceal yourself from enemy attacks. 
+
+10. Variable
+ICON: +/- Icon. 
+These chips are used to sacrifice for Number Soul (BM). These chips 
+add power to your attacking chips. They always come in the * Code, 
+with the exception of Numberman.
+
+11. Break 
+ICON: Grey Ball
+These chips are used to sacrifice for Metal Soul (BM). These chips are 
+usually basic damaging chips, with no real other effects provided.  
+
+12. Sword 
+ICON: Sword
+These chips are sacrificed for Proto Soul (BM). These chips are high 
+in damage, and is one of the best types out of the 15 (sadly). 
+
+13. Obstacle
+ICON: Block
+These chips are used to sacrifice for Junk Soul (BM). Most of these 
+chips usually don’t damage, and just stay on the field with their own
+HP. Some of these chips can be even pushed with AirShot or WindSoul’s 
+charged buster to do damage to an enemy equal to the obstacle’s max 
+HP. 
+
+14. Dark Chips
+ICON: None
+These chips don’t go towards the Chip Library. They appear randomly 
+when you’re Emotion window is Worried or Dark Megaman. Be warned, as 
+1 hit point will be PERMANENTLY deducted from your maximum HP when you
+use a Dark Chip.
+
+----------------------------------------------------------------------
+
+Each system described above (Number/Class system, Code system, Type 
+system) have been compiled into 3 checklist. This makes for 
+convenience when building a folder, and also provides easy viewing for
+all chips. 
+
+Fin.
+======================================================================
+======================================================================
+
+
+
+======================================================================
+======================================================================
+[03] C H I P  C H E C K L I S T  B Y  N U M B E R / C L A S S
+
+Keyword: [LIST1]
+
+Here is a list of all the Chips in the game by number.
+
+
+~~~ STANDARD CHIPS ~~~
+001: CANNON 
+002: HICANNON 
+003: M-CANNON 
+004: AIRSHOT 
+005: VULCAN1 
+006: VULCAN2 
+007: VULCAN3 
+008: SPREADER 
+009: HEATSHOT 
+010: HEAT-V 
+011: HEATSIDE  
+012: BUBBLER 
+013: BUB-V
+014: BUBLSIDE
+015: THUNDER1
+016: THUNDER2
+017: THUNDER3
+018: WIDESHT1
+019: WIDESHT2
+020: WIDESHT3
+021: FLMLINE1
+022: FLMLINE2
+023: FLMLINE3
+024: GUNSOL1
+025: GUNSOL2
+026: GUNSOL3
+027: BLIZZARD
+028: HEATBRTH
+029: ELECSHOK
+030: WOODPWDR
+031: SANDRING
+032: TWNFNG1
+033: TWNFNG2
+034: TWNFNG3
+035: ELEMFLAR
+036: ICEELEM
+037: ELEMLEAF
+038: ELEMSAND
+039: MAGBOLT1
+040: MAGBOLT2
+041: MAGBOLT3
+042: TORNADO
+043: STATIC
+044: MINIBOMB
+045: ENERGBOM
+046: MEGENBOM
+047: BALL
+048: BLKBOMB
+049: GEYSER
+050: BUGBOMB
+051: BINDER1
+052: BINDER2
+053: BINDER3
+054: SWORD
+055: WIDESWRD
+056: LONGSWRD
+057: WIDEBLDE
+058: LONGBLDE
+059: CUSTSWRD
+060: VARSWRD
+061: SLASHER
+062: WINDRACK
+063: AIRHOC1
+064: AIRHOC2
+065: AIRHOC3
+066: COUNTER1
+067: COUNTER2
+068: COUNTER3
+069: BOOMER1
+070: BOOMER2
+071: BOOMER3
+072: SIDBMBO1
+073: SIDBMBO2
+074: SIDBMBO3
+075: LANCE
+076: WHITWEB1
+077: WHITWEB2
+078: WHITWEB3
+079: MOKORUS1
+080: MOKORUS2
+081: MOKORUS3
+082: CIRCGUN1
+083: CIRCGUN2
+084: CIRCGUN3
+085: SNAKE
+086: MAGNUM
+087: BIGHAMR1
+088: BIGHAMR2
+089: BIGHAMR3
+090: BOYBOMB1
+091: BOYBOMB2
+092: BOYBOMB3
+093: TIMEBOMB
+094: MINE
+095: ROCKCUBE
+096: WIND
+097: FAN
+098: FANFARE
+099: DISCORD
+100: TIMPANI
+101: SILENCE
+102: VDOLL
+103: GUARD1
+104: GUARD2
+105: GUARD3
+106: CRAKOUT
+107: DUBLCRAK
+108: TRIPCRAK
+109: RECOV10
+110: RECOV30
+111: RECOV50
+112: RECOV80
+113: RECOV120
+114: RECOV150
+115: RECOV200
+116: RECOV300
+117: REPAIR
+118: PANLGRAB
+119: AREAGRAB
+120: METAGEL
+121: GRABBNSH
+122: GRABRVNG
+123: PNLRETRN
+124: GEDDON1
+125: GEDDON2
+126: GEDDON3
+127: SLOGAUGE
+128: FSTGAUGE
+129: BLINDER
+130: NRTHWIND
+131: HOLYPANL
+132: HOLE
+133: INVIS
+134: POPUP
+135: BARRIER
+136: BARR100
+137: BARR200
+138: ANTIFIRE
+139: ANTIAQUA
+140: ANTIELEC
+141: ANTIWOOD
+142: ANTIDMG
+143: ANTISWRD
+144: ANTINAVI
+145: ANTIRECV
+146: COPYDMG
+147: LIFESYNC
+148: ATK+10
+149: NAVI+20
+150: COLORPNT
+
+
+~~~ MEGA CHIPS ~~~
+001: SUPRVULC
+002: NEOVARI
+003: SHOTSTAR
+004: GODHAMMR
+005: GUARDIAN
+006: JEALOUSY
+007: BUGCHAIN
+008: BUGFIX
+009: FULLCUST
+010: LIFEAURA
+011: SNCTUARY
+012: ATK+30
+013: DBLPOINT
+014: MURAMASA
+015: ANUBIS
+016: ELEMDARK
+017: BLAKWING
+018: DRKLINE
+
+019: ROLL
+020: ROLLSP
+021: ROLLDS
+022: GUTSMAN
+023: GUSTMNSP
+024: GUTSMNDS
+025: WINDMAN
+026: WINDMNSP
+027: WINDMNDS
+028: SERCHMAN
+029: SRCHMNSP
+030: SRCHMNDS
+031: FIREMAN
+032: FIREMNSP
+033: FIREMANDS
+034: THUNMAN
+035: THUNMNSP
+036: THUNMANDS
+
+019: PROTOMAN
+020: PROTOMSP
+021: PROTOMDS
+022: NUMBRMAN
+023: NUMBMNSP
+024: NUMBMNDS
+025: METALMAN
+026: METLMNSP
+027: METLMNDS
+028: JUNKMAN
+029: JUNKMNSP
+030: JUNKMNDS
+031: AQUAMAN
+032: AQUAMNSP
+033: AQUAMNDS
+034: WOODMAN
+035: WOODMNSP
+036: WOODMNDS
+ 
+037: TOPMAN
+038: TOPMNSP
+039: TOPMNDS
+040: BURNMAN
+041: BURNMNSP
+042: BURNMANDS
+043: COLDMAN
+044: COLDMNSP
+045: COLDMNDS
+046: SPARKMAN
+047: SPRKMNSP
+048: SPRKMNDS
+049: SHADEMAN
+050: SHADMNSP
+051: SHADMNDS
+052: LASERMAN
+053: LASRMNSP
+054: LASRMNDS
+055: KENDOMAN
+056: KENDMNSP
+057: KENDMNDS
+058: VIDEOMAN
+059: VIDEMNSP
+060: VIDEMNDS
+
+
+~~~ GIGA CHIPS ~~~
+(RS) 001: REDSUN
+(RS) 002: HOLYDREM
+(RS) 003: BASS
+(RS) 004: BUGCHARG
+(RS) 005: BLAKBARR
+
+(BM) 001: BLUEMOON
+(BM) 002: SIGNLRED
+(BM) 003: BASSANLY
+(BM) 004: BUGCURSE
+(BM) 005: DELTARAY
+
+
+~~~ SECRET CHIPS ~~~
+000: ROLLARO1
+000: ROLLARO2
+000: ROLLARO3
+000: GUTPNCH1
+000: GUTPNCH2
+000: GUTPNCH3
+000: PROPBOM1
+000: PROPBOM2
+000: PROPBOM3
+000: SEEKBOM1
+000: SEEKBOM2
+000: SEEKBOM3
+000: METEORS1
+000: METEORS2
+000: METEORS3
+000: LIGTNIN1
+000: LIGTNIN2
+000: LIGTNIN3
+000: HAWKCUT1
+000: HAWKCUT2
+000: HAWKCUT3
+000: NUMBRBL1
+000: NUMBRBL2
+000: NUMBRBL3
+000: METLGER1
+000: METLGER2
+000: METLGER3
+000: PANLSHT1
+000: PANLSHT2
+000: PANLSHT3
+000: AQUAUP1
+000: AQUAUP2
+000: AQUAUP3
+000: GREENWD1
+000: GREENWD2
+000: GREENWD3
+000: GUNSOLEX
+000: Z-SAVER
+000: GRANDPRIXPOWER 
+000: DUO 
+000: FINALGUN
+
+~~~ DARK CHIPS ~~~
+000: DARKBOMB
+000: DRKCANON
+000: DRKLANCE
+000: DRKRECOV
+000: DRKSPRED
+000: DRKSTAGE
+000: DRKSWORD
+000: DRKVULCN
+
+(NOTE: Dark Chips do NOT show up in your library).
+
+Fin.
+======================================================================
+======================================================================
+
+
+
+======================================================================
+======================================================================
+[04] C H I P  C H E C K L I S T  B Y  C O D E
+
+Keyword: [LIST2]
+
+Here is a list of all the Chips in the game by Code.
+
+
+~~~ A ~~~
+*STANDARD CHIPS
+001: CANNON 
+004: AIRSHOT 
+024: GUNSOL1
+032: TWNFNG1
+038: ELEMSAND
+041: MAGBOLT3
+052: BINDER2
+062: WINDRACK
+068: COUNTER3
+074: SIDBMBO3
+075: LANCE
+103: GUARD1
+109: RECOV10
+135: BARRIER
+
+*MEGA CHIPS
+015: ANUBIS
+031: AQUAMAN 
+032: AQUAMNSP
+033: AQUAMNDS 
+
+*GIGA CHIPS
+(RS) 005: BLAKBARR 
+
+*SECRET CHIPS
+000: ROLLARO1
+000: LIGTNIN2
+000: NUMBRBL2
+000: METLGER1
+000: PANLSHT1
+
+
+~~~ B ~~~
+*STANDARD CHIPS
+001: CANNON
+006: VULCAN2 
+009: HEATSHOT 
+015: THUNDER1
+025: GUNSOL2
+032: TWNFNG1
+039: MAGBOLT1
+041: MAGBOLT3
+043: STATIC
+044: MINIBOMB
+047: BALL
+049: GEYSER
+050: BUGBOMB
+059: CUSTSWRD
+067: COUNTER2
+072: SIDBMBO1
+087: BIGHAMR1
+107: DUBLCRAK
+108: TRIPCRAK
+112: RECOV80
+145: ANTIRECV
+
+*MEGA CHIPS
+008: BUGFIX
+019: PROTOMAN 
+020: PROTOMSP 
+021: PROTOMDS 
+040: BURNMAN
+041: BURNMNSP
+042: BURNMANDS
+
+*GIGA CHIPS
+(BM) 001: BLUEMOON
+
+*SECRET CHIPS
+000: GUTPNCH1
+000: SEEKBOM1
+000: AQUAUP1
+
+
+~~~ C ~~~
+*STANDARD CHIPS
+001: CANNON 
+002: HICANNON 
+009: HEATSHOT
+010: HEAT-V  
+013: BUB-V
+018: WIDESHT1
+026: GUNSOL3
+031: SANDRING
+032: TWNFNG1
+037: ELEMLEAF
+039: MAGBOLT1
+041: MAGBOLT3
+051: BINDER1
+057: WIDEBLDE
+060: VARSWRD
+077: WHITWEB2
+079: MOKORUS1
+094: MINE
+101: SILENCE
+104: GUARD2
+114: RECOV150
+143: ANTISWRD
+
+*MEGA CHIPS
+043: COLDMAN
+044: COLDMNSP
+045: COLDMNDS
+
+*GIGA CHIPS
+(RS) 004: BUGCHARG 
+(RS) 004: BUGCURSE 
+
+*SECRET CHIPS
+000: SEEKBOM2
+000: METEORS3
+000: METLGER2
+000: PANLSHT2
+
+
+~~~ D ~~~
+*STANDARD CHIPS
+002: HICANNON 
+009: HEATSHOT
+010: HEAT-V  
+011: HEATSIDE  
+013: BUB-V
+014: BUBLSIDE
+018: WIDESHT1
+022: FLMLINE2
+028: HEATBRTH
+037: ELEMLEAF
+039: MAGBOLT1
+046: MEGENBOM
+048: BLKBOMB
+063: AIRHOC1
+076: WHITWEB1
+083: CIRCGUN2
+085: SNAKE
+089: BIGHAMR3
+099: DISCORD
+122: GRABRVNG
+135: BARRIER
+139: ANTIAQUA
+145: ANTIRECV
+
+*MEGA CHIPS
+010: LIFEAURA
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: ROLLARO2
+000: GREENWD2
+000: DUO
+
+~~~ E ~~~
+*STANDARD CHIPS
+002: HICANNON 
+003: M-CANNON 
+005: VULCAN1
+010: HEAT-V 
+011: HEATSIDE  
+013: BUB-V
+014: BUBLSIDE
+018: WIDESHT1
+022: FLMLINE2
+040: MAGBOLT2
+042: TORNADO
+045: ENERGBOM
+053: BINDER3
+054: SWORD
+055: WIDESWRD
+056: LONGSWRD
+063: AIRHOC1
+077: WHITWEB2
+090: BOYBOMB1
+098: FANFARE
+111: RECOV50
+119: AREAGRAB
+121: GRABBNSH
+127: SLOGAUGE
+130: NRTHWIND
+
+*MEGA CHIPS
+016: ELEMDARK
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: GUTPNCH1
+000: PROPBOM1
+000: LIGTNIN2
+000: NUMBRBL1
+000: NUMBRBL2
+000: METLGER2
+000: GREENWD3
+
+
+~~~ F ~~~
+*STANDARD CHIPS
+003: M-CANNON 
+011: HEATSIDE  
+014: BUBLSIDE
+021: FLMLINE1
+022: FLMLINE2
+030: WOODPWDR
+034: TWNFNG3
+040: MAGBOLT2
+061: SLASHER
+063: AIRHOC1
+066: COUNTER1
+074: SIDBMBO3
+105: GUARD3
+110: RECOV30
+113: RECOV120
+
+*MEGA CHIPS
+031: FIREMAN 
+032: FIREMNSP 
+033: FIREMANDS 
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: ROLLARO1
+000: PROPBOM2
+000: HAWKCUT2
+000: PANLSHT3
+000: AQUAUP3
+
+
+~~~ G ~~~
+*STANDARD CHIPS
+003: M-CANNON 
+021: FLMLINE1
+024: GUNSOL1
+025: GUNSOL2
+026: GUNSOL3
+034: TWNFNG3
+040: MAGBOLT2
+043: STATIC
+050: BUGBOMB
+058: LONGBLDE
+075: LANCE
+080: MOKORUS2
+083: CIRCGUN2
+088: BIGHAMR2
+092: BOYBOMB3
+098: FANFARE
+104: GUARD2
+145: ANTIRECV
+
+*MEGA CHIPS
+004: GODHAMMR
+022: GUTSMAN 
+023: GUSTMNSP 
+024: GUTSMNDS 
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: GUTPNCH2
+000: PROPBOM1
+000: METEORS1
+000: METLGER2
+000: PANLSHT2
+000: PANLSHT3
+000: GREENWD1
+000: GUNSOLEX
+000: GRANDPRIXPOWER 
+
+
+~~~ H ~~~
+*STANDARD CHIPS
+006: VULCAN2 
+016: THUNDER2
+021: FLMLINE1
+027: BLIZZARD
+034: TWNFNG3
+036: ICEELEM
+048: BLKBOMB
+061: SLASHER
+067: COUNTER2
+070: BOOMER2
+082: CIRCGUN1
+086: MAGNUM
+094: MINE
+110: RECOV30
+115: RECOV200
+126: GEDDON3
+127: SLOGAUGE
+140: ANTIELEC
+
+*MEGA CHIPS
+[NONE]
+
+*GIGA CHIPS
+(RS) 002: HOLYDREM 
+
+*SECRET CHIPS
+000: PROPBOM3
+000: LIGTNIN3
+000: HAWKCUT1
+000: PANLSHT1
+
+
+~~~ I ~~~
+*STANDARD CHIPS
+017: THUNDER3
+037: ELEMLEAF
+053: BINDER3
+064: AIRHOC2
+072: SIDBMBO1
+079: MOKORUS1
+091: BOYBOMB2
+102: VDOLL
+117: REPAIR
+128: FSTGAUGE
+137: BARR200
+143: ANTISWRD
+
+*MEGA CHIPS
+[NONE]
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: SEEKBOM2
+000: HAWKCUT3
+000: METLGER3
+000: AQUAUP2
+
+
+~~~ J ~~~
+*STANDARD CHIPS
+023: FLMLINE3
+027: BLIZZARD
+029: ELECSHOK
+046: MEGENBOM
+060: VARSWRD
+064: AIRHOC2
+084: CIRCGUN3
+088: BIGHAMR2
+090: BOYBOMB1
+093: TIMEBOMB
+112: RECOV80
+113: RECOV120
+116: RECOV300
+122: GRABRVNG
+124: GEDDON1
+134: POPUP
+144: ANTINAVI
+
+*MEGA CHIPS
+006: JEALOUSY
+028: JUNKMAN 
+029: JUNKMNSP
+030: JUNKMNDS
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: PROPBOM3
+000: LIGTNIN3
+000: GREENWD1
+
+
+~~~ K ~~~
+*STANDARD CHIPS
+023: FLMLINE3
+028: HEATBRTH
+035: ELEMFLAR
+057: WIDEBLDE
+064: AIRHOC2
+078: WHITWEB3
+080: MOKORUS2
+093: TIMEBOMB
+118: PANLGRAB
+120: METAGEL
+121: GRABBNSH
+124: GEDDON1
+138: ANTIFIRE
+142: ANTIDMG
+
+*MEGA CHIPS
+055: KENDOMAN
+056: KENDMNSP
+057: KENDMNDS
+000: AQUAUP3
+000: GREENWD2
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+[NONE]
+
+
+~~~ L ~~~
+*STANDARD CHIPS
+008: SPREADER 
+015: THUNDER1
+019: WIDESHT2
+023: FLMLINE3
+029: ELECSHOK
+038: ELEMSAND
+042: TORNADO
+044: MINIBOMB
+049: GEYSER
+054: SWORD
+055: WIDESWRD
+056: LONGSWRD
+062: WINDRACK
+067: COUNTER2
+069: BOOMER1
+070: BOOMER2
+076: WHITWEB1
+093: TIMEBOMB
+103: GUARD1
+107: DUBLCRAK
+108: TRIPCRAK
+109: RECOV10
+111: RECOV50
+
+*MEGA CHIPS
+018: DRKLINE
+052: LASERMAN
+053: LASRMNSP
+054: LASRMNDS
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIOPS
+000: METEORS1
+000: LIGTNIN1
+000: NUMBRBL1
+000: NUMBRBL3
+000: METLGER3
+
+
+~~~ M ~~~
+*STANDARD CHIPS
+008: SPREADER 
+019: WIDESHT2
+024: GUNSOL1
+066: COUNTER1
+069: BOOMER1
+070: BOOMER2
+079: MOKORUS1
+084: CIRCGUN3
+085: SNAKE
+090: BOYBOMB1
+101: SILENCE
+115: RECOV200
+119: AREAGRAB
+141: ANTIWOOD
+142: ANTIDMG
+144: ANTINAVI
+
+*MEGA CHIPS
+014: MURAMASA
+025: METALMAN 
+026: METLMNSP 
+027: METLMNDS 
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: GUTPNCH3
+000: SEEKBOM3
+000: METEORS2
+000: METLGER1
+
+
+~~~ N ~~~
+*STANDARD CHIPS
+008: SPREADER 
+019: WIDESHT2
+035: ELEMFLAR
+045: ENERGBOM
+068: COUNTER3
+069: BOOMER1
+070: BOOMER2
+098: FANFARE
+109: RECOV10
+116: RECOV300
+122: GRABRVNG
+125: GEDDON2
+130: NRTHWIND
+143: ANTISWRD
+147: LIFESYNC
+
+*MEGA CHIPS
+002: NEOVARI
+022: NUMBRMAN 
+023: NUMBMNSP 
+024: NUMBMNDS 
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: GUTPNCH1
+000: HAWKCUT1
+000: HAWKCUT3
+000: PANLSHT3
+000: GREENWD3
+
+
+~~~ O ~~~
+*STANDARD CHIPS
+006: VULCAN2 
+007: VULCAN3 
+028: HEATBRTH
+033: TWNFNG2
+051: BINDER1
+053: BINDER3
+070: BOOMER2
+078: WHITWEB3
+081: MOKORUS3
+087: BIGHAMR1
+102: VDOLL
+112: RECOV80
+118: PANLGRAB
+137: BARR200
+
+*MEGA CHIPS
+005: GUARDIAN
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: SEEKBOM2
+000: HAWKCUT1
+
+
+~~~ P ~~~
+*STANDARD CHIPS
+012: BUBBLER 
+015: THUNDER1
+016: THUNDER2
+033: TWNFNG2
+035: ELEMFLAR
+059: CUSTSWRD
+100: TIMPANI
+104: GUARD2
+117: REPAIR
+121: GRABBNSH
+134: POPUP
+136: BARR100
+
+*MEGA CHIPS
+[NONE]
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: GUTPNCH2
+000: PROPBOM1
+000: NUMBRBL2
+000: METLGER1
+000: AQUAUP2
+000: GREENWD2
+000: GREENWD3
+
+
+~~~ Q ~~~
+*STANDARD CHIPS
+012: BUBBLER 
+033: TWNFNG2
+036: ICEELEM
+086: MAGNUM
+113: RECOV120
+126: GEDDON3
+128: FSTGAUGE
+136: BARR100
+147: LIFESYNC
+
+*MEGA CHIPS
+[NONE]
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: ROLLARO3
+000: GUTPNCH3
+000: PROPBOM3
+000: METEORS2
+000: LIGTNIN3
+000: METLGER3
+
+
+~~~ R ~~~
+*STANDARD CHIPS
+012: BUBBLER 
+031: SANDRING
+058: LONGBLDE
+061: SLASHER
+062: WINDRACK
+072: SIDBMBO1
+075: LANCE
+076: WHITWEB1
+084: CIRCGUN3
+085: SNAKE
+087: BIGHAMR1
+101: SILENCE
+105: GUARD3
+107: DUBLCRAK
+108: TRIPCRAK
+110: RECOV30
+117: REPAIR
+142: ANTIDMG
+
+*MEGA CHIPS
+003: SHOTSTAR
+019: ROLL 
+020: ROLLSP 
+021: ROLLDS 
+
+*GIGA CHIPS
+(RS) 001: REDSUN 
+
+*SECRET CHIPS
+000: ROLLARO2
+000: SEEKBOM1
+000: METEORS3
+
+
+~~~ S ~~~
+*STANDARD CHIPS
+004: AIRSHOT 
+005: VULCAN1 
+016: THUNDER2
+020: WIDESHT3
+025: GUNSOL2
+029: ELECSHOK
+031: SANDRING
+038: ELEMSAND
+051: BINDER1
+054: SWORD
+055: WIDESWRD
+056: LONGSWRD
+057: WIDEBLDE
+058: LONGBLDE
+059: CUSTSWRD
+071: BOOMER3
+070: BOOMER2
+091: BOYBOMB2
+111: RECOV50
+119: AREAGRAB
+
+*MEGA CHIPS
+011: SNCTUARY
+028: SERCHMAN 
+029: SRCHMNSP 
+030: SRCHMNDS 
+046: SPARKMAN
+047: SPRKMNSP
+048: SPRKMNDS
+
+*GIGA CHIP
+(BM) 002: SIGNLRED 
+
+*SECRET CHIPS
+000: SEEKBOM1
+000: METEORS1
+000: HAWKCUT2
+000: PANLSHT1
+000: AQUAUP1
+
+
+~~~ T ~~~
+*STANDARD CHIPS
+017: THUNDER3
+020: WIDESHT3
+026: GUNSOL3
+030: WOODPWDR
+042: TORNADO
+044: MINIBOMB
+045: ENERGBOM
+047: BALL
+066: COUNTER1
+081: MOKORUS3
+082: CIRCGUN1
+083: CIRCGUN2
+092: BOYBOMB3
+099: DISCORD
+100: TIMPANI
+105: GUARD3
+114: RECOV150
+120: METAGEL
+125: GEDDON2
+130: NRTHWIND
+144: ANTINAVI
+
+*MEGA CHIPS
+034: THUNMAN 
+035: THUNMNSP 
+036: THUNMANDS 
+037: TOPMAN
+038: TOPMNSP
+039: TOPMNDS
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: GUTPNCH3
+000: METEORS2
+000: LIGTNIN1
+000: NUMBRBL3
+000: PANLSHT2
+
+
+~~~ U ~~~ 
+*STANDARD CHIPS
+020: WIDESHT3
+065: AIRHOC3
+074: SIDBMBO3
+080: MOKORUS2
+126: GEDDON3
+128: FSTGAUGE
+137: BARR200
+
+*MEGA CHIPS
+[NONE]
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: SEEKBOM3
+000: AQUAUP2
+
+
+~~~ V ~~~
+*STANDARD CHIPS
+004: AIRSHOT 
+005: VULCAN1 
+027: BLIZZARD
+036: ICEELEM
+047: BALL
+049: GEYSER
+060: VARSWRD
+065: AIRHOC3
+068: COUNTER3
+078: WHITWEB3
+086: MAGNUM
+089: BIGHAMR3
+092: BOYBOMB3
+099: DISCORD
+103: GUARD1
+127: SLOGAUGE
+
+*MEGA CHIPS
+001: SUPRVULC
+058: VIDEOMAN
+059: VIDEMNSP
+060: VIDEMNDS
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: PROPBOM2
+000: LIGTNIN2
+000: HAWKCUT2
+
+
+~~~ W ~~~
+*STANDARD CHIPS
+007: VULCAN3 
+017: THUNDER3
+030: WOODPWDR
+046: MEGENBOM
+065: AIRHOC3
+088: BIGHAMR2
+091: BOYBOMB2
+115: RECOV200
+124: GEDDON1
+136: BARR100
+
+*MEGA CHIPS
+017: BLAKWING
+025: WINDMAN 
+026: WINDMNSP 
+027: WINDMNDS 
+034: WOODMAN 
+035: WOODMNSP 
+036: WOODMNDS 
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: ROLLARO1
+000: ROLLARO2
+000: SEEKBOM3
+000: LIGTNIN1
+000: NUMBRBL1
+000: AQUAUP3
+
+
+~~~ X ~~~
+*STANDARD CHIPS
+[NONE]
+
+*MEGA CHIPS
+049: SHADEMAN
+050: SHADMNSP
+051: SHADMNDS
+
+*GIGA CHIPS
+(RS) 003: BASS 
+(RS) 003: BASSANLY 
+
+*SECRET CHIPS
+[NONE]
+
+
+~~~ Y ~~~ 
+*STANDARD CHIPS
+007: VULCAN3 
+052: BINDER2
+077: WHITWEB2
+081: MOKORUS3
+102: VDOLL
+116: RECOV300
+118: PANLGRAB
+125: GEDDON2
+134: POPUP
+147: LIFESYNC
+
+*MEGA CHIPS
+[NONE]
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: ROLLARO3
+000: GUTPNCH2
+000: NUMBRBL3
+000: GREENWD1
+
+
+~~~ Z ~~~
+*STANDARD CHIPS
+043: STATIC
+048: BLKBOMB
+050: BUGBOMB
+082: CIRCGUN1
+089: BIGHAMR3
+094: MINE
+100: TIMPANI
+114: RECOV150
+120: METAGEL
+135: BARRIER
+
+*MEGA CHIPS
+[NONE]
+
+*GIGA CHIPS
+(BM) 005: DELTARAY 
+
+*SECRET CHIPS
+000: ROLLARO3
+000: PROPBOM2
+000: METEORS3
+000: HAWKCUT3
+000: AQUAUP1
+000: Z-SAVER
+
+
+~~~ * ~~~
+*STANDARD CHIPS
+001: CANNON 
+004: AIRSHOT 
+005: VULCAN1 
+008: SPREADER 
+009: HEATSHOT 
+012: BUBBLER 
+015: THUNDER1
+018: WIDESHT1
+021: FLMLINE1
+024: GUNSOL1
+027: BLIZZARD
+028: HEATBRTH
+029: ELECSHOK
+030: WOODPWDR
+031: SANDRING
+032: TWNFNG1
+038: ELEMSAND
+039: MAGBOLT1
+043: STATIC
+044: MINIBOMB
+047: BALL
+050: BUGBOMB
+051: BINDER1
+062: WINDRACK
+063: AIRHOC1
+066: COUNTER1
+067: COUNTER2
+069: BOOMER1
+072: SIDBMBO1
+075: LANCE
+076: WHITWEB1
+077: WHITWEB2
+078: WHITWEB3
+095: ROCKCUBE
+096: WIND
+097: FAN
+098: FANFARE
+099: DISCORD
+100: TIMPANI
+101: SILENCE
+103: GUARD1
+104: GUARD2
+105: GUARD3
+106: CRAKOUT
+107: DUBLCRAK
+108: TRIPCRAK
+109: RECOV10
+110: RECOV30
+111: RECOV50
+112: RECOV80
+113: RECOV120
+117: REPAIR
+118: PANLGRAB
+119: AREAGRAB
+123: PNLRETRN
+127: SLOGAUGE
+128: FSTGAUGE
+129: BLINDER
+130: NRTHWIND
+131: HOLYPANL
+132: HOLE
+133: INVIS
+134: POPUP
+135: BARRIER
+143: ANTISWRD
+145: ANTIRECV
+146: COPYDMG
+148: ATK+10
+149: NAVI+20
+150: COLORPNT
+
+*MEGA CHIPS
+007: BUGCHAIN
+008: BUGFIX
+009: FULLCUST
+012: ATK+30
+013: DBLPOINT
+018: DRKLINE
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: PROPBOM1
+000: PROPBOM2
+000: METEORS1
+000: METLGER1
+000: METLGER2
+000: METLGER3
+000: PANLSHT1
+000: PANLSHT2
+000: PANLSHT3
+
+
+~~~ NONE ~~~
+000: DARKBOMB
+000: DRKCANON
+000: DRKLANCE
+000: DRKRECOV
+000: DRKSPRED
+000: DRKSTAGE
+000: DRKSWORD
+000: DRKVULCN
+
+(NOTE: Dark Chips cannot be selected with any other chips [besides 
+themselves] in your folder).
+
+Unsure- 000: FINALGUN
+
+Fin.
+======================================================================
+======================================================================
+
+
+
+======================================================================
+======================================================================
+[05] C H I P  C H E C K L I S T  B Y  T Y P E
+
+Keyword: [LIST3]
+
+Here is a list of all the Chips in the game by Type.
+
+
+~~~ NORMAL ~~~
+*STANDARD CHIPS
+001: CANNON 
+002: HICANNON 
+003: M-CANNON 
+004: AIRSHOT 
+005: VULCAN1 
+006: VULCAN2 
+007: VULCAN3 
+008: SPREADER 
+024: GUNSOL1
+025: GUNSOL2
+026: GUNSOL3
+031: SANDRING
+032: TWNFNG1
+033: TWNFNG2
+034: TWNFNG3
+038: ELEMSAND
+043: STATIC
+044: MINIBOMB
+045: ENERGBOM
+046: MEGENBOM
+050: BUGBOMB
+051: BINDER1
+052: BINDER2
+053: BINDER3
+066: COUNTER1
+067: COUNTER2
+068: COUNTER3
+079: MOKORUS1
+080: MOKORUS2
+081: MOKORUS3
+082: CIRCGUN1
+083: CIRCGUN2
+084: CIRCGUN3
+085: SNAKE
+103: GUARD1
+104: GUARD2
+105: GUARD3
+118: PANLGRAB
+119: AREAGRAB
+121: GRABBNSH
+122: GRABRVNG
+123: PNLRETRN
+127: SLOGAUGE
+128: FSTGAUGE
+129: BLINDER
+131: HOLYPANL
+132: HOLE
+135: BARRIER
+136: BARR100
+137: BARR200
+142: ANTIDMG
+144: ANTINAVI
+145: ANTIRECV
+146: COPYDMG
+147: LIFESYNC
+
+*MEGA CHIPS
+001: SUPRVULC
+006: JEALOUSY
+007: BUGCHAIN
+008: BUGFIX
+009: FULLCUST
+010: LIFEAURA
+011: SNCTUARY
+016: ELEMDARK
+017: BLAKWING
+018: DRKLINE
+037: TOPMAN
+038: TOPMNSP
+039: TOPMNDS
+049: SHADEMAN
+050: SHADMNSP
+051: SHADMNDS
+052: LASERMAN
+053: LASRMNSP
+054: LASRMNDS
+055: KENDOMAN
+056: KENDMNSP
+057: KENDMNDS
+058: VIDEOMAN
+059: VIDEMNSP
+060: VIDEMNDS
+
+*GIGA CHIPS
+(RS) 001: REDSUN
+(RS) 002: HOLYDREM
+(RS) 003: BASS
+(RS) 004: BUGCHARG
+(RS) 005: BLAKBARR
+(BM) 001: BLUEMOON
+(BM) 003: BASSANLY
+(BM) 004: BUGCURSE
+
+*SECRET CHIPS
+000: ROLLARO1
+000: ROLLARO2
+000: ROLLARO3
+000: GUTPNCH1
+000: GUTPNCH2
+000: GUTPNCH3
+000: PROPBOM1
+000: PROPBOM2
+000: PROPBOM3
+000: SEEKBOM1
+000: SEEKBOM2
+000: SEEKBOM3
+000: NUMBRBL1
+000: NUMBRBL2
+000: NUMBRBL3
+000: GUNSOLEX
+000: GRANDPRIXPOWER 
+000: DUO 
+000: FINALGUN
+
+
+~~~ FIRE ~~~
+*STANDARD CHIPS
+009: HEATSHOT 
+010: HEAT-V 
+011: HEATSIDE  
+021: FLMLINE1
+022: FLMLINE2
+023: FLMLINE3
+028: HEATBRTH
+035: ELEMFLAR
+048: BLKBOMB
+138: ANTIFIRE
+
+*MEGA CHIPS
+003: SHOTSTAR
+031: FIREMAN
+032: FIREMNSP
+033: FIREMANDS
+040: BURNMAN
+041: BURNMNSP
+042: BURNMANDS
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: METEORS1
+000: METEORS2
+000: METEORS3
+
+
+~~~ WATER ~~~
+*STANDARD CHIPS
+012: BUBBLER 
+013: BUB-V
+014: BUBLSIDE
+018: WIDESHT1
+019: WIDESHT2
+020: WIDESHT3
+027: BLIZZARD
+036: ICEELEM
+049: GEYSER
+120: METAGEL
+139: ANTIAQUA
+
+*MEGA CHIPS
+031: AQUAMAN
+032: AQUAMNSP
+033: AQUAMNDS
+043: COLDMAN
+044: COLDMNSP
+045: COLDMNDS
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: AQUAUP1
+000: AQUAUP2
+000: AQUAUP3
+
+
+~~~ WOOD ~~~
+*STANDARD CHIPS
+030: WOODPWDR
+037: ELEMLEAF
+069: BOOMER1
+070: BOOMER2
+071: BOOMER3
+072: SIDBMBO1
+073: SIDBMBO2
+074: SIDBMBO3
+075: LANCE
+076: WHITWEB1
+077: WHITWEB2
+078: WHITWEB3
+141: ANTIWOOD
+
+*MEGA CHIPS
+034: WOODMAN
+035: WOODMNSP
+036: WOODMNDS
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: GREENWD1
+000: GREENWD2
+000: GREENWD3
+
+
+~~~ ELECTRICITY ~~~
+*STANDARD CHIPS
+015: THUNDER1
+016: THUNDER2
+017: THUNDER3
+029: ELECSHOK
+039: MAGBOLT1
+040: MAGBOLT2
+041: MAGBOLT3
+140: ANTIELEC
+
+*MEGA CHIPS
+034: THUNMAN
+035: THUNMNSP
+036: THUNMANDS
+046: SPARKMAN
+047: SPRKMNSP
+048: SPRKMNDS
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: LIGTNIN1
+000: LIGTNIN2
+000: LIGTNIN3
+
+
+~~~ WIND ~~~
+*STANDARD CHIPS
+042: TORNADO
+062: WINDRACK
+096: WIND
+097: FAN
+130: NRTHWIND
+
+*MEGA CHIPS
+025: WINDMAN
+026: WINDMNSP
+027: WINDMNDS
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+[NONE]
+
+
+~~~ GROUND ~~~
+*STANDARD CHIPS
+086: MAGNUM
+106: CRAKOUT
+107: DUBLCRAK
+108: TRIPCRAK
+124: GEDDON1
+125: GEDDON2
+126: GEDDON3
+
+*MEGA CHIPS
+022: GUTSMAN
+023: GUSTMNSP
+024: GUTSMNDS
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: PANLSHT1
+000: PANLSHT2
+000: PANLSHT3
+
+
+~~~ RECOVERY ~~~
+*STANDARD CHIPS
+109: RECOV10
+110: RECOV30
+111: RECOV50
+112: RECOV80
+113: RECOV120
+114: RECOV150
+115: RECOV200
+116: RECOV300
+117: REPAIR
+
+*MEGA CHIPS
+019: ROLL
+020: ROLLSP
+021: ROLLDS
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+[NONE]
+
+
+~~~ INVISIBILITY ~~~
+*STANDARD CHIPS
+133: INVIS
+134: POPUP
+
+*MEGA CHIP
+028: SERCHMAN
+029: SRCHMNSP
+030: SRCHMNDS
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+[NONE]
+
+
+~~~ VARIABLE ~~~
+*STANDARD CHIPS
+148: ATK+10
+149: NAVI+20
+150: COLORPNT
+
+*MEGA CHIP
+012: ATK+30
+013: DBLPOINT
+022: NUMBRMAN
+023: NUMBMNSP
+024: NUMBMNDS
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+[NONE]
+
+
+~~~ BREAK ~~~
+*STANDARD CHIPS
+047: BALL
+063: AIRHOC1
+064: AIRHOC2
+065: AIRHOC3
+087: BIGHAMR1
+088: BIGHAMR2
+089: BIGHAMR3
+
+*MEGA CHIPS
+025: METALMAN
+026: METLMNSP
+027: METLMNDS
+
+*GIGA CHIPS
+[NONE]
+
+*SECRET CHIPS
+000: METLGER1
+000: METLGER2
+000: METLGER3
+
+
+~~~ SWORD ~~~
+*STANDARD CHIPS
+054: SWORD
+055: WIDESWRD
+056: LONGSWRD
+057: WIDEBLDE
+058: LONGBLDE
+059: CUSTSWRD
+060: VARSWRD
+061: SLASHER
+143: ANTISWRD
+
+*MEGA CHIPS
+002: NEOVARI
+014: MURAMASA
+019: PROTOMAN
+020: PROTOMSP
+021: PROTOMDS
+
+*GIGA CHIPS
+(BM) 005: DELTARAY
+
+*SECRET CHIPS
+000: HAWKCUT1
+000: HAWKCUT2
+000: HAWKCUT3
+000: Z-SAVER
+
+
+~~~ OBSTACLE ~~~
+*STANDARD CHIPS
+090: BOYBOMB1
+091: BOYBOMB2
+092: BOYBOMB3
+093: TIMEBOMB
+094: MINE
+095: ROCKCUBE
+098: FANFARE
+099: DISCORD
+100: TIMPANI
+101: SILENCE
+102: VDOLL
+
+*MEGA CHIPS
+004: GODHAMMR
+005: GUARDIAN
+015: ANUBIS
+028: JUNKMAN
+029: JUNKMNSP
+030: JUNKMNDS
+
+*GIGA CHIPS
+(BM) 002: SIGNLRED
+
+*SECRET CHIPS
+[NONE]
+
+
+~~~ DARK CHIPS ~~~
+*DARK CHIPS
+000: DARKBOMB
+000: DRKCANON
+000: DRKLANCE
+000: DRKRECOV
+000: DRKSPRED
+000: DRKSTAGE
+000: DRKSWORD
+000: DRKVULCN
+
+Fin.
+======================================================================
+======================================================================
+
+
+
+======================================================================
+======================================================================
+[06] S T A N D A R D  C H I P S  O V E R V I E W
+
+Keyword: [SDCOW]
+
+Here is an overview of all the Standard Chips in the game.
+
+
+~~~ 001 CANNON ~~~
+-Codes: A, B, C, *
+-Damage: 40 
+-Number of Hits: 1
+-Normal Chip: 8MB
+-Description: Forward projectile attack.
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][>][O]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= Line of Fire
+O= Enemy That Gets Hit
+
+
+~~~ 002 HICANNON ~~~
+-Codes: C, D, E
+-Damage: 80 
+-Number of Hits: 1
+-Normal Chip: 24MB
+-Description: Forward projectile attack.
+Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][>][O]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= Line of Fire
+O= Enemy That Gets Hit
+
+
+~~~ 003 M-CANNON ~~~
+-Codes: E, F, G
+-Damage: 120 
+-Number of Hits: 1
+-Normal Chip: 40MB
+-Description: Forward projectile attack.
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][>][O]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= Line of Fire
+O= Enemy That Gets Hit
+
+
+~~~ 004 AIRSHOT ~~~
+-Codes: A, S, V, *
+-Damage: 20
+-Number of Hits: 1
+-Wind Chip: 6MB
+-Description: A forward projectile attack that pushes obstacles 
+completely across the field. It also pushes enemies back one square up
+on contact.
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][O][:]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= Line of Fire
+O= Enemy That Gets Hit
+:= Where Enemy Ends Up After Hit
+
+
+~~~ 005 VULCAN1 ~~~
+-Codes: E, S, V, *
+-Damage: 10 
+-Number of Hits: 3 
+-Normal Chip: 6MB
+-Description: Rapid Fire Projectile Attack. The shot also damages the
+panel behind the target.
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][O][X]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= Line of Fire
+O= Enemy That Gets Hit
+X= Panels That Get Hit
+
+
+~~~ 006 VULCAN2 ~~~
+-Codes: B, H, O
+-Damage: 10 
+-Number of Hits: 5 
+-Normal Chip: 18MB
+-Description: Rapid Fire Projectile Attack. The shot also damages the 
+panel behind the target.
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][O][X]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= Line of Fire
+O= Enemy That Gets Hit
+X= Panels That Get Hit
+
+
+~~~ 007 VULCAN3 ~~~
+-Codes: O, Y, W
+-Damage: 10 
+-Number of Hits: 7 
+-Normal Chip: 30MB
+-Description: Rapid Fire Projectile Attack. The shot also damages the 
+panel behind the target.
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][O][X]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= Direction Shots Travel
+O= Enemy That Gets Hit
+X= Panels That Get Hit
+
+
+~~~ 008 Spreader ~~~
+-Codes: L, M, N, *
+-Damage: 30 
+-Number of Hits: 1 
+-Normal Chip: 10MB
+-Description: Projectile Attack that damages 8 panels surrounding the 
+target.
+-Range:
+
+[ ][ ][ ][X][X][X]
+[ ][M][>][#][O][X]
+[ ][ ][ ][X][X][X]
+
+M= Megaman
+>= Line of Fire
+O= Enemy That Gets Hit
+X= Panels That Are Damaged by Hit
+#= Line of Fire AND Panel That Gets Damaged by Hit
+
+
+~~~ 009 HEATSHOT ~~~
+-Codes: B, C, D, *
+-Damage: 40 
+-Number of Hits: 1 
+-Fire Chip: 8MB
+-Description: Fire Projectile. Also damages the panel behind the 
+target upon impact. 
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][O][X]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= Direction Shot Travels 
+O= Enemy That Gets Hit
+X= Panels That Get Hit
+
+
+~~~ 010 HEAT-V ~~~
+-Codes: C, D, E
+-Damage: 70 
+-Number of Hits: 1 
+-Fire Chip: 22MB
+-Description: Fire Projectile. It damages the two panels diagonally 
+behind the enemy getting hit. 
+-Range:
+
+[ ][ ][ ][ ][ ][X]
+[ ][M][>][>][O][ ]
+[ ][ ][ ][ ][ ][X]
+
+M= Megaman
+>= Direction Shot Travels 
+O= Enemy That Gets Hit
+X= Panels That Get Hit
+
+
+~~~ 011 HEATSIDE ~~~
+-Codes: D, E, F
+-Damage: 100 
+-Number of Hits: 1 
+-Fire Chip: 44MB
+-Description: Fire Projectile. It also damages the panels above and 
+below the enemy hit.
+-Range:
+
+[ ][ ][ ][ ][X][ ]
+[ ][M][>][>][O][ ]
+[ ][ ][ ][ ][X][ ]
+
+M= Megaman
+>= Direction Shot Travels 
+O= Enemy That Gets Hit
+X= Panels That Get Hit
+
+
+~~~ 012 BUBBLER ~~~
+-Codes: P, Q, R, *
+-Damage: 50 
+-Number of Hits: 1 
+-Water Chip: 12MB
+-Description: Water Projectile. Also damages the panel behind the 
+target upon impact. 
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][O][X]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= Line of Fire 
+O= Enemy That Gets Hit
+X= Panels That Get Hit
+
+
+~~~ 013 BUB-V ~~~
+-Codes: C, D, E
+-Damage: 80 
+-Number of Hits: 1 
+-Water Chip: 22MB
+-Description: Water Projectile. Also damages the panels diagonally 
+behind the target. 
+-Range:
+
+[ ][ ][ ][ ][ ][X]
+[ ][M][>][>][O][ ]
+[ ][ ][ ][ ][ ][X]
+
+M= Megaman
+>= Line of Fire 
+O= Enemy That Gets Hit
+X= Panels That Get Hit
+
+
+~~~ 014 BUBLSIDE ~~~
+-Codes: D, E, F
+-Damage: 110 
+-Number of Hits: 1 
+-Water Chip: 44MB
+-Description: Water Projectile. Also damages the panels above and 
+below the enemy hit.
+-Range:
+
+[ ][ ][ ][ ][X][ ]
+[ ][M][>][>][O][ ]
+[ ][ ][ ][ ][X][ ]
+
+M= Megaman
+>= Line of Fire 
+O= Enemy That Gets Hit
+X= Panels That Get Hit
+
+
+~~~ 015 THUNDER1 ~~~
+-Codes: B, L, P
+-Damage: 40 
+-Number of Hits: 1 
+-Electricity Chip: 7MB
+-Description: A SLOW 1 panel electric spark that follows and homes 
+into the closet enemy. Stuns enemy for a short amount of time.
+-Range: (Follows Target).
+
+
+~~~ 016 THUNDER2 ~~~
+-Codes: H, P, S
+-Damage: 60 
+-Number of Hits: 1 
+-Electricity Chip: 18MB
+-Description: A NORMAL 1 panel electric spark that follows and homes 
+into the closet enemy. Stuns enemy for a short amount of time.
+-Range: (Follows Target).
+
+
+~~~ 017 THUNDER3 ~~~
+-Codes: I, T, W
+-Damage: 80 
+-Number of Hits: 1 
+-Electricity Chip: 33MB
+-Description: A FAST 1 panel electric spark that follows and homes 
+into the closet enemy. Stuns enemy for a short amount of time.
+-Range: (Follows Target).
+
+
+~~~ 018 WIDESHT1 ~~~
+-Codes: C, D, E, *
+-Damage: 60
+-Number of Hits: 1
+-Water Chip: 10MB
+-Description: A three row wide attack that launches forward. It 
+disappears after it hits ANY target (obstacles included). If two 
+targets are in the same row, they will both get hit.
+-Range:
+
+[ ][ ][W][>][O][D]
+[ ][M][W][>][ ][ ]
+[ ][ ][W][>][O][ ]
+
+M= Megaman
+W= Where WideSht Appears
+>= Direction Shot Travels 
+O= Object/Enemy That Gets Hit
+D= Object/Enemy Not Affected.
+
+
+~~~ 019 WIDESHT2 ~~~
+-Codes: L, M, N
+-Damage: 80
+-Number of Hits: 1
+-Water Chip: 30MB
+-Description: A three row wide attack that launches forward. It 
+disappears after it hits ANY target (obstacles included). If two 
+targets are in the same row, they will both get hit.
+-Range:
+
+[ ][ ][W][>][O][D]
+[ ][M][W][>][ ][ ]
+[ ][ ][W][>][O][ ]
+
+M= Megaman
+W= Where WideSht Appears
+>= Direction Shot Travels 
+O= Object/Enemy That Gets Hit
+D= Object/Enemy Not Affected.
+
+
+~~~ 020 WIDESHT3 ~~~
+-Codes: S, T, U
+-Damage: 100
+-Number of Hits: 1
+-Water Chip: 50MB
+-Description: A three row wide attack that launches forward. It 
+disappears after it hits ANY target (obstacles included). If two 
+targets are in the same row, they will both get hit.
+-Range:
+
+[ ][ ][W][>][O][D]
+[ ][M][W][>][ ][ ]
+[ ][ ][W][>][O][ ]
+
+M= Megaman
+W= Where WideSht Appears
+>= Direction Shot Travels 
+O= Object/Enemy That Gets Hit
+D= Object/Enemy Not Affected
+
+
+~~~ 021 FLMLINE1 ~~~
+-Codes: F, G, H, *
+-Damage: 70
+-Number of Hits: 1
+-Fire Chip: 18MB
+-Description: Creates a three panel row attack. The attack creates 
+itself 2 columns in front of Megaman.
+-Range:
+
+[ ][ ][ ][X][ ][ ]
+[ ][M][ ][X][ ][ ]
+[ ][ ][ ][X][ ][ ]
+
+M= Megaman
+X= Panels That Get Hit
+
+
+~~~ 022 FLMLINE2 ~~~
+-Codes: D, E, F
+-Damage: 120
+-Number of Hits: 1
+-Fire Chip: 26MB
+-Description: Creates a three panel row attack. The attack creates 
+itself 2 columns in front of Megaman.
+-Range:
+
+[ ][ ][ ][X][ ][ ]
+[ ][M][ ][X][ ][ ]
+[ ][ ][ ][X][ ][ ]
+
+M= Megaman
+X= Panels That Get Hit
+
+
+~~~ 023 FLMLINE3 ~~~
+-Codes: J, K, L
+-Damage: 170
+-Number of Hits: 1
+-Fire Chip: 54MB
+-Description: Creates a three panel row attack. The attack creates 
+itself 2 columns in front of Megaman.
+-Range:
+
+[ ][ ][ ][X][ ][ ]
+[ ][M][ ][X][ ][ ]
+[ ][ ][ ][X][ ][ ]
+
+M= Megaman
+X= Panels That Get Hit
+
+
+~~~ 024 GUNSOL1 ~~~
+-Codes: A, G, M, *
+-Damage: ???
+-Number of Hits: Multiple
+-Normal Chip: 15 MB
+-Description: Press and HOLD A to activate. Megaman then brings out a
+gun in the panel in front of him, and rapidly drains the HP of the 
+enemies two columns ahead of him for a short about of time. This chip
+does not destroy In-Battle GMDs, but it removes Dark Holes. Dark 
+Megaman cannot use this chip.
+-Range:
+
+[ ][ ][ ][X][ ][ ]
+[ ][M][ ][X][ ][ ]
+[ ][ ][ ][X][ ][ ]
+
+M= Megaman
+X= Panels effected
+
+
+~~~ 025 GUNSOL2 ~~~
+-Codes: B, G, S
+-Damage: ???
+-Number of Hits: Multiple
+-Normal Chip: 25 MB
+-Description: Press and HOLD A to activate. Megaman then brings out a 
+gun in the panel in front of him, and rapidly drains the HP of the 
+enemies two columns ahead of him for a short about of time. This chip
+does not destroy In-Battle GMDs, but it removes Dark Holes. Dark 
+Megaman cannot use this chip. This chip lasts a bit longer than 
+GUNSOL1.
+-Range:
+
+[ ][ ][ ][X][ ][ ]
+[ ][M][ ][X][ ][ ]
+[ ][ ][ ][X][ ][ ]
+
+M= Megaman
+X= Panels effected
+
+
+~~~ 026 GUNSOL3 ~~~
+-Codes: C, G, T
+-Damage: ???
+-Number of Hits: Multiple
+-Normal Chip: 35 MB
+-Description: Press and HOLD A to activate. Megaman then brings out a 
+gun in the panel in front of him, and rapidly drains the HP of the 
+enemies two columns ahead of him for a short about of time. This chip 
+does not destroy In-Battle GMDs, but it removes Dark Holes. Dark 
+Megaman cannot use this chip. This chip lasts a much longer then 
+GUNSOL1 and GUNSOL2.
+-Range:
+
+[ ][ ][ ][X][ ][ ]
+[ ][M][ ][X][ ][ ]
+[ ][ ][ ][X][ ][ ]
+
+M= Megaman
+X= Panels effected
+
+
+~~~ 027 BLIZZARD ~~~
+-Codes: H, J, V, *
+-Damage: 100
+-Number of Hits: 1
+-Water Chip: 26 MB
+-Description: An ice attack that covers four panels in a T shape 
+method. After use, it turns the effected panels into Ice panels.
+-Range:
+
+[ ][ ][ ][X][ ][ ]
+[ ][M][X][X][ ][ ]
+[ ][ ][ ][X][ ][ ]
+
+M= Megaman
+X= Panels effected
+
+
+~~~ 028 HEATBRTH ~~~
+-Codes: D, K, O, *
+-Damage: 90
+-Number of Hits: 1
+-Fire Chip: 30 MB
+-Description: Fire attack that covers four panels in a T shape method. 
+After use, it turns the effected panels to Magma Panels.
+-Range:
+
+[ ][ ][ ][X][ ][ ]
+[ ][M][X][X][ ][ ]
+[ ][ ][ ][X][ ][ ]
+
+M= Megaman
+X= Panels effected
+
+
+~~~ 029 ELECSHOK ~~~
+-Codes: J, L, S, *
+-Damage: 80
+-Number of Hits: 1
+-Electricity Chip: 40 MB
+-Description: Electric attack that covers four panels in a T shape 
+method. After use, it turns panel into Cracked Panels. 
+-Range:
+
+[ ][ ][ ][X][ ][ ]
+[ ][M][X][X][ ][ ]
+[ ][ ][ ][X][ ][ ]
+
+M= Megaman
+X= Panels effected
+
+
+~~~ 030 WOODPWDR ~~~
+-Codes: F, T, W, *
+-Damage: 100
+-Number of Hits: 1
+-Wood Chip: 40 MB
+-Description: A wood attack that covers four panels in a T shaped 
+method. After use, it turns panels into Grass Panels. Also this attack
+confuses enemies.
+-Range:
+
+[ ][ ][ ][X][ ][ ]
+[ ][M][X][X][ ][ ]
+[ ][ ][ ][X][ ][ ]
+
+M= Megaman
+X= Panels effected
+
+
+~~~ 031 SANDRING ~~~
+-Codes: C, R, S, *
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 8 MB
+-Description: Projectile attack that does 0 damage. When it hit’s the 
+target, it creates a Sand Whirlpool. The Whirlpool stops them from 
+moving for a certain amount of time.
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][O][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= Line of Fire
+O= Enemy hit, that now has a Sand Panel
+
+
+~~~ 032 TWNFNG1 ~~~
+-Codes: A, B, C, *
+-Damage: 70
+-Number of Hits: 1
+-Normal Chip: 13MB
+-Description: Twin fang projectile attacks. One launches in the row 
+above Megaman, and the other below him.
+-Range:
+
+[ ][)][>][>][>][>]
+[ ][M][ ][ ][ ][ ]
+[ ][)][>][>][>][>]
+
+M= Megaman
+>= Line of Fire
+)= Fang
+
+
+~~~ 033 TWNFNG2 ~~~
+-Codes: O, P, Q
+-Damage: 100
+-Number of Hits: 1
+-Normal Chip: 26MB
+-Description: Twin fang projectile attacks. One launches in the row 
+above Megaman, and the other below him.
+-Range:
+
+[ ][)][>][>][>][>]
+[ ][M][ ][ ][ ][ ]
+[ ][)][>][>][>][>]
+
+M= Megaman
+>= Line of Fire
+)= Fang
+
+
+~~~ 034 TWNFNG3 ~~~
+-Codes: F, G, H
+-Damage: 130
+-Number of Hits: 1
+-Normal Chip: 39MB
+-Description: Twin fang projectile attacks. One launches in the row 
+above Megaman, and the other below him.
+-Range:
+
+[ ][)][>][>][>][>]
+[ ][M][ ][ ][ ][ ]
+[ ][)][>][>][>][>]
+
+M= Megaman
+>= Line of Fire
+)= Fang
+
+
+~~~ 035 ELEMFLAR ~~~
+-Codes: K, N, P
+-Damage: 100
+-Number of Hits: 1
+-Fire Chip: 24MB
+-Description: Attack that goes across 3 panels.
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][O][>][>][>]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= Line of Fire
+O= Panel where ELEM appears
+
+
+~~~ 036 ICEELEM ~~~
+-Codes: H, Q, V
+-Damage: 100
+-Number of Hits: 1
+-Water Chip: 24MB
+-Description: Attack that goes across 3 panels.
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][O][>][>][>]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= Line of Fire
+O= Panel where ELEM appears
+
+
+~~~ 037 ELEMLEAF ~~~
+-Codes: C, D, I
+-Damage: 80
+-Number of Hits: 1
+-Wood Chip: 24MB
+-Description: Attack that goes across 3 panels.
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][O][>][>][>]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= Line of Fire
+O= Panel where ELEM appears
+
+
+~~~ 038 ELEMSAND ~~~
+-Codes: A, L, S, *
+-Damage: 120
+-Number of Hits: 1
+-Normal Chip: 24MB
+-Description: Attack that goes across 3 panels.
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][O][>][>][>]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= Line of Fire
+O= Panel where ELEM appears
+
+
+~~~ 039 MAGBOLT1 ~~~
+-Codes: B, C, D, *
+-Damage: 90
+-Number of Hits: 1
+-Electricity Chip: 18MB
+-Description: Attack that pulls the first enemy in the row that 
+Megaman is in to the leftmost side. If Megaman is in the panel right 
+next to it, it will damage the enemy as well. 
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][O][<][<][X]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Enemy’s original position
+O= Position after chip is used
+<= Pull Line
+
+
+~~~ 040 MAGBOLT2 ~~~
+-Codes: E, F, G
+-Damage: 110
+-Number of Hits: 1
+-Electricity Chip: 28MB
+-Description: Attack that pulls the first enemy in the row that 
+Megaman is in to the leftmost side. If Megaman is in the panel right 
+next to it, it will damage the enemy as well. 
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][O][<][<][X]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Enemy’s original position
+O= Position after chip is used
+<= Pull Line
+
+
+~~~ 041 MAGBOLT3 ~~~
+-Codes: A, B, C
+-Damage: 130
+-Number of Hits: 1
+-Electricity Chip: 38MB
+-Description: Attack that pulls the first enemy in the row that 
+Megaman is in to the leftmost side. If Megaman is in the panel right 
+next to it, it will damage the enemy as well. 
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][O][<][<][X]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Enemy’s original position
+O= Position after chip is used
+<= Pull Line
+
+
+~~~ 042 TORNADO ~~~
+-Codes: E, L, T
+-Damage: 20
+-Number of Hits: 8
+-Wind Chip: 22MB
+-Description: Generates a tornado 2 panels in front of Megaman.  
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][T][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+T= Where tornado generates
+
+
+~~~ 043 STATIC ~~~
+-Codes: B, G, Z, *
+-Damage: 20
+-Number of Hits: 8
+-Normal Chip: 30MB
+-Description: Similar to TORNADO. Only Dark Megaman can use this chip.
+More tornados can be created if Megaman or Enemies on the field have 
+bugs. 
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][T][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+T= Where tornado generates
+
+
+~~~ 044 MINIBOMB ~~~
+-Codes: B, L, T, *
+-Damage: 50
+-Number of Hits: 1
+-Normal Chip: 5MB
+-Description: Bomb thrown three panels ahead of Megaman.  
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][ ][X][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Where Bomb lands
+
+
+~~~ 045 ENERGBOM ~~~
+-Codes: E, N, T, *
+-Damage: 40
+-Number of Hits: 3
+-Normal Chip: 11MB
+-Description: Bomb thrown three panels ahead of Megaman. It explodes 3
+times. 
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][ ][X][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Where Bomb lands
+
+
+~~~ 046 MEGENBOM ~~~
+-Codes: D, J, W
+-Damage: 60
+-Number of Hits: 3
+-Normal Chip: 30MB
+-Description: Bomb thrown three panels ahead of Megaman. It explodes 3
+times. 
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][ ][X][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Where Bomb lands
+
+
+~~~ 047 BALL ~~~
+-Codes: B, T, V, *
+-Damage: 140
+-Number of Hits: 1
+-Break Chip: 30MB
+-Description: Metal Ball that is thrown 3 Panels ahead of Megaman. If 
+there is an enemy on the panel, the panel will crack. If the panel is 
+empty, then the ball completely breaks the panel. 
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][ ][X][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Where Ball lands
+
+
+~~~ 048 BLKBOMB ~~~
+-Codes: D, H, Z
+-Damage: 210
+-Number of Hits: 1
+-Fire Chip: 55MB
+-Description: Megaman throws a bomb three panels ahead that does NOT 
+explode upon contact. It instead remains on that panel, and carries 
+100 HP. It detonates upon contact with a Fire Attack, and damages all 
+8 surrounding panels.
+-Range:
+
+Chip being used:
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][ ][O][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+O= Where Bomb lands
+
+After a Fire attack hit’s the bomb.
+[ ][ ][ ][X][X][X]
+[ ][M][ ][X][ ][X]
+[ ][ ][ ][X][X][X]
+
+M= Megaman
+X= Panels damaged after detonation.
+
+
+~~~ 049 GEYSER ~~~
+-Codes: B, L, V
+-Damage: 200
+-Number of Hits: 1
+-Water Chip: 38MB
+-Description: Megaman throws a Water Bomb 3 panels ahead. It does 10 
+damage upon contact, UNLESS it falls into a hole. If it does, then the
+8 surrounding panels will get hit with Aqua attacks.
+-Range:
+
+Chip being used:
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][ ][O][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+O= Where Water Bomb lands
+
+If the Water Bomb is thrown into a hole:
+[ ][ ][ ][X][X][X]
+[ ][M][ ][X][ ][X]
+[ ][ ][ ][X][X][X]
+
+M= Megaman
+X= Panels damaged by attack
+
+
+~~~ 050 BUGBOMB ~~~
+-Codes: B, G, Z, *
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 30MB
+-Description: Megaman throws a Bugged Bomb 3 panels ahead. It does no
+damage, but causes numerous amounts of bugs for enemies in the eight 
+surrounding panels. 
+-Range:
+
+Chip being used:
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][ ][O][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+O= Where Bomb lands
+
+After Bomb is thrown:
+[ ][ ][ ][X][X][X]
+[ ][M][ ][X][ ][X]
+[ ][ ][ ][X][X][X]
+
+M= Megaman
+X= Panels effected.
+
+
+~~~ 051 BINDER1 ~~~
+-Codes: C, O, S, *
+-Damage: 60
+-Number of Hits: 1
+-Normal Chip: 10MB
+-Description: Megaman sends out a virus that hits every other Panel in 
+a horizontal line.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][X][ ][X]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Where virus hits
+
+
+~~~ 052 BINDER2 ~~~
+-Codes: A, T, Y
+-Damage: 80
+-Number of Hits: 1
+-Normal Chip: 17MB
+-Description: Megaman sends out a virus that hits every other Panel in
+a horizontal line.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][X][ ][X]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Where virus hits
+
+
+~~~ 053 BINDER3 ~~~
+-Codes: E, I, O
+-Damage: 100
+-Number of Hits: 1
+-Normal Chip: 24MB
+-Description: Megaman sends out a virus that hits every other Panel in
+a horizontal line.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][X][ ][X]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Where virus hits
+
+
+~~~ 054 SWORD ~~~
+-Codes: E, L, S
+-Damage: 80
+-Number of Hits: 1
+-Sword Chip: 9MB
+-Description: Megaman uses a sword that damages the panel in front of
+him.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Panel that gets hit
+
+
+~~~ 055 WIDESWRD ~~~
+-Codes: E, L, S
+-Damage: 80
+-Number of Hits: 1
+-Sword Chip: 16MB
+-Description: Megaman uses a sword that damages three vertical panels 
+in front of him.
+-Range: 
+
+[ ][ ][X][ ][ ][ ]
+[ ][M][X][ ][ ][ ]
+[ ][ ][X][ ][ ][ ]
+
+M= Megaman
+X= Panels that get hit
+
+
+~~~ 056 LONGSWRD ~~~
+-Codes: E, L, S
+-Damage: 80
+-Number of Hits: 1
+-Sword Chip: 25MB
+-Description: Megaman uses a sword that damages two horizontal panels 
+in front of him.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Panels that get hit
+
+
+~~~ 057 WIDEBLDE ~~~
+-Codes: C, K, S
+-Damage: 130
+-Number of Hits: 1
+-Sword Chip: 38MB
+-Description: Megaman uses a sword that damages three vertical panels 
+in front of him.
+-Range: 
+
+[ ][ ][X][ ][ ][ ]
+[ ][M][X][ ][ ][ ]
+[ ][ ][X][ ][ ][ ]
+
+M= Megaman
+X= Panels that get hit
+
+
+~~~ 058 LONGBLDE ~~~
+-Codes: G, R, S
+-Damage: 130
+-Number of Hits: 1
+-Sword Chip: 40MB
+-Description: Megaman uses a sword that damages two horizontal panels 
+in front of him.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Panels that get hit
+
+
+~~~ 059 CUSTSWRD ~~~
+-Codes: B, P, S
+-Damage: ???
+-Number of Hits: 1
+-Sword Chip: 20MB
+-Description: Megaman uses a sword that the damages the first two 
+columns in front of him. Damage is determined by how filled the Custom
+Gauge is (up to 256 points of damage). A filled Custom Gauge results 
+in 0 damage being done.
+-Range: 
+
+[ ][ ][X][X][ ][ ]
+[ ][M][X][X][ ][ ]
+[ ][ ][X][X][ ][ ]
+
+M= Megaman
+X= Panels that get hit
+
+
+~~~ 060 VARSWRD ~~~
+-Codes: C, J, V
+-Damage: 150
+-Number of Hits: 1
+-Sword Chip: 60MB
+-Description: If Megaman press and holds the A button, he can input 
+different combinations that vary the effect of this sword. If not, 
+it just becomes a regular SWORD chip that hits for 150. 
+-Range: 
+
+Commands: 
+WIDESWRD: Up, Right, Down
+LIFESWRD: Down, Left, Up, Right, Down
+LONGSWRD: Down, Right-Down, Right
+SONIC BOOM: Left, B, Right, B
+FTRSWORD: Left, Left-Down, Down, Right-Down, Right
+
+(Codes taken from Brady Games Megaman Battle Network 4 Strategy Guide)
+
+
+~~~ 061 SLASHER ~~~
+-Codes: F, H, R
+-Damage: 240
+-Number of Hits: 1
+-Sword Chip: 18MB
+-Description: Press and hold A to damage enemies that come into 
+Megaman‘s panels. 
+-Range: 
+
+[X][X][X][ ][ ][ ]
+[X][M][X][ ][ ][ ]
+[X][X][X][ ][ ][ ]
+
+M= Megaman
+X= Megaman’s Panels that get damaged (if an enemy comes into it).
+
+
+~~~ 062 WINDRACK ~~~
+-Codes: A, L, R, *
+-Damage: 100
+-Number of Hits: 1
+-Wind Chip: 23MB
+-Description: Slashes the row in front of Megaman (WIDESWRD Range). 
+It carries a Wind effect that blows enemies back to the last row. 
+-Range: 
+
+[ ][ ][X][ ][ ][O]
+[ ][M][X][ ][ ][O]
+[ ][ ][X][ ][ ][O]
+
+M= Megaman
+X= Megaman’s Panels that get damaged.
+O= Where enemy may end up.
+
+
+~~~ 063 AIRHOC1 ~~~
+-Codes: D, E, F, *
+-Damage: 50
+-Number of Hits: Multiple
+-Break Chip: 20MB
+-Description: Megaman sends out a hokey puck that moves diagonally. 
+It’s diagonal movement somewhat depends on Megaman’s position.
+-Range: Depends on Megaman’s position
+
+
+~~~ 064 AIRHOC2 ~~~
+-Codes: I, J, K
+-Damage: 60
+-Number of Hits: Multiple
+-Break Chip: 30MB
+-Description: Megaman sends out a hokey puck that moves diagonally. 
+It’s diagonal movement somewhat depends on Megaman’s position.
+-Range: Depends on Megaman’s position
+
+
+~~~ 065 AIRHOC3 ~~~
+-Codes: U, V, W
+-Damage: 70
+-Number of Hits: Multiple
+-Break Chip: 40MB
+-Description: Megaman sends out a hokey puck that moves diagonally. 
+It’s diagonal movement somewhat depends on Megaman’s position.
+-Range: Depends on Megaman’s position
+
+
+~~~ 066 COUNTER1 ~~~
+-Codes: F, M, T, *
+-Damage: 70
+-Number of Hits: 1
+-Normal Chip: 14MB
+-Description: This chip is pretty hard to explain, and I STILL haven’t
+been able to pull it off effectively. It‘s supposed to be activated 
+when you would counter an enemy. Instead of them countering having
+An effective attack, you end up damaging them and enter Full Synchro Mode.
+-Range: Hits enemy from anywhere.
+
+
+~~~ 067 COUNTER2 ~~~
+-Codes: B, H, L, *
+-Damage: 110
+-Number of Hits: 1
+-Normal Chip: 28MB
+-Description: This chip is pretty hard to explain, and I STILL haven’t
+been able to pull it off effectively. It‘s supposed to be activated 
+when you would counter an enemy. Instead of them countering having
+An effective attack, you end up damaging them and enter Full Synchro Mode.
+-Range: Hits enemy from anywhere.
+
+
+~~~ 068 COUNTER3 ~~~
+-Codes: A, N, V
+-Damage: 150
+-Number of Hits: 1
+-Normal Chip: 28MB
+-Description: This chip is pretty hard to explain, and I STILL haven’t
+been able to pull it off effectively. It‘s supposed to be activated 
+when you would counter an enemy. Instead of them countering having
+An effective attack, you end up damaging them and enter Full Synchro Mode.
+-Range: Hits enemy from anywhere.
+
+
+~~~ 069 BOOMER1 ~~~
+-Codes: B, H, L, *
+-Damage: 60
+-Number of Hits: Multiple
+-Wood Chip: 16MB
+-Description: Boomerang that attacks outer panels.
+-Range: 
+
+[X][X][X][X][X][X]
+[ ][M][ ][ ][ ][X]
+[X][X][X][X][X][X]
+
+M= Megaman
+X= Panels hit by Boomer
+
+
+~~~ 070 BOOMER2 ~~~
+-Codes: L, M, N
+-Damage: 80
+-Number of Hits: Multiple
+-Wood Chip: 28MB
+-Description: Boomerang that attacks outer panels.
+-Range: 
+
+[X][X][X][X][X][X]
+[ ][M][ ][ ][ ][X]
+[X][X][X][X][X][X]
+
+M= Megaman
+X= Panels hit by Boomer
+
+
+~~~ 071 BOOMER3 ~~~
+-Codes: S, T, U
+-Damage: 100
+-Number of Hits: Multiple
+-Wood Chip: 40MB
+-Description: Boomerang that attacks outer panels.
+-Range: 
+
+[X][X][X][X][X][X]
+[ ][M][ ][ ][ ][X]
+[X][X][X][X][X][X]
+
+M= Megaman
+X= Panels hit by Boomer
+
+
+~~~ 072 SIDBMBO1 ~~~
+-Codes: B, I, R, *
+-Damage: 80
+-Number of Hits: Multiple
+-Wood Chip: 14MB
+-Description: Megaman sends out a virus that attacks the top two panels
+of a column that contain enemies.
+-Range: 
+
+[ ][ ][ ][ ][X][X]
+[ ][M][ ][ ][X][#]
+[ ][ ][ ][ ][O][ ]
+
+M= Megaman
+X= Panels hit by Sidebmbo
+O= Virus
+#= Virus that gets hit
+
+
+~~~ 073 SIDBMBO2 ~~~
+-Codes: H, O, S
+-Damage: 110
+-Number of Hits: Multiple
+-Wood Chip: 22MB
+-Description: Megaman sends out a virus that attacks the top two panels
+of a column that contain enemies.
+-Range: 
+
+[ ][ ][ ][ ][X][X]
+[ ][M][ ][ ][X][#]
+[ ][ ][ ][ ][O][ ]
+
+M= Megaman
+X= Panels hit by Sidebmbo
+O= Virus
+#= Virus that gets hit
+
+
+~~~ 074 SIDBMBO3 ~~~
+-Codes: A, F, U
+-Damage: 140
+-Number of Hits: Multiple
+-Wood Chip: 30MB
+-Description: Megaman sends out a virus that attacks the top two panels 
+of a column that contain enemies.
+-Range: 
+
+[ ][ ][ ][ ][X][X]
+[ ][M][ ][ ][X][#]
+[ ][ ][ ][ ][O][ ]
+
+M= Megaman
+X= Panels hit by Sidebmbo
+O= Virus
+#= Virus that gets hit
+
+
+~~~ 075 LANCE ~~~
+-Codes: A, G, R, *
+-Damage: 130
+-Number of Hits: 1
+-Wood Chip: 42MB
+-Description: An attack that damages the rightmost panels on the enemy 
+field. It also pushes the enemies that are hit to the middle row.
+-Range: 
+
+[ ][ ][ ][ ][ ][X]
+[ ][M][ ][ ][O][X]
+[ ][ ][ ][ ][O][X]
+
+M= Megaman
+X= Panels hit by LANCE
+O= Viruses pushed to the middle row
+
+
+~~~ 076 WHITEWEB1 ~~~
+-Codes: D, L, R, *
+-Damage: 40
+-Number of Hits: 1
+-Wood Chip: 26MB
+-Description: Megaman places damaging spider webs in the enemy’s field
+top row.
+-Range: 
+
+M’s Area  Virus Area
+[ ][ ][ ] [X][X][X]
+[ ][M][ ] [ ][ ][ ]
+[ ][ ][ ] [ ][ ][ ]
+
+M= Megaman
+X= Webs
+
+
+~~~ 077 WHITEWEB2 ~~~
+-Codes: C, E, Y, *
+-Damage: 40
+-Number of Hits: 1
+-Wood Chip: 36MB
+-Description: Megaman places damaging spider webs in the enemy’s field
+center row.
+-Range: 
+
+M’s Area  Virus Area
+[ ][ ][ ] [ ][ ][ ]
+[ ][M][ ] [X][X][X]
+[ ][ ][ ] [ ][ ][ ]
+
+M= Megaman
+X= Webs
+
+
+~~~ 078 WHITEWEB3 ~~~
+-Codes: K, O, V, *
+-Damage: 40
+-Number of Hits: 1
+-Wood Chip: 46MB
+-Description: Megaman places damaging spider webs in the enemy’s field
+bottom row.
+-Range: 
+
+M’s Area  Virus Area
+[ ][ ][ ] [ ][ ][ ]
+[ ][M][ ] [ ][ ][ ]
+[ ][ ][ ] [X][X][X]
+
+M= Megaman
+X= Webs
+
+
+~~~ 079 MOKORUS1 ~~~
+-Codes: C, I, M
+-Damage: 60
+-Number of Hits: Up to 3
+-Normal Chip: 14MB
+-Description: Three viruses appear, one in each row. They rush across 
+the screen, from left to right (they rush across every panel unless 
+they‘re hit). Enemies hit will be pushed back one panel.
+-Range: Go across every panel
+
+
+~~~ 080 MOKORUS2 ~~~
+-Codes: G, K, U
+-Damage: 90
+-Number of Hits: Up to 3
+-Normal Chip: 28MB
+-Description: Three viruses appear, one in each row. They rush across 
+the screen, from left to right (they rush across every panel unless 
+they‘re hit). Enemies hit will be pushed back one panel.
+-Range: Go across every panel
+
+
+~~~ 081 MOKORUS3 ~~~
+-Codes: O, T, Y
+-Damage: 120
+-Number of Hits: Up to 3
+-Normal Chip: 42MB
+-Description: Three viruses appear, one in each row. They rush across 
+the screen, from left to right (they rush across every panel unless 
+they‘re hit). Enemies hit will be pushed back one panel.
+-Range: Go across every panel
+
+
+~~~ 082 CIRCGUN1 ~~~
+-Codes: H, T, Z
+-Damage: 80
+-Number of Hits: 1
+-Normal Chip: 28MB
+-Description: A target appears and circles around the enemies area. If
+you want to fire it, press the A button. The attack damages 4 panels.
+-Range: Dependant on enemy’s position
+
+
+~~~ 083 CIRCGUN2 ~~~
+-Codes: D, G, T
+-Damage: 100
+-Number of Hits: 1
+-Normal Chip: 40MB
+-Description: A target appears and circles around the enemies area. If
+you want to fire it, press the A button. The attack damages 4 panels.
+-Range: Dependant on enemy’s position
+
+
+~~~ 084 CIRCGUN3 ~~~
+-Codes: J, M, R
+-Damage: 120
+-Number of Hits: 1
+-Normal Chip: 52MB
+-Description: A target appears and circles around the enemies area. If
+you want to fire it, press the A button. The attack damages 4 panels.
+-Range: Dependant on enemy’s position
+
+
+
+~~~ 085 SNAKE ~~~
+-Codes: D, M, R
+-Damage: 20
+-Number of Hits: Up to 12
+-Normal Chip: 60MB
+-Description: If Megaman has any holes on his side of the field, then 
+a Snake leaps out of it. The more holes you have, the more snakes that
+pop out. No holes equals no damage.
+-Range: Depends on Megaman’s area and how many holes are in it.
+
+
+~~~ 086 MAGNUM ~~~
+-Codes: H, Q, V
+-Damage: 130
+-Number of Hits: 1
+-Ground Chip: 52MB
+-Description: Three targets appear and shuffle through all the enemies 
+columns. Press the A button to stop the target and fire on one column.
+Panels with no enemies on them are broken, and panels with enemies on 
+them are cracked. 
+-Range: Depends on where the target stops. I.E.
+
+If Megaman stops target on the rightmost column:
+[ ][ ][ ][ ][ ][X]
+[ ][M][ ][ ][ ][X]
+[ ][ ][ ][ ][ ][X]
+
+M= Megaman
+X= Panels that will be broken
+
+
+~~~ 087 BIGHAMR1 ~~~
+-Codes: B, O, R
+-Damage: 160
+-Number of Hits: 1
+-Break Chip: 22MB
+-Description: Megaman summons a Gaia Virus in the panel in front of 
+him. The virus then smashes a hammer, and damaging the panel in front
+of it, and cracking random panels in the enemies area.   
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][G][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+G= Gaia Virus
+X= Damaged Panel
+
+
+~~~ 087 BIGHAMR1 ~~~
+-Codes: B, O, R
+-Damage: 160
+-Number of Hits: 1
+-Break Chip: 22MB
+-Description: Megaman summons a Gaia Virus in the panel in front of 
+him. The virus then smashes a hammer, and damaging the panel in front 
+of it, and cracking random panels in the enemies area.   
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][G][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+G= Gaia Virus
+X= Damaged Panel
+
+
+~~~ 088 BIGHAMR2 ~~~
+-Codes: G, J, W
+-Damage: 220
+-Number of Hits: 1
+-Break Chip: 33MB
+-Description: Megaman summons a Gaia Virus in the panel in front of 
+him. The virus then smashes a hammer, and damaging the panel in front
+of it, and cracking random panels in the enemies area.   
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][G][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+G= Gaia Virus
+X= Damaged Panel
+
+
+~~~ 089 BIGHAMR3 ~~~
+-Codes: D, V, Z
+-Damage: 280
+-Number of Hits: 1
+-Break Chip: 44MB
+-Description: Megaman summons a Gaia Virus in the panel in front of 
+him. The virus then smashes a hammer, and damaging the panel in front 
+of it, and cracking random panels in the enemies area.   
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][G][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+G= Gaia Virus
+X= Damaged Panel
+
+
+~~~ 090 BOYBOMB1 ~~~
+-Codes: E, J, M
+-Damage: 220
+-Number of Hits: 1
+-Obstacle Chip: 30MB
+-Description: A Rock-Cube type bomb that is placed in Megaman‘s 
+rightmost column. Where the bomb is placed is dependant on Megaman’s 
+position. The Bomb damages all panels surrounding it. It can also be 
+pushed with AirShot.   
+-Range: Dependant on Megaman’s position
+
+
+~~~ 091 BOYBOMB2 ~~~
+-Codes: I, S, W
+-Damage: 250
+-Number of Hits: 1
+-Obstacle Chip: 40MB
+-Description: A Rock-Cube type bomb that is placed in Megaman‘s 
+rightmost column. Where the bomb is placed is dependant on Megaman’s 
+position. The Bomb damages all panels surrounding it. It can also be 
+pushed with AirShot.   
+-Range: Dependant on Megaman’s position
+
+
+~~~ 092 BOYBOMB3~~~
+-Codes: G, T, V
+-Damage: 280
+-Number of Hits: 1
+-Obstacle Chip: 30MB
+-Description: A Rock-Cube type bomb that is placed in Megaman‘s 
+rightmost column. Where the bomb is placed is dependant on Megaman’s 
+position. The Bomb damages all panels surrounding it. It can also be 
+pushed with AirShot.   
+-Range: Dependant on Megaman’s position
+
+
+~~~ 093 TIMEBOMB ~~~
+-Codes: J, K, L
+-Damage: 150
+-Number of Hits: 1
+-Obstacle Chip: 55MB
+-Description: Megaman creates a 50 HP Bomb that is placed randomly in 
+one of the enemies leftmost panels. Explodes after 4 seconds. Damages 
+all enemy panels.   
+-Range: 
+
+When Time Bomb is placed
+[ ][ ][ ][X][ ][ ]
+[ ][M][ ][X][ ][ ]
+[ ][ ][ ][X][ ][ ]
+
+M= Megaman 
+X= Where Bomb may be placed
+
+After Bomb explodes
+[ ][ ][ ][X][X][X]
+[ ][M][ ][X][X][X]
+[ ][ ][ ][X][X][X]
+
+M= Megaman
+X= Panels damaged by blast
+
+
+~~~ 094 MINE ~~~
+-Codes: C, H, Z
+-Damage: 300
+-Number of Hits: 1
+-Obstacle Chip: 42MB
+-Description: Megaman places a hidden Mine that is placed on the 
+enemies field. The mine explodes if the enemy steps on the panel it 
+was hidden. It does not effect flying enemies.  
+-Range: 
+
+[ ][ ][ ][X][X][X]
+[ ][M][ ][X][X][X]
+[ ][ ][ ][X][X][X]
+
+M= Megaman 
+X= Where Mine may be placed
+
+
+~~~ 095 ROCKCUBE ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 0
+-Obstacle Chip: 6MB
+-Description: Megaman creates a 200HP stone in front of him. Rockcube 
+can also be pushed into an enemy by AirShot or WindSoul’s charged 
+buster. Damage would then be equal to it’s HP.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+X= Where RockCube is placed
+
+
+~~~ 096 WIND ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 0
+-Wind Chip: 10MB
+-Description: Megaman places a Wind Box in front of him. It blows all 
+enemies and obstacles to the right of their area.  
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+X= Where Wind is placed
+
+
+~~~ 097 FAN ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 0
+-Wind Chip: 10MB
+-Description: Megaman places a FAN Box in front of him. It plus all 
+enemies and obstacles to the left of their area.  
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+X= Where Fan is placed
+
+
+~~~ 098 FANFARE ~~~
+-Codes: E, G, N, *
+-Damage: 0
+-Number of Hits: 0
+-Obstacle Chip: 20MB
+-Description: Megaman places a Tuby Virus in front of him. It has 
+100HP, and plays a song that gives Megaman temporary invincibility. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+X= Where Tuby is placed
+
+
+~~~ 099 DISCORD ~~~
+-Codes: D, T, V, *
+-Damage: 0
+-Number of Hits: 0
+-Obstacle Chip: 20MB
+-Description: Megaman places a Tuby Virus in front of him. It has 
+100HP, and plays a song that confuses enemies.  
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+X= Where Tuby is placed
+
+
+~~~ 100 TIMPANI ~~~
+-Codes: P, T, Z, *
+-Damage: 0
+-Number of Hits: 0
+-Obstacle Chip: 20MB
+-Description: Megaman places a Tuby Virus in front of him. It has 
+100HP and plays a song that stuns enemies for a while. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+X= Where Tuby is placed
+
+
+~~~ 101 SILENCE ~~~
+-Codes: C, M, R, *
+-Damage: 0
+-Number of Hits: 0
+-Obstacle Chip: 20MB
+-Description: Megaman places a Tuby Virus in front of him. It has 
+100 HP and plays a song that temporarily blinds enemies. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+X= Where Tuby is placed
+
+
+~~~ 102 VDOLL ~~~
+-Codes: I, O, Y
+-Damage: 10
+-Number of Hits: 1
+-Obstacle Chip: 58MB
+-Description: Megaman throws a Doll three columns ahead. Any damage 
+done to it is also done to the enemy that attacked it. If it hits an 
+enemy while being thrown, it only does 10 Damage. Creates a Hole under
+it.  
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][ ][X][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+X= Where Doll is thrown
+
+
+~~~ 103 GUARD1 ~~~
+-Codes: A, L, V, *
+-Damage: 50
+-Number of Hits: 1
+-Normal Chip: 4MB
+-Description: Megaman creates a temporary shield that blocks attacks. 
+After the shot is countered, it creates a 50 DMG shockwave that heads 
+straight.   
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][>][>]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+>= Line of fire, after attack is blocked
+
+
+~~~ 104 GUARD2 ~~~
+-Codes: C, G, P, *
+-Damage: 80
+-Number of Hits: 1
+-Normal Chip: 10MB
+-Description: Megaman creates a temporary shield that blocks attacks. 
+After the shot is countered, it creates a 50 DMG shockwave that heads 
+straight.   
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][>][>]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+>= Line of fire, after attack is blocked
+
+
+~~~ 105 GUARD3 ~~~
+-Codes: F, R, T, *
+-Damage: 110
+-Number of Hits: 1
+-Normal Chip: 16MB
+-Description: Megaman creates a temporary shield that blocks attacks. 
+After the shot is countered, it creates a 50 DMG shockwave that heads 
+straight.   
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][>][>]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+>= Line of fire, after attack is blocked
+
+
+~~~ 106 CRAKOUT ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 0
+-Ground Chip: 4MB
+-Description: Megaman breaks the panel right in front of him. If there
+is an enemy or obstacle in front of him, the panel will instead be 
+cracked.    
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+X= Broken/Cracked Panel 
+
+
+~~~ 107 DUBLCRAK ~~~
+-Codes: B, L, R, *
+-Damage: 0
+-Number of Hits: 0
+-Ground Chip: 7MB
+-Description: Megaman breaks the two horizontal panels right in front 
+of him. If there is an enemy or obstacle in those two panels, the 
+panels will instead be cracked.     
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+X= Broken/Cracked Panel 
+
+
+~~~ 108 TRIPCRAK ~~~
+-Codes: B, L, R, *
+-Damage: 0
+-Number of Hits: 0
+-Ground Chip: 10MB
+-Description: Megaman breaks the three vertical panels right in front
+ of him. If there is an enemy or obstacle in any of those panels, the 
+panels will be cracked instead.    
+-Range: 
+
+[ ][ ][X][ ][ ][ ]
+[ ][M][X][ ][ ][ ]
+[ ][ ][X][ ][ ][ ]
+
+M= Megaman 
+X= Broken/Cracked Panel 
+
+
+~~~ 109 RECOV10 ~~~
+-Codes: A, L, N, *
+-Damage: 0
+-Number of Hits: 0
+-Recovery Chip: 8MB
+-Description: Megaman restores 10 HP.    
+-Range: None.
+
+
+~~~ 110 RECOV30 ~~~
+-Codes: F, H, R, *
+-Damage: 0
+-Number of Hits: 0
+-Recovery Chip: 16MB
+-Description: Megaman restores 30 HP.    
+-Range: None.
+
+
+~~~ 111 RECOV50 ~~~
+-Codes: E, L, S, *
+-Damage: 0
+-Number of Hits: 0
+-Recovery Chip: 24MB
+-Description: Megaman restores 50 HP.    
+-Range: None.
+
+
+~~~ 112 RECOV80 ~~~
+-Codes: B, J, O, *
+-Damage: 0
+-Number of Hits: 0
+-Recovery Chip: 32MB
+-Description: Megaman restores 80 HP.    
+-Range: None.
+
+
+~~~ 113 RECOV120 ~~~
+-Codes: F, J, Q, *
+-Damage: 0
+-Number of Hits: 0
+-Recovery Chip: 40MB
+-Description: Megaman restores 120 HP.    
+-Range: None.
+
+
+~~~ 114 RECOV150 ~~~
+-Codes: C, T, Z
+-Damage: 0
+-Number of Hits: 0
+-Recovery Chip: 48MB
+-Description: Megaman restores 150 HP.    
+-Range: None.
+
+
+~~~ 115 RECOV200 ~~~
+-Codes: H, M, W
+-Damage: 0
+-Number of Hits: 0
+-Recovery Chip: 56MB
+-Description: Megaman restores 200 HP.    
+-Range: None.
+
+
+~~~ 116 RECOV300 ~~~
+-Codes: J, N, Y
+-Damage: 0
+-Number of Hits: 0
+-Recovery Chip: 64MB
+-Description: Megaman restores 300 HP.    
+-Range: None.
+
+
+~~~ 117 REPAIR ~~~
+-Codes: I, P, R, *
+-Damage: 0
+-Number of Hits: 0
+-Recovery Chip: 5MB
+-Description: Megaman restores the HP of an obstacle in front of him.
+ Does nothing if the obstacle isn’t in front of him.    
+-Range: None.
+
+
+~~~ 118 PANLGRAB ~~~
+-Codes: K, O, Y
+-Damage: 10
+-Number of Hits: 0
+-Normal Chip: 6MB
+-Description: Megaman takes one enemy panel from the enemies left side
+(which panel depends on Megaman‘s position). If an enemy is on the 
+panel, the panel is not taken and instead, that enemy takes 10 damage.    
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Stolen Panel
+
+
+
+~~~ 119 AREAGRAB ~~~
+-Codes: E, M, S, *
+-Damage: 10
+-Number of Hits: 0
+-Normal Chip: 8MB
+-Description: Megaman takes the enemy’s leftmost column. If there is 
+an enemy on any of the panels taken, that enemy will take 10 damage, 
+and the panel will NOT be stolen.     
+-Range: 
+
+[ ][ ][ ][X][ ][ ]
+[ ][M][ ][X][ ][ ]
+[ ][ ][ ][X][ ][ ]
+
+M= Megaman
+X= Stolen Panel
+
+
+~~~ 120 METAGEL ~~~
+-Codes: K, T, Z
+-Damage: 120
+-Number of Hits: 3
+-Water Chip: 52MB
+-Description: Megaman sends virus to take the enemy’s leftmost column.
+If there is an enemy on any of the panels taken, that enemy will take 
+120 damage, and the panel will NOT be stolen.     
+-Range: 
+
+[ ][ ][ ][X][ ][ ]
+[ ][M][ ][X][ ][ ]
+[ ][ ][ ][X][ ][ ]
+
+M= Megaman
+X= Stolen Panel
+
+
+~~~ 121 GRABBNSH ~~~
+-Codes: E, K, P
+-Damage: 30
+-Number of Hits: Up to 3
+-Normal Chip: 24MB
+-Description: Should be activated after an enemy steals your panels. 
+It does 30 damage to all enemies for every panel stolen.     
+-Range: Attacks all enemies.
+
+
+~~~ 122 GRABRVNG ~~~
+-Codes: D, J, N
+-Damage: 50
+-Number of Hits: Up to 3
+-Normal Chip: 48MB
+-Description: Should be activated after an enemy steals your panels. 
+It does 50 damage to all enemies for every panel stolen.     
+-Range: Attacks all enemies.
+
+
+~~~ 123 PNLRETURN ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 14MB
+-Description: All of Megaman’s Panels return to normal.      
+-Range: None. 
+
+
+~~~ 124 GEDDON1 ~~~
+-Codes: J, K, W
+-Damage: 0
+-Number of Hits: 0
+-Ground Chip: 34MB
+-Description: Turns every panel on the field into cracked panels 
+-Range: None.
+
+
+~~~ 125 GEDDON2 ~~~
+-Codes: N, T, Y
+-Damage: 0
+-Number of Hits: 0
+-Ground Chip: 47MB
+-Description: All panels that do not have something on them will be 
+destroyed (permanent holes). 
+-Range: None.
+
+
+~~~ 126 GEDDON3 ~~~
+-Codes: H, Q, U
+-Damage: 0
+-Number of Hits: 0
+-Ground Chip: 62MB
+-Description: Turns every panel on the field into Swamp/Poison Panels.
+-Range: None.
+
+
+~~~ 127 SLOGAUGE ~~~
+-Codes: E, H, V, *
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 22MB
+-Description: Megaman’s Custom Gauge’s refill rate is slowed down. 
+-Range: None.
+
+
+~~~ 128 FSTGAUGE ~~~
+-Codes: I, Q, U, *
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 32MB
+-Description: Megaman’s Custom Gauge’s refill rate is sped up.
+-Range: None.
+
+
+~~~ 129 BLINDER ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 9MB
+-Description: Enemies are not able to see Megaman (makes it hard for 
+direct hits). 
+-Range: None.
+
+
+~~~ 130 NRTHWIND ~~~
+-Codes: E, N, T, *
+-Damage: 0
+-Number of Hits: 0
+-Wind Chip: 33MB
+-Description: Megaman summons a Wind that removes all Barriers and 
+Auras. 
+-Range: None.
+
+
+~~~ 131 HOLYPNL ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 24MB
+-Description: Megaman creates a holy panel in front of him. When he 
+steps on this panel, he takes half the damage from an attack. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Holy Panel
+
+
+~~~ 132 HOLE ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 23MB
+-Description: Megaman creates a Hole in front of him. Holes allow you 
+to use special chips that require it on the field. This chip can only 
+be used by Dark Megaman.  
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Hole
+
+
+~~~ 133 INVIS ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 0
+-Invisibility Chip: 12MB
+-Description: Megaman turns invisible. While in this mode, he is 
+immune to all attacks from enemies (except piercing attacks).  
+-Range: None.
+
+
+~~~ 134 POPUP ~~~
+-Codes: J, P, Y, *
+-Damage: 0
+-Number of Hits: 0
+-Invisibility Chip: 21MB
+-Description: Similar to Invis, Megaman becomes immune to enemy 
+attacks. Instead of turning completely invisible, Megaman hides into 
+a hole in the ground and is able to move around while in it. Whenever 
+he uses his buster, or an attacking Chip, he becomes vulnerable to 
+enemy attacks.  
+-Range: None.
+
+
+~~~ 135 BARRIER ~~~
+-Codes: A, D, Z, *
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 7MB
+-Description: Megaman creates a barrier that blocks one enemy attack.  
+-Range: None.
+
+
+~~~ 136 BARR100 ~~~
+-Codes: P, Q, W
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 27MB
+-Description: Megaman creates a barrier that blocks enemy attacks that
+do less then 100 points of damage.   
+-Range: None.
+
+
+~~~ 137 BARR200 ~~~
+-Codes: I, O, U
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 47MB
+-Description: Megaman creates a barrier that blocks enemy attacks that
+do less then 200 points of damage.   
+-Range: None.
+
+
+~~~ 138 ANTIFIRE ~~~
+-Codes: K
+-Damage: 200
+-Number of Hits: 1
+-Fire Chip: 58MB
+-Description: When used, ???? Appears on the right side of the screen.
+This chip is basically used to set up a trap, and the first enemy to
+use a FIRE chip will take 200 points of damage.  
+-Range: None.
+
+
+~~~ 139 ANTIAQUA ~~~
+-Codes: D
+-Damage: 200
+-Number of Hits: 1
+-Water Chip: 54MB
+-Description: When used, ???? Appears on the right side of the screen.
+This chip is basically used to set up a trap, and the first enemy to 
+use a AQUA/WATER chip will take 200 points of damage.  
+-Range: None.
+
+
+~~~ 140 ANTIELEC ~~~
+-Codes: H
+-Damage: 200
+-Number of Hits: 1
+-Electricity Chip: 59MB
+-Description: When used, ???? Appears on the right side of the screen.
+This chip is basically used to set up a trap, and the first enemy to 
+use a ELEC chip will take 200 points of damage.  
+-Range: None.
+
+
+~~~ 141 ANTIWOOD ~~~
+-Codes: M
+-Damage: 200
+-Number of Hits: 1
+-Wood Chip: 55MB
+-Description: When used, ???? Appears on the right side of the screen.
+This chip is basically used to set up a trap, and the first enemy to 
+use a WOOD chip will take 200 points of damage.  
+-Range: None.
+
+
+~~~ 142 ANTIDMG ~~~
+-Codes: K, M, R
+-Damage: 120
+-Number of Hits: 3
+-Normal Chip: 31MB
+-Description: When used, ???? Appears on the right side of the screen.
+This chip is basically used to set up a trap, and when an enemy 
+attacks Megaman, a doll appears and Megaman throws a shuriken at the 
+enemy. 
+-Range: None.
+
+
+~~~ 143 ANTISWRD ~~~
+-Codes: C, I, N, *
+-Damage: 100
+-Number of Hits: 1
+-Sword Chip: 43MB
+-Description: When used, ???? Appears on the right side of the screen.
+This chip is basically used to set up a trap, and the first enemy to
+use a SWORD chip will take 100 points of damage.  
+-Range: None.
+
+
+~~~ 144 ANTINAVI ~~~
+-Codes: J, M, T
+-Damage: ??? 
+-Number of Hits: 1
+-Normal Chip: 44MB
+-Description: For LINKED BATTLES ONLY. When used, ???? Appears on the 
+right side of the screen. This chip is basically used to set up a 
+trap, and when your enemy uses a Navi Chip, that chip attacks your 
+opponent automatically instead of you. Damage depends on the amount of
+damage the Navi chip does.  
+-Range: Dependant on the Navi.
+
+
+~~~ 145 ANTIRECV ~~~
+-Codes: B, D, G, *
+-Damage: ??? 
+-Number of Hits: 1
+-Normal Chip: 37MB
+-Description: When used, ???? Appears on the right side of the screen.
+This chip is basically used to set up a trap, and when your enemy 
+tries to Recover, the will take double the damage instead of restoring
+HP.  
+-Range: None.
+
+
+~~~ 146 COPYDMG ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 1
+-Normal Chip: 12MB
+-Description: When you press A, it outlines an enemy in CopyDmg’s line
+of fire with a circle. While the circle is activate (only lasts for a 
+short amount of time), the next attack you do to another enemy, its 
+damage is also done to the enemy that had the circle around it.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][>][O]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= CopyDmg’s Line of Fire
+O= Enemy with Circle Highlight
+
+
+~~~ 147 LIFESYNC ~~~
+-Codes: N, Q, Y
+-Damage: ???
+-Number of Hits: 1
+-Normal Chip: 12MB
+-Description: When you press A, it outlines an enemy in LifeSync’s 
+line of fire with a circle. Once done, all enemies on the fields HP 
+are dropped to the HP of the targets.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][>][O]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= LifeSync’s Line of Fire
+O= Enemy with Circle Highlight
+
+
+~~~ 148 ATK+10 ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 0
+-Variable (+/-) Chip: 6MB
+-Description: Adds +10 damage points to the OFFENSIVE Chip selected 
+before it. 
+-Range: None.
+
+
+
+~~~ 149 NAVI+20 ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 0
+-Variable (+/-) Chip: 36MB
+-Description: Adds +20 damage points to the Navi Chip selected before 
+it. 
+-Range: None.
+
+
+~~~ 150 COLORPNT ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 1
+-Variable (+/-) Chip: 25MB
+-Description: Basically a reverse AreaSteal. You sacrifice your 
+rightmost column, and for every sacrificed panel (up to 3) 10 damage 
+is added to your next selected OFFENSIVE chip. 
+-Range: None.
+
+Those are the most used chips in the game. Get familiar with them 
+because more then half your folder will consist of them.
+
+Fin.
+======================================================================
+======================================================================
+
+
+
+======================================================================
+======================================================================
+[07] M E G A  C H I P S  O V E R V I E W
+
+Keyword: [MACOW]
+
+Here is an overview of all the Mega Chips in the game.
+
+
+~~~ 001 SUPRVULC ~~~
+-Codes: V
+-Damage: 10 
+-Number of Hits: 12 
+-Normal Chip: 75MB
+-Description: Rapid Fire Projectile Attack. The shot also damages the
+panel behind the target.
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][O][X]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= Line of Fire
+O= Enemy That Gets Hit
+X= Panels That Get Hit
+
+
+~~~ 002 NEOVARI ~~~
+-Codes: N
+-Damage: 240
+-Number of Hits: 1
+-Sword Chip: 74MB
+-Description: If Megaman press and holds the A button, he can input 
+different combinations that vary the effect of this sword. If not, 
+it just becomes a regular SWORD chip that hits for 240. 
+-Range: 
+
+Commands: 
+DOUBLE LIFESWORD: Up, B, Up, B
+CROSS SWORD: Down, Right, Up
+SUPER SONIC: Left, Right, Left, B
+
+(Codes taken from Brady Games Megaman Battle Network 4 Strategy Guide)
+
+
+~~~ 003 SHOTSTAR ~~~
+-Codes: R
+-Damage: 40 
+-Number of Hits: 30 
+-Fire Chip: 73MB
+-Description: 30 raining Meteors come into enemy area. The panels attack 
+in a set order as follows:
+-Range: 
+
+[ ][ ][ ][7][4][1]
+[ ][M][ ][8][5][2]
+[ ][ ][ ][9][6][3]
+
+M= Megaman
+
+
+~~~ 004 GODHAMMR ~~~
+-Codes: G
+-Damage: 250
+-Number of Hits: 1
+-Break Chip: 68MB
+-Description: Megaman summons a Gaia Virus in the panel in front of 
+him. The virus then smashes a hammer, and damages ALL panels when it 
+drops its hammer   
+-Range: 
+
+[X][X][X][X][X][X]
+[X][M][G][X][X][X]
+[X][X][X][X][X][X]
+
+M= Megaman
+G= Gaia Virus
+X= Damaged Panel
+
+
+~~~ 005 GUARDIAN ~~~
+-Codes: O
+-Damage: 200
+-Number of Hits: 1
+-Obstacle Chip: 64MB
+-Description: Megaman summons a statue in front of him. When ANYBODY 
+on the field hits it, it counterattacks and does 200 damage to the 
+person who attacked it, even Megaman.   
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][G][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+G= Guardian
+
+
+~~~ 006 JEALOUSY ~~~
+-Codes: J
+-Damage: 80
+-Number of Hits: Multiple
+-Normal Chip: 35MB
+-Description: When Megaman uses this chip, all enemies that have 
+Battle Chips loaded will get damaged. The damaged is multiplied for 
+each Battle Chip the enemies have.    
+-Range: None.
+
+
+~~~ 007 BUGCHAIN ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 59MB
+-Description: Any bugs that Megaman currently has is transferred to 
+his enemies. 
+-Range: None.
+
+
+~~~ 008 BUGFIX ~~~
+-Codes: B, *
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 62MB
+-Description: Fixes all bugs Megaman has. Cannot be used by Dark 
+Megaman.    
+-Range: None.
+
+
+~~~ 009 FULLCUST ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 45MB
+-Description: Completely refills the Custom Gauge.    
+-Range: None.
+
+
+~~~ 010 LIFEAURA ~~~
+-Codes: D
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 70MB
+-Description: Megaman creates an aura that blocks all attacks that do 
+less then 200 points of damage.     
+-Range: None.
+
+
+~~~ 011 SNCTUARY ~~~
+-Codes: S
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 62MB
+-Description: Turns all panels on Megaman’s side of the field into 
+Holy Panels. While on a Holy Panel, Megaman takes ½ the damage then he
+normally would.     
+-Range: None.
+
+
+~~~ 012 ATK+30 ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 0
+-Variable Chip: 66MB
+-Description: Adds +30 damage points to the OFFENSIVE Chip selected 
+before it. 
+-Range: None.
+
+
+~~~ 013 DBLPNT ~~~
+-Codes: *
+-Damage: 0
+-Number of Hits: 1
+-Variable (+/-) Chip: 25MB
+-Description: Basically a reverse AreaSteal. You sacrifice your 
+rightmost column, and for every sacrificed panel (up to 3) 20 damage 
+is added to your next selected OFFENSIVE chip. 
+-Range: None.
+
+
+~~~ 014 MURAMASA ~~~
+-Codes: M
+-Damage: ???
+-Number of Hits: 1
+-Sword Chip: 81MB
+-Description: Damage is equal to the amount of HP you’ve lost from 
+your MAX HP (up to 999). You need either Dark Megaman or a Hole on the
+field to use this chip. Attacks the panel in front of you. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Panel hit
+
+
+~~~ 015 ANUBIS ~~~
+-Codes: A
+-Damage: 10
+-Number of Hits: Infinite until Jar is destroyed
+-Obstacle Chip: 86MB
+-Description: Megaman summons a 100HP Anubis statue in front of him.
+Poison Clouds are dawned onto the enemy area, and each enemy is 
+drained 10 HP per second. Requires Dark Megaman or a Hole to use. 
+-Range: 
+
+[ ][ ][ ][X][X][X]
+[ ][M][A][X][X][X]
+[ ][ ][ ][X][X][X]
+
+M= Megaman
+A= Statue
+X= Enemy Areas hit with poison clouds
+
+
+~~~ 016 ELEMDARK ~~~
+-Codes: E
+-Damage: 220
+-Number of Hits: 1
+-Normal Chip: 38MB
+-Description: After use, a line of Poison Panels is created. Requires 
+a Hole or dark Megaman to use. 
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][X][X][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Panel hit
+
+
+~~~ 017 BLAKWING ~~~
+-Codes: W
+-Damage: 20
+-Number of Hits: Multiple
+-Normal Chip: 58MB
+-Description: Multiple bats fly down each column in the enemies area.
+Requires Dark Megaman or a hole on the field to use.
+-Range: 
+
+[ ][ ][ ][\/][\/][\/]
+[ ][M][ ][\/][\/][\/]
+[ ][ ][ ][\/][\/][\/]
+
+M= Megaman
+\/= Line of Fire
+
+
+~~~ 018 DRKLINE ~~~
+-Codes: L, *
+-Damage: 0
+-Number of Hits: 0
+-Normal Chip: 59MB
+-Description: Megaman creates a line of Holes in the row he is 
+currently in. Only Dark Megaman can use this chip.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[X][M][X][X][X][X]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Panels effected
+
+
+~~~ 019 ROLL ~~~
+-Codes: R
+-Damage: 20
+-Number of Hits: 3
+-Recovery Chip: 28MB
+-Description: Action pauses, and Megaman summons Roll. She attacks the 
+closet enemy, then restores some of Megaman’s Health.
+-Range: None.
+
+
+~~~ 020 ROLLSP ~~~
+-Codes: R
+-Damage: 30+
+-Number of Hits: 3
+-Recovery Chip: 60MB
+-Description: Action pauses, and Megaman summons Roll. She attacks the
+closet enemy, then restores some of Megaman’s Health. This chip does 
+even more damage depending on how fast you delete the SP version of 
+the Navi.
+-Range: None.
+
+
+~~~ 021 ROLLDS ~~~
+-Codes: R
+-Damage: 30+
+-Number of Hits: 3
+-Recovery Chip: 60MB
+-Description: Action pauses, and Megaman summons Roll. She attacks the
+closet enemy, then restores some of Megaman’s Health. This chip does 
+even more damage depending on how many Holes you have on the field. 
+-Range: None.
+
+
+~~~ 022 GUTSMAN ~~~
+-Codes: G
+-Damage: 80
+-Number of Hits: 1
+-Ground Chip: 32MB
+-Description: Action pauses, and Megaman summons Gutsman. Gutsman hits
+the panel in front of him, cracks random panels, and makes stones fall
+from the sky into random panels. 
+-Range: Random.
+
+
+~~~ 023 GUTSMNSP ~~~
+-Codes: G
+-Damage: 100+
+-Number of Hits: 1
+-Ground Chip: 68MB
+-Description: Action pauses, and Megaman summons Gutsman. Gutsman hits
+the panel in front of him, cracks random panels, and makes stones fall
+from the sky into random panels. This chip does even more damage 
+depending on how fast you delete the SP version of the Navi.
+-Range: Random.
+
+
+~~~ 024 GUTSMNDS (RS)~~~
+-Codes: G
+-Damage: 100+
+-Number of Hits: 1
+-Ground Chip: 68MB
+-Description: Action pauses, and Megaman summons Gutsman. Gutsman hits
+the panel in front of him, cracks random panels, and makes stones fall
+from the sky into random panels. This chip does even more damage 
+depending on how many Holes you have on the field. 
+-Range: Random.
+
+
+~~~ 025 WINDMAN ~~~
+-Codes: W
+-Damage: 40
+-Number of Hits: Multiple
+-Wind Chip: 48MB
+-Description: Action pauses, and Megaman summons Windman. Windman uses
+a tornado that circles the enemy’s outer panel, similar to Boomer. 
+-Range: 
+
+[X][X][X][X][X][X]
+[ ][W][ ][ ][ ][X]
+[X][X][X][X][X][X]
+
+W= Windman
+X= Panels hit by Windman
+
+
+~~~ 026 WINDMNSP ~~~
+-Codes: W
+-Damage: 50+
+-Number of Hits: Multiple
+-Wind Chip: 64MB
+-Description: Action pauses, and Megaman summons Windman. Windman uses
+a tornado that circles the enemy’s outer panel, similar to Boomer. 
+This chip does even more damage depending on how fast you delete the 
+SP version of the Navi.
+-Range: 
+
+[X][X][X][X][X][X]
+[ ][W][ ][ ][ ][X]
+[X][X][X][X][X][X]
+
+W= Windman
+X= Panels hit by Windman
+
+
+~~~ 027 WINDMNDS ~~~
+-Codes: W
+-Damage: 50+
+-Number of Hits: Multiple
+-Wind Chip: 64MB
+-Description: Action pauses, and Megaman summons Windman. Windman uses
+a tornado that circles the enemy’s outer panel, similar to Boomer. 
+This chip does even more damage depending on how many Holes you have 
+on the field. 
+-Range: 
+
+[X][X][X][X][X][X]
+[ ][W][ ][ ][ ][X]
+[X][X][X][X][X][X]
+
+W= Windman
+X= Panels hit by Windman
+
+
+~~~ 028 SERCHMAN ~~~
+-Codes: S
+-Damage: 20
+-Number of Hits: 5
+-Invisibility Chip: 45MB
+-Description: A target is sent out and it scopes all panels in the 
+enemy’s area. Press the A button again to stop the target and fire. If
+you press A and B, it will destroy any chips the enemy has equipped 
+currently. 
+-Range: Scopes entire enemy area
+
+
+~~~ 029 SRCHMNSP ~~~
+-Codes: S
+-Damage: 25+
+-Number of Hits: 5
+-Invisibility Chip: 45MB
+-Description: A target is sent out and it scopes all panels in the 
+enemy’s area. Press the A button again to stop the target and fire. If
+you press A and B, it will destroy any chips the enemy has equipped 
+currently. This chip does even more damage depending on how fast you 
+delete the SP version of the Navi.
+-Range: Scopes entire enemy area
+
+
+~~~ 030 SRCHMNDS ~~~
+-Codes: S
+-Damage: 25+
+-Number of Hits: 5
+-Invisibility Chip: 45MB
+-Description: A target is sent out and it scopes all panels in the 
+enemy’s area. Press the A button again to stop the target and fire. If
+you press A and B, it will destroy any chips the enemy has equipped 
+currently. This chip does even more damage depending on how many Holes
+you have on the field. 
+-Range: Scopes entire enemy area
+
+
+~~~ 031 FIREMAN ~~~
+-Codes: F
+-Damage: 100
+-Number of Hits: 1
+-Fire Chip: 36MB
+-Description: Action pauses, and Megaman summons Fireman. Fireman uses
+the Fire Arm attack, which hit’s the 3 horizontal panels in front of 
+him, each receiving 100 points of damage. Also, if you press down, and
+right while he is using the attack, the panels hit will turn into 
+Magma/Lava Panels. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][F][X][X][X][ ]
+[ ][ ][ ][ ][ ][ ]
+
+F= Fireman
+X= Panels hit by Fireman
+
+
+~~~ 032 FIREMNSP ~~~
+-Codes: F
+-Damage: 150+
+-Number of Hits: 1
+-Fire Chip: 72MB
+-Description: Action pauses, and Megaman summons Fireman. Fireman uses
+the Fire Arm attack, which hit’s the 3 horizontal panels in front of 
+him, each receiving 100 points of damage. Also, if you press down, and
+right while he is using the attack, the panels hit will turn into 
+Magma/Lava Panels. This chip does even more damage depending on how
+fast you delete the SP version of the Navi.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][F][X][X][X][ ]
+[ ][ ][ ][ ][ ][ ]
+
+F= Fireman
+X= Panels hit by Fireman
+
+
+~~~ 033 FIREMNDS ~~~
+-Codes: F
+-Damage: 150+
+-Number of Hits: 1
+-Fire Chip: 72MB
+-Description: Action pauses, and Megaman summons Fireman. Fireman uses
+the Fire Arm attack, which hit’s the 3 horizontal panels in front of 
+him, each receiving 100 points of damage. Also, if you press down, and
+right while he is using the attack, the panels hit will turn into 
+Magma/Lava Panels. This chip does even more damage depending on how 
+many Holes you have on the field. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][F][X][X][X][ ]
+[ ][ ][ ][ ][ ][ ]
+
+F= Fireman
+X= Panels hit by Fireman
+
+
+~~~ 034 THUNMAN ~~~
+-Codes: T
+-Damage: 90
+-Number of Hits: 1
+-Electricity Chip: 48MB
+-Description: Action pauses, and Megaman summons Thunderman. 
+Thunderman causes lightning to strike the column three panels ahead. 
+If an enemy is on any of those panels, the space the enemy occupies 
+becomes cracked. If no one is on the panel, then the panel will become
+broken. 
+-Range: 
+
+[ ][ ][ ][ ][X][ ]
+[ ][T][ ][ ][X][ ]
+[ ][ ][ ][ ][X][ ]
+
+T= Thunderman
+X= Panels hit by Thunderman
+
+
+~~~ 035 THUNMNSP ~~~
+-Codes: T
+-Damage: 120+
+-Number of Hits: 1
+-Electricity Chip: 68MB
+-Description: Action pauses, and Megaman summons Thunderman. 
+Thunderman causes lightning to strike the column three panels ahead. 
+If an enemy is on any of those panels, the space the enemy occupies 
+becomes cracked. If no one is on the panel, then the panel will become
+broken. This chip does even more damage depending on how fast you 
+delete the SP version of the Navi.
+-Range: 
+
+[ ][ ][ ][ ][X][ ]
+[ ][T][ ][ ][X][ ]
+[ ][ ][ ][ ][X][ ]
+
+T= Thunderman
+X= Panels hit by Thunderman
+
+
+~~~ 035 THUNMNDS ~~~
+-Codes: T
+-Damage: 120+
+-Number of Hits: 1
+-Electricity Chip: 68MB
+-Description: Action pauses, and Megaman summons Thunderman. 
+Thunderman causes lightning to strike the column three panels ahead. 
+If an enemy is on any of those panels, the space the enemy occupies 
+becomes cracked. If no one is on the panel, then the panel will become
+broken. This chip does even more damage depending on how many Holes 
+you have on the field. 
+-Range: 
+
+[ ][ ][ ][ ][X][ ]
+[ ][T][ ][ ][X][ ]
+[ ][ ][ ][ ][X][ ]
+
+T= Thunderman
+X= Panels hit by Thunderman
+
+
+~~~ 019 PROTOMAN ~~~
+-Codes: B
+-Damage: 100
+-Number of Hits: Up to 3
+-Sword Chip: 54MB
+-Description: Action pauses, and Megaman summons Protoman. Protoman 
+attacks all enemies on the field by stepping in the panel in front of 
+them, column by column. He can only move one Panel diagonally down or 
+up.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][P][ ][ ][X][ ]
+[ ][ ][ ][ ][X][O]
+
+P= Protoman
+X= Enemies Protoman will Attack
+O= Enemies Protoman cannot attack
+
+
+~~~ 020 PROTOMSP ~~~
+-Codes: B
+-Damage: 140+
+-Number of Hits: Up to 3
+-Sword Chip: 79MB
+-Description: Action pauses, and Megaman summons Protoman. Protoman 
+attacks all enemies on the field by stepping in the panel in front of 
+them, column by column. He can only move one Panel diagonally down or 
+up. This chip does even more damage depending on how fast you delete 
+the SP version of the Navi.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][P][ ][ ][X][ ]
+[ ][ ][ ][ ][X][O]
+
+P= Protoman
+X= Enemies Protoman will Attack
+O= Enemies Protoman cannot attack
+
+
+~~~ 021 PROTOMDS ~~~
+-Codes: B
+-Damage: 140+
+-Number of Hits: Up to 3
+-Sword Chip: 79MB
+-Description: Action pauses, and Megaman summons Protoman. Protoman 
+attacks all enemies on the field by stepping in the panel in front of 
+them, column by column. He can only move one Panel diagonally down or
+up. This chip does even more damage depending on how many Holes you 
+have on the field. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][P][ ][ ][X][ ]
+[ ][ ][ ][ ][X][O]
+
+P= Protoman
+X= Enemies Protoman will Attack
+O= Enemies Protoman cannot attack
+
+
+~~~ 022 NUMBRMAN ~~~
+-Codes: N
+-Damage: 30+
+-Number of Hits: 1
+-Variable (+/-) Chip: 33MB
+-Description: Action pauses, and Megaman summons Numberman. Numberman 
+releases a DiceBomb randomly on the enemy’s field. The initial damage 
+is multiplied by the number rolled on the dice. ALL surrounding panels
+will be damaged.
+-Range: Dependant on where Dice Bomb lands.
+
+
+~~~ 023 NUMBMNSP ~~~
+-Codes: N
+-Damage: 40+
+-Number of Hits: 1
+-Variable (+/-) Chip: 66MB
+-Description: Action pauses, and Megaman summons Numberman. Numberman 
+releases a DiceBomb randomly on the enemy’s field. The initial damage
+is multiplied by the number rolled on the dice. ALL surrounding panels
+will be damaged. This chip does even more damage depending on how fast
+you delete the SP version of the Navi.
+-Range: Dependant on where Dice Bomb lands.
+
+
+~~~ 024 NUMBMNDS ~~~
+-Codes: N
+-Damage: 40+
+-Number of Hits: 1
+-Variable (+/-) Chip: 66MB
+-Description: Action pauses, and Megaman summons Numberman. Numberman 
+releases a DiceBomb randomly on the enemy’s field. The initial damage
+is multiplied by the number rolled on the dice. ALL surrounding panels
+will be damaged. This chip does even more damage depending on how many
+Holes you have on the field. 
+-Range: Dependant on where Dice Bomb lands.
+
+
+~~~ 025 METALMAN ~~~
+-Codes: M
+-Damage: 160
+-Number of Hits: 1
+-Break Chip: 52MB
+-Description: Action pauses, and Megaman summons Metalman. Metalman 
+hit’s the panel directly in front of him. This can be changed however,
+by pressing the directional pad before he attacks.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][ ][M][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Metalman
+X= Damaged Panel
+
+
+~~~ 026 METLMNSP ~~~
+-Codes: M
+-Damage: 200+
+-Number of Hits: 1
+-Break Chip: 74MB
+-Description: Action pauses, and Megaman summons Metalman. Metalman 
+hit’s the panel directly in front of him. This can be changed however,
+by pressing the directional pad before he attacks. This chip does even
+more damage depending on how fast you delete the SP version of the 
+Navi.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][ ][M][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Metalman
+X= Damaged Panel
+
+
+~~~ 027 METLMNDS ~~~
+-Codes: M
+-Damage: 200+
+-Number of Hits: 1
+-Break Chip: 74MB
+-Description: Action pauses, and Megaman summons Metalman. Metalman 
+hit’s the panel directly in front of him. This can be changed however,
+by pressing the directional pad before he attacks. This chip does even
+more damage depending on how many Holes you have on the field. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][ ][M][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Metalman
+X= Damaged Panel
+
+
+~~~ 028 JUNKMAN ~~~
+-Codes: J
+-Damage: 100
+-Number of Hits: Multiple
+-Obstacle Chip: 80MB
+-Description: Action pauses, and Megaman summons Junkman. Junkman then
+takes all obstacles on the field and throws them at all enemies, 
+doing 100 damage each.
+-Range: None. Obstacles are hurled at enemies no matter what the 
+position. 
+
+
+~~~ 029 JUNKMNSP ~~~
+-Codes: J
+-Damage: 100+
+-Number of Hits: Multiple
+-Obstacle Chip: 80MB
+-Description: Action pauses, and Megaman summons Junkman. Junkman then
+takes all obstacles on the field and throws them at all enemies, doing
+100 damage each. This chip does even more damage depending on how fast
+you delete the SP version of the Navi.
+-Range: None. Obstacles are hurled at enemies no matter what the 
+position. 
+
+
+~~~ 030 JUNKMNDS ~~~
+-Codes: J
+-Damage: 100+
+-Number of Hits: Multiple
+-Obstacle Chip: 80MB
+-Description: Action pauses, and Megaman summons Junkman. Junkman then
+takes all obstacles on the field and throws them at all enemies, doing
+100 damage each. This chip does even more damage depending on how many
+Holes you have on the field. 
+-Range: None. Obstacles are hurled at enemies no matter what the 
+position. 
+
+
+~~~ 31 AQUAMAN ~~~
+-Codes: A
+-Damage: 70
+-Number of Hits: 1
+-Aqua/Water Chip: 41MB
+-Description: Action pauses, and Megaman summons Aquaman. Aquaman then
+creates his Water Gun that hits with a two panel range. 
+-Range: None.
+
+
+~~~ 32 AQUAMNSP ~~~
+-Codes: A
+-Damage: 80+
+-Number of Hits: 1
+-Aqua/Water Chip: 63MB
+-Description: Action pauses, and Megaman summons Aquaman. Aquaman then
+creates his Water Gun that hits with a two panel range. This chip does
+even more damage depending on how fast you delete the SP version of 
+the Navi.
+-Range: None.
+
+
+~~~ 33 AQUAMNDS ~~~
+-Codes: A
+-Damage: 80+
+-Number of Hits: 1
+-Aqua/Water Chip: 63MB
+-Description: Action pauses, and Megaman summons Aquaman. Aquaman then
+creates his Water Gun that hits with a two panel range. This chip does
+even more damage depending on how many Holes you have on the field. 
+
+-Range: None.
+
+
+~~~ 034 WOODMAN ~~~
+-Codes: W
+-Damage: 130
+-Number of Hits: Multiple
+-Wood Chip: 50MB
+-Description: Action pauses, and Megaman summons Woodman. Woodman 
+creates random Wood Towers in the enemy’s field.
+-Range: None.
+
+
+~~~ 035 WOODMNSP ~~~
+-Codes: W
+-Damage: 130
+-Number of Hits: Multiple
+-Wood Chip: 76MB
+-Description: Action pauses, and Megaman summons Woodman. Woodman 
+creates random Wood Towers in the enemy’s field. This chip does even
+more damage depending on how fast you delete the SP version of the 
+Navi.
+-Range: None.
+
+
+~~~ 036 WOODMNDS ~~~
+-Codes: W
+-Damage: 130
+-Number of Hits: Multiple
+-Wood Chip: 76MB
+-Description: Action pauses, and Megaman summons Woodman. Woodman 
+creates random Wood Towers in the enemy’s field. This chip does even 
+more damage depending on how many Holes you have on the field. 
+-Range: None.
+
+
+~~~ 037 TOPMAN ~~~
+-Codes: T
+-Damage: 20
+-Number of Hits: 1
+-Break Chip: 54MB
+-Description: Action pauses, and Megaman summons Topman. Three panels 
+ahead, Topman release two Little Spinners and the Grind Top, in which 
+Topman turns into a top and damages enemies.
+-Range: 
+
+[ ][ ][ ][ ][X][ ]
+[ ][T][ ][ ][X][ ]
+[ ][ ][ ][ ][X][ ]
+
+T= Topman
+X= Panels where Topman will damage
+
+
+~~~ 038 TOPMNSP ~~~
+-Codes: T
+-Damage: 30+
+-Number of Hits: 1
+-Break Chip: 71MB
+-Description: Action pauses, and Megaman summons Topman. Three panels
+ahead, Topman release two Little Spinners and the Grind Top, in which
+Topman turns into a top and damages enemies. This chip does even more
+damage depending on how fast you delete the SP version of the Navi.
+-Range: 
+
+[ ][ ][ ][ ][X][ ]
+[ ][T][ ][ ][X][ ]
+[ ][ ][ ][ ][X][ ]
+
+T= Topman
+X= Panels where Topman will damage
+
+
+~~~ 039 TOPMNDS ~~~
+-Codes: T
+-Damage: 30+
+-Number of Hits: 1
+-Break Chip: 71MB
+-Description: Action pauses, and Megaman summons Topman. Three panels 
+ahead, Topman release two Little Spinners and the Grind Top, in which
+Topman turns into a top and damages enemies. This chip does even more
+damage depending on how many Holes you have on the field. 
+-Range: 
+
+[ ][ ][ ][ ][X][ ]
+[ ][T][ ][ ][X][ ]
+[ ][ ][ ][ ][X][ ]
+
+T= Topman
+X= Panels where Topman will damage
+
+
+~~~ 040 BURNMAN ~~~
+-Codes: B
+-Damage: 60
+-Number of Hits: 1
+-Fire Chip: 46MB
+-Description: Action pauses, and Megaman summons Burnman. He then uses
+an attack that take a cross pattern shape. It damages panels in a 
+3-wide, three-tall panel method. 
+-Range: Dependant on position
+
+
+~~~ 041 BURNMNSP ~~~
+-Codes: B
+-Damage: 70+
+-Number of Hits: 1
+-Fire Chip: 69MB
+-Description: Action pauses, and Megaman summons Burnman. He then uses 
+an attack that take a cross pattern shape. It damages panels in a 
+3-wide, three-tall panel method. This chip does even more damage 
+depending on how fast you delete the SP version of the Navi.
+-Range: Dependant on position
+
+
+~~~ 042 BURNMNDS ~~~
+-Codes: B
+-Damage: 70+
+-Number of Hits: 1
+-Fire Chip: 69MB
+-Description: Action pauses, and Megaman summons Burnman. He then uses
+an attack that take a cross pattern shape. It damages panels in a 
+3-wide, three-tall panel method. This chip does even more damage 
+depending on how many Holes you have on the field. 
+-Range: Dependant on position
+
+
+~~~ 043 COLDMAN ~~~
+-Codes: C
+-Damage: 100
+-Number of Hits: 1
+-Water/Aqua Chip: 53MB
+-Description: Action pauses, and Megaman summons Coldman. Coldman 
+pushes an Ice block into the enemy’s field (similar to as if Megaman 
+was using AirShot to push a Rockcube).
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][C][>][>][>][>]
+[ ][ ][ ][ ][ ][ ]
+
+C= Coldman
+>= Line of Fire
+
+
+~~~ 044 COLDMNSP ~~~
+-Codes: C
+-Damage: 130+
+-Number of Hits: 1
+-Water/Aqua Chip: 72MB
+-Description: Action pauses, and Megaman summons Coldman. Coldman 
+pushes an Ice block into the enemy’s field (similar to as if Megaman 
+was using AirShot to push a Rockcube). This chip does even more damage
+depending on how fast you delete the SP version of the Navi.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][C][>][>][>][>]
+[ ][ ][ ][ ][ ][ ]
+
+C= Coldman
+>= Line of Fire
+
+
+~~~ 045 COLDMNDS ~~~
+-Codes: C
+-Damage: 130+
+-Number of Hits: 1
+-Water/Aqua Chip: 72MB
+-Description: Action pauses, and Megaman summons Coldman. Coldman 
+pushes an Ice block into the enemy’s field (similar to as if Megaman
+was using AirShot to push a Rockcube). This chip does even more damage
+depending on how many Holes you have on the field. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][C][>][>][>][>]
+[ ][ ][ ][ ][ ][ ]
+
+C= Coldman
+>= Line of Fire
+
+
+~~~ 046 SPARKMAN ~~~
+-Codes: S
+-Damage: 70
+-Number of Hits: Multiple
+-Electricity Chip: 55MB
+-Description: Action pauses, and Megaman summons Sparkman. Sparkman 
+then unleashes a Quick moving bolt that travels up and down in EVERY 
+enemy panel.
+-Range: Hits every panel
+
+
+~~~ 047 SPRKMNSP ~~~
+-Codes: S
+-Damage: 100+
+-Number of Hits: Multiple
+-Electricity Chip: 77MB
+-Description: Action pauses, and Megaman summons Sparkman. Sparkman 
+then unleashes a Quick moving bolt that travels up and down in EVERY 
+enemy panel. This chip does even more damage depending on how fast you
+delete the SP version of the Navi.
+-Range: Hits every panel
+
+
+~~~ 048 SPRKMNDS ~~~
+-Codes: S
+-Damage: 100+
+-Number of Hits: Multiple
+-Electricity Chip: 77MB
+-Description: Action pauses, and Megaman summons Sparkman. Sparkman 
+then unleashes a Quick moving bolt that travels up and down in EVERY 
+enemy panel. This chip does even more damage depending on how many 
+Holes you have on the field. 
+-Range: Hits every panel
+
+
+~~~ 049 SHADEMAN ~~~
+-Codes: X
+-Damage: 120
+-Number of Hits: 1
+-Normal Chip: 73MB
+-Description: Action pauses, and Megaman summons Shademan. Shademan
+attacks the panel in front of him and the column behind that as well.
+If you pres down, down-right, and right while he does the attack the
+enemy will be paralyzed. If you press down, down-left, and left to 
+confuse the enemy.
+-Range: 
+
+[ ][ ][ ][X][ ][ ]
+[ ][S][X][X][ ][ ]
+[ ][ ][ ][X][ ][ ]
+
+S= Shademan
+X= Panels damaged
+
+
+~~~ 050 SHADMNSP ~~~
+-Codes: X
+-Damage: 140+
+-Number of Hits: 1
+-Normal Chip: 88MB
+-Description: Action pauses, and Megaman summons Shademan. Shademan 
+attacks the panel in front of him and the column behind that as well.
+If you pres down, down-right, and right while he does the attack the 
+enemy will be paralyzed. If you press down, down-left, and left to 
+confuse the enemy. This chip does even more damage depending on how 
+fast you delete the SP version of the Navi.
+-Range: 
+
+[ ][ ][ ][X][ ][ ]
+[ ][S][X][X][ ][ ]
+[ ][ ][ ][X][ ][ ]
+
+S= Shademan
+X= Panels damaged
+
+
+~~~ 051 SHADMNDS ~~~
+-Codes: X
+-Damage: 140+
+-Number of Hits: 1
+-Normal Chip: 88MB
+-Description: Action pauses, and Megaman summons Shademan. Shademan 
+attacks the panel in front of him and the column behind that as well.
+If you pres down, down-right, and right while he does the attack the 
+enemy will be paralyzed. If you press down, down-left, and left to 
+confuse the enemy. This chip does even more damage depending on how 
+many Holes you have on the field. 
+-Range: 
+
+[ ][ ][ ][X][ ][ ]
+[ ][S][X][X][ ][ ]
+[ ][ ][ ][X][ ][ ]
+
+S= Shademan
+X= Panels damaged
+
+
+~~~ 052 LASERMAN ~~~
+-Codes: L
+-Damage: 100
+-Number of Hits: 1
+-Normal Chip: 60MB
+-Description: Action pauses, and Megaman summons Laserman. Laserman 
+uses his Power Down Laser that hits one complete row. In linked 
+Netbattles, while Laserman is attacking, you can pres Up to lower the 
+opponent’s buster levels, Down to remove their Customizer Programs, 
+Right to remove charged shots, and Left to remove one chip selection 
+from the Custom Menu.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][L][X][X][X][X]
+[ ][ ][ ][ ][ ][ ]
+
+L= Laserman
+X= Panels Laserman damages 
+
+
+~~~ 053 LASRMNSP ~~~
+-Codes: L
+-Damage: 120+
+-Number of Hits: 1
+-Normal Chip: 80MB
+-Description: Action pauses, and Megaman summons Laserman. Laserman 
+uses his Power Down Laser that hits one complete row. In linked 
+Netbattles, while Laserman is attacking, you can pres Up to lower 
+the opponent’s buster levels, Down to remove their Customizer 
+Programs, Right to remove charged shots, and Left to remove one chip 
+selection from the Custom Menu. This chip does even more damage 
+depending on how fast you delete the SP version of the Navi.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][L][X][X][X][X]
+[ ][ ][ ][ ][ ][ ]
+
+L= Laserman
+X= Panels Laserman damages 
+
+
+~~~ 054 LASRMNDS ~~~
+-Codes: L
+-Damage: 120+
+-Number of Hits: 1
+-Normal Chip: 80MB
+-Description: Action pauses, and Megaman summons Laserman. Laserman 
+uses his Power Down Laser that hits one complete row. In linked 
+Netbattles, while Laserman is attacking, you can pres Up to lower
+the opponent’s buster levels, Down to remove their Customizer 
+Programs, Right to remove charged shots, and Left to remove one chip 
+selection from the Custom Menu. This chip does even more damage 
+depending on how many Holes you have on the field. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][L][X][X][X][X]
+[ ][ ][ ][ ][ ][ ]
+
+L= Laserman
+X= Panels Laserman damages 
+
+
+~~~ 055 KENDOMAN ~~~
+-Codes: K
+-Damage: 70
+-Number of Hits: 3
+-Normal Chip: 45MB
+-Description: Action pauses, and Megaman summons Kendoman. Kendoman 
+goes up to the closet enemy and hits it 3 times.
+-Range: Depends on enemy position.
+
+
+~~~ 056 KENDMNSP ~~~
+-Codes: K
+-Damage: 80+
+-Number of Hits: 3
+-Normal Chip: 75MB
+-Description: Action pauses, and Megaman summons Kendoman. Kendoman 
+goes up to the closet enemy and hits it 3 times. This chip does even 
+more damage depending on how fast you delete the SP version of the 
+Navi.
+-Range: Depends on enemy position.
+
+
+~~~ 057 KENDMNDS ~~~
+-Codes: K
+-Damage: 80+
+-Number of Hits: 3
+-Normal Chip: 75MB
+-Description: Action pauses, and Megaman summons Kendoman. Kendoman 
+goes up to the closet enemy and hits it 3 times. This chip does even 
+more damage depending on how many Holes you have on the field. 
+-Range: Depends on enemy position.
+
+
+~~~ 058 VIDEOMAN ~~~
+-Codes: V
+-Damage: 25
+-Number of Hits: 3
+-Normal Chip: 44MB
+-Description: Action pauses, and Megaman summons Videoman. Videoman 
+does two Wind Cutter attack, that damages any 2x2 panels. It can
+damage same panels multiple times. 
+-Range: Random
+
+
+~~~ 059 VIDEMNSP ~~~
+-Codes: V
+-Damage: 30+
+-Number of Hits: 3
+-Normal Chip: 67MB
+-Description: Action pauses, and Megaman summons Videoman. Videoman 
+does two Wind Cutter attack, that damages any 2x2 panels. It can 
+damage same panels multiple times. This chip does even more damage 
+depending on how fast you delete the SP version of the Navi.
+-Range: Random
+
+
+~~~ 059 VIDEMNDS ~~~
+-Codes: V
+-Damage: 30+
+-Number of Hits: 3
+-Normal Chip: 67MB
+-Description: Action pauses, and Megaman summons Videoman. Videoman 
+does two Wind Cutter attack, that damages any 2x2 panels. It can 
+damage same panels multiple times. This chip does even more damage 
+depending on how many Holes you have on the field. 
+-Range: Random
+
+And that’s all the Mega Chips in the game. A lot of these have 
+interesting effects that could make for interesting folders.
+
+Fin.
+======================================================================
+======================================================================
+
+
+
+======================================================================
+======================================================================
+[08] G I G A  C H I P S  O V E R V I E W
+
+Keyword: [GACOW]
+
+Here is an overview of all the Giga Chips in the game.
+
+(NOTE: RS stands for Red Sun exclusive chip, while BM stands for Blue
+Moon exclusive chip).
+
+
+~~~ 001 REDSUN (RS) ~~~
+-Codes: R
+-Damage: 100 
+-Number of Hits: 4
+-Normal Chip: 90MB
+-Description: Creates a satellite that release 4 Meteors hit the panel
+three columns ahead of Megaman. After the 4 meteors hit, the Meteor 
+crashes into the damaged panel, thus cracking all surrounding panels.
+Each Meteor does more damage depending on the more wins you have in 
+the Red Sun vs. Blue Mode in linked battles. 
+-Range: 
+
+[ ][ ][ ][X][X][X]
+[ ][M][ ][X][O][X]
+[ ][ ][ ][X][X][X]
+
+M= Megaman 
+O= Where Meteors hit
+X= Panels that get cracked
+
+
+~~~ 002 HOLYDREM (RS) ~~~
+-Codes: H
+-Damage: 50+ 
+-Number of Hits: Multiple
+-Normal Chip: 92MB
+-Description: Cannon like attack. Megaman hit’s the target ahead, and 
+fires multiple shots for each holy panel on the field. The damage is 
+increased by 50 per Holy Panel on the field. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][O][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+O= Enemy hit
+>= Line of Fire
+
+
+~~~ 003 BASS (RS) ~~~
+-Codes: X
+-Damage: 60 
+-Number of Hits: 8 per panel
+-Normal Chip: 95MB
+-Description: When this chip is used, good old Bass appears and 
+damages each panel on the enemy’s field 8 times, each hit being 60.
+-Range: 
+
+[ ][ ][ ][X][X][X]
+[ ][M][ ][X][X][X]
+[ ][ ][ ][X][X][X]
+
+M= Bass 
+X= Panels damaged 
+
+
+~~~ 004 BUGCHARG (RS) ~~~
+-Codes: C
+-Damage: 80 
+-Number of Hits: Multiple
+-Normal Chip: 77MB
+-Description: The action pauses. Megaman uses a forward projectile 
+attack (Gospel Cannon). The Cannon fires for each time you’ve been in 
+the Custom Menu, and up to 800 damaged can be achieved this way. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][O][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+O= Enemy hit
+>= Line of Fire
+
+
+~~~ 005 BLAKBARR (RS) ~~~
+-Codes: A
+-Damage: 0 
+-Number of Hits: 0
+-Normal Chip: 87MB
+-Description: Megaman creates a Barrier that blocks all attacks that 
+do less then 150 points of damage. If this barrier is removed or 
+broken, it will appear time and time again (somewhat a permanent 
+barrier). Only Dark Megaman can use this chip (unless a Hole is on the 
+field).  
+-Range: None.
+
+
+~~~ 001 BLUEMOON (BM) ~~~
+-Codes: B
+-Damage: 200 
+-Number of Hits: 1
+-Normal Chip: 90MB
+-Description: Creates a satellite that releases a laser. This laser 
+will do more damage depending on the more wins you have in the Red Sun
+vs. Blue Mode in linked battles. Also, in Linked Battles, Blue Moon 
+can hinder certain programs on the opponent’s Megaman, including some 
+NaviCust programs, and Charged buster effects due to Souls.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][ ][O][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+O= Where Laser hits
+
+
+~~~ 002 SIGNLRED (BM) ~~~
+-Codes: S
+-Damage: 0 
+-Number of Hits: 0
+-Obstacle Chip: 61MB
+-Description: Megaman creates a traffic light in front of him that 
+carries 100HP. 1 of two lights could shine once it is played:
+
+Red Light: Enemy CANNOT use any chips until Signal Red is destroyed.
+Blue Light: Enemy CANNOT see you (like blinder) until Signal Red is 
+destroyed.
+
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman 
+X= Where Signal Red appears
+
+
+~~~ 003 BASSANLY (BM) ~~~
+-Codes: X
+-Damage: 160+ 
+-Number of Hits: 4
+-Normal Chip: 95MB
+-Description: Bass appears and sends out Four Hells Rolling wheels. 
+They basically go across all panels and home in one enemies. A single 
+enemy can get hit up to 4 times. Any obstacles that are in the way 
+will put a complete stop to the Hells Rolling Wheel.
+-Range: 
+
+[ ][ ][X][X][D][ ]
+[ ][M][X][X][X][O]
+[ ][ ][X][X][X][ ]
+
+M= Megaman 
+X= Where wheels go
+O= Enemy it homes in on
+D= Possible obstacle that can block a wheel
+
+
+~~~ 004 BUGCURSE (BM) ~~~
+-Codes: S
+-Damage: 0 
+-Number of Hits: 0
+-Normal Chip: 73MB
+-Description: Enemies are given numerous glitches/bugs in their 
+programming.
+-Range: None. This cannot be blocked at all
+
+
+~~~ 005 DELTARAY (BM) ~~~
+-Codes: Z
+-Damage: 260+ 
+-Number of Hits: Up to 3
+-Sword Chip: 82MB
+-Description: Megaman summons Protoman. Protoman goes out and slashes 
+enemies with a WideSword Range. If you press A after he slashes the 
+enemy, but BEFORE he teleports, he will slash again. Do it one more 
+time, and Protoman will do a final slash and make a Delta Symbol.
+-Range: Hard to show. Basically imagine an enemy getting hit 3 times 
+and a Delta symbol being made.
+
+
+Remember Giga Chips cannot be traded. All these chips are pretty 
+interesting, with Holy Dream and Signal Red standing out the most 
+in terms of effectiveness.
+
+Fin.
+======================================================================
+======================================================================
+
+
+
+======================================================================
+======================================================================
+[09] S E C R E T  C H I P S  O V E R V I E W
+
+Keyword: [STCOW]
+
+Here is an overview of all the Secret Chips in the game.
+
+
+~~~ 000 ROLLARO1 ~~~
+-Codes: A, F, W
+-Damage: 50 
+-Number of Hits: 1
+-Normal Chip: 32MB
+-Description: Action pauses, and Megaman summons Roll. Roll then fires
+a Roll Arrow that heads straight. If it hits an enemy, the loose all 
+current battle chips they had equipped. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][>][O]
+[ ][ ][ ][ ][ ][ ]
+
+R= Roll
+>= Line of Fire
+O= Enemy that gets hit
+
+
+~~~ 000 ROLLARO2 ~~~
+-Codes: D, R, W
+-Damage: 70 
+-Number of Hits: 1
+-Normal Chip: 38MB
+-Description: Action pauses, and Megaman summons Roll. Roll then fires
+a Roll Arrow that heads straight. If it hits an enemy, the loose all 
+current battle chips they had equipped. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][>][O]
+[ ][ ][ ][ ][ ][ ]
+
+R= Roll 
+>= Line of Fire
+O= Enemy that gets hit
+
+
+~~~ 000 ROLLARO3 ~~~
+-Codes: Q, Y, Z
+-Damage: 90 
+-Number of Hits: 1
+-Normal Chip: 44MB
+-Description: Action pauses, and Megaman summons Roll. Roll then fires
+a Roll Arrow that heads straight. If it hits an enemy, the loose all 
+current battle chips they had equipped. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][>][O]
+[ ][ ][ ][ ][ ][ ]
+
+R= Roll 
+>= Line of Fire
+O= Enemy that gets hit
+
+
+~~~ 000 GUTPNCH1 ~~~
+-Codes: B, E, N
+-Damage: 100 
+-Number of Hits: 1
+-Normal Chip: 22MB
+-Description: Action pauses, and Megaman summons Gutsman. Gutsman then
+punches the panel directly in front of him. If there is an obstacle 
+occupying that panel, then it is pushed to the rightmost column.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][G][X][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+G= Gutsman 
+X= Panel hit
+
+
+~~~ 000 GUTPNCH2 ~~~
+-Codes: G, P, Y
+-Damage: 140 
+-Number of Hits: 1
+-Normal Chip: 36MB
+-Description: Action pauses, and Megaman summons Gutsman. Gutsman then
+punches the panel directly in front of him. If there is an obstacle 
+occupying that panel, then it is pushed to the rightmost column.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][G][X][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+G= Gutsman 
+X= Panel hit
+
+
+
+~~~ 000 GUTPNCH3 ~~~
+-Codes: M, Q, T
+-Damage: 180 
+-Number of Hits: 1
+-Normal Chip: 50MB
+-Description: Action pauses, and Megaman summons Gutsman. Gutsman then
+punches the panel directly in front of him. If there is an obstacle 
+occupying that panel, then it is pushed to the rightmost column.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][G][X][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+G= Gutsman 
+X= Panel hit
+
+
+
+~~~ 000 PROPBOM1 ~~~
+-Codes: E, G, P, *
+-Damage: 120 
+-Number of Hits: 1
+-Normal Chip: 18MB
+-Description: Action pauses, and Megaman summons Windman. Windman 
+throws a slow moving Bomb, and the action goes back to normal. The 
+Bomb must make it to the right most column on the field without being 
+hit even once. If it makes it off screen, it damages the two rightmost
+columns.
+-Range: 
+
+When used
+[ ][ ][ ][ ][ ][ ]
+[ ][W][O][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+W= Windman
+O= Bomb
+
+If it makes it off screen
+[ ][ ][ ][ ][X][X]
+[ ][M][O][ ][X][X]
+[ ][ ][ ][ ][X][X]
+
+M= Megaman
+X= Panels damaged
+
+
+~~~ 000 PROPBOM2 ~~~
+-Codes: F, V, Z, *
+-Damage: 160 
+-Number of Hits: 1
+-Normal Chip: 26MB
+-Description: Action pauses, and Megaman summons Windman. Windman 
+throws a slow moving Bomb, and the action goes back to normal. The 
+Bomb must make it to the right most column on the field without being 
+hit even once. If it makes it off screen, it damages the two rightmost
+columns.
+-Range: 
+
+When used
+[ ][ ][ ][ ][ ][ ]
+[ ][W][O][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+W= Windman
+O= Bomb
+
+If it makes it off screen
+[ ][ ][ ][ ][X][X]
+[ ][M][O][ ][X][X]
+[ ][ ][ ][ ][X][X]
+
+M= Megaman
+X= Panels damaged
+
+
+~~~ 000 PROPBOM3 ~~~
+-Codes: H, J, Q
+-Damage: 200 
+-Number of Hits: 1
+-Normal Chip: 34MB
+-Description: Action pauses, and Megaman summons Windman. Windman 
+throws a slow moving Bomb, and the action goes back to normal. The 
+Bomb must make it to the right most column on the field without being 
+hit even once. If it makes it off screen, it damages the two rightmost
+columns.
+-Range: 
+
+When used
+[ ][ ][ ][ ][ ][ ]
+[ ][W][O][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+W= Windman
+O= Bomb
+
+If it makes it off screen
+[ ][ ][ ][ ][X][X]
+[ ][M][O][ ][X][X]
+[ ][ ][ ][ ][X][X]
+
+M= Megaman
+X= Panels damaged
+
+
+~~~ 000 SEEKBOM1 ~~~
+-Codes: B, R, S, *
+-Damage: 80 
+-Number of Hits: 1
+-Normal Chip: 25MB
+-Description: Megaman throws a bomb. The bomb hit’s the closet enemy, 
+regardless of what panel it’s on.
+-Range: None. Hits closet enemy regardless of position.
+
+
+~~~ 000 SEEKBOM2 ~~~
+-Codes: C, I, O
+-Damage: 110 
+-Number of Hits: 1
+-Normal Chip: 35MB
+-Description: Megaman throws a bomb. The bomb hit’s the closet enemy, 
+regardless of what panel it’s on.
+-Range: None. Hits closet enemy regardless of position.
+
+
+~~~ 000 SEEKBOM3 ~~~
+-Codes: M, U, W
+-Damage: 140 
+-Number of Hits: 1
+-Normal Chip: 45MB
+-Description: Megaman throws a bomb. The bomb hit’s the closet enemy, 
+regardless of what panel it’s on.
+-Range: None. Hits closet enemy regardless of position.
+
+
+~~~ 000 METEORS1 ~~~
+-Codes: G, L, S, *
+-Damage: 50 
+-Number of Hits: 5
+-Fire Chip: 15MB
+-Description: Megaman summons 5 meteors to hit a target two panels 
+ahead of him. Time does NOT freeze when using this chip. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Where meteors hit
+
+
+~~~ 000 METEORS2 ~~~
+-Codes: M, Q, T
+-Damage: 60 
+-Number of Hits: 5
+-Fire Chip: 23MB
+-Description: Megaman summons 5 meteors to hit a target two panels 
+ahead of him. Time does NOT freeze when using this chip. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Where meteors hit
+
+
+~~~ 000 METEORS3 ~~~
+-Codes: C, R, Z
+-Damage: 70 
+-Number of Hits: 5
+-Fire Chip: 31MB
+-Description: Megaman summons 5 meteors to hit a target two panels 
+ahead of him. Time does NOT freeze when using this chip. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Where meteors hit
+
+
+~~~ 000 LIGTNIN1 ~~~
+-Codes: L, T, W, *
+-Damage: 100
+-Number of Hits: 1
+-Electricity Chip: 33MB
+-Description: Megaman summons Thunderman. Thunderman in turn damages 
+all obstacles on the field with lightning. When an obstacle is hit, it
+damages all panels surrounding it.
+-Range: 
+
+[ ][ ][X][X][X][ ]
+[ ][T][X][O][X][X]
+[ ][ ][X][X][X][O]
+
+T= Thunderman
+O= Obstacles
+X= Panels damaged
+
+
+~~~ 000 LIGTNIN2 ~~~
+-Codes: A, E, V
+-Damage: 130
+-Number of Hits: 1
+-Electricity Chip: 37MB
+-Description: Megaman summons Thunderman. Thunderman in turn damages 
+all obstacles on the field with lightning. When an obstacle is hit, it
+damages all panels surrounding it.
+-Range: 
+
+[ ][ ][X][X][X][ ]
+[ ][T][X][O][X][X]
+[ ][ ][X][X][X][O]
+
+T= Thunderman
+O= Obstacles
+X= Panels damaged
+
+
+~~~ 000 LIGTNIN3 ~~~
+-Codes: H, J, Q
+-Damage: 160
+-Number of Hits: 1
+-Electricity Chip: 39MB
+-Description: Megaman summons Thunderman. Thunderman in turn damages 
+all obstacles on the field with lightning. When an obstacle is hit, it
+damages all panels surrounding it.
+-Range: 
+
+[ ][ ][X][X][X][ ]
+[ ][T][X][O][X][X]
+[ ][ ][X][X][X][O]
+
+T= Thunderman
+O= Obstacles
+X= Panels damaged
+
+
+~~~ 000 HAWKCUT1 ~~~
+-Codes: H, N, O
+-Damage: 80
+-Number of Hits: 1
+-Sword Chip: 40MB
+-Description: Megaman pauses the action, and then summons Protoman. 
+Protoman strikes enemies in front of him with a Wide Sword, then a 
+Long Sword. 
+-Range: 
+
+1st attack
+[ ][ ][X][ ][ ][ ]
+[ ][P][X][ ][ ][ ]
+[ ][ ][X][ ][ ][ ]
+
+P= Protoman
+X= Damaged Panels
+
+2nd attack
+[ ][ ][ ][ ][ ][ ]
+[ ][P][X][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+P= Protoman
+X= Damaged Panels
+
+
+~~~ 000 HAWKCUT2 ~~~
+-Codes: F, S, V
+-Damage: 90
+-Number of Hits: 1
+-Sword Chip: 50MB
+-Description: Megaman pauses the action, and then summons Protoman. 
+Protoman strikes enemies in front of him with a Wide Sword, then a 
+Long Sword. 
+-Range: 
+
+1st attack
+[ ][ ][X][ ][ ][ ]
+[ ][P][X][ ][ ][ ]
+[ ][ ][X][ ][ ][ ]
+
+P= Protoman
+X= Damaged Panels
+
+2nd attack
+[ ][ ][ ][ ][ ][ ]
+[ ][P][X][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+P= Protoman
+X= Damaged Panels
+
+
+~~~ 000 HAWKCUT3 ~~~
+-Codes: I, N, Z
+-Damage: 100
+-Number of Hits: 1
+-Sword Chip: 60MB
+-Description: Megaman pauses the action, and then summons Protoman. 
+Protoman strikes enemies in front of him with a Wide Sword, then a 
+Long Sword. 
+-Range: 
+
+1st attack
+[ ][ ][X][ ][ ][ ]
+[ ][P][X][ ][ ][ ]
+[ ][ ][X][ ][ ][ ]
+
+P= Protoman
+X= Damaged Panels
+
+2nd attack
+[ ][ ][ ][ ][ ][ ]
+[ ][P][X][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+P= Protoman
+X= Damaged Panels
+
+
+~~~ 000 NUMBRBL1 ~~~
+-Codes: E, L, W
+-Damage: ???
+-Number of Hits: 1
+-Variable Chip: 28MB
+-Description: Megaman pauses the action and then summons Numberman. 
+Numberman then sends out 3 Number Balls that attack the row you’re in.
+Damage is equal to the last two digits in Megaman’s HP per ball 
+(unsure of what happens when you have 00 as your last two digits).
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][N][X][X][X][ ]
+[ ][ ][ ][ ][ ][ ]
+
+N= Numberman
+X= Panels number balls drop 
+
+
+~~~ 000 NUMBRBL2 ~~~
+-Codes: A, E, P
+-Damage: ???
+-Number of Hits: 1
+-Variable Chip: 35MB
+-Description: Megaman pauses the action and then summons Numberman. 
+Numberman then sends out 4 Number Balls that attack the row you’re in.
+Damage is equal to the last two digits in Megaman’s HP per ball 
+(unsure of what happens when you have 00 as your last two digits).
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][N][X][X][X][X]
+[ ][ ][ ][ ][ ][ ]
+
+N= Numberman
+X= Panels number balls drop 
+
+
+~~~ 000 NUMBRBL3 ~~~
+-Codes: L, T, Y
+-Damage: ???
+-Number of Hits: 1
+-Variable Chip: 42MB
+-Description: Megaman pauses the action and then summons Numberman. 
+Numberman then sends out 5 Number Balls that attack the row you’re in.
+Damage is equal to the last two digits in Megaman’s HP per ball 
+(unsure of what happens when you have 00 as your last two digits).
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[N][X][X][X][X][X]
+[ ][ ][ ][ ][ ][ ]
+
+N= Numberman
+X= Panels number balls drop
+
+
+~~~ 000 METLGER1 ~~~
+-Codes: A, M, P, *
+-Damage: 100
+-Number of Hits: 1
+-Break Chip: 20MB
+-Description: Places a metal gear that rotates in the center enemy 
+row.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][X][X][X]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Where gears move 
+ 
+
+~~~ 000 METLGER2 ~~~
+-Codes: C, E, G, *
+-Damage: 130
+-Number of Hits: 1
+-Break Chip: 28MB
+-Description: Places a metal gear that rotates in the center enemy 
+row.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][X][X][X]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Where gears move
+
+
+~~~ 000 METLGER3 ~~~
+-Codes: I, L, Q, *
+-Damage: 100
+-Number of Hits: 1
+-Break Chip: 36MB
+-Description: Places a metal gear that rotates in the center enemy
+row.
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][ ][X][X][X]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Where gears move
+
+
+~~~ 000 PANLSHT1 ~~~
+-Codes: A, H, S, *
+-Damage: 100
+-Number of Hits: 1
+-Ground Chip: 19MB
+-Description: The panel in front of Megaman will rise up and attack an 
+enemy. Wherever the panel was, there will be a new empty hole (not the 
+same as the hole used for certain dark powered chips).
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][>][>][>]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Panel that will attack an enemy
+>= Line of Fire
+
+~~~ 000 PANLSHT2 ~~~
+-Codes: C, G, T, *
+-Damage: 60
+-Number of Hits: Multiple
+-Ground Chip: 25MB
+-Description: All Panels in Megaman’s row (except the one he’s 
+standing one, will all rise up (they have to be on his side of the 
+field) and attack an enemy. Wherever the panels were, an empty hole is 
+created in its place (not the same as the hole used for certain dark 
+powered chips). Works with Areagrab.
+-Range: 
+
+Your Field  Virus Field
+[ ][ ][ ]   [ ][ ][ ]
+[X][M][X]   [>][>][>]
+[ ][ ][ ]   [ ][ ][ ]
+
+M= Megaman
+X= Panel that will attack an enemy
+>= Line of Fire
+
+~~~ 000 PANLSHT3 ~~~
+-Codes: F, J, N, *
+-Damage: 80
+-Number of Hits: Multiple
+-Ground Chip: 31MB
+-Description: All Panels above, below, and on each side of Megaman 
+will rise up and attack straight forward. The panels all have to be in 
+his area. Wherever the panels were, an empty hole is created in its 
+place (not the same as the hole used for certain dark powered chips). 
+-Range: 
+
+Your Field  Virus Field
+[ ][X][ ]   [>][>][>]
+[X][M][X]   [>][>][>]
+[ ][X][ ]   [>][>][>]
+
+M= Megaman
+X= Panel that will attack an enemy
+>= Line of Fire
+
+~~~ 000 AQUAUP1 ~~~
+-Codes: B, S, Z
+-Damage: 110
+-Number of Hits: Multiple
+-Water Chip: 22MB
+-Description: Megaman unleashes a geyser if he uses this chip behind 
+a cracked panel.
+-Range: Simply use behind a cracked panel.
+
+
+~~~ 000 AQUAUP2 ~~~
+-Codes: I, P, U
+-Damage: 140
+-Number of Hits: Multiple
+-Water Chip: 28MB
+-Description: Megaman unleashes a geyser if he uses this chip behind 
+a cracked panel.
+-Range: Simply use behind a cracked panel.
+
+
+~~~ 000 AQUAUP3 ~~~
+-Codes: F, K, W
+-Damage: 170
+-Number of Hits: Multiple
+-Water Chip: 34MB
+-Description: Megaman unleashes a geyser if he uses this chip behind 
+a cracked panel.
+-Range: Simply use behind a cracked panel.
+
+
+~~~ 000 GREENWD1 ~~~
+-Codes: G, J, Y
+-Damage: 120
+-Number of Hits: Multiple
+-Wood Chip: 35MB
+-Description: Megaman unleashes Wood Towers that attack random areas 
+in the enemy’s field. A Wood Tower will hit an enemy at least ONCE.
+-Range: Random.
+
+
+~~~ 000 GREENWD2 ~~~
+-Codes: D, K, P
+-Damage: 140
+-Number of Hits: Multiple
+-Wood Chip: 40MB
+-Description: Megaman unleashes Wood Towers that attack random areas 
+in the enemy’s field. A Wood Tower will hit an enemy at least ONCE.
+-Range: Random.
+
+
+~~~ 000 GREENWD3 ~~~
+-Codes: E, N, P
+-Damage: 160
+-Number of Hits: Multiple
+-Wood Chip: 45MB
+-Description: Megaman unleashes Wood Towers that attack random areas 
+in the enemy’s field. A Wood Tower will hit an enemy at least ONCE.
+-Range: Random.
+
+
+~~~ 000 GUNSOLEX ~~~
+-Codes: G
+-Damage: ???
+-Number of Hits: 1
+-Normal Chip: 80MB
+-Description: Press and HOLD A to activate. Megaman then brings out a
+gun in the panel in front of him, and rapidly drains the HP of the 
+enemies two AND three columns ahead of him for a short about of time. 
+This chip does not destroy In-Battle GMDs, but it removes Dark Holes. 
+Dark Megaman cannot use this chip. This Gun is the fastest in the 
+GUNSOL series. Counts as a Mega Chip when placing it in your folder.
+-Range: 
+
+[ ][ ][ ][X][X][ ]
+[ ][M][ ][X][X][ ]
+[ ][ ][ ][X][X][ ]
+
+M= Megaman
+X= Panels effected
+
+
+~~~ 000 Z-SAVER ~~~
+-Codes: Z
+-Damage: 100
+-Number of Hits: 3
+-Sword Chip: 80MB
+-Description: Megaman unleashes a triple slash sword combo. First 
+slash is a Long Sword, Second slash is a Wide Sword, and the third 
+slash is three horizontal damaging hit. Counts as a Mega Chip when 
+placing it in your folder.
+-Range: 
+
+1st Attack
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][X][ ][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Panels That Get Hit
+
+2nd Attack
+[ ][ ][X][ ][ ][ ]
+[ ][M][X][ ][ ][ ]
+[ ][ ][X][ ][ ][ ]
+
+M= Megaman
+X= Panels That Get Hit
+
+3rd Attack
+[ ][ ][ ][ ][ ][ ]
+[ ][M][X][X][X][ ]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+X= Panels That Get Hit
+
+
+~~~ 000 GRANDPRIXPOWER ~~~
+-Codes: G
+-Damage: 200
+-Number of Hits: 2
+-Normal Chip: 94MB
+-Description: The GPP Chip summons VideoMan, who uses Play Back to 
+summon LaserMan. LaserMan then fires a red laser beam down the row. 
+Finally, KendoMan dashes back down the row, hitting the enemy again. 
+It deals 200 damage, with 2 hits, down your row. Description by 
+SlinetJi of the Message Boards.
+-Range: Down Megaman’s row. 
+
+
+~~~ 000 DUO ~~~
+-Codes: D
+-Damage: 200
+-Number of Hits: ???
+-Normal Chip: 99MB
+-Description: The Duo Chip summons Duo and he performs his Meteor Fist 
+attack on enemy panels, dealing 200 damage per hit. The most powerful 
+Battle Chip alone. Description by SilentJi of the Message Boards.  
+-Range: All panels.
+
+
+~~~ 000 FINALGUN ~~~
+More info coming soon.
+
+And those are the Secret Chips. These chips are obtained in Higsby 
+free tournament. It’s pretty easy to tell which Navis give you which 
+chips.
+
+Fin.
+======================================================================
+======================================================================
+
+
+
+======================================================================
+======================================================================
+[10] D A R K  C H I P S  O V E R V I E W
+
+Keyword: [DRCOW]
+
+Here is an overview of all the Dark Chips in the game. Dark Chips are 
+listed in a different manner. First off, they do not have any Codes, 
+or MB. Also, they cause a glitch/bug that happens once Megaman selects
+the chip. 
+
+
+~~~ 000 DARKBOMB ~~~
+-Damage Done: 200 
+-Number of Hits: 1
+-Description: Megaman throws a bomb 3 panels ahead. Whichever panel it
+was thrown on, it will damage all 8 surrounding panels near it.
+-Glitch: Megaman automatically moves backwards (as if Wind was in 
+play).
+-Range:
+
+[ ][ ][ ][X][X][X]
+[ ][M][ ][X][O][X]
+[ ][ ][ ][X][X][X]
+
+M= Megaman
+O= Where bomb is thrown (the panel where the bomb was thrown gets 
+damaged as well)
+X= Panels that get damaged
+
+
+~~~ 000 DRKCANON ~~~
+-Damage Done: ??? 
+-Number of Hits: 1
+-Description: Megaman uses a Cannon (Forward projectile attack). The 
+damage done by this chip is equal to the amount of HP you lost from 
+your MAX (similar to MURAMASA. .
+-Glitch: Megaman’s Buster stats will be reduced to 1.
+-Range:
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][>][O]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+O= Enemy that gets hit.
+>= Line of Fire
+
+
+~~~ 000 DRKLANCE ~~~
+-Damage Done: ??? 
+-Number of Hits: 1
+-Description: Megaman uses LANCE (damages the enemies rightmost 
+panels). The damage done by this chip is equal to HALF the amount of 
+the highest enemy HP.
+-Glitch: Megaman loses 5 random chips from his folder that cannot be 
+used in the current battle (NOTE: you do NOT lose these chips 
+permanently).
+-Range:
+
+[ ][ ][ ][ ][ ][X]
+[ ][M][ ][ ][ ][X]
+[ ][ ][ ][ ][ ][X]
+
+M= Megaman
+X= Panels that get hit
+
+
+~~~ 000 DRKRECOV ~~~
+-Damage Done: None, Restores 1000 HP 
+-Number of Hits: 1
+-Description: Megaman uses a Recov chip (gain HP). Instead of gaining 
+HP in the hundreds, Megaman instead gains 1000 HP. 
+-Glitch: Megaman automatically drains Megaman’s HP, in battle AND in 
+the Custom Menu
+-Range: None
+
+
+~~~ 000 DRKSPRED ~~~
+-Damage Done: 400 
+-Number of Hits: Multiple
+-Description: Megaman uses a Spreader Chip. When it hits an enemy, it 
+damages ALL the panels surrounding that enemy as well.  
+-Glitch: Any panel Megaman steps off of turns into a Swamp/Poison 
+Panel (which in turn, drains HP).
+-Range:
+
+[ ][ ][ ][X][X][X]
+[ ][M][ ][X][O][X]
+[ ][ ][ ][X][X][X]
+
+M= Megaman
+O= Enemy that gets hit
+X= Panels that get hit
+
+
+~~~ 000 DRKSTAGE ~~~
+-Damage Done: None (though it does help DRAIN enemy HP). 
+-Number of Hits: 0
+-Description: Once used, all of Megaman’s Panels turn into Holes, 
+while the enemies panels turn into Swamp/Poison Panels
+-Glitch: Megaman loses one chip space in the custom Menu (I.E. If 
+Megaman is able to select up to 5 chips, he in turn will only be able
+to select 4)
+-Range: 
+
+[O][O][O][X][X][X]
+[O][M][O][X][X][X]
+[O][O][O][X][X][X]
+
+M= Megaman
+O= Holes
+X= Swamp Panels
+
+
+~~~ 000 DRKSWORD ~~~
+-Damage Done: ??? (Up to 500)  
+-Number of Hits: 1
+-Description: Megaman uses a Sword that can goes two columns deep, and
+three rows wide. The damage that this chip does is equal to the 
+enemies’ HP that’s the highest (up to 500 damage can be done).
+-Glitch: Megaman begins to move forward automatically (as if Fan was 
+in play). 
+-Range: 
+
+[ ][ ][X][X][ ][ ]
+[ ][M][X][X][ ][ ]
+[ ][ ][X][X][ ][ ]
+
+M= Megaman
+X= Panels hit
+
+
+~~~ 000 DRKVULCN ~~~
+-Damage Done: 20   
+-Number of Hits: 24
+-Description: Megaman uses a Vulcan Chip that hits 24 times, 20 points
+per hit (forward projectile attack that hits multiple times, up to 
+480 damage can be done to a single enemy).
+-Glitch: Megaman’s direction controls are reversed, as if he was 
+confused. 
+-Range: 
+
+[ ][ ][ ][ ][ ][ ]
+[ ][M][>][>][>][O]
+[ ][ ][ ][ ][ ][ ]
+
+M= Megaman
+>= Line of Fire
+O= Enemy hit
+
+Dark Chips are very special indeed. Remember each time you use a Dark 
+Chip, you lose 1HP permanently!
+
+And with that, the Chip Overview Sections are done. Now for the misc. 
+stuff. . .
+
+Fin.
+======================================================================
+======================================================================
+
+
+
+======================================================================
+======================================================================
+[11] C H I P  L O C A T I O N S
+
+Keyword: [CHLOC]
+
+Here is a list of where to get every chip in the game. These don’t 
+really give the exact pinpoint location, but the area in which you get 
+them.
+
+(NOTE: RS stands for Red Sun exclusive chip, while BM stands for Blue
+Moon exclusive chip). 
+
+LEGEND (Where chips can be obtained):
+01. BMD: Blue Mystery Data.
+02. GMD: Green Mystery Data.
+03. PMD: Purple Mystery Data.
+04. BGMD: In-Battle Green Mystery Data.
+05. ND: Net Dealer.
+06. BFD: Bug Frag Dealer.
+07. HCT: Higsby’s Chip Trader (ACDC Town, Higsby, Green).
+08. HSCT: Higsby’s Special Chip Trader (Electown, Red).
+10. BFT: Bug Frag Trader (Black Earth 2).
+11. CO: Chip Order (ACDC Town, Higsby). You can only get the chip if 
+you have it in your library, or compared data with a friend who has the
+chip.
+12. (RS) or (BM): Code can only be obtained in Red Sun or Blue Moon.
+
+(NOTE: Some chips come equipped in Folders that you receive throughout 
+the game. Unfortunately I do not have all the folder list available, so
+some chips that come from a folder might not have it listed as a 
+location under that chip. Sorry about this, but I’ll get it all up as 
+soon as I can. Remember, all submissions welcome).
+
+
+~~~ STANDARD CHIPS ~~~
+001: CANNON
+A- Fldr1, XtraFldr, HCT, HSCT
+B- Fldr1, XtraFldr, HCT, HSCT, CO
+C- ND: Town Area 3, HCT, HSCT
+*- BGMD: Town Area, HCT, HSCT
+
+0002: HICANNON
+C- GMD: Sharo Area, Higsby’s Shop, HCT, HSCT, BFT
+D- BMD: Meteor Area 1, HCT, HSCT, BFT, CO
+E- BMD: BMD: Town Area 3 (Hard Mode), GMD: ACDC Area 1 (Hard Mode), 
+HCT, HSCT, BFT
+
+003: M-CANNON
+E- BMD: Meteor Area 3 (Hard Mode), GMD: ACDC Area 1 (Super Hard Mode), 
+BFT
+F- GMD: Sharo Area (Super Hard Mode), HCT, HSCT, BFT, CO,
+G- BMD: Undernet Area 4, GMD: ACDC Area 1, HCT, HSCT, BFT
+
+004: AIRSHOT
+A- Fldr1,Xtrafldr, HCT, HSCT, CO
+S- HCT, HSCT
+V- HCT, HSCT
+*- Fldr2, FamFldr, GMD: ACDC Area 1, GMD: Town Area 4, HCT, HSCT
+
+005: VULCAN1
+E- HCT, HSCT
+S- HCT, HSCT, CO
+V- Fldr1, Xtrafldr, HCT, HSCT
+*- Fldr2, HCT, HSCT
+
+006: VULCAN2
+B- BMD: ToyRobo2, HCT, HSCT, BFT
+H- GMD: Undernet Area 2, ND: Netopia Area, HCT, HSCT, BFT, CO
+O- Fldr2, HCT, HSCT, BFT
+
+007: VULCAN3
+O- BMD: Ticket Machine - Castillo (Hard Mode), BFT
+Y- GMD: Undernet Area 2 (Hard and Super Hard Moe), BFT, CO
+W- BMD: ToyRobo4 (Hard and Super hard Mode), BFT
+
+008: SPREADER
+L- FamFldr, GMD: Town Area 1, Higsby’s Shop, HCT, HSCT
+M- Famfldr, BMD: ElTower 1 (Electown), HCT, HSCT, CO
+N- Famflder, BMD: DenDome Netbattle Machine, HCT, HSCT
+*- BGMD: Park Area 1-3, GMD: Town Area 1 (Hard and Super Hard Mode), 
+ND: ACDC Area 2, HCT, HSCT
+
+009: HEATSHOT
+B- Fldr2, FamFldr, Spikey Viruses, SpikeyEX Viruses, HCT, HSCT
+C- Fldr2, Famfldr, Spikey Viruses, SpikeyEX Viruses, HCT, HSCT, CO
+D- FamFldr, GMD: ACDC Area 2, Spikey Viruses, SpikeyEX Viruses, HCT, 
+HSCT
+*- HCT, HSCT
+
+010: HEAT-V
+C- Spikey2EX Viruses, HSCT, BFT
+D- GMD: Yumland Area, GMD: ACDC Area 2 (Hard Mode), Spikey2 Viruses, 
+HSCT, BFT, CO
+E- Spikey2 Viruses, Spikey2EX Viruses, HSCT, BFT
+
+011: HEATSIDE
+D- GMD: Yumland Area (Hard and Super Hard Mode), GMD: ACDC Area 2, 
+Spikey3 Viruses, BFT
+E- Spikey3, Spikey3EX Viruses, BFT, CO
+
+F- Spikey3 Viruses, BFT
+
+012: BUBBLER
+P- FamFldr, GMD: Town Area 3, Shrimpy, ShripmyEX, HCT, HSCT
+Q- FamFldr, GMD: ACDC Area 3, Shrimpy, HCT, HSCT, CO
+R- Famfldr, ShrimpyEX, ND: ACDC Area 2, HCT, HSCT
+*- HCT, HSCT
+
+013: BUB-V
+C- Shrimpy2, Shrimpy2EX, HSCT, BFT
+D- GMD: Netopia Area, Shrimpy2EX, HSCT, BFT, CO
+E- GMD: ACDC Area 3 (Hard Mode), GMD: Town Area 3 (Hard Mode), 
+Shrimpy2, HSCT, BFT
+
+014: BUBLSIDE
+D- GMA: Netopia Area (Hard Mode), Shrimpy3EX, BFT
+E- GMD: ACDC Area 3 (Super Hard Mode), GMD: Town Area 3, Shrimpy3, BFT,
+CO
+F- Shrimpy3, Shrimpy3EX, BFT
+
+015: THUNDER1
+B- GMD: Yumland Area, Billy, (BM) BillyEX, HCT, HSCT, CO
+L- GMD: ACDC Area 2, (RS) Billy, (RS) BillyEX, HCT, HSCT
+P- (BM) Billy, (BM) BillyEX, HCT, HSCT
+*- BillyEX, HCT, HSCT
+
+016: THUNDER2
+H- (RS) Silly, (RS) SillyEX, HSCT, BFT, CO
+P- GMD: ACDC Area (Hard Mode), Silly SillyEX, HSCT, BFT
+S- GMD: Yumland Area (Hard Mode), (BM) Silly, (BM) Silly EX, Netopia 
+CT, BFT
+
+017: THUNDER3
+I- (RS) Killy, (RS) KillyEX, BFT, CO
+T- GMD: Yumland Area (Super Hard Mode), (BM) Killy, (BM) KillyEX, BFT
+W- GMD: ACDC Area (Super Hard Mode), Killy, KillyEX, BFT
+
+018: WIDESHT1
+C- Fldr2, Lark Virus, HCT, HSCT
+D- GMD: Park Area 3, Lark Virus, LarkEX Virus, HSCT, HSCT, CO
+E- LarkEX, HSCT, HSCT
+*- HCT, HSCT
+
+019: WIDESHT2
+L- BarkEX, HSCT, BFT
+M- GMD: Park Area 3 (Hard Mode), Bark, BarkEX, HSCT, BFT, CO
+N- Bark, HSCT, BFT
+
+020: WIDESHT3
+S- GMD: Park Area 3 (Super Hard Mode), TarkEX, BFT, CO
+T- Numberman Lotto Machine: 68009092, BFT
+
+021: FLMLINE1
+F- GMD: Town Area 2, VolGear Virus, VolGearEX, HCT, HSCT, CO
+G- Numberman Lotto Machine: 46292983, HCT, HSCT
+H- VolGear, VolGear, HCT, HSCT
+*- GMD: Yumland Area
+
+022: FLMLINE2
+D- GMD: Netfrica Area, VulGear, BFT
+E- VulGearEX, BFT, CO
+F- GMD: Town Area 2 (Hard Mode), GMD: Yumland Area (Hard Mode), 
+VulGear, VulGearEX, BFT
+
+023: FLMLINE3
+J- Numberman Lotto Machine: 57604335, BFT, ValGear Virus
+K- GMD: Town Area 2 (Super Hard Mode), GMD: Netfrica Area (Super Hard 
+Mode), ValGear, ValGearEX, BFT, CO
+L- GMD: Yumland Area (Super Hard Mode), ValGear, ValGearEX, BFT
+
+024: GUNSOL1
+A- HSCT, BFT
+G- Vampire Manor - Django Statue, HSCT, BFT, CO
+M- HSCT, BFT
+*- HSCT, BFT
+
+025: GUNSOL2
+B- HSCT, BFT
+G- HeelNavi in Undernet Area 4, HSCT, BFT, CO
+S- HSCT, BFT
+
+026: GUNSOL3
+C- BFT
+G- Django in Undernet 4, BFT, CO
+T- BFT
+
+027: BLIZZARD
+H- Weather (BM), Wither (BM), HCT, HSCT, BFT
+J- GMD: Sharo Area, Weather (RS), Wither (RS), HCT HSCT, BFT, CO
+V- Weather, HCT, HSCT, BFT
+*- FamFldr, GMD: Undernet Area 4 (Super Hard Mode), Weather EX
+
+028: HEATBRTH
+D- GMD: Sharo Area (Hard mode), Whomper (BM), Wither (BM), HSCT, BFT
+K- ND: Netopia, Whomper Virus, HSCT, BFT, CO
+O- Whomper (RS), Wither (RS), HSCT, BFT
+*- Famfldr, GMD: Undernet 4 (Super Hard Mode), Weather EX, HSCT, BFT
+
+029: ELECSHOK
+J- Winger Virus, HSCT, BFT
+L- Winger (RS), Wither (RS), HSCT, BFT, CO
+S- GMD- Sharo Area (Super Hard Mode), Winger (BM), Wither (BM), HSCT, 
+BFT
+*- Famfldr, GMD: Undernet 4 (Super Hard Mode), Weather EX, HSCT, BFT
+
+030: WOODPWDR
+F- Wonder (BM), HSCT BFT
+T- Wonder, Wither, HSCT, BFT, CO
+W- Famfldr, GMD: Undernet 4 (Super Hard mode), Weather EX, HSCT, BFT
+*- GMD: Undernet 4 (Super Hard Mode), Weather EX, HSCT, BFT
+
+031: SANDRING
+C- HCT, HSCT, BFT
+R- HCT, HSCT, BFT, CO
+S- HCT, HSCT, BFT
+*- BMD: Town Area 1, GMD: Netopia Area, HCT, HSCT, BFT
+
+032: TWNFNG1
+A- GMD: Sharo Area, Walla, WallaEX, HSCT, CO
+B- Walla, WallaEX, HSCT
+C- Walla, WallaEX, HSCT
+*- Famfldr, HSCT
+
+033: TWNFNG2
+O- WallandEX, HSCT, BFT, CO
+P- GMD: Sharo GMD (Hard Mode), Walland, HSCT, BFT
+Q- Walland, WallandEX, HSCT, BFT
+
+034: TWNFNG3
+F- WaldonEX, BFT, CO
+G- Numberman Lotto Machine: 88019791, BFT
+Q- Walland, WallandEX, HSCT, BFT
+
+035: ELEMFLAR
+K- Elemperor (BM), ElemperorEX (BM), HSCT, BFT
+N- Elemperor (RS), ElemperorEX (RS), HSCT, BFT, CO
+P- Elemperor, Elemperor5, HSCT, BFT
+
+036: ICEELEM
+H- Elemperor2, Elemperor5, HSCT, BFT
+Q- Elemperor2, ElemperorEX, HSCT, BFT, CO
+V- Elemperor2, Elemperor5, HSCT, BFT
+
+037: ELEMLEAF
+C- Elemperor3, Elemperor5, BFT
+D- Elemperor3 (BM), ElemperorEX (BM), BFT
+I- Elemperor3 (RS), ElemperorEX (RS), BFT, CO
+
+038: ELEMSAND
+A- Elemperor4, ElemperorEX, BFT, CO
+L- Elemperor4 (RS), Elemperor5 (RS), BFT
+S- Elemperor4 (BM), Elemperor5 (BM), BFT
+*- BFT
+
+039: MAGBOLT1
+B- GMD: Sharo Area, MagTectEX, HCT, HSCT
+C- MagTect, HCT, HSCT, CO
+D- MagTect, MagTectEX, HCT, HSCT
+*- HCT, HSCT
+
+040: MAGBOLT2
+E- GMD: Sharo Area (Hard Mode), MagTec+, HSCT, BFT
+F- MagTec+EX, HSCT, BFT, CO
+G- MagTec+, MagTec+EX, HSCT, BFT
+
+041: MAGBOLT3
+A- MagTecX, BFT
+B- MagTecXEX, BFT, CO
+C- GMD: Sharoa Area (Super Hard Mode), MagTecX, MagTecXEX, BFT
+
+042: TORNADO
+E- HCT, HSCT, BFT
+L- ND: ACDC Area 2, HCT, HSCT, BFT, CO
+T- GMD: Undernet Area 5, BGMD: Town Area 1-4, HCT, HSCT, BFT
+
+043: STATIC
+B- HSCT, BFT
+G- HSCT, BFT, CO
+Z- ND: Undernet Area 1, HSCT, BFT
+*- BGMD: Netopia Area, BGMD: NetFrica Area, BGMD: Yumland Area, BGMD: 
+Sharo Area, HSCT, BFT
+
+044: MINIBOMB
+B- Fldr1, Fldr2, GMD: Undernet Area 3, HCT, HSCT, CO
+L- Fldr1, GMD: ACDC Area 1, GMD: Undernet Area 3, HCT, HSCT
+T- GMD: Undernet Area 3, HCT, HSCT
+*- Fldr2, BMD: Teddy Bear, HCT, HSCT
+
+045: ENERGBOM
+E- GMD: ACDC Area 1 (Hard Mode), ND: ACDC Area 2, HCT, HSCT
+N- GMD: Town Area 2, HCT, HSCT, CO
+T- GMD: Netopia Area, HCT, HSCT
+*- HCT, HSCT
+
+046: MEGENBOM
+D- BMD: ACDC Area 3 (Super Hard Mode), BMD: ElTower 1 (Hard Mode), 
+HSCT, BFT
+J- GMD: ACDC Area 1 (Super Hard Mode), GMD: Town Area 2 (Hard and Super
+hard Mode), GMD: Netopia Area (Hard and Super Hard Mode), HSCT, BFT, CO
+W- HSCT, BFT, Bank Program
+
+047: BALL
+B- BGMD: Park Area, HCT, HSCT, BFT
+T- Prize from Numberman Scenario, HCT, HSCT, BFT, CO
+V- BGMD: Town Area 1-4, GMD: Undernet Area 5, HCT, HSCT, BFT
+*- HCT, HSCT, BFT
+
+048: BLKBOMB
+D- BMD: Undernet Area 6 (Hard Mode), HSCT, BFT
+H- Bank Program, HSCT, BFT
+Z- PMD: Sharo Area, HSCT, BFT, CO
+
+049: GEYSER
+B- HSCT, BFT, CO
+L- PMD: ACDC Area 2, HSCT, BFT
+V- HSCT, BFT
+
+050: BUGBOMB
+B- BMD: Park Robo 2 (Super Hard Mode), HSCT, BFT
+G- BMD: Antenna 3 (Sharo), HSCT, BFT, CO
+Z- CTS, BFT
+*- BMD: Undernet Area 4 (Hard Mode), HSCT, BFT
+
+051: BINDER1
+C- Melody (BM), Melody EX (BM), HCT, HSCT
+O- Melody (RS), Melody EX (RS), HCT, HSCT, CO
+S- GMD: Park Area 2, Melody, HCT, HSCT
+*- Melody EX, HCT, HSCT
+
+052: BINDER2
+A- Hellody, Hellody EX, HCT, HSCT, BFT
+T- GMD: Park Area 2 (Hard Mode), Hellody (BM), Hellody EX (BM), HCT, 
+HSCT, BFT, CO
+Y- Hellody (RS), Hellody EX (RS), HCT, HSCT, BFT
+
+053: BINDER3
+E- Felony EX, bFT
+I- GMD: Park Area 2 (Super Hard Mode), Felony (BM), BFT, CO
+O- Felony (RS), BFT
+
+054: SWORD
+E- Fldr2, HCT, HSCT
+L- HCT, HSCT
+S- Fldr1, HCT, HSCT, CO
+
+055: WIDESWRD
+E- Fldr2, HCT, HSCT
+L- HCT, HSCT
+S- Fldr1, GMD: ACDC Area 2, HCT, HSCT, CO
+
+056 LONGSWRD
+E- GMD: Town Area 2, GMD: Town Area 4, HCT, HSCT
+L- GMD: Undernet Area 1, HCT, HSCT
+S- BMD: ElTower 2, HCT, HSCT, CO
+
+057: WIDEBLDE
+C- Bank Program, BMD: ElTower (Hard Mode), HSCT, BFT
+K- HSCT, BFT
+S- GMD: Undernet Area 1 (Hard and Super Hard Mode), HSCT, BFT
+
+058: LONGBLDE
+G- Higsby’s Chip Store, HSCT, BFT, CO
+R- GMD: Town Area 2 (Hard Mode), BMD: Meteor 3 (Super Hard Mode), GMD: 
+Undernet Area 6 (Hard and Super Hard Mode), HSCT, BFT
+S- Bank Program, GMD: Undernet Area 1 (Super Hard Mode), HSCT, BFT
+
+059: CUSTSWRD
+B- PMD: Town Area 3, GMD: Undernet Area 1 (Hard and Super Hard Mode), 
+HSCT, BFT, CO
+P- GMD: Town Area 4 (Hard Mode), HSCT, BFT
+S- GMD: Undernet Area 1, BMD: Town Area 2 (Super Hard Mode), HSCT, BFT
+
+060: VARSWRD
+C- Numberman Lotto Machine: 03696458, HSCT, BFT
+J- HSCT, BFT, Bank Program 
+V- PMD: Park Area 2, GMD: Undernet Area 3, BMD: Meteor 4, GMD: Town 
+Area 4 (Super Hard Mode), HSCT, BFT
+
+061: SLASHER
+F- HSCT, BFT
+H- HSCT, BFT
+R- ND: Netopia Area, HSCT, BFT, CO
+
+062: WINDRACK
+A- PMD: Town Area 4, HSCT, BFT, CO
+L- HSCT, BFT
+R- HSCT, BFT
+*- BMD: Meteor 4 (Super hard Mode), HSCT, BFT
+
+063: AIRHOC1
+D- Dharma EX, HCT, HSCT, CO
+E- GMD: Park Area 1, HCT, HSCT
+F- Dharma HCT, HSCT
+*- Dharma, HCT, HSCT
+
+064: AIRHOC2
+I- KarmaEX, HSCT, BFT, CO
+J- GMD: Park Area (Hard Mode), Karma, HSCT, BFT
+K- Karma, HSCT, BFT
+
+065: AIRHOC3
+U- Dogma, BFT, CO
+V- Numberman Lotto Machine: 77038416, BFT
+W- GMD: Park Area 1 (Super Hard Mode), DogmaEX, BFT
+
+066: COUNTER1
+F- GMD: Town Area 3, HCT, HSCT
+M- HCT, HSCT, CO
+T- GMD: ACDC Area 3, GMD: Town Area 2, BMD: Game Console, HCT, HSCT
+*- HCT, HSCT
+
+067: COUNTER2
+B- GMD: Park Area 2 (Hard Mode), HSCT, BFT
+H- GMD: ACDC Area 3 (Hard mode), GMD: Town Area 3 (Hard Mode), HSCT,
+BFT, CO
+L- GMD: Undernet Area 6, BMD: Meteor Area 3, HSCT, BFT
+*- HSCT, BFT
+
+068: COUNTER3
+A- GMD: Park Area 2 (Super Hard Mode), GMD: Undernet Area 6 (Hard and 
+Super Hard Mode), BFT
+N- GMD: ACDC Area 3 (Super Hard Mode), GMD: Town Area 3 (Super Hard 
+Mode), BFT, CO
+V- BMD: Park Robo 1 (Hard Mode), BFT
+
+069: BOOMER1
+L- Boomer Virus, HCT, HSCT
+M- GMD: Park Area 1, BoomerEX, HCT, HSCT, CO
+N- Boomer, HCT, HSCT
+*- BoomerEX, HCT, HSCT
+
+070: BOOMER2
+L- Gloomer, Gloomer EX, HSCT, BFT
+M- GMD: Park Area 1 (Hard Mode), Gloomer EX, HSCT, BFT, CO
+N- Gloomer, HSCT, BFT
+
+071: BOOMER3
+S- DoomerEX, BFT
+T- GMD: Park Area 1 (Super Hard Mode), Doomer, Doomer EX, BFT, CO
+U- Doomer, BFT
+
+072: SIDBMBO1
+B- Kilby (BM), KilbyEX (BM), HCT, HSCT
+I- GMD: Undernet Area 6, Kilby (RS), KilbyEX (RS), HCT, HSCT, CO
+R- Kilby, HCT, HSCT
+*- KilbyEX, HCT, HSCT
+
+073: SIDBMBO2
+H- Kilbur EX, HSCT, BFT, CO
+O- GMD: Undernet Area 6 (Hard Mode), Kilbur (BM), HSCT, BFT
+S- Kilburn (RS), HSCT, BFT
+
+074: SIDBMBO3
+A- Kilbo EX, BFT, CO
+F- Kilbo (RS), BFT
+U- GMD: Undernet Area 6 (Super Hard Mode), Kilbo (BM), BFT
+
+075: LANCE
+A- Bank Program, HSCT, BFT
+G- PMD: Yumland Area, HSCT, BFT, CO
+R- HSCT, BFT
+*- HSCT, BFT
+
+076: WHITWEB1
+D- Spidy (BM), HSCT
+L- Spidy (RS), HSCT, CO
+R- Spidy EX, HSCT
+*- Spidy, Spidy EX, HSCT
+
+077: WHITWEB2
+C- WebbyEX, HSCT, BFT, CO
+E- Webby (BM), HSCT, BFT
+Y- Webby (RS), HSCT, BFT
+*- Webby, WebbyEX, HSCT, BFT
+
+078: WHITWEB3
+K- ArachyEX, BFT, CO
+O- Arachy (RS), BFT
+V- Arachy (BM), BFT
+*- Arachy, ArachyEX, BFT
+
+079: MOKORUS1
+C- MolokoEX, HCT, HSCT
+I- Moloko (BM), HCT, HSCT
+M- GMD: Town Area 3, Moloko (RS), HCT, HSCT
+
+080: MOKORUS2
+G- MilkoEX, HSCT, BFT
+K- Milko (RS), HSCT, BFT, CO
+M- GMD: Town Area 3 (Hard Mode), Milko (BM), HSCT, BFT
+
+081: MOKORUS3
+O- Macko3EX, BFT
+T- GMD: Town Area 3 (Super Hard Mode), Macko3 (BM), BFT
+Y- Macko (RS), BFT, CO
+
+082: CIRCGUN1
+H- CirKill (BM), CirKillEX (BM), HSCT
+T- CirKill, CirKillEX, HSCT, CO
+Z- CirKill (RS), CirKill (RS), HSCT
+
+083: CIRCGUN2
+D- CirCus (BM), CirCusEX (BM), HSCT, BFT
+G- CirCus (RS), CirCusEX (BM), HSCT, BFT, CO
+T- CirCus, CirCusEX, HSCT, BFT
+
+084: CIRCGUN3
+J- CirSmsh (BM), CirSmshEX (BM), BFT
+M- CirSmsh (RS), CirSmsh (RS), BFT, CO
+R- CirSmsh, CirSmshEX, BFT
+
+085: SNAKE
+D- BMD: Netopia Area (Super Hard Mode), HSCT, BFT
+M- PMD: Undernet Area 1, HSCT, BFT, CO
+R- Numberman Lotto Machine: 32108251, HSCT, BFT
+
+086: MAGNUM
+H- BGMD: Park Area, BFT
+Q- BFT, CO
+V- BGMD: Netopia Area, BGMD: Netfrica Area, BGMD: Yumland Area, BGMD: 
+Sharo Area, BFT
+
+087: BIGHAMR1
+B- Gaia (BM), HCT, HSCT
+O- Gaia (RS), HCT, HSCT
+R- GMD: Undernet Area 2, GaiaEX, HCT, HSCT, CO
+
+088: BIGHAMR2
+G- GMD: Undernet Area 2 (Hard Mode), Gaia+ (BM), HSCT, BFT
+J- Gaia+ (RS), HSCT, BFT, CO
+W- Gaia+EX, HSCT, BFT
+
+089: BIGHAMR3
+D- GaiaMegaEX, BFT
+V- Alameda (RS), BFT, CO
+Z- GMD: Undernet Area 2 (Super Hard Mode), Gaia Mega (NM), BFT
+
+090: BOYBOMB1
+E- BomBoy (BM), BomBoyEX (BM), HSCT
+J- BomBoy (RS), BomBoyEX (RS), HSCT, CO
+M- BomBoy, BomBoyEX, HSCT
+
+091: BOYBOMB2
+I- BomWrk, BomBoyEX2, HSCT, BFT, CO
+S- BomWrk (BM), BomBoyEX2 (BM), HSCT, BFT
+W- BomWrk (RS), BomBoyEX2 (RS), HSCT, BFT
+
+092: BOYBOMB3
+G- BomLab, BomLabEX, BFT, CO
+T- BomLab (RS), BomLabEX (RS), BFT
+V- BomLab (BM), BomLabEX (BM), BFT
+
+093: TIMEBOMB
+J- BGMD: Black Earth, HCT, BFT
+K- GMD: Undernet Area 5 (Super Hard Mode), ND: Town Area 3, HCT, BFT,
+CO
+L- BGMD: Town Area 1-4, HCT, BFT
+
+094: MINE
+C- GMD: Undernet Area 5 (Super Hard Mode), BFT
+H- BFT
+Z- BGMD: Undernet Area 1-6, BFT, CO
+
+095: ROCKCUBE
+*- BMD: Park Robo 2, HCT, HSCT, CO
+
+096: WIND
+*- FamFldr, GMD: Town Area 4, Windbox, WindBox2, WindBox3, HCT, HSCT, 
+CO
+
+097: FAN
+*- FamFldr, GMD: Town Area 1-4, VacuumFan, VacuumFan2, VacuumFan3, HCT,
+HSCT, CO
+
+098: FANFARE
+E- Trumpy (BM), HCT, HSCT, BFT
+G- Trumpy, TrumpyEX, HCT, HSCT, BFT, CO
+N- Trumpy (RS), HCT, HSCT, BFT
+*- GMD: Undernet Area 4 (Hard Mode), HCT, HSCT, BFT
+
+099: DISCORD
+D- Tuby, TubyEX, HCT, HSCT, BFT
+T- Tuby (RS), HCT, HSCT, BFT, CO
+V- Tuby (BM), HCT, HSCT, BFT
+*- GMD: Undernet Area 4 (Hard Mode), HCT, HSCT, BFT
+
+100: TIMPANI
+P- Tromby, TrombyEX, BFT
+T- Tromby (RS), BFT, CO
+Z- Tromby (BM), BFT
+*- GMD: undernet Area 4 (Hard Mode), BFT
+
+101: SILENCE
+C- MuteAnt (RS), HCT, HSCT, BFT
+M- MuteAnt, MuteAntEX, HCT, HSCT, BFT, CO
+R- MuteAnt (BM), HCT, HSCT, BFT
+*- GMD: Undernet Area 4 (Hard Mode), HCT, HSCT, BFT
+
+102: VDOLL
+I- BFT
+O- BFT
+Y- BGMD: Undernet Area, BFT, CO
+
+103: GUARD1
+A- Mettaur, MettaurEX, HCT, HSCT
+L- Mettaur (RS), MettaurEX (RS), HCT, HSCT, CO
+V- Mettaur (BM), MettaurEX (BM), HCT, HSCT
+*- GMD: Town Area 1, GMD: Netfrica Area, MettaurEX, HCT, HSCT
+
+104: GUARD2
+C- Mettaur2, Mettaur2EX, HSCT, BFT
+G- Mettaur2 (RS), Mettaur2EX (RS), HSCT, BFT, CO
+P- Mettaur2 (BM), Mettaur2EX (BM), HSCT, BFT
+*- GMD: Town Area 1 (Hard Mode), GMD: Netfrica Area (Hard Mode), 
+Mettaur2EX, HSCT, BFT
+
+105: GUARD3
+F- Mettaur 3 (RS), Mettaur3EX (RS), BFT
+R- Mettaur3, Mettaur3EX, BFT, CO
+T- Mettaur3 (BM), Mettaur3EX (BM), BFT
+*- GMD: Town Area 1 (Super Hard Mode), GMD: Netfrica Area (Super Hard 
+Mode), Mettaur3EX, BFT
+
+106: CRAKOUT
+*- Fldr1, GMD: ACDC Area 1, GMD: Town Area 1, GMD: Undernet Area 4, 
+HCT, HSCT, CO
+
+107: DUBLCRAK
+*- BGMD: ACDC Area 1-3, GMD: Park Area 2, GMD: Undernet Area 4, GMD: 
+ACDC Area 1 GMD (Hard Mode), GMD: Town Area 1 (Hard Mode), HCT, HSCT, 
+BFT, CO
+
+108: TRIPCRAK
+*- Numberman Scenario Prize, GMD: Park Area 1, GMD: Undernet Area 4, 
+BMD: ACDC Area 1 (Hard Mode), GMD: Town Area 1 (Super Hard Mode), HCT, 
+HSCT, BFT, CO
+
+109: RECOV10
+A- Fldr1, HCT, HSCT, CO
+L- Fldr1, HCT, HSCT
+N- HCT, HSCT
+*- GMD: ACDC Area 1, GMD: Park Area 1, HCT, HSCT
+
+110: RECOV30
+F- HCT, HSCT, CO
+H- HCT, HSCT
+R- GMD: ACDC Area 3, BMD: Town Area 3, HCT, HSCT
+*- HCT, HSCT
+
+111: RECOV50
+E- Fldr2, HCT, HSCT, CO
+L- HCT, HSCT
+S- BMD: DenDome Drink Machine, HCT, HSCT
+*- GMD: Yumland Area, GMD: ACDC Area 1 (Hard Mode), GMD: ACDC Area 3 
+(Hard Mode), GMD: Park Area 1 (Hard Mode), HCT, HSCT
+
+112: RECOV80
+B- GMD: Netfrica Area, ND: Town Area 3, HCT, HSCT, CO
+J- BMD: Park Robo 4, HCT, HSCT
+O- HCT, HSCT
+*- GMD: Undernet Area 1, GMD: Yumland Area 9Hard mode), HCT, HSCT
+
+113: RECOV120
+F- BMD: Meteor 4, GMD: Netfrica Area (Hard Mode), HCT, HSCT, BFT, CO
+J- Higsby’s Shop, HCT, HSCT, BFT
+Q- BMD: Undernet Area 3, HCT, HSCT, BFT
+*- Bank program, GMD: Undernet Area 1 (Hard Mode), GMD: Park Area 1 
+(Super Hard Mode),  GMD: Yumland Area (Super Hard Mode), HCT, HSCT, BFT
+
+114: RECOV150
+C- FamFldr, BMD: Park Robo 2 (Hard Mode), HSCT, BFT
+T- BMD: Ticket Machine (Super Hard mode), GMD: Undernet Area 1 (Super 
+Hard mode), HSCT, BFT
+Z- BMD: Angel Statue, GMD: Netfrica Area (Super Hard Mode), HSCT, BFT
+
+115: RECOV200
+H- GMD: ACDC Area 1 and 3 (Super Hard Mode), BFT, CO
+M- BMD: Meteor 1 (Hard Mode), BFT
+W- Bank Program, BFT
+
+116: RECOV300
+J- Numberman Lotto Machine: 66703422, BFT, CO
+N- BFT
+Y- BFT
+
+117: REPAIR
+I- HCT, HSCT, BFT
+P- ND: Netopia Area, HCT, HSCT, BFT, CO
+R- HCT, HSCT, BFT
+*- HCT, HSCT, BFT
+
+118: PANLGRAB
+K- HCT, HSCT
+O- HCT, HSCT
+Y- HCT, HSCT, CO
+*- BMD: Stereo, GMD: Town Area 1, GMD: Park Area 2, HCT, HSCT
+
+119: AREAGRAB
+E- Fldr2, HCT, HSCT, BFT
+M- GMD: Netfrica Area, HCT, HSCT, BFT
+S- Fldr1, GMD: ACDC Area 2, HCT, HSCT, BFT, CO
+*- HCT, HSCT, BFT
+
+120: METAGEL
+K- ND: Undernet Area 5, BFT, CO
+T- BGMD: Undernet Areas, BFT
+Z- BGMD: Netopia Areas, BGMD: Netfrica Areas, BGMD: Yumland Areas, 
+BGMD: Sharo Areas, BFT
+
+121: GRABBNSH
+E- GMD: Town Area 1 (Super Hard Mode), HCT, HSCT
+K- HCT, HSCT, CO
+P- ND: Netopia Area, HCT, HSCT
+
+122: GRABRVNG
+D- PMD: Town Area 4 (Super Hard Mode), BFT
+J- BFT, HSCT, CO
+N- Bank Program, BFT
+
+123: PNLRETURN
+*- Higsby’s Shop, HCT, HSCT, CO
+
+124: GEDDON1
+J- GMD: Undernet Area 4, HCT, HSCT
+K- GMD: Netopia Area, HCT, HSCT
+W- BMD: Meteor Area 1, HCT, HSCT, CO
+
+125: GEDDON2
+N- Higsby’s Shop, HSCT, BFT
+T- GMD: Netopia Area (Hard Mode), HSCT, BFT
+Y- HSCT, BFT, Bank Program
+
+126: GEDDON3
+H- BFT
+Q- GMD: Netopia Area (Super Hard Mode), BFT
+U- BFD: Undernet Area 4, BFT, CO
+
+127: SLOGAUGE
+E- ND: Undernet Area 1, HSCT, BFT, CO
+H- HSCT, BFT
+V- HSCT, BFT
+*- HSCT, BFT
+
+128 FSTGAUGE
+I- HSCT, BFT
+Q- ND: Undernet Area 1, HSCT, BFT, CO
+U- HSCT, BFT
+*- BGMD: Black Earth, HSCT, BFT 
+
+129: BLINDER
+*- PMD: Town Area 2, HCT, HSCT, BFT CO
+
+130: NRTHWIND
+E- BMD: Meteor Area 2 (Hard Mode), HSCT, BFT
+N- HSCT, BFT
+T- GMD: Undernet Area 1, ND: Undernet Area 1, HSCT, BFT, CO
+*- HSCT, BFT
+
+131: HOLYPANL
+*- BMD: Angel Statue (Super Hard mode), ND: Park Area 3, HCT, HSCT,
+BFT, CO
+
+132: HOLE
+*- GMD: Undernet Area 2, BMD: Undernet Area 6, BFT, CO
+
+133: INVIS
+*- FamFldr, BMD: Town Area 2, GMD: Town Area 2, GMD: Park Area 3, GMD: 
+Undernet Area 2, ND: Town Area 3, HCT, HSCT, BFT, CO
+
+134: POPUP
+J- HSCT, BFT
+P- BGMD: Park Areas, HSCT, BFT, CO
+Y- HSCT, BFT
+*- BGMD: Netopia Area, BGMD: Netfrica Area, BGMD: Yumland Area, BGMD: 
+Sharo Area, HSCT, BFT
+
+135: BARRIER 
+A- BMD: Dog House, HCT, HSCT
+D- HCT, HSCT, CO
+Z- HCT, HSCT
+*- GMD: Park Area 3, HCT, HSCT
+
+136: BARR100
+P- BMD: Chariot Statue (Super Hard Mode), HSCT, BFT
+Q- GMD: Park Area (Hard Mode), HSCT, BFT, CO
+W- BMD: Netfrica Area, GMD: Undernet Area 6, HSCT, BFT
+
+137: BARR200
+I- BFT, Bank Program
+O- GMD: Undernet Area 6 (Hard and Super Hard Mode), GMD: Park Area 3 
+(Super hard Mode), BFT, CO
+U- BMD: Undernet Area 2 (Hard mode), BFT
+
+138: ANTIFIRE
+K- BMD: Undernet Area 3 (hard Mode), BFT, CO
+
+139: ANTIAQUA
+D- PMD: Town Area 4 (Hard mode), BFT, CO
+
+140: ANTIELEC
+H- PMD: ACDC Area 2 (Hard Mode), BFT, CO
+
+141: ANTIWOOD
+M- PMD: ACDC Area 2 (Super Hard mode), BFT, CO
+
+142: ANTIDMG
+K- BFT
+M- BMD: Town Area (Hard mode), BFT, CO
+R- ND: Park Area 3, BFT
+
+143: ANTISWRD
+C- BFT, CO
+I- BFT
+N- BMD: Park Area 1, BFT
+*- BFT
+
+144: ANTINAVI
+J- BFT
+M- ND: Undernet Area 5, BFT, CO
+T- Bank Program, BFT
+
+145: ANTIRECV
+B- BFT
+D- BMD: NetFrica Area (Hard Mode), BFT, CO
+G- BFT
+*- BFT
+
+146: COPYDMG
+*- BMD: ACDC Area 3, GMD: Town Area 3, HCT, HSCT, CO
+
+147: LIFESYNC
+N- Numberman Scenario Prize, HCT, HSCT, BFT
+Q- Higsby’s Shop, HCT, HSCT, BFT, CO
+Y- HCT, HSCT, BFT
+
+148: ATK+10
+*- Fldr1, Fldr2, GMD: ACDC Area 3, GMD: Park Area 3, HCT, HSCT, CO
+
+149: NAVI+20
+*- BFD: undernet Area 4, HSCT, BFT, CO
+
+150: COLORPNT
+*- PMD: Park Area 3, GMD: ACDC Area 3 (Hard and Super Hard Mode), GMD:
+Town Area 1 (Hard mode), BMD: Park Area 2 (Super Hard Mode), Numberman
+Lotto Machine: 19095677, HCT, HSCT, BFT, CO
+
+
+~~~ MEGA CHIPS ~~~
+001: SUPRVULC
+V- Higsby’s Shop, BFT, CO, FamFldr
+
+002: NEOVARI
+N- PMD: Undernet 5, BFT, CO
+
+003: SHOTSTAR
+R- BFD: Park Area 3, BFT, CO
+
+004: GODHAMMR
+G- PMD: Undernet 1 (Hard Mode), BFT, CO
+
+005: GUARDIAN
+O- PMD: Undernet 1, BFT, CO
+
+006: JEALOUSY
+J- BMD: ACDC Area 3, BFT, CO
+
+007: BUGCHAIN
+C- ND: Undernet 5, BFT, HO
+*- BGMD: Black Earth, BFT
+
+008: BUGFIX
+B- PMD: Yumland Area, BFT, CO
+*- BMD: Meteor 3 (Super Hard Mode)
+
+009: FULLCUST
+*- BMD: Maze 12 (Water God - Netfrica), BFT, CO
+
+010: LIFEAURA
+D- BMD: Black Earth (Super Hard Mode), BFT, CO
+
+011: SNCTUARY
+S- PMD: Undernet 5 (Super Hard Mode), BFT, CO
+
+012: ATK+30
+*- ND: Undernet 5, BFT, CO
+
+013: DBLPOINT
+*- PMD: Park Area 3 (Hard Mode), BFT, CO
+
+014: MURAMASA
+M- HeelNaviSP in Undernet 5, BFT, CO
+
+015: ANUBIS
+A- HeelNaviSP in Undernet5, BFT, CO
+
+016: ELEMDARK
+E- ElempeoroEX Virus, BFT, CO
+
+017: BLAKWING
+W- HeelNavi in Undernet 5, BFT, CO
+
+018: DRKLINE
+L- PMD: Undernet 4 (Hard Mode), BFT, CO
+*- BGMD: Undernet Areas, BFT
+
+019: ROLL
+R- Beat Roll V2-V3-SP (Town Area 3), CO
+
+020: ROLLSP
+R- S Rank Roll SP (Town Area 3), CO
+
+021: ROLLDS
+R- S Rank w/ Hole on field Roll SP (Town Area 3), Roll DS (Black Earth 
+2), CO
+
+022: GUTSMAN
+G- Beat Gutsman V2-V3-SP (ACDC Area 2), CO
+
+023: GUSTMNSP
+G- S Rank Gutsman SP (ACDC Area 2), CO
+
+024: GUTSMNDS
+G- S Rank w/ Hole on field Gutsman SP (ACDC Area 3), Gutsman DS (Black 
+Earth 2), CO
+
+025: WINDMAN
+W- Beat Windman V2-V3-SP (Yumland Area), CO
+
+026: WINDMNSP
+W- S Rank Windman SP (Yumland Area), CO
+
+027: WINDMNDS
+W- S Rank w/ Hole on field Windman SP (Yumland Area), Windman DS (Black
+Earth 2), CO
+
+028: SERCHMAN
+S- Beat Searchman V2-V3-SP (Undernet Area 1), CO
+
+029: SRCHMNSP
+S- S Rank Searchman SP (Undernet Area 1), CO
+
+030: SRCHMNDS
+S- S Rank w/ Hole on field Searchman SP (Undernet Area 1), Searchman DS 
+(Black Earth 2), CO
+
+031: FIREMAN
+F- Beat Fireman V2-V3-SP (Town Area 2), Co
+
+032: FIREMNSP
+F- S Rank Fireman SP (Town Area 2), CO
+
+033: FIREMANDS
+F- S Rank w/ Hole on field Fireman SP (Town Area 2), Fireman DS (Black 
+earth 2), CO
+
+034: THUNMAN
+T- Beat Thunderman V2-V3-SP (Netopia Area), CO
+
+035: THUNMNSP
+T- S Rank Thunderman SP (Netopia Area), CO
+
+036: THUNMANDS
+T- S Rank w/ Hole on field Thunderman SP (Netopia Area), Thunderman DS
+(Black earth 2), CO 
+
+019: PROTOMAN
+B- Beat Protoman V2-V3-SP (Undernet Area 6), CO 
+
+020: PROTOMSP
+B- S Rank Protoman SP (Undernet Area 6), CO
+
+021: PROTOMDS
+B- S Rank w/ Hole on field Protoman SP (Undernet Area 6), Protoman DS 
+(Black earth 2), CO
+
+022: NUMBRMAN
+N- Beat Numberman V2-V3-SP (Town Area 4), CO
+
+023: NUMBMNSP
+N- S Rank Numberman SP (Town Area 4), CO
+
+024: NUMBMNDS
+N- S Rank w/ Hole on field Numberman SP (Town Area 4), Numberman DS 
+(Black earth 2), CO
+
+025: METALMAN
+M- Beat Metalman V2-V3-SP (Undernet Area 3), CO
+
+026: METLMNSP
+M- S Rank Metalman SP (Undernet Area 3), CO
+
+027: METLMNDS
+M- S Rank w/ Hole on field Metalman SP (Undernet Area 3), Metalman DS 
+(Black earth 2), CO
+
+028: JUNKMAN
+J- Beat Junkman V2-V3-SP (Undernet Area 2), CO
+
+029: JUNKMNSP
+J- S Rank Junkman SP (Undernet Area 2), CO
+
+030: JUNKMNDS
+J- S Rank w/ Hole on field Junkman SP (Undernet Area 2), Junkman (Black
+earth 2), CO
+
+031: AQUAMAN
+A- Beat Aquaman V2-V3-SP (ACDC Area 1), CO
+
+032: AQUAMNSP
+A- S Rank Aquaman SP (ACDC Area 1), CO
+
+033: AQUAMNDS
+A- S Rank w/ Hole on field Aquaman SP (ACDC Area 1), CO
+
+034: WOODMAN
+W- Beat Woodman V2-V3-SP (Park Area 1), CO
+
+035: WOODMNSP
+W- S Rank Woodman SP (Park Area 1), CO
+
+036: WOODMNDS
+W- S Rank w/ Hole on field Woodman SP (Park Area 1), (Black earth 2), 
+CO
+ 
+037: TOPMAN
+T- Beat Topman V2-V3-SP (Town Area 1), CO, BFT
+
+038: TOPMNSP
+T- S Rank Topman SP (Town Area 1), CO, BFT
+
+039: TOPMNDS
+T- S Rank w/ Hole on field Topman SP (Town Area 1), CO, BFT, GMD: Black
+Earth 1
+
+040: BURNMAN
+B- Beat Burnman V2-V3-SP (Park Area 2), CO, BFT
+
+041: BURNMNSP
+B- S Rank Burnman SP (Park Area 2), CO, BFT
+
+042: BURNMANDS
+B- S Rank w/ Hole Burnman SP (Park Area 2), CO, BFT, GMD: Black Earth 1
+
+043: COLDMAN
+C- Beat Coldman V2-V3-SP (Sharo Area), CO, BFT
+
+044: COLDMNSP
+C- S Rank Coldman SP (Sharo Area), CO, BFT
+
+045: COLDMNDS
+C- S Rank w/ Hole on field Coldman SP (Sharo Area), CO, BFT, GMD: Black
+Earth 1
+
+046: SPARKMAN
+S- Beat Sparkman V2-V3-SP (ACDC Area 3), CO, BFT
+
+047: SPRKMNSP
+S- S Rank Sparkman SP (ACDC Area 3), CO, BFT
+
+048: SPRKMNDS
+S- S Rank w/ Hole on field Sparkman SP (ACDC Area 3), GMD: Black Earth 
+1, CO, BFT
+
+049: SHADEMAN
+X- Beat Shademan SP, CO, BFT 
+
+050: SHADMNSP
+X- S Rank Shademan SP, CO, BFT
+
+051: SHADMNDS
+X- S Rank w/ Hole on field Shademan SP, Black Earth 2 GMD, CO, BFT
+
+052: LASERMAN
+L- Beat Laserman V2-V3-SP (Undernet Area 5), CO, BFT
+
+053: LASRMNSP
+L- S Rank Laserman SP (Undernet Area 5), CO, BFT
+
+054: LASRMNDS
+L- S Rank w/ Hole on field Laserman SP, CO, BFT, GMD: Black Earth 2
+
+055: KENDOMAN
+K- Beat Kendoman V2-V3-SP (Netfrica Area), CO, BFT
+
+056: KENDMNSP
+K- S Rank Kendoman SP (Netfrica Area), CO, BFT
+
+057: KENDMNDS
+K- S Rank w/ hole on field Kendoman SP (Netfrica Area), CO, BFT, GMD: 
+Black Earth 2
+
+058: VIDEOMAN
+V- FamFldr, Beat Videoman V2-V3-SP (Park Area 3), CO, BFT
+
+059: VIDEMNSP
+V- S Rank Videoman SP (Park Area 3), CO, BFT
+
+060: VIDEMNDS
+V- S Rank w/ Hole on field Videoman SP (Park Area 3), CO, BFT, GMD: 
+Black Earth 2
+
+
+~~~ GIGA CHIPS ~~~
+(RS) 001: REDSUN
+R- NAXA: Dr. Hikari (Can be obtained in Normal Mode)
+
+(RS) 002: HOLYDREM
+H- BFD: Undernet 4
+
+(RS) 003: BASS
+X- Defeat Bass in Black Earth 2
+
+(RS) 004: BUGCHARG
+C- BGMD: Against Shademan SP, BGMD: Against Laserman SP
+
+(RS) 005: BLAKBARR
+A- S Rank Bass SP
+
+(BM) 001: BLUEMOON
+B- NAXA: Dr. Hikari (Can be obtained in Normal Mode)
+
+(BM) 002: SIGNLRED
+S- BFD: Undernet 4
+
+(BM) 003: BASSANLY
+X- Defeat Bass in Black Earth 2
+
+(BM) 004: BUGCURSE
+C- BGMD: Against Shademan SP, BGMD: Against Laserman SP
+
+(BM) 005: DELTARAY
+Z- S Rank Bass SP
+
+
+~~~ SECRET CHIPS ~~~
+(See Chip Info [CINFO] for complete information on Secret Chips).
+
+000: ROLLARO1
+A, F, W- Higsby Free Tournament, enter the finals against Roll and beat
+her. Navi Soul Data should be from Normal Mode in order to receive this
+chip.
+
+000: ROLLARO2
+D, R, W- Higsby Free Tournament, enter the finals against Roll and beat
+her. Navi Soul Data should be from Hard Mode in order to receive this 
+chip.
+
+000: ROLLARO3
+Q, Y, Z- Higsby Free Tournament, enter the finals against Roll and beat
+her. Navi Soul Data should be from Super Hard Mode in order to receive
+this chip.
+
+000: GUTPNCH1
+B, E, N- Higsby Free Tournament, enter the finals against Gutsman and 
+beat him. Navi Soul Data should be from Normal Mode in order to receive
+this chip.
+
+000: GUTPNCH2
+G, P, Y- Higsby Free Tournament, enter the finals against Gutsman and 
+beat him. Navi Soul Data should be from Hard Mode in order to receive 
+this chip.
+
+000: GUTPNCH3
+M, Q, T- Higsby Free Tournament, enter the finals against Gutsman and 
+beat him. Navi Soul Data should be from Super Hard Mode in order to 
+receive this chip.
+
+000: PROPBOM1
+E, G, P, *- Higsby Free Tournament, enter the finals against Windman 
+and beat him. Navi Soul Data should be from Normal Mode in order to 
+receive this chip.
+
+000: PROPBOM2
+F, V, Z, *- Higsby Free Tournament, enter the finals against Windman 
+and beat him. Navi Soul Data should be from Hard Mode in order to 
+receive this chip.
+
+000: PROPBOM3
+H, J, Q- Higsby Free Tournament, enter the finals against Windman and 
+beat him. Navi Soul Data should be from Super Hard Mode in order to 
+receive this chip.
+
+000: SEEKBOM1
+B, R, S, *- Higsby Free Tournament, enter the finals against Searchman 
+and beat him. Navi Soul Data should be from Normal Mode in order to 
+receive this chip.
+
+000: SEEKBOM2
+C, I, O- Higsby Free Tournament, enter the finals against Searchman and
+beat him. Navi Soul Data should be from Hard Mode in order to receive 
+this chip.
+
+000: SEEKBOM3
+M, U, W- Higsby Free Tournament, enter the finals against Searchman and
+beat him. Navi Soul Data should be from Super Hard Mode in order to 
+receive this chip.
+
+000: METEORS1
+G, L, S, *- Higsby Free Tournament, enter the finals against Fireman 
+and beat him. Navi Soul Data should be from Normal Mode in order to 
+receive this chip.
+
+000: METEORS2
+M, Q, T- Higsby Free Tournament, enter the finals against Fireman and 
+beat him. Navi Soul Data should be from Hard Mode in order to receive 
+this chip.
+
+000: METEORS3
+C, R, Z- Higsby Free Tournament, enter the finals against Fireman and 
+beat him. Navi Soul Data should be from Super Hard Mode in order to 
+receive this chip.
+
+000: LIGTNIN1
+L, T, W, *- Higsby Free Tournament, enter the finals against Thunderman
+and beat him. Navi Soul Data should be from Normal Mode in order to 
+receive this chip.
+
+000: LIGTNIN2
+A, E, V- Higsby Free Tournament, enter the finals against Thunderman 
+and beat him. Navi Soul Data should be from Hard Mode in order to 
+receive this chip.
+
+000: LIGTNIN3
+H, J, Q- Higsby Free Tournament, enter the finals against Thunderman 
+and beat him. Navi Soul Data should be from Super Hard Mode in order 
+to receive this chip.
+
+000: HAWKCUT1
+H, N, O- Higsby Free Tournament, enter the finals against Protoman and 
+beat him. Navi Soul Data should be from Normal Mode in order to receive
+this chip.
+
+000: HAWKCUT2
+F, S, V- Higsby Free Tournament, enter the finals against Protoman and
+beat him. Navi Soul Data should be from Hard Mode in order to receive 
+this chip.
+
+000: HAWKCUT3
+I, N, Z- Higsby Free Tournament, enter the finals against Protoman and 
+beat him. Navi Soul Data should be from Super Hard Mode in order to 
+receive this chip.
+
+000: NUMBRBL1
+E, L, W- Higsby Free Tournament, enter the finals against Numberman and
+beat him. Navi Soul Data should be from Normal Mode in order to receive
+this chip.
+
+000: NUMBRBL2
+A, E, P- Higsby Free Tournament, enter the finals against Numberman and
+beat him. Navi Soul Data should be from Hard Mode in order to receive 
+this chip.
+
+000: NUMBRBL3
+L, T, Y- Higsby Free Tournament, enter the finals against Numberman and
+beat him. Navi Soul Data should be from Super Hard Mode in order to 
+receive this chip.
+
+000: METLGER1
+A, M, P, *- Higsby Free Tournament, enter the finals against Metalman 
+and beat him. Navi Soul Data should be from Normal Mode in order to 
+receive this chip.
+
+000: METLGER2
+C, E, G, *- Higsby Free Tournament, enter the finals against Metalman 
+and beat him. Navi Soul Data should be from Hard Mode in order to 
+receive this chip.
+
+000: METLGER3
+I, l, Q, *- Higsby Free Tournament, enter the finals against Metalman 
+and beat him. Navi Soul Data should be from Super Hard Mode in order to
+receive this chip.
+
+000: PANLSHT1
+A, H, S, *- Higsby Free Tournament, enter the finals against Junkman 
+and beat him. Navi Soul Data should be from Normal Mode in order to 
+receive this chip.
+
+000: PANLSHT2
+C, G, T, *- Higsby Free Tournament, enter the finals against Junkman 
+and beat him. Navi Soul Data should be from Hard Mode in order to 
+receive this chip.
+
+000: PANLSHT3
+F, J, N, *- Higsby Free Tournament, enter the finals against Junkman 
+and beat him. Navi Soul Data should be from Super Hard Mode in order to
+receive this chip.
+
+000: AQUAUP1
+B, S, Z- Higsby Free Tournament, enter the finals against Aquaman and 
+beat him. Navi Soul Data should be from Normal Mode in order to receive
+this chip.
+
+000: AQUAUP2
+I, P, U- Higsby Free Tournament, enter the finals against Aquaman and 
+beat him. Navi Soul Data should be from Hard Mode in order to receive 
+this chip.
+
+000: AQUAUP3
+F, K, W- Higsby Free Tournament, enter the finals against Aquaman and
+beat him. Navi Soul Data should be from Super Hard Mode in order to 
+receive this chip.
+
+000: GREENWD1
+G, J, Y- Higsby Free Tournament, enter the finals against Woodman and 
+beat him. Navi Soul Data should be from Normal Mode in order to receive
+this chip.
+
+000: GREENWD2
+D, K, P- Higsby Free Tournament, enter the finals against Woodman and 
+beat him. Navi Soul Data should be from Hard Mode in order to receive 
+this chip.
+
+000: GREENWD3
+E, N, P- Higsby Free Tournament, enter the finals against Woodman and 
+beat him. Navi Soul Data should be from Super Hard Mode in order to 
+receive this chip.
+
+000: GUNSOLEX
+G- Numberman Lotto Machine (74293099)
+
+000: Z-SAVER
+Z- Trade data from Megaman Zero 3
+
+000: GRANDPRIXPOWER
+G- Capcom Official Promotions/E-Reader, JPN Only
+
+000: Duo
+D- Capcom Official Promotions/E-Reader, JPN Only
+
+000: FINALGUN
+?- No idea
+
+~~~ DARK CHIPS ~~~
+000: DARKBOMB
+- Appears randomly when Megaman is in Worried or Dark Mode.
+
+000: DRKCANON
+- Appears randomly when Megaman is in Worried or Dark Mode.
+
+000: DRKLANCE
+- Appears randomly when Megaman is in Worried or Dark Mode.
+
+000: DRKRECOV
+- Appears randomly when Megaman is in Worried or Dark Mode.
+
+000: DRKSPRED
+- Appears randomly when Megaman is in Worried or Dark Mode.
+
+000: DRKSTAGE
+- Appears randomly when Megaman is in Worried or Dark Mode.
+
+000: DRKSWORD
+- Appears randomly when Megaman is in Worried or Dark Mode.
+
+000: DRKVULCN
+- Appears randomly when Megaman is in Worried or Dark Mode.
+
+
+(NOTE: These chips are not seen in your library).
+
+There are all the locations. Hope this helps.
+
+Fin.
+======================================================================
+======================================================================
+
+
+
+======================================================================
+======================================================================
+[12] F R E Q U E N T L Y  A S K E D  Q U E S T I O N S
+
+Keyword: [FAQ--]
+
+Here are questions asked by a lot of you via email/IM.
+
+Q: What is this stupid Bank Program you keep on talking about LAMER!
+A: The Bank Program is a gold colored program that appears in any one
+of the 16 rooms in the Water God randomly. When you encounter him, he 
+heals your health and gives you a random chip.
+
+Q: CODES! ACTION REPLAY CODES, GAMESHARK, CODEBREAKER GIVE ME!
+A: No, no, no. This is a Chip Guide, not a code center =/.
+
+Q: Where’s Grab Revenge and AntiWood?
+A: You can only get these two from PMDs if you got the items in those 
+PMDs beforehand in Normal and Hard Mode. So, simply put, if you 
+skipped out on those PMDs in the modes before Super Hard Redux, you 
+can’t get the chips until your 4th play through. 
+
+Q: Hey help me beat the game!
+A: I’m here to only provide information on chips, that’s basically it.
+I’m not a Walkthrough/FAQ, so don’t ask me about any in-game scenarios
+or Boss Strategies.   
+
+More to come obviously.
+======================================================================
+======================================================================
+
+
+
+======================================================================
+======================================================================
+[13] L E G A L  I N F O R M A T I O N  A N D  C O P Y R I G H T
+
+Keyword: [LEGAL]
+
+The Megaman Battle Network Series, and all other Megaman related 
+contents are copyright to Capcom. 
+
+This FAQ is copyright to myself, DX Xetrov (Anthony Douglas), 2004. It
+is only allowed to be posted on IGN, GameFAQs, and sites that I allow.
+It should NOT be on any other site without my permission. Do NOT copy 
+this guide in any way. That’s plagiarism and it’s illegal. If you want 
+to use this guide or ask questions about, just check out the Contact 
+Me section for all my information.  
+
+Special Thanks:
+*SuperShadow1027 (Keith)
+Great friend, and always quick to discuss various MMBN things. Helped 
+me a lot in MMBN 2 and 3 when I got lazy =P. 
+
+*Crossfire Forums. They’ve gotten pretty good over time. I suggest you
+all check it out:
+
+http://www.kinjutsu.com/ex/xfire/index.php?
+
+*SilentJi for Duo and GPP information, and not getting mad when I 
+forgot to ask if I could post his descriptions in this Guide =P.
+
+*White Dragon Nall for hacking Duo, GPP, and most importantly, Final 
+Gun.
+
+*Brady Games Strategy Guide
+Providing locations of chips gained out of the traders, bank programs,
+and the S-Rank information.
+
+*Capcom of Japan and America: 
+For making and bring this game stateside, even though it could have 
+been MUCH better.
+
+*MMBN4 Red Sun and Blue Moon GameFAQs Board Members: 
+For providing round the clock information on Chips.
+
+*The Other FAQ Writers of GameFAQs MMBN4 Sections: 
+Inspiration guys. If it weren’t for you I probably would have never 
+gotten the energy to do this at all. Keep on bringing great 
+information to the players, it helps much more then you could imagine.
+
+*Renowned Folders FAQ, NetBattle Strategy Guide, and the OFRC. All from
+Megaman Battle Network 3 GameFAQs section.
+All three of these things helped myself become an overall better 
+player. The guides made me realize that this series has a nice layer of
+strategy behind it through folder building. 
+
+Fin.
+======================================================================
+======================================================================
+
+
+
+======================================================================
+======================================================================
+[14] V E R S I O N  H I S T O R Y
+
+Keyword: [VERSI]
+*8/11/04- Version 2.6 Added Duo, GPP, and Final Gun info.
+
+*8/1/04- Version 2.5: Fixed typos and grammer stuff in Intro section.
+
+*7/30/04- Version 2.5: Deleted the unnecessary S-Rank thing. DarkMarth
+already has a FAQ all about that. Added FAQ section. Fixed a couple of
+typos.
+
+*7/27/04- Version 2.31: Fixed up this Mega Chip Version Specific thing
+I forgot to change. Thanks to geno for pointing it out.
+
+*7/22/04- Version 2.3: FAQ Section, minor fixes.
+
+*7/21/04- Version 2.0: Yeah, I’m calling this update Version 2.0. 
+Simply because every single topic I wanted to cover in the guide is up 
+(guess you could call it finished). This guide will just go through
+minor polishing, such as changing typos, and cleaning up a few 
+descriptions to make much more sense. Apart from that, another thing 
+I’m trying to get is all possible information on Chips gained from 
+Japanese E-Reader Cards. You’ll probably being seeing that information 
+shortly. Remember, to prevent clutter on the Message Boards, always 
+check everything in the FAQ first with Ctrl+F before asking questions 
+there.
+
+Now use this Guide until your eyes burn, because almost all you need 
+to know about Battle Chips is right here.
+
+*7/19/04- Version 1.6: Added more Standard Chip Locations.
+
+*7/15/04- Version 1.5: I felt like this Guide didn’t give the full 
+information possible on all the Battle Chips in the game (and plus 
+emails on where certain chips are located just piled up in my inbox). 
+So therefore I added a Chips Location section. Hope it helps. Also I 
+fixed some more typos, and added Keywords.
+
+*7/14/04- Version 1.0: First FAQ. Everything is up and ready for 
+viewing.  
+
+Fin.
+======================================================================
+======================================================================
+
+
+
+======================================================================
+======================================================================
+[15] C O N T A C T  M E
+
+Keyword: [CONTM]
+
+Here’s the info:
+
+AIM: DXFlipSide
+Email: dxflipside@hotmail.com
+
+All questions are welcome. Comments that can help better improve this 
+guide, or point out mistakes are also welcomed (anything from spacing 
+problems, to complete chip errors).
+
+PLEASE NOTE: When messaging me, don’t act stupid. Get straight to your
+point and make sense. Flaming will just result in your message getting
+deleted. Thanks for understanding.
+
+If none of those work, head over to the Crossfire Forums:
+
+http://www.kinjutsu.com/ex/xfire/index.php?
+
+Fin.
+======================================================================
+======================================================================
+
+And that’s a wrap. . .
+
+
+
+

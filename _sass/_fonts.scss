@@ -1,0 +1,11 @@
+@mixin unicode {
+	font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+@mixin mono {
+	font-family: "Anonymous Pro", "Courier New", monospace;
+}
+
+@mixin sans {
+	font-family: "Clear Sans", Arial, sans-serif;
+}

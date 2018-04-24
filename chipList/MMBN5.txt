@@ -1,0 +1,6069 @@
+===============================================================================
+<>  |M|M|B|N|5| : |T|o|B|&|T|o|C| - |B|A|T|T|L|E| - |C|H|I|P| - |G|U|I|D|E|  <>
+===============================================================================
+
+
+<> Megaman Battle Network 5: Team of Blue and Team of Colonel Battle Chip Guide
+
+
+Written by H0tSh0tZ1267 (Kenny Shatzkes)
+
+
+-------------------
+Legal Notice
+-------------------
+This FAQ is copyright 2005 H0tSh0tZ1627.  It is not allowed to be posted 
+anywhere, except on GameFAQs, IGN, and NeoSeeker.  It should not be on any other
+site unless you get my permission.  Copying this guide in anyway will just 
+cause you pain and punishment beyond imagination. Contact me if anything is 
+needed.
+
+-----------------------
+Version History
+-----------------------
+- 1.2 (May 28, 2005): Completed everything.  Except corrections and revisions 
+to be made later.
+
+- 1.1 (February 11, 2005): Completed Standard Chip section.  Also made 
+some corrections pointed out by users.
+
+- 1.0 (January 22, 2005): Completed Chip List by Class section, Chip List
+by Code, and Chip List by Type sections.
+
+
+==============================================================
+Table of Contents
+============================================================== 
+
+1. Introduction [INTRO]
+2. Chips?!  Can you eat them?! [CINFO]
+3. Chip List by Class [CLASS]
+4. Chip List by Code [CODES]
+5. Chip List by Type [TYPES]
+6. All the info you need on Standard Chips [STAND]
+7. All the info you need on Mega Chips [MEGAS]
+8. All the info you need on Giga Chips [GIGAS]
+9. All the info you need on Secret Chips [SECRT]
+10. All the info you need on Dark Chips [DARKS]
+11. Frequently asked Questions [FAQS-]
+12. Acknowledgments [ACKSS]
+13. Contact Info [CONTC]
+==============================================================
+
+
+==============================================================
+1. Introduction 					[INTRO]
+==============================================================
+This is the first FAQ I am writing and I hope it is a successful and very 
+helpful one.  I never actually thought I would write a FAQ, because I saw 
+so many people attempt and never get it done.  Why would I be different?
+Because I am that good... =P.  
+
+People have been asking forever now, "WHERE CAN I GET A CHIP LIST?!" 
+Well, here it is.  The chip list you all have been waiting for.  Not only is
+this a chips list, but this also will explain every single chip to you in depth,
+so you can build that all-star folder you want.  
+
+In this guide are the lists of chips by class, code, and type.  It is very
+important to have a nice reference of chips by each of these
+categories, in order to make the best possible folder.  All your folder 
+needs are right here in one place.  
+
+Without further delay... here we go...
+==============================================================
+
+
+==============================================================
+2. Chips?!  Can you eat them?!				[CINFO]
+==============================================================
+No you cannot!  Unless you like to eat plastic/metal. o_O.
+
+Battle chips are the basis of the MMBN series.  All of you should know what
+they are.  There are many different type of chips in the game, from Recover
+chips, to damage chips.  Each chip has its own purpose that can help you
+in a cinch.  A group of 30 chips makes up a folder.  Your folder should be
+a group of chips that are based around one common strategy.  Thats
+what a good folder is all about.
+
+There are 3 different things that classify a chip:
+
+1. Class
+Each chip is part of a large group of chips called a class.  In BN5, there 
+are 5 different classes: Standard, Mega, Giga, Secret, and Dark.  In each folder
+there are restrictions to the amount of each class chips are allowed in the 
+folder.
+- Standard - unlimited
+- Mega - 5
+- Secret - they count as mega or giga chips
+- Giga - 1
+- Dark - 3  
+
+2. Code
+Each chip has a letter code assigned to it.  Codes are very important when 
+building a folder.  The more chips with the same code in your folder, the 
+faster and more fluid your folder would be.  When making a folder, 
+make sure to try and pick chips within only one chip code, unless you want to
+be flamed on the boards with the "OMGWTFZ YOU SUXXORZ!!!1!!.
+
+3. Type
+Each chip has a certain type to it.  The type can be considered like an
+element.  There are many different types of elements in BN5, listed below:
+Normal, Fire, Aqua, Wood, Elec, Wind, Recovery, Invisibility, Variable, 
+Break, Sword, Obstacle, and Aiming.  Depending on the type of chip
+sacrificed at the beggining of a Netbattle turn, a different Soul would
+appear fused with Megaman.  Different type chips also have special
+effects on other elements.  Such as Elec chips do double damage
+on Ocean Panels.
+==============================================================
+
+
+==============================================================
+3. Chip List by Class					[CLASS]
+==============================================================
+Listed below is all the chips organized by the classes they are designated
+to.  Listed next to them is each code the chip comes in, just for
+convenience.
+
+====================
+Standard Chip List
+====================
+Cannon A, B, C, *
+HiCannon D, E, F
+MegaCannon F, G, H
+AirShot *
+Vulcan 1 C, D, E, *
+Vulcan 2 A, B, C
+Vulcan 3 L, M, N
+Spreader C, D, E, *
+MarkCannon 1 K, M, S
+MarkCannon 2 D, F, Z
+MarkCannon 3 E, R, Y
+BatShot 1 F, P, T
+BatShot 2 E, G, M
+BatShot 3 C, R, S
+BigTank 1 A, E, P
+BigTank 2 B, T, Y
+BigTank 3 F, M, R
+WideShot 1 L, M, N
+WideShot 2 E, F, G
+WideShot 3 S, T, U
+ElecReel 1 C, V, Z
+ElecReel 2 B, Q, Y
+ElecReel 3 E, L, R
+SabotenBall 1 H, I, J
+SabotenBall 2 Q, R, S
+SabotenBall 3 L, M, N
+GunSol 1 A, S, U, *
+GunSol 2 G, U, Y
+GunSol 3 D, M, O
+ElementalArm E, K, W
+Thunder B, L, P, *
+Tornado D, L, R
+NoiseStorm N, S, V
+MiniBomb B, G, L, *
+EnergyBomb E, P, W
+MegEnBomb C, K, Z
+CrackBomb C, R, V, *
+ParalyzeBomb H, N, P
+ResetBomb D, I, O
+Quake 1 A, K, P
+Quake 2 B, L, Y
+Quake 3 F, H, N
+BugBomb A, R, T, *
+Ball C, T, Z, *
+BlackBomb L, R, Z
+Geyser G, M, S
+MagmaSeed H, K, P
+OceanSeed D, J, M, *
+IceSeed A, K, Q, *
+GrassSeed A, M, W, *
+Sword C, L, S
+WideSword K, S, Z
+LongSword C, M, S
+WideBlade A, L, V
+LongBlade E, L, P
+CustomSword E, L, R
+VarSword B, C, V
+Slasher B, I, R
+WindRacket B, F, J, *
+Kunai 1 E, N, Z
+Kunai 2 G, O, V
+Kunai 3 C, L, T
+SamuraiSword 1 D, H, S
+SamuraiSword 2 B, R, W
+SamuraiSword 3 A, J, Z
+Yoyo D, E, F
+DrillArm 1 A, J, W
+DrillArm 2 D, L, S
+DrillArm 3 I, P, Z
+AirHock Q, R, S
+SkullChain 1 C, K, S
+SkullChain 2 A, H, V
+SkullChain 3 G, N, U
+WaterTornado 1 B, F, N
+WaterTornado 2 A, H, O
+WaterTornado 3 D, I, R
+AirWheel 1 C, E, O
+AirWheel 2 B, H, W
+AirWheel 3 A, G, J
+FirePunch 1 O, P, Q
+FirePunch 2 H, I, J
+FirePunch 3 E, F, G
+BodyBurn 1 A, F, P
+BodyBurn 2 C, R, W
+BodyBurn 3 J, M, S
+SideBubble 1 D, Q, S
+SideBubble 2 H, L, W
+SideBubble 3 E, N, P
+CustomBolt 1 A, V, Y, *
+CustomBolt 2 C, E, G
+CustomBolt 3 G, M, P
+Boomer A, L, V, *
+Meteors 1 A, Q, T
+Meteors 2 E, M, U
+Meteors 3 C, P, Y
+Satellite 1 G, H, I
+Satellite 2 B, C, D
+Satellite 3 S, T, U
+InazumaKing 1 K, O, Y
+InazumaKing 2 J, U, Z
+InazumaKing 3 A, H, V
+WoodyNose 1 F, R, W
+WoodyNose 2 J, T, Z
+WoodyNose 3 I, S, V
+Lance C, L, R, *
+TsunamiBall B, E, Z
+RedTsunamiBall A, F, H
+MudTsunamiBall D, N, W
+ComeOnRain B, G, L
+Snake C, M, Z
+Magnum E, O, V
+CircGun A, C, F
+TimeBomb 1 H, N, T
+TimeBomb 2 D, H, Z
+TimeBomb 3 F, H, S
+BoyBomb 1 C, F, S
+BoyBomb 2 H, P, W
+BoyBomb 3 B, Q, Y
+Mine H, P, T
+RockCube *
+Fan *
+Wind *
+Fanfare F, P, Z, *
+Discord B, J, Q, *
+Timpani A, L, V, *
+Silence C, J, N, *
+RedFruit 1 E, K, Z
+RedFruit 2 F, T, W
+RedFruit 3 H, O, U
+VDoll O, T, Z
+Guard 1 A, D, K, *
+Guard 2 B, L, Q, *
+Guard 3 C, M, S, *
+CurseShield 1 B, F, V
+CurseShield 2 C, M, R
+CurseShield 3 D, O, Z
+PanelOut *
+DoubleCrack *
+TripleCrack *
+Recover10 A, C, L, *
+Recover30 C, H, L, *
+Recover50 B, H, O, *
+Recover80 B, K, O, *
+Recover120 K
+Recover150 Q
+Recover00 I
+Recover300 Y
+PanelGrab *
+AreaGrab A, L, S, *
+Metagel F, N, T
+GrabBnsh D, L, R
+GrabRvng F, N, P
+PanelReturn *
+DeathMatch 1 M, P, Z, *
+DeathMatch 2 H, T, W
+DeathMatch 3 A, O, V
+Slowgauge H, Q, W, *
+Fastgauge H, Q, W, *
+BusterUp *
+Blinder A, D, H, *
+Northwind D, Q, V, *
+HolyPanel A, N, U, *
+Invis *
+Barrier B, L, S, *
+Barrier100 P
+Barrier200 W
+BubbleWrap Y
+AntiFire E, K, T, *
+AntiAqua D, G, Q, *
+AntiElec A, N, Y, *
+AntiWood M, S, Z, *
+AntiDmg C, F, M, *
+AntiSword D, O, R
+AntiNavi M, T, V
+AntiRecover B, J, P
+CopyDamage *
+LifeSynchro B, R, S, *
+Attack +10 *
+Navi +20 *
+ColorPoint *
+
+
+===============
+Mega Chip List
+===============
+SuperVulcan S
+NeoVarSword V
+ShotStar R
+Numberball N, *
+Guardian O
+Jealousy J
+Poltergeist P
+BugFix H, *
+FullCust *
+LifeAura D
+Sanctuary S
+Attack +30 *
+DoublePoint *
+Muramasa M
+Anubis A
+BlackWing W
+JusticeOne J
+Z-Saber Z
+Roll R
+Roll SP R
+Roll DS R
+Blues B
+Blues SP B
+Blues DS B
+Gyroman G
+Gyroman SP G
+Gyroman DS G
+Searchman S
+Searchman SP S
+Searchman DS S
+Napalmman N
+Napalmman SP N
+Napalmman DS N
+Magnetman M
+Magnetman SP M
+Magnetman DS M
+Meddy M
+Meddy SP M
+Meddy DS M
+Colonel C
+Colonel SP C
+Colonel DS C
+Shadowman S
+Shadowman SP S
+Shadowman DS S
+Numberman N
+Numberman SP N
+Numberman DS N
+Tomahawkman T
+Tomahawkman SP T
+Tomahawkman DS T
+Knightman K
+Knightman SP K
+Knightman DS K
+Toadman T
+Toadman SP T
+Toadman DS T
+Blizzardman B
+Blizzardman SP B
+Blizzardman DS B
+Shademan S
+Shademan SP S
+Shademan DS S
+Cloudman C
+Cloudman SP C
+Cloudman DS C
+Cosmoman C
+Cosmoman SP C
+Cosmoman DS C
+Swallowman S
+Swallowman SP S
+Swallowman DS S
+Footman F
+Footman SP F
+Footman DS F
+Django D
+Django SP D
+Django DS D
+
+
+=================
+Secret Chip List
+=================
+Otenko O
+GunSolEX G
+LeadersRaid
+NebulaGrey
+Final Gun A, B, C, * ???
+
+
+===============
+Giga Chip List
+===============
+DeltaRayEdge Z
+GiantHook G
+Forte F
+HolyDream H
+BugCurse C
+DeathPhoenix D
+CrossSlash C
+MeteoKnucle M
+ForteAnother F
+OmegaRocket R
+BugCharge B 
+Phoenix P
+
+
+===============
+Dark Chip List
+===============
+DarkSword Z
+DarkTornado T
+DarkCircGun
+DarkMeteors F
+DarkThunder M
+DarkRecover H, *
+DarkSound E, *
+DarkInvis I, *
+DarkAttack+ *
+DarkLance W
+DarkDrillArm D
+DarkWideShot T
+
+
+==============================================================
+4. Chip List by Code					[CODES]
+==============================================================
+Listed below is all the chips organized by the codes they come in.
+ 
+===============
+A Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+Cannon
+Vulcan 2
+BigTank 1
+GunSol 1
+Quake 1
+BugBomb
+IceSeed
+GrassSeed
+WideBlade
+SamuraiSword 3
+DrillArm 1
+SkullChain 2
+WaterTornado 2
+AirWheel 3
+BodyBurn 1
+CustomBolt 1
+Boomer
+Meteors 1
+InazumaKing 3
+RedTsunamiBall
+CircGun
+Timpani
+Guard 1
+Recover 10
+AreaGrab
+DeathMatch 3
+Blinder
+HolyPanel
+AntiElec
+
+------------------
+Mega Chips
+------------------
+Anubis
+
+-------------------
+Secret Chips
+-------------------
+Final Gun??
+
+------------------
+Giga Chips
+------------------
+None
+
+-----------------
+Dark Chips
+-----------------
+None
+
+
+===============
+B Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+Cannon
+Vulcan 2
+BigTank 2
+ElecReel 2
+Thunder
+MiniBomb
+Quake 2
+Varsword
+Slasher
+WindRacket
+SamuraiSword 2
+WaterTornado 1
+AirWheel 2
+Sattelite 2
+TsunamiBall
+ComeOnRain
+BoyBomb 3
+Discord
+Guard 2
+CurseShield 1
+Recover50
+Recover80
+Barrier
+AntiRecover
+LifeSynchro
+
+-------------------
+Mega Chips
+-------------------
+Blues
+Blues SP
+Blues DS
+Blizzardman
+Blizzardman SP
+Blizzardman DS
+
+-------------------
+Secret Chips
+-------------------
+Final Gun??
+
+-------------------
+Giga Chips
+-------------------
+BugCharge
+
+-----------------
+Dark Chips
+-----------------
+None
+
+
+===============
+C Code!
+===============
+
+-----------------------
+Standard Chips 
+-----------------------
+Cannon
+Vulcan 1
+Vulcan 2
+Spreader
+BatShot 3
+ElecReel 1
+MegEnBomb
+CrackBomb
+Ball
+Sword
+LongSword
+VarSword
+Kunai 3
+SkullChain 1
+AirWheel 1
+BodyBurn 2
+Custom Bolt 2
+Meteors 3
+Satellite 2
+Lance
+Snake
+CircGun
+BoyBomb 1
+Silence
+Guard 3
+CurseShield 2
+Recover10
+Recover30
+AntiDmg
+
+------------------
+Mega Chips
+------------------
+Colonel
+Colonel SP
+Colonel DS
+Cloudman
+Cloudman SP
+Cloudman DS
+Cosmoman 
+Cosmoman SP
+Cosmoman DS
+
+--------------------
+Secret Chips
+--------------------
+FinalGun??
+
+-----------------
+Giga Chips
+-----------------
+BugCurse
+CrossSlash
+
+-----------------
+Dark Chips
+-----------------
+None
+
+
+===============
+D Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+HiCannon
+Vulcan 1
+Spreader
+MarkCannon 2
+GunSol 3
+Tornado
+ResetBomb
+OceanSeed
+SamuraiSword 1
+Yoyo
+DrillArm 2
+WaterTornado 3
+SideBubble 1
+Satellite 2
+MudTsunamiBall
+TimeBomb 2
+Guard 1
+CurseShield 3
+GrabBnsh
+Blinder
+NorthWind
+AntiAqua
+AntiSword
+
+------------------
+Mega Chips
+------------------
+LifeAura
+Django
+Django SP
+Django DS
+
+-----------------
+Giga Chips
+-----------------
+DeathPhoenix
+
+-----------------
+Dark Chips
+-----------------
+DarkDrillArm
+
+
+===============
+E Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+Cannon
+Vulcan 1
+Spreader
+MarkCannon 3
+BatShot 2
+BigTank 1
+WideShot 2
+ElecReel 3
+ElementalArm
+EnergyBomb
+LongBlade
+CustomSword
+Kunai 1
+Yoyo
+AirWheel 1
+FirePunch 3
+SideBubble 3
+CustomBolt 2
+Meteors 2
+TsunamiBall
+Magnum
+RedFruit 1
+AntiFire
+
+------------------
+Mega Chips
+------------------
+None
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+DarkSound
+
+
+===============
+F Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+Cannon
+MegaCannon
+MarkCannon 2
+BatShot 1
+BigTank 3
+WideShot 2
+Quake 3
+WindRacket
+Yoyo
+WaterTornado
+FirePunch 3
+BodyBurn 1
+WoodyNose 1
+RedTsunamiBall
+CircGun
+TimeBomb 3
+BoyBomb 1
+Fanfare
+RedFruit 2
+CurseShield 1
+Metagel
+GrabRvng
+AntiDmg
+
+------------------
+Mega Chips
+------------------
+Footman
+Footman SP
+Footman DS
+
+-----------------
+Giga Chips
+-----------------
+Forte
+Forte Another
+
+-----------------
+Dark Chips
+-----------------
+DarkMeteors
+
+
+===============
+G Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+MegaCannon
+BatShot 2
+WideShot 2
+GunSol 2
+MiniBomb
+Geyser
+Kunai 2
+SkullChain 3
+AirWheel 3
+FirePunch 3
+CustomBolt 2
+CustomBolt 3
+Satellite 1
+ComeOnRain
+AntiAqua
+
+-----------------
+MegaChips
+-----------------
+Gyroman
+Gyroman SP
+Gyroman DS
+
+--------------------
+Secret Chips
+--------------------
+GunSolEX
+
+-----------------
+Giga Chips
+-----------------
+GiantHook
+
+-----------------
+Dark Chips
+-----------------
+None
+
+
+===============
+H Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+MegaCannon
+SabotenBall 1
+ParalyzeBomb
+Quake 3
+MagmaSeed
+SamuraiSword 1
+SkullChain 2
+WaterTornado 2
+AirWheel 2
+FirePunch 2
+SideBubble 2
+Satellite 1
+InazumaKing 3
+RedTsunamiBall
+TimeBomb 1
+TimeBomb 2
+TimeBomb 3
+BoyBomb 2
+Mine
+RedFruit 3
+Recover30
+Recover50
+DeathMatch 2
+Slowguage
+Fastguage
+Blinder
+
+------------------
+Mega Chips
+------------------
+BugFix
+
+-----------------
+Giga Chips
+----------------- 
+HolyDream
+
+-----------------
+Dark Chips
+-----------------
+DarkRecover
+
+
+===============
+I Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+SabotenBall 1
+ResetBomb 
+Slasher
+DrillArm 3
+WaterTornado 3
+FirePunch 2
+Satellite 1
+WoodyNose 3
+Recover200
+
+------------------
+Mega Chips
+------------------
+None
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+----------------- 
+DarkInvis
+
+
+===============
+J Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+SabotenBall 1
+OceanSeed
+WindRacket
+SamuraiSword 3
+DrillArm 1
+AirWheel 3
+FirePunch 2
+BodyBurn 3
+InazumaKing 2
+WoodyNose 2
+Discord
+Silence
+AntiRecover
+
+------------------
+Mega Chips
+------------------
+Jealousy
+JusticeOne
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+None
+
+
+===============
+K Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+MarkCannon 1
+ElementalArm
+MegEnBomb
+Quake 1
+MagmaSeed
+IceSeed
+WideSword
+SkullChain 1
+InazumaKing 1
+RedFruit 1
+Guard 1
+Recover80
+Recover120
+AntiFire
+
+------------------
+Mega Chips
+------------------
+Knightman 
+Knightman SP
+Knightman DS
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+None
+
+
+===============
+L Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+Vulcan 3
+WideShot 1
+ElecReel 3
+SabotenBall 3
+Thunder
+Tornado
+MiniBomb
+Quake 2
+BlackBomb
+Sword
+WideBlade
+LongBlade
+CustomSword
+Kunai 3
+DrillArm 2
+SideBubble 2
+Boomer
+Lance
+ComeOnRain
+Timpani
+Guard 2
+Recover10
+Recover30
+AreaGrab
+GrabBnsh
+Barrier
+
+------------------
+Mega Chips
+------------------
+None
+
+--------------------
+Secret Chips
+--------------------
+LeadersRaid
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+----------------- 
+None
+
+
+===============
+M Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+Vulcan 3
+MarkCannon 1
+BatShot 2
+BigTank 3
+WideShot 1
+SabotenBall 3
+GunSol 3
+Geyser 
+OceanSeed
+GrassSeed
+LongSword
+BodyBurn 3
+CustomBolt 3
+Meteors 2
+Snake
+Guard 3
+CurseShield 2
+DeathMatch 1
+AntiWood
+AntiDmg
+AntiNavi
+
+------------------
+Mega Chips
+------------------
+Muramasa
+Magnetman 
+Magnetman SP
+Magnetman DS
+Meddy
+Meddy SP
+Meddy DS
+
+-----------------
+Giga Chips
+-----------------
+MeteoKnuckle
+
+-----------------
+Dark Chips
+-----------------
+DarkThunder
+
+
+===============
+N Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+Vulcan 3
+WideShot 1
+SabotenBall 3
+NoiseStorm
+ParalyzeBomb
+Quake 3
+Kunai 1
+SkullChain 3
+WaterTornado 1
+SideBubble 3
+MudTsunamiBall 
+TimeBomb 1
+Silence
+Metagel
+GrabRvng
+HolyPanel
+AntiElec
+
+------------------
+Mega Chips
+------------------
+Numberball
+Napalmman
+Napalmman SP
+Napalmman DS
+Numberman
+Numberman SP
+Numberman DS
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+None
+
+
+===============
+O Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+GunSol 3
+ResetBomb
+Kunai 2
+WaterTornado 2
+AirWheel 1
+FirePunch 1
+InazumaKing 1
+Magnum
+RedFruit 3
+VDoll
+CurseShield 3
+Recover50 
+Recover80
+DeathMatch 3
+AntiSword
+
+------------------
+Mega Chips
+------------------
+Guardian
+
+-------------------
+Secret Chips
+-------------------
+Otenko
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+None
+
+
+===============
+P Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+BatShot
+BigTank 1
+Thunder
+EnergyBomb
+ParalyzeBomb
+Quake 1
+MagmaSeed 
+LongBlade
+DrillArm 3
+FirePunch 1
+BodyBurn 1
+SideBubble 3
+CustomBolt 3
+Meteors 3
+BoyBomb 2
+Mine
+Fanfare
+GrabRvng
+DeathMatch 1
+Barrier100
+AntiRecover
+
+------------------
+Mega Chips
+------------------
+Poltergeist
+
+-----------------
+Giga Chips
+-----------------
+Phoenix
+
+
+===============
+Q Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+ElecReel 2
+SabotenBall 2
+IceSeed 
+AirHock
+FirePunch 1
+SideBubble 1
+Meteors 1
+BoyBomb 3
+Discord
+Guard
+Recover 150
+Slowgauge
+Fastgauge
+Northwind
+AntiAqua
+
+------------------
+Mega Chips
+------------------
+None
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+None
+
+
+===============
+R Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+MarkCannon 3
+BatShot 3
+BigTank 3
+ElecReel 3
+SabotenBall 2
+Tornado
+CrackBomb
+BugBomb
+BlackBomb
+CustomSword
+Slasher
+SamuraiSword
+AirHock
+WaterTornado 3
+BodyBurn 2
+WoodyNose 1
+Lance
+CurseShield 2
+GrabBnsh
+AntiSword
+LifeSynchro
+
+------------------
+Mega Chips
+------------------
+ShotStar
+Roll
+Roll SP
+Roll DS
+
+-----------------
+Giga Chips
+-----------------
+OmegaRocket
+
+-----------------
+Dark Chips
+-----------------
+DarkCircGun
+
+
+===============
+S Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+MarkCannon 1
+BatShot 3
+WideShot 3
+SabotenBall 2
+GunSol 1
+NoiseStorm
+Geyser
+Sword
+WideSword
+LongSword
+SamuraiSword 1
+DrillArm 2
+AirHock
+SkullChain 1
+BodyBurn 3
+SideBubble 1
+Satellite 3
+WoodyNose 3
+TimeBomb 3
+BoyBomb 1
+Guard 3
+AreaGrab
+Barrier
+AntiWood
+LifeSynchro
+
+------------------
+Mega Chips
+------------------
+SuperVulcan
+Sanctuary
+Searchman
+Searchman SP
+Searchman DS
+Shadowman 
+Shadowman SP
+Shadowman DS
+Shademan 
+Shademan SP
+Shademan DS
+Swallowman 
+Swallowman SP
+Swallowman DS
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+None
+
+
+===============
+T Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+BatShot 1
+BigTank 2
+WideShot 3
+BugBomb
+Ball
+Kunai 3
+Meteors 1
+Satellite 3
+WoodyNose 2
+TimeBomb 1
+Mine
+RedFruit 2
+VDoll
+Metagel
+DeathMatch 2
+AntiFire
+AntiNavi
+
+------------------
+Mega Chips
+------------------
+Tomahawkman
+Tomahawkman SP
+Tomahawkman DS
+Toadman
+Toadman SP
+Toadman DS
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips 
+-----------------
+DarkTornado
+DarkWideShot
+
+
+===============
+U Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+WideShot 3
+GunSol 1
+GunSol 2
+SkullChain 3
+Meteors 2
+Satellite 3
+InazumaKing 2
+RedFruit 3
+HolyPanel
+
+------------------
+Mega Chips
+------------------
+None
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+None
+
+
+===============
+V Code!
+===============
+
+-----------------------
+Standard Chips 
+-----------------------
+ElecReel 1
+NoiseStorm
+CrackBomb
+WideBlade
+VarSword
+Kunai 2
+SkullChain 2
+CustomBolt 1
+Boomer
+InazumaKing 3
+WoodyNose 3
+Magnum
+Timpani
+CurseShield 1
+DeathMatch 3
+Northwind
+AntiNavi
+
+------------------
+Mega Chips
+------------------
+NeoVarSword
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+None
+
+
+===============
+W Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+ElementalArm
+EnergyBomb
+GrassSeed
+SamuraiSword 2
+DrillArm 1
+AirWheel 2
+BodyBurn 2
+SideBubble 2
+WoodyNose 1
+MudTsunamiBall 
+BoyBomb 2
+RedFruit 2
+DeathMatch 2
+Slowgauge
+Fastguage
+Barrier200
+
+------------------
+Mega Chips
+------------------
+BlackWing
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+DarkLance
+
+
+===============
+X-Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+None
+
+------------------
+Mega Chips
+------------------
+None
+
+-------------------
+Secret Chips
+-------------------
+NebulaGrey
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+None
+
+
+===============
+Y Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+MarkCannon 3
+BigTank 2
+ElecReel 2
+GunSol 2
+Quake 2
+CustomBolt 1
+Meteors 3
+InazumaKing 1
+BoyBomb 3
+Recover 300 
+BubbleWrap
+AntiElec
+
+------------------
+Mega Chips
+------------------
+None
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+None
+
+
+===============
+Z Code!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+MarkCannon 2
+ElecReel 1
+MegEnBomb 
+Ball
+BlackBomb
+WideSword
+Kunai 1
+SamuraiSword 3
+DrillArm 3
+InazumaKing 2
+WoodyNose 2
+TsunamiBall
+Snake
+TimeBomb 2
+Fanfare
+RedFruit 1
+VDoll
+CurseShield 3
+DeathMatch 1
+AntiWood
+
+-------------------
+Mega Chips
+-------------------
+Z-Saber
+
+-----------------
+Giga Chips
+-----------------
+DeltaRayEdge
+
+-----------------
+Dark Chips
+-----------------
+DarkSword
+
+
+===============
+* Code!!
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+Cannon
+AirShot
+Vulcan 1
+Spreader
+GunSol 1
+Thunder
+MiniBomb
+CrackBomb
+BugBomb
+Ball
+OceanSeed
+IceSeed
+GrassSeed
+WindRacket
+CustomBolt 1
+Boomer
+Lance
+RockCube
+Fan
+Wind
+Fanfare
+Discord 
+Timpani 
+Silence
+Guard 1
+Guard 2
+Guard 3
+PanelOut
+DoubleCrack
+TripleCrack
+Recover10
+Recover30
+Recover50
+Recover80
+PanelGrab
+AreaGrab
+PanelReturn
+DeathMatch 1
+Slowgauge
+Fastguage
+BusterUp
+Blinder
+Northwind
+HolyPanel
+Invis
+Barrier
+AntiFire
+AntiAqua
+AntiElec
+AntiWood
+AntiDmg
+CopyDmg
+LifeSynchro
+Attack +10
+Navi +20
+ColorPoint
+
+------------------
+Mega Chips
+------------------
+Numberball
+BugFix
+FullCust
+Attack +30
+DoublePoint
+
+--------------------
+Secret Chips
+--------------------
+Final Gun??
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+DarkRecover
+DarkSound
+DarkInvis
+DarkAttack+
+
+==============================================================
+
+
+==============================================================
+5. Chip List by Type					[TYPES]
+==============================================================
+Listed below are all the chips categorized by the type they are.
+
+===============
+Normal
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+Cannon
+HiCannon 
+MegaCannon
+Vulcan 1
+Vulcan 2
+Vulcan 3
+Spreader
+BatShot 1
+BatShot 2
+BatShot 3
+BigTank 1
+BigTank 2
+BigTank 3
+GunSol 1
+GunSol 2
+GunSol 3
+ElementalArm
+MiniBomb
+EnergyBomb
+MegEnBomb
+CrackBomb
+ParalyzeBomb
+ResetBomb
+BugBomb
+MagmaSeed
+OceanSeed
+IceSeed
+GrassSeed
+Yoyo
+SkullChain 1
+SkullChain 2
+SkullChain 3
+Guard 1
+Guard 2
+Guard 3
+CurseShield 1
+CurseShield 2
+CurseShield 3
+PanelOut
+DoubleCrack
+TripleCrack
+PanelGrab
+AreaGrab
+GrabBnsh
+GrabRvng
+PanelReturn
+DeathMatch 1
+DeathMatch 2
+DeathMatch 3
+Slowgauge
+Fastgauge
+HolyPanel
+Barrier
+Barrier100
+Barrier200
+AntiNavi
+AntiRecover
+
+------------------
+Mega Chips
+------------------
+SuperVulcan
+Numberball
+Jealousy
+Poltergeist
+BugFix
+FullCust
+LifeAura
+Sanctuary
+BlackWing
+Gyroman
+Gyroman SP
+Gyroman DS
+Medi 
+Medi SP
+Medi DS
+Colonel 
+Colonel SP
+Colonel DS
+Shadowman
+Shadowman SP
+Shadowman DS
+Numberman
+Numberman SP
+Numberman DS
+Shademan
+Shademan SP
+Shademan DS
+Cosmoman
+Cosmoman SP
+Cosmoman DS
+Swallowman
+Swallowman SP
+Swallowman DS
+Footman 
+Footman SP
+Footman DS
+Django D
+Django SP
+Django DS
+
+--------------------
+Secret Chips
+--------------------
+GunSolEX
+????
+????
+Final Gun ??
+
+-----------------
+Giga Chips
+-----------------
+Forte
+HolyDream
+BugCurse
+DeathPhoenix
+CrossSlash
+ForteAnother
+OmegaRocket
+BugCharge
+
+-----------------
+Dark Chips
+-----------------
+None
+
+
+===============
+Break
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+Quake 1
+Quake 2
+Quake 3
+Ball
+DrillArm 1
+DrillArm 2
+DrillArm 3
+AirHock
+
+-----------------
+Mega Chips
+-----------------
+JusticeOne
+Knightman
+Knightman SP
+Knightman DS
+
+-----------------
+Giga Chips
+----------------- 
+GiantHook
+MeteoKnuckle
+
+-----------------
+Dark Chips
+-----------------
+DarkDrill
+
+
+===============
+Variable
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+BusterUp
+Attack +10
+Navi +20
+ColorPoint
+
+------------------
+Mega Chips
+------------------
+Attack +30
+DoublePoint
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+DarkAttack+
+
+
+===============
+Invisibility
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+Mine
+Blinder
+Invis
+AntiDmg
+
+------------------
+Mega Chips
+------------------
+None
+
+-----------------
+Giga Chips
+-----------------
+None
+
+----------------- 
+Dark Chips
+-----------------
+DarkInvis
+
+
+===============
+Obstacle
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+TimeBomb 1
+TimeBomb 2
+TimeBomb 3
+BoyBomb 1
+BoyBomb 2
+BoyBomb 3
+RockCube
+Fanfare
+Discord
+Timpani
+Silence
+VDoll
+
+------------------
+Mega Chips
+------------------
+Guardian
+Anubis
+
+--------------------
+Secret Chips
+--------------------
+Otenko
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+DarkSound
+
+
+===============
+Recovery
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+RedFruit 1
+RedFruit 2
+RedFruit 3
+Recover10
+Recover30
+Recover50
+Recover80
+Recover120
+Recover150
+Recover200
+Recover300
+
+------------------
+Mega Chips
+------------------
+Roll
+Roll SP
+Roll DS
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+DarkRecover
+
+
+===============
+Aiming
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+MarkCannon 1
+MarkCannon 2
+MarkCannon 3
+Magnum
+CircGun
+CopyDamage
+LifeSynchro
+
+------------------
+Mega Chips
+------------------
+Searchman
+Searchman SP
+Searchman DS
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+DarkCircGun
+
+
+===============
+Wind
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+AirShot
+Tornado
+NoiseStorm
+WindRacket
+AirWheel 1
+AirWheel 2
+AirWheel 3
+Wind
+Fan
+Northwind
+
+------------------
+Mega Chips
+------------------
+None
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+DarkTornado
+
+
+===============
+Sword
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+Sword
+WideSword
+LongSword
+WideBlade
+LongBlade
+CustomSword
+VarSword
+Slasher
+Kunai 1
+Kunai 2
+Kunai 3
+SamuraiSword 1
+SamuraiSword 2
+SamuraiSword 3
+AntiSword
+
+------------------
+Mega Chips
+------------------
+NeoVarSword
+Muramasa
+Z-Saber
+Blues 
+Blues SP
+Blues DS
+
+-----------------
+Giga Chips
+-----------------
+DeltaRayEdge
+
+-----------------
+Dark Chips
+-----------------
+DarkSword
+
+
+===============
+Wood
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+SabotenBall 1
+SabotenBall 2
+SabotenBall 3
+Boomer
+WoodyNose 1
+WoodyNose 2
+WoodyNose 3
+Lance 
+MudTsunamiBall
+Snake
+AntiWood
+
+------------------
+Mega Chips
+------------------
+Tomahawkman
+Tomahawkman SP
+Tomahawkman DS
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+DarkLance
+
+
+===============
+Electric
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+ElecReel 1
+ElecReel 2
+ElecReel 3
+Thunder
+CustomBolt 1
+CustomBolt 2
+CustomBolt 3
+Satellite 1
+Satellite 2
+Satellite 3
+InazumaKing 1
+InazumaKing 2
+InazumaKing 3
+AntiElec
+
+------------------
+Mega Chips
+------------------
+Magnetman
+Magnetman SP
+Magnetman DS
+Toadman
+Toadman SP
+Toadman DS 
+Cloudman
+Cloudman SP
+Cloudman DS
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+DarkThunder
+
+
+===============
+Aqua
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+WideShot 1
+WideShot 2
+WideShot 3
+Geyser
+WaterTornado 1
+WaterTornado 2
+WaterTornado 3
+SideBubble 1
+SideBubble 2
+SideBubble 3
+TsunamiBall
+ComeOnRain
+Metagel
+BubbleWrap
+AntiAqua
+
+------------------
+Mega Chips
+------------------
+Blizzardman 
+Blizzardman SP
+Blizzardman DS
+
+-----------------
+Giga Chips
+-----------------
+None
+
+-----------------
+Dark Chips
+-----------------
+DarkWideShot
+
+
+===============
+Fire
+===============
+
+-----------------------
+Standard Chips
+-----------------------
+BlackBomb
+FirePunch 1
+FirePunch 2
+FirePunch 3
+BodyBurn 1
+BodyBurn 2
+BodyBurn 3
+Meteors 1
+Meteors 2
+Meteors 3
+RedTsunamiBall
+AntiFire
+
+------------------
+Mega Chips
+------------------
+ShotStar
+Napalmman 
+Napalmman SP
+Napalmman DS
+
+-----------------
+Giga Chips
+-----------------
+Phoenix
+
+-----------------
+Dark Chips
+-----------------
+DarkMeteors
+
+==============================================================
+
+
+==============================================================
+6. All the info you need on Standard Chips		[STAND]
+==============================================================
+Here is everything you need to know on all the Standard chips in the
+game.
+
+001. Cannon
+Codes: A B C * / Stars: * / Damage: 40
+Element: None / MB: 8
+Flinching? Yes.
+Description: Shoots a cannon in a straight line.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+002. HiCannon
+Codes: D E F / Stars: ** / Damage: 80
+Element: None / MB: 24
+Flinching? Yes.
+Description: Shoots a cannon in a straight line.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+003. MegaCannon
+Codes: F G H / Stars: *** / Damage: 120
+Element: None / MB: 40
+Flinching? Yes.
+Description: Shoots a cannon in a straight line.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+004. AirShot
+Codes: * / Stars: ** / Damage: 20
+Element: None / MB: 6
+Flinching? No.
+Description: Shoots an airshot straight ahead and knocks the enemy
+back one space.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X | Y |   Y - Moved here
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+005. Vulcan 1
+Codes: C D E * / Stars: * / Damage: 10
+Element: None / MB: 6
+Flinching? No.
+Description: Rapid fire shot that fires 3 times straight ahead and
+also damages the panel behind.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X | Y |   Y - Also hit
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+006. Vulcan 2
+Codes: A B C / Stars: ** / Damage: 10
+Element: None / MB: 18
+Flinching? No.
+Description: Rapid fire shot that fires 5 times straight ahead and
+also damages the panel behind.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X | Y |   Y - Also hit
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+007. Vulcan 3
+Codes: L M N / Stars: *** / Damage: 10
+Element: None / MB: 30
+Flinching? No.
+Description: Rapid fire shot that fires 7 times straight ahead and
+also damage the panel behind.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X | Y |   Y - Also hit
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+008. Spreader
+Codes: C D E * /Stars:** / Damage: 30
+Element: None / MB: 10
+Flinching? No.
+Description: Fires straight ahead and when hits opponent, it damages
+all surrounding panels.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   | Y | X | Y |   Y - Also hit
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |
+  --- --- --- --- --- ---
+
+009. MarkCannon 1
+Codes: K M S / Stars:* / Damage: 70
+Element: Aiming / MB: 18
+Flinching? Yes.
+Description: Scans next three columns in an up, down, up, down, 
+motion, for an enemy.  If enemy is detected, cannon fires.
+Range:
+  --- --- --- --- --- ---
+ |   |   | Y | Y | Y |   |   M - Megaman
+  --- --- --- --- --- ---    Y - Area Scanned
+ |   | M | Y | Y | Y |   |   
+  --- --- --- --- --- ---
+ |   |   | Y | Y | Y |   |
+  --- --- --- --- --- ---
+
+010. MarkCannon 2
+Codes: D F Z / Stars:** / Damage: 100
+Element: Aiming / MB: 27
+Flinching? Yes.
+Description: Scans next three columns in an up, down, up, down, 
+motion, for an enemy.  If enemy is detected, cannon fires.
+Range:
+  --- --- --- --- --- ---
+ |   |   | Y | Y | Y |   |   M - Megaman
+  --- --- --- --- --- ---    Y - Area Scanned
+ |   | M | Y | Y | Y |   |   
+  --- --- --- --- --- ---
+ |   |   | Y | Y | Y |   |
+  --- --- --- --- --- ---
+
+011. MarkCannon 3 
+Codes: E R Y / Stars:*** / Damage: 130
+Element: Aiming / MB: 36
+Flinching? Yes.
+Description: Scans next three columns in an up, down, up, down, 
+motion, for an enemy.  If enemy is detected, cannon fires.
+Range:
+  --- --- --- --- --- ---
+ |   |   | Y | Y | Y |   |   M - Megaman
+  --- --- --- --- --- ---    Y - Area Scanned
+ |   | M | Y | Y | Y |   |   
+  --- --- --- --- --- ---
+ |   |   | Y | Y | Y |   |
+  --- --- --- --- --- ---
+
+012. BatShot 1
+Codes: F P T / Stars:* / Damage: 70
+Element: Normal / MB: 14
+Flinching? No.
+Description: Fires a shot straight ahead.  If it hits an enemy, it
+does regular damage.  If it hits an obstacle, the shot will hit 
+surrounding panels.  
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |   M - Megaman
+  --- --- --- --- --- ---    x - Obstacle
+ |   | M |   | Y | X | Y |   Y - Panels hit
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |
+  --- --- --- --- --- ---
+
+013. BatShot 2
+Codes: E G M / Stars:** / Damage: 90
+Element: Normal / MB: 26
+Flinching? No.
+Description: Fires a shot straight ahead.  If it hits an enemy, it
+does regular damage.  If it hits an obstacle,the shot will hit 
+surrounding panels.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |   M - Megaman
+  --- --- --- --- --- ---    x - Obstacle
+ |   | M |   | Y | X | Y |   Y - Panels hit
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |
+  --- --- --- --- --- ---
+
+014. BatShot 3
+Codes: C R S / Stars:*** / Damage: 110
+Element: Normal / MB: 38
+Flinching? No.
+Description: Fires a shot straight ahead.  If it hits an enemy, it
+does regular damage.  If it hits an obstacle,the shot will hit 
+surrounding panels.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |   M - Megaman
+  --- --- --- --- --- ---    x - Obstacle
+ |   | M |   | Y | X | Y |   Y - Panels hit
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |
+  --- --- --- --- --- ---
+
+015. BigTank 1
+Codes: A E P / Stars:* / Damage: 80
+Element: Normal / MB: 20
+Flinching? Yes.
+Description: Fires a powerful shot straight ahead.  If it goes off
+the screen, BigTank will hit whole last column.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   | X |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit, if goes of screen
+ |   | M |   |   |   | X |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   | X |
+  --- --- --- --- --- ---
+
+016. BigTank 2
+Codes: B T Y / Stars:** / Damage: 120
+Element: Normal / MB: 30
+Flinching? Yes.
+Description: Fires a powerful shot straight ahead.  If it goes off
+the screen, BigTank will hit whole last column.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   | X |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit, if goes of screen
+ |   | M |   |   |   | X |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   | X |
+  --- --- --- --- --- ---
+
+017. BigTank 3
+Codes: F M R / Stars:*** / Damage: 160
+Element: Normal / MB: 40
+Flinching? Yes.
+Description: Fires a powerful shot straight ahead.  If it goes off
+the screen, BigTank will hit whole last column.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   | X |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit, if goes of screen
+ |   | M |   |   |   | X |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   | X |
+  --- --- --- --- --- ---
+
+018. WideShot 1
+Codes: L M N / Stars:* / Damage: 70
+Element: Aqua / MB: 10
+Flinching? Yes.
+Description: Fires a wideshot that spans a column in a straight 
+ahead.
+Range:
+  --- --- --- --- --- ---
+ |   |   | > | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Possible targets hit
+ |   | M | > | X | X | X |   > - Range of WideShot
+  --- --- --- --- --- ---
+ |   |   | > | X | X | X |
+  --- --- --- --- --- ---
+
+019. WideShot 2
+Codes: E F G / Stars:** / Damage: 90
+Element: Aqua / MB: 30
+Flinching? Yes.
+Description: Fires a wideshot that spans a column in a straight 
+ahead.
+Range:
+  --- --- --- --- --- ---
+ |   |   | > | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Possible targets hit
+ |   | M | > | X | X | X |   > - Range of WideShot
+  --- --- --- --- --- ---
+ |   |   | > | X | X | X |
+  --- --- --- --- --- ---
+
+020. WideShot 3
+Codes: S T U / Stars:*** / Damage: 110
+Element: Aqua / MB: 50
+Flinching? Yes.
+Description: Fires a wideshot that spans a column in a straight ahead.
+Range:
+  --- --- --- --- --- ---
+ |   |   | > | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Possible targets hit
+ |   | M | > | X | X | X |   > - Range of WideShot
+  --- --- --- --- --- ---
+ |   |   | > | X | X | X |
+  --- --- --- --- --- ---
+
+021. ElecReel 1
+Codes: C V Z / Stars:* / Damage: 80
+Element: Elec / MB: 32
+Flinching? No.
+Description: Fires an electric shot straight ahead.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+022. ElecReel 2
+Codes: B Q Y / Stars:** / Damage: 100
+Element: Elec / MB: 46
+Flinching? No.
+Description: Fires an electric shot straight ahead.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+023. ElecReel 3
+Codes: E L R / Stars:*** / Damage: 120
+Element: Elec / MB: 60
+Flinching? No.
+Description: Fires an electric shot straight ahead.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+024. SabotenBall 1
+Codes: H I J / Stars:* / Damage: 30
+Element: Wood / MB: 10
+Flinching? No.
+Description: SabotenBall is fired straight ahead.  If able to jump
+over first two panels, it will hit opponent 4 times.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X | Y |   Y - Target hit possibly 4 times
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+025. SabotenBall 2
+Codes: Q R S / Stars:** / Damage: 40
+Element: Wood / MB: 30
+Flinching? No.
+Description: SabotenBall is fired straight ahead.  If able to jump
+over first two panels, it will hit opponent 4 times.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X | Y |   Y - Target hit possibly 4 times
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+026. SabotenBall 3
+Codes: L M N / Stars:*** / Damage: 50
+Element: Wood / MB: 50
+Flinching? No.
+Description: SabotenBall is fired straight ahead.  If able to jump
+over first two panels, it will hit opponent 4 times.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X | Y |   Y - Target hit possibly 4 times
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+027. GunSol 1
+Codes: A S U * / Stars:** / Damage: Not Set
+Element: None / MB: 15
+Flinching? No.
+Description: Hold A to activate.  GunSol hits two columns ahead
+and does damage for as long as its held.  Also can destroy obstacles,
+hit people with Invis, and get rid of flinching.  Dark Megaman
+cannot use this chip.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |
+  --- --- --- --- --- ---
+
+028. GunSol 2
+Codes: G U Y / Stars:*** / Damage: Not Set
+Element: None / MB: 25
+Flinching? No.
+Description: Hold A to activate.  GunSol hits two columns ahead
+and does damage for as long as its held.  Also can destroy obstacles,
+hit people with Invis, and get rid of flinching.  Dark Megaman
+cannot use this chip.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |
+  --- --- --- --- --- ---
+
+029. GunSol 3
+Codes: D M O / Stars:**** / Damage: Not Set
+Element: None / MB: 35
+Flinching? No.
+Description: Hold A to activate.  GunSol hits two columns ahead
+and does damage for as long as its held.  Also can destroy obstacles,
+hit people with Invis, and get rid of flinching.  Dark Megaman
+cannot use this chip.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |
+  --- --- --- --- --- ---
+
+030. Elemental Arm
+Codes: E K W / Stars:*** / Damage: 90
+Element: None / MB: 39
+Flinching? Yes.
+Description: Arm fires a shot that spans three panel ahead.  It changes
+elements depending on the panel you are standing on.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M | X | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+If used on an elemental panel:
+  --- --- --- --- --- ---
+ |   |   |   | X | X |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M | X | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X | X |   |
+  --- --- --- --- --- ---
+
+031. Thunder
+Codes: B L P * / Stars:*** / Damage: 40
+Element: Elec / MB: 7
+Flinching? No.
+Description: Summons a slow moving thunderball that follows opponent
+for a short time.  If enemy is hit, he will be paralyzed.
+Range:
+ Follows Opponent
+
+032. Tornado
+Codes: D L R / Stars:*** / Damage: 20
+Element: Wind / MB: 22
+Flinching? No.
+Description: Summons a Tornado 2 spaces ahead which hits 8 times.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+033. NoiseStorm
+Codes: N S V / Stars:*** / Damage: 20
+Element: Wind / MB: 55
+Flinching? No.
+Description: Similiar to Tornado, but more tornados can be created
+if the more bugs are present.  Dark Megaman only.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+034. MiniBomb
+Codes: B G L * / Stars:* / Damage: 50
+Element: Normal / MB: 5
+Flinching? Yes.
+Description: Bomb is thrown three panels ahead.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+035. EnergyBomb
+Codes: E P W / Stars:* / Damage: 40
+Element: Normal / MB: 11
+Flinching? Yes.
+Description: Bomb is thrown three panels ahead and explodes 3 times.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+036. MegEnBomb
+Codes: C K Z / Stars:** / Damage: 60
+Element: Normal / MB: 30
+Flinching? Yes.
+Description: Bomb is thrown three panels ahead and explodes 3 times.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+037. CrackBomb
+Codes: C R V * / Stars:* / Damage: 80
+Element: Normal / MB: 18
+Flinching? Yes.
+Description: Bomb is thrown three columns ahead and cracks all
+panels in the column.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- --- 
+
+038. ParalyzeBomb
+Codes: H N P / Stars:** / Damage: 90
+Element: Normal / MB: 34
+Flinching? No.
+Description: Bomb is thrown three columns ahead and paralyzes all
+enemies in the column.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- --- 
+
+039. ResetBomb
+Codes: D I O / Stars:*** / Damage: 100
+Element: Normal / MB: 50
+Flinching? Yes.
+Description: Bomb is thrown three columns ahead and hits all
+enemies in the column.  Enemies hit will have there NC partially
+disabled.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- --- 
+
+040. Quake 1
+Codes: A K P / Stars:* / Damage: 100
+Element: Break / MB: 10
+Flinching? Yes.
+Description: Quake thrown 3 panels ahead and cracks panel below.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+041. Quake 2
+Codes: B L Y / Stars:** / Damage: 150
+Element: Break / MB: 25
+Flinching? Yes.
+Description: Quake thrown 3 panels ahead and cracks panel below. 
+Also hit the above and bottom panels.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- --- 
+
+042. Quake 3
+Codes: F H N / Stars:*** / Damage: 200
+Element: Break / MB: 40
+Flinching? Yes.
+Description: Quake thrown 3 panels ahead and cracks panel below. 
+Also hits in a cross pattern.  
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   | X | X | X |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- --- 
+
+043. BugBomb
+Codes: A R T * / Stars:*** / Damage: None
+Element: None / MB: 30
+Flinching? No.
+Description: Bomb is thrown 3 spaces ahead and causes numerous bugs
+around the surrounding eight panels.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Panels bugged
+ |   | M |   | X | Y | X |   Y - Panel hit
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |
+  --- --- --- --- --- --- 
+
+044. Ball
+Codes: C T Z * / Stars:*** / Damage: 140
+Element: Break / MB: 30
+Flinching? Yes.
+Description: Ball is thrown 3 panels ahead.  If enemy is on panel, 
+enemy will take damage and panel will crack.  If panel is empty, then
+the panel will break.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+045. BlackBomb
+Codes: L R Z / Stars:**** / Damage: 210
+Element: Fire / MB: 55
+Flinching? Yes.
+Description: Bomb is thrown 3 panels ahead and stays there.  Bomb
+detonated if hit with a fire attack, and damages surrounding panels.
+If the bomb lands on the enemy, it does 100 damage.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Panels hit upon detonation
+ |   | M |   | X | Y | X |   Y - Where BlackBomb lands
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |
+  --- --- --- --- --- --- 
+
+046. Geyser
+Codes: G M S / Stars:**** / Damage: 200
+Element: Aqua / MB: 38
+Flinching? Yes.
+Description: Thrown three spaces ahead.  If lands in a broken panel,
+Geyser will hit the surrounding eight panels.  If it lands on the 
+enemy, it deals no damage.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   | X | Y | X |   Y - Broken panel, Geyser lands in
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |
+  --- --- --- --- --- ---
+
+047. MagmaSeed
+Codes: H K P / Stars:** / Damage: None
+Element: Normal / MB: 60
+Flinching? No.
+Description: Seed is thrown three spaces ahead.  Turns panel and
+surrounding panels into a 3x3 Magma field.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Panels affected
+ |   | M |   | X | Y | X |   Y - Seed lands
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |
+  --- --- --- --- --- --- 
+
+048. OceanSeed
+Codes: D J M * / Stars:** / Damage: None
+Element: Normal / MB: 28
+Flinching? No.
+Description: Seed is thrown three spaces ahead.  Turns panel and
+surrounding panels into a 3x3 Ocean field.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Panels affected
+ |   | M |   | X | Y | X |   Y - Seed lands
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |
+  --- --- --- --- --- ---
+
+049. IceSeed
+Codes: A K Q * / Stars:** / Damage: None
+Element: Normal / MB: 42
+Flinching? No.
+Description: Seed is thrown three spaces ahead.  Turns panel and
+surrounding panels into a 3x3 Ice field.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Panels affected
+ |   | M |   | X | Y | X |   Y - Seed lands
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |
+  --- --- --- --- --- ---
+
+050. GrassSeed 
+Codes: A M W * / Stars:** / Damage: None
+Element: Normal / MB: 24
+Flinching? No.
+Description: Seed is thrown three spaces ahead.  Turns panel and
+surrounding panels into a 3x3 Grass field.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Panels affected
+ |   | M |   | X | Y | X |   Y - Seed lands
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |
+  --- --- --- --- --- ---
+
+051. Sword
+Codes: C L S / Stars:* / Damage: 80
+Element: Sword / MB: 9
+Flinching? Yes.
+Description: Uses sword attack on panel ahead.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+052. WideSword
+Codes: K S Z / Stars:** / Damage: 80
+Element: Sword / MB: 16
+Flinching? Yes.
+Description: Uses sword attack with a column range.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |
+  --- --- --- --- --- --- 
+
+053. LongSword
+Codes: C M S / Stars:*** / Damage: 80
+Element: Sword / MB: 25
+Flinching? Yes.
+Description: Uses sword attack that hits two spaces ahead.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+054. WideBlade
+Codes: A L V / Stars:**** / Damage: 150
+Element: Sword / MB: 38
+Flinching? Yes.
+Description: Uses sword attack with a column range.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |
+  --- --- --- --- --- --- 
+
+055. LongBlade
+Codes: E L P / Stars:**** / Damage: 150
+Element: Sword / MB: 40
+Flinching? Yes.
+Description: Uses sword attack that hits two spaces ahead.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+056. CustomSword
+Codes: E L R / Stars:*** / Damage: ???
+Element: Sword / MB: 20
+Flinching? Yes.
+Description: Damage done by CustomSword is proportional to the
+Custom Gauge.  If the custom gauge is full, the sword would do 0 dmg.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X | X |   |
+  --- --- --- --- --- --- 
+
+057. VarSword
+Codes: B C V / Stars:**** / Damage: 160
+Element: Sword / MB: 60
+Flinching? Yes.
+Description: By holding down A and inputting a button combo,VarSword 
+becomes a different sword with a different range.
+Range:
+ Button Combos: WideSword: Up, Right, Down
+                LongSword: Down, Right-Down, Right
+                Lifesword: Down, Left, Up, Right, Down
+                SonicBoom: Left, B, Right, B
+                FghtSword: Left, Left-Down, Down, Right-Down, Right
+
+058. Slasher
+Codes: B I R / Stars:*** / Damage: 240
+Element: Sword / MB: 18
+Flinching? Yes.
+Description: Press and hold down A to damage enemies that come into
+Megaman's area, with a WideSword range sword.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ | X | M | X |   |   |   |   
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |
+  --- --- --- --- --- ---  
+
+059. WindRacket
+Codes: B F J * / Stars:*** / Damage: 100
+Element: Wind / MB: 23
+Flinching? No.
+Description: Hits the column in front of Megaman and blows enemies to
+back row.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | Y |   | Z |   Y - Opponent before WindRacket
+  --- --- --- --- --- ---    Z - Opponent after WindRacket
+ |   |   |   | X |   |   |
+  --- --- --- --- --- --- 
+
+060. Kunai 1
+Codes: E N Z / Stars:* / Damage: 90
+Element: Sword / MB: 23
+Flinching? Yes.
+Description: Kunai hits all panels surrounding Megaman.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ | X | M | X |   |   |   |   
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |
+  --- --- --- --- --- ---  
+
+061. Kunai 2
+Codes: G O V / Stars:** / Damage: 110
+Element: Sword / MB: 36
+Flinching? Yes.
+Description: Kunai hits all panels surrounding Megaman.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ | X | M | X |   |   |   |   
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |
+  --- --- --- --- --- --- 
+
+062. Kunai 3
+Codes: C L T / Stars:*** / Damage: 130
+Element: Sword / MB: 49
+Flinching? Yes.
+Description: Kunai hits all panels surrounding Megaman.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ | X | M | X |   |   |   |   
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |
+  --- --- --- --- --- --- 
+
+063. SamuraiSword 1
+Codes: D H S / Stars:* / Damage: 60
+Element: Sword / MB: 25
+Flinching? No.
+Description: Megaman does a Widesword then a LongSword.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |
+  --- --- --- --- --- --- 
+ Then...
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+064. SamuraiSword 2
+Codes: B R W / Stars:** / Damage: 80
+Element: Sword / MB: 37
+Flinching? No.
+Description: Megaman does a Widesword then a LongSword.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |
+  --- --- --- --- --- --- 
+ Then...
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+065. SamuraiSword 3
+Codes: A J Z / Stars:*** / Damage: 100
+Element: Sword / MB: 49
+Flinching? No.
+Description: Megaman does a Widesword then a LongSword.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |
+  --- --- --- --- --- --- 
+ Then...
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+066. Yoyo
+Codes: D E F / Stars:*** / Damage: 50
+Element: None / MB: 32
+Flinching? No.
+Description: Throws a Yoyo three panels forward, hits 3 times, then
+comes back.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M | X | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+067. DrillArm 1
+Codes: A J W / Stars:* / Damage: 60
+Element: Break / MB: 38
+Flinching? No.
+Description: Hits three panels forward and pushed enemy back.  If 
+enemy is in back or second to last column, DrillArm will hit 4 times.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+068. DrillArm 2
+Codes: D L S / Stars:** / Damage: 70
+Element: Break / MB: 51
+Flinching? No.
+Description: Hits three panels forward and pushed enemy back.  If 
+enemy is in back or second to last column, DrillArm will hit 4 times.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+069. DrillArm 3
+Codes: I P Z / Stars:*** / Damage: 80
+Element: Break / MB: 64
+Flinching? No.
+Description: Hits three panels forward and pushed enemy back.  If 
+enemy is in back or second to last column, DrillArm will hit 4 times.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X | X | X |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+070. AirHock
+Codes: Q R S / Stars:*** / Damage: 40
+Element: Break / MB: 40
+Flinching? No.
+Description: Shoots an AirHockey puck that moves diagnolly around
+the enemy's field.  The puck hits the enemy multiple times.
+Range:
+ Depends on Megaman's position.
+
+071. SkullChain 1
+Codes: C K S / Stars:* / Damage: 100
+Element: Normal / MB: 34
+Flinching? Yes.
+Description: Skull chain travels three panels in the direction of
+the opponent.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X | X |   |   Y - Opponent hit
+  --- --- --- --- --- ---
+ |   |   |   |   | Y |   |
+  --- --- --- --- --- ---
+
+072. SkullChain 2
+Codes: A H V / Stars:** / Damage: 120
+Element: Normal / MB: 50
+Flinching? Yes.
+Description: Skull chain travels three panels in the direction of
+the opponent.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X | X |   |   Y - Opponent hit
+  --- --- --- --- --- ---
+ |   |   |   |   | Y |   |
+  --- --- --- --- --- ---
+
+073. SkullChain 3
+Codes: G N U / Stars:*** / Damage: 140
+Element: Normal / MB: 76
+Flinching? Yes.
+Description: Skull chain travels three panels in the direction of
+the opponent.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X | X |   |   Y - Opponent hit
+  --- --- --- --- --- ---
+ |   |   |   |   | Y |   |
+  --- --- --- --- --- ---
+
+074. WaterTornado 1
+Codes: B F N / Stars:* / Damage: 70
+Element: Aqua / MB: 30
+Flinching? Yes.
+Description: Water Tornado is generated and it moves in a ?x3 manner.
+It will move up the column the enemy is in.  If an enemy is hit, it leaves 
+an ocean panel on that panel.  Its movement varies if a Fan or Wind is on 
+the field.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X | X |   |
+  --- --- --- --- --- ---   
+ 
+075. WaterTornado 2
+Codes: A H O / Stars:** / Damage: 100
+Element: Aqua / MB: 42
+Flinching? Yes.
+Description: Water Tornado is generated and it moves in a ?x3 manner.
+It will move up the column the enemy is in.  If an enemy is hit, it leaves 
+an ocean panel on that panel.  Its movement varies if a Fan or Wind is on 
+the field.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X |   | X |   
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |
+  --- --- --- --- --- ---  
+
+076. WaterTornado 3
+Codes: D I R / Stars:*** / Damage: 130
+Element: Aqua / MB: 54
+Flinching? Yes.
+Description: Water Tornado is generated and it moves in a ?x3 manner.
+It will move up the column the enemy is in.  If an enemy is hit, it leaves 
+an ocean panel on that panel.  Its movement varies if a Fan or Wind is on 
+the field.
+Range:
+  --- --- --- --- --- ---
+ |   |   | X | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M | X |   |   | X |   
+  --- --- --- --- --- ---
+ |   |   | X | X | X | X |
+  --- --- --- --- --- --- 
+
+077. AirWheel 1
+Codes: C E O / Stars:* / Damage: 40
+Element: Wind / MB: 32
+Flinching? No.
+Description: AirWheel is thrown in a straight line until it is stopped.
+When stopped, AirWheel hits all surrounding panels 2 times.  If no 
+enemy stops the AirWheel, it will land on the backrow and hit.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Panels hit
+ |   |   | M | X | Z | Y |   Y - Opponent
+  --- --- --- --- --- ---    Z - Airwheel
+ |   |   |   | X | X | X |
+  --- --- --- --- --- --- 
+
+078. AirWheel 2
+Codes: B H W / Stars:** / Damage: 40
+Element: Wind / MB: 44
+Flinching? No.
+Description: AirWheel is thrown in a straight line until it is stopped.
+When stopped, AirWheel hits all surrounding panels 3 times.  If no 
+enemy stops the AirWheel, it will land on the backrow and hit.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Panels hit
+ |   |   | M | X | Z | Y |   Y - Opponent
+  --- --- --- --- --- ---    Z - Airwheel
+ |   |   |   | X | X | X |
+  --- --- --- --- --- --- 
+
+079. AirWheel 3
+Codes: A G J / Stars:*** / Damage: 40
+Element: Wind / MB: 56
+Flinching? No.
+Description: AirWheel is thrown in a straight line until it is stopped.
+When stopped, AirWheel hits all surrounding panels 4 times.  If no 
+enemy stops the AirWheel, it will land on the backrow and hit.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Panels hit
+ |   |   | M | X | Z | Y |   Y - Opponent
+  --- --- --- --- --- ---    Z - Airwheel
+ |   |   |   | X | X | X |
+  --- --- --- --- --- ---
+
+080. FirePunch 1
+Codes: O P Q / Stars:* / Damage: 60
+Element: Fire / MB: 12
+Flinching? Yes.
+Description: Hits closest enemy to Megaman.
+Range:
+ Hits closest enemy.
+
+081. FirePunch 2
+Codes: H I J / Stars:** / Damage: 100
+Element: Fire / MB: 28
+Flinching? Yes.
+Description: Hits closest enemy to Megaman.
+Range:
+ Hits closest enemy.
+
+082. FirePunch 3
+Codes: E F G / Stars:*** / Damage: 140
+Element: Fire / MB: 44
+Flinching? Yes.
+Description: Hits closest enemy to Megaman.
+Range:
+ Hits closest enemy.
+
+083. BodyBurn 1
+Codes: A F P / Stars:* / Damage: 110
+Element: Fire / MB: 28
+Flinching? Yes.
+Description: Enemies around Megaman are hit with a fire attack.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ | X | M | X |   |   |   |   
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |
+  --- --- --- --- --- --- 
+
+084. BodyBurn 2
+Codes: C R W / Stars:** / Damage: 130
+Element: Fire / MB: 40
+Flinching? Yes.
+Description: Enemies around Megaman are hit with a fire attack.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ | X | M | X |   |   |   |   
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |
+  --- --- --- --- --- --- 
+
+085. BodyBurn 3
+Codes: J M S / Stars:*** / Damage: 150
+Element: Fire / MB: 52
+Flinching? Yes.
+Description: Enemies around Megaman are hit with a fire attack.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ | X | M | X |   |   |   |   
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |
+  --- --- --- --- --- --- 
+
+086. SideBubble 1
+Codes: D Q S / Stars:* / Damage: 90
+Element: Aqua / MB: 25
+Flinching? Yes.
+Description: Summons two bubbles with anchors that move diagnolly.
+Range:
+  --- --- --- --- --- ---
+ |   |   | 1 |   | 3 |   |   M - Megaman
+  --- --- --- --- --- ---    1-4 - Movement of Bubble
+ |   | M |   | 2 |   | 4 |   
+  --- --- --- --- --- ---
+ |   |   | 1 |   | 3 |   |
+  --- --- --- --- --- ---
+
+087. SideBubble 2
+Codes: H L W / Stars:** / Damage: 110
+Element: Aqua / MB: 35
+Flinching? Yes.
+Description: Summons two bubbles with anchors that move diagnolly.
+Range:
+  --- --- --- --- --- ---
+ |   |   | 1 |   | 3 |   |   M - Megaman
+  --- --- --- --- --- ---    1-4 - Movement of Bubble
+ |   | M |   | 2 |   | 4 |   
+  --- --- --- --- --- ---
+ |   |   | 1 |   | 3 |   |
+  --- --- --- --- --- ---
+
+088. SideBubble 3
+Codes: E N P / Stars:*** / Damage: 130
+Element: Aqua / MB: 45
+Flinching? Yes.
+Description: Summons two bubbles with anchors that move diagnolly.
+Range:
+  --- --- --- --- --- ---
+ |   |   | 1 |   | 3 |   |   M - Megaman
+  --- --- --- --- --- ---    1-4 - Movement of Bubble
+ |   | M |   | 2 |   | 4 |   
+  --- --- --- --- --- ---
+ |   |   | 1 |   | 3 |   |
+  --- --- --- --- --- ---
+
+089. CustomBolt 1
+Codes: A V Y * / Stars:** / Damage: ???
+Element: Elec / MB: 40
+Flinching? Yes.
+Description: Damage done by bolt is proportional to the Custom
+Gauge.  Custom Bolt also resets the custom gauge by 1/4.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- --- 
+
+090. CustomBolt 2
+Codes: C E G / Stars:*** / Damage: ???
+Element: Elec / MB: 55
+Flinching? Yes.
+Description: Damage done by bolt is proportional to the Custom
+Gauge.  Custom Bolt also resets the custom gauge by 1/4.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- --- 
+
+091. CustomBolt 3
+Codes: G M P / Stars:**** / Damage: ???
+Element: Elec / MB: 70
+Flinching? Yes.
+Description: Damage done by bolt is proportional to the Custom
+Gauge.  Custom Bolt also resets the custom gauge by 1/4.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- --- 
+
+092. Boomer
+Codes: A L V * / Stars:*** / Damage: 60
+Elements: Wood / MB: 16
+Flinching? Yes.
+Description: Boomer is thrown around the perimeter of the field.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | M |   |   | X |   
+  --- --- --- --- --- ---
+ | X | X | X | X | X | X |
+  --- --- --- --- --- ---
+
+093. Meteors 1
+Codes: A Q T / Stars:* / Damage: 60
+Element: Fire / MB: 26
+Flinching? Yes.
+Description: 6 meteors fly out of the sky and hit random panels on 
+your opponents side.  It also cracks panels.
+Range:
+ Random
+
+094. Meteors 2
+Codes: E M U / Stars:** / Damage: 70
+Element: Fire / MB: 42
+Flinching? Yes.
+Description: 8 meteors fly out of the sky and hit random panels on 
+your opponents side.  It also cracks panels.
+Range:
+ Random
+
+095. Meteors 3
+Codes: C P Y / Stars:*** / Damage: 80
+Element: Fire / MB: 56
+Flinching? Yes.
+Description: 10 meteors fly out of the sky and hit random panels on 
+your opponents side.  It also cracks panels.
+Range:
+ Random
+
+096. Satellite 1
+Codes: G H I / Stars:* / Damage: 60
+Element: Elec / MB: 30
+Flinching? Yes.
+Description: A satellite moves up and down from column to column.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ | X | M | X | X | X | X |   
+  --- --- --- --- --- ---
+ | X | X | X | X | X | X |
+  --- --- --- --- --- ---  
+
+097. Satellite 2
+Codes: B C D / Stars:** / Damage: 80
+Element: Elec / MB: 40
+Flinching? Yes.
+Description: A satellite moves up and down from column to column.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ | X | M | X | X | X | X |   
+  --- --- --- --- --- ---
+ | X | X | X | X | X | X |
+  --- --- --- --- --- --- 
+
+098. Satellite 3
+Codes: S T U / Stars:*** / Damage: 100
+Element: Elec / MB: 50
+Flinching? Yes.
+Description: A satellite moves up and down from column to column.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ | X | M | X | X | X | X |   
+  --- --- --- --- --- ---
+ | X | X | X | X | X | X |
+  --- --- --- --- --- --- 
+
+099. InazumaKing 1
+Codes: K O Y / Stars:* / Damage: 100
+Element: Elec / MB: 30
+Flinching? Yes.
+Description: An ElecReel fall three spaces ahead and hits in a 
+cross pattern all panels in the enemy area.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   | X | Y | X |   Y - ElecReel lands
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- ---
+
+100. InazumaKing 2
+Codes: J U Z / Stars:** / Damage: 120
+Element: Elec / MB: 48
+Flinching? Yes.
+Description: An ElecReel fall three spaces ahead and hits in a 
+cross pattern all panels in the enemy area.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   | X | Y | X |   Y - ElecReel lands
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- ---
+
+101. InazumaKing 3
+Codes: A H V / Stars:*** / Damage: 140
+Element: Elec / MB: 66
+Flinching? Yes.
+Description: An ElecReel fall three spaces ahead and hits in a 
+cross pattern all panels in the enemy area.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   | X | Y | X |   Y - ElecReel lands
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- ---
+
+102. WoodyNose 1
+Codes: F R W / Stars:* / Damage: 100
+Element: Wood / MB: 27
+Flinching? No.
+Description: A seed is shot in a straight line.  if it hits the opponent,
+it does its regular damage.  If it goes off the screen, the seed becomes 
+a two column lance.  Sort of...
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Where Nose hits, if seed goes off screen
+ |   | M |   |   | X | X |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X | X |
+  --- --- --- --- --- ---
+
+103. WoodyNose 2
+Codes: J T Z / Stars:** / Damage: 130
+Element: Wood / MB: 40
+Flinching? No.
+Description: A seed is shot in a straight line.  if it hits the opponent,
+it does its regular damage.  If it goes off the screen, the seed becomes 
+a two column lance.  Sort of...
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Where Nose hits, if seed goes off screen
+ |   | M |   |   | X | X |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X | X |
+  --- --- --- --- --- ---
+
+104. WoodyNose 3
+Codes: I S V / Stars:*** / Damage: 160
+Element: Wood / MB: 53
+Flinching? No.
+Description: A seed is shot in a straight line.  if it hits the opponent,
+it does its regular damage.  If it goes off the screen, the seed becomes 
+a two column lance.  Sort of...
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Where Nose hits, if seed goes off screen
+ |   | M |   |   | X | X |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X | X |
+  --- --- --- --- --- ---
+
+105. Lance
+Codes: C L R * / Stars:**** / Damage: 130
+Element: Wood / MB: 42
+Flinching? No.
+Description: Lance hits the back row of the opponents area.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   | X |   M - Megaman
+  --- --- --- --- --- ---    X - Panels hit.
+ |   | M |   |   |   | X |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   | X |
+  --- --- --- --- --- --- 
+
+106. TsanamiBall
+Codes: B E Z / Stars:** / Damage: 160
+Element: Aqua / MB: 42
+Flinching? Yes.
+Description: Will form an OceanWave if there is an Ocean panel present.
+Range:
+  --- --- --- --- --- ---
+ |   | Y | X | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Waves hits
+ | M | Y | X | X | X | X |   Y - Ocean Panel
+  --- --- --- --- --- ---
+ |   | Y | X | X | X | X |
+  --- --- --- --- --- ---
+
+107. RedTsunamiBall
+Codes: A F H / Stars:*** / Damage: 190
+Element: Fire / MB: 48
+Flinching? Yes.
+Description: Will form a RedWave if there is an Magma panel present.
+Range:
+  --- --- --- --- --- ---
+ |   | Y | X | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Waves hits
+ | M | Y | X | X | X | X |   Y - Magma Panel
+  --- --- --- --- --- ---
+ |   | Y | X | X | X | X |
+  --- --- --- --- --- ---
+
+108. MudTsunamiBall
+Codes: D N W / Stars:**** / Damage: 170
+Element: Wood / MB: 54
+Flinching? Yes.
+Description: Will form a GreenWave if there is an cracked panel present.
+Range:
+  --- --- --- --- --- ---
+ |   | Y | X | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Waves hits
+ | M | Y | X | X | X | X |   Y - Grass Panel
+  --- --- --- --- --- ---
+ |   | Y | X | X | X | X |
+  --- --- --- --- --- ---
+
+109. ComeOnRain
+Codes: B G L / Stars:**** / Damage: 40
+Element: Aqua / MB: 47
+Flinching? Yes.
+Description: Does 40 damage to the opponent for each Ocean Panel on
+your side of the field.  Does an extra 20 damage per Ocean Panel, if
+you are standing on one, when activating the chip.  All Ocean Panels
+disappear after using the chip.
+Range:
+ Automatically hits enemy.
+
+110. Snake
+Codes: C M Z / Stars:**** / Damage: 30
+Element: Wood / MB: 60
+Flinching? No.
+Description: Summons a snake for each broken panel on your side of
+the field.
+Range:
+ Automatically hits enemy.
+
+111. Magnum
+Codes: E O V / Stars:*** / Damage: 130
+Element: Aiming / MB: 52
+Flinching? Yes.
+Description: Three target appear in a column, and it shuffle through
+the enemies columns.  Press A to stop on a column and to fire.
+Range:
+ Depends on when you press A.
+
+112. CircGun
+Codes: A C F / Stars:*** / Damage: 100
+Element: Aiming / MB: 50
+Flinching? Yes.
+Description: Target appears and circles around the enemies area.  Press
+A to fire.
+Range:
+ Depends on when you press A.
+
+113. TimeBomb 1
+Codes: H N T / Stars:* / Damage: 100
+Element: Obstacle / MB: 32
+Flinching? Yes.
+Description: Creates a 50 HP bomb randomly in the enemies front row.  It
+explodes after 4 seconds and hits all enemy panels.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Bomb hits
+ | X | M | X | X | X | X |   
+  --- --- --- --- --- ---
+ | X | X | X | X | X | X |
+  --- --- --- --- --- --- 
+
+114. TimeBomb 2
+Codes: D H Z / Stars:** / Damage: 140
+Element: Obstacle / MB: 54
+Flinching? Yes.
+Description: Creates a 50 HP bomb randomly in the enemies front row.  It
+explodes after 4 seconds and hits all enemy panels.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Bomb hits
+ | X | M | X | X | X | X |   
+  --- --- --- --- --- ---
+ | X | X | X | X | X | X |
+  --- --- --- --- --- --- 
+
+115. TimeBomb 3
+Codes: F H S / Stars:*** / Damage: 200
+Element: Obstacle / MB: 76
+Flinching? Yes.
+Description: Creates a 50 HP bomb randomly in the enemies front row.  It
+explodes after 4 seconds and hits all enemy panels.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Bomb hits
+ | X | M | X | X | X | X |   
+  --- --- --- --- --- ---
+ | X | X | X | X | X | X |
+  --- --- --- --- --- --- 
+
+116. BoyBomb 1
+Codes: C F S / Stars:* / Damage: 130
+Element: Obstacle / MB: 30
+Flinching? Yes.
+Description: A bomb is placed on your front column.  Bomb damages all 
+surrounding panels.  It can also be pushed with an Airshot or WindRacket.
+Range:
+  --- --- --- --- --- ---
+ |   | X | X | X |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Bomb hits
+ | M | X | Y | X |   |   |   Y - Where bomb is placed
+  --- --- --- --- --- ---
+ |   | X | X | X |   |   |
+  --- --- --- --- --- ---  
+
+117. BoyBomb 2
+Codes: H P W / Stars:** / Damage: 180
+Element: Obstacle / MB: 40
+Flinching? Yes.
+Description: A bomb is placed on your front column.  Bomb damages all 
+surrounding panels.  It can also be pushed with an Airshot or WindRacket.
+Range:
+  --- --- --- --- --- ---
+ |   | X | X | X |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Bomb hits
+ | M | X | Y | X |   |   |   Y - Where bomb is placed
+  --- --- --- --- --- ---
+ |   | X | X | X |   |   |
+  --- --- --- --- --- --- 
+
+118. BoyBomb 3
+Codes: B Q Y / Stars:*** / Damage: 230
+Element: Obstacle / MB: 50
+Flinching? Yes.
+Description: A bomb is placed on your front column.  Bomb damages all 
+surrounding panels.  It can also be pushed with an Airshot or WindRacket.
+Range:
+  --- --- --- --- --- ---
+ |   | X | X | X |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Bomb hits
+ | M | X | Y | X |   |   |   Y - Where bomb is placed
+  --- --- --- --- --- ---
+ |   | X | X | X |   |   |
+  --- --- --- --- --- --- 
+
+119. Mine
+Codes: H P T / Stars:*** / Damage: 300
+Element: Obstacle / MB: 42
+Flinching? Yes.
+Description: Places a mine randomly underneath one of the opponents 
+panels.  Mine detonates if opponent steps on it.
+Range:
+ Depends on where Mine is placed.
+
+120. RockCube
+Codes: * / Stars:* / Damage: None
+Element: Obctacle / MB: 6
+Flinching? No.
+Description: Places a Rockcube in front of Megaman.  Can be shot with
+an Airshot or WindRacket for 200 damage.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Rockcube forms
+ |   | M | X |   |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+121. Wind
+Codes: * / Stars:** / Damage: None
+Element: Wind / MB: 10
+Flinching? No.
+Description: Places a Wind in front of Megaman.  It blows the enemies
+towards the backrow.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | > | > | > |   M - Megaman
+  --- --- --- --- --- ---    X - Wind forms
+ |   | M | X | > | > | > |   > - Panels affected
+  --- --- --- --- --- ---
+ |   |   |   | > | > | > |
+  --- --- --- --- --- --- 
+
+122. Fan
+Codes: * / Stars:** / Damage: None
+Element: Wind / MB: 10
+Flinching? No.
+Description: Places a Fan in front of Megaman.  It sucks the enemies
+towards the frontrow.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | < | < | < |   M - Megaman
+  --- --- --- --- --- ---    X - Fan forms
+ |   | M | X | < | < | < |   > - Panels affected
+  --- --- --- --- --- ---
+ |   |   |   | < | < | < |
+  --- --- --- --- --- ---
+
+123. Fanfare
+Codes: F P Z * / Stars:** / Damage: None
+Element: Obstacle / MB: 20
+Flinching? No.
+Description: Places a Fanfare in front of Megaman.  When it plays music,
+it makes Megaman invincible and cannot take damage.
+Range:
+ Plays music and affects Megaman
+
+124. Discord
+Codes: B J Q * / Stars:** / Damage: None
+Element: Obstacle / MB: 20
+Flinching? No.
+Description: Places a Discord in front of Megaman.  When it plays music,
+it makes the opponent confused.
+Range:
+ Plays music and affects opponent
+
+125. Timpani
+Codes: A L V * / Stars:** / Damage: None
+Element: Obstacle / MB: 20
+Flinching? No.
+Description: Places a Timpani in front of Megaman.  When it plays music,
+it makes the opponent unable to move.
+Range:
+ Plays music and affects opponent
+
+126. Silence
+Codes: C J N * / Stars:** / Damage: None
+Element: Obstacle / MB: 20
+Flinching? No.
+Description: Places a Silence in front of Megaman.  When it plays music,
+it makes the opponent blinded.
+Range:
+ Plays music and affects opponent
+
+127. RedFruit 1
+Codes: E K Z / Stars:* / Damage: None
+Element: Recovery / MB: 24
+Flinching? No.
+Description: An apple with numbers appears on a random panel.  The person to
+hit the apple will gain 300 HP Recovery.
+Range:
+ Placed on random panels. 
+
+128. RedFruit 2
+Codes: F T W / Stars:** / Damage: None
+Element: Recovery / MB: 48
+Flinching? No.
+Description: An apple with numbers appears on a random panel.  The person to
+hit the apple will gain Invincibility for limited time.                         
+Range:
+ Placed on random panels.
+
+129. RedFruit 3
+Codes: H O U / Stars:*** / Damage: None
+Element: Recovery / MB: 62
+Flinching? No.
+Description: An apple with numbers appears on a random panel.  The person to
+hit the apple will gain Fullsynchro.
+Range:
+ Placed on random panels.
+
+130. VDoll
+Codes: O T Z / Stars:**** / Damage: Depends
+Element: Obstacle / MB: 58
+Flinching? Yes.
+Description: VDoll is thrown 3 spaces ahead. Damage done to VDoll is 
+taken also by opponent.  After VDolltakes one hit, it disappears off 
+the field.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - VDoll lands
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+131. Guard 1
+Codes: A D K * / Stars:* / Damage: 50
+Element: Normal / MB: 4
+Flinching? Yes.
+Description: Creates a temporary shield.  If enemy hits it, it sends
+a shockwave back at him.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    > - Line of shockwave
+ |   | M | > | > | > | > |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+132. Guard 2
+Codes: B L Q * / Stars:** / Damage: 100
+Element: Normal / MB: 10
+Flinching? Yes.
+Description: Creates a temporary shield.  If enemy hits it, it sends
+a shockwave back at him.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    > - Line of shockwave
+ |   | M | > | > | > | > |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+133. Guard 3
+Codes: C M S * / Stars:*** / Damage: 150
+Element: Normal / MB: 16
+Flinching? Yes.
+Description: Creates a temporary shield.  If enemy hits it, it sends
+a shockwave back at him.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    > - Line of shockwave
+ |   | M | > | > | > | > |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+134. CurseShield 1
+Codes: B F V / Stars:* / Damage: 130
+Element: Normal / MB: 28
+Flinching? Yes.
+Description: A Dominerd appears in front of Megaman.  If its hit, it
+flies in front of the opponent and bits him.
+Range:
+ Wherever the enemy is.
+
+135. CurseShield 2
+Codes: C M R / Stars:** / Damage: 160
+Element: Normal / MB: 30
+Flinching? Yes.
+Description: A Dominerd appears in front of Megaman.  If its hit, it
+flies in front of the opponent and bits him.
+Range:
+ Wherever the enemy is.
+
+136. CurseShield 3
+Codes: D O Z / Stars:*** / Damage: 190
+Element: Normal / MB: 52
+Flinching? Yes.
+Description: A Dominerd appears in front of Megaman.  If its hit, it
+flies in front of the opponent and bits him.
+Range:
+ Wherever the enemy is.
+
+137. PanelOut
+Codes: * / Stars:* / Damage: None
+Element: Normal / MB: 4
+Flinching? Yes.
+Description: Panel in front of Megaman becomes broken.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Panel that becomes broken
+ |   |   | M | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+138. DoubleCrack
+Codes: * / Stars:* / Damage: None
+Element: Normal / MB: 7
+Flinching? Yes.
+Description: Two panels in front of Megaman becomes broken.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Panels that becomes broken
+ |   |   | M | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+139. TripleCrack
+Codes: * / Stars:* / Damage: None
+Element: Normal / MB: 10
+Flinching? Yes.
+Description: Three panels in front of Megaman becomes broken.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Panels that becomes broken
+ |   |   | M | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |
+  --- --- --- --- --- --- 
+
+140. Recover10
+Codes: A C L * / Stars:* / Damage: None
+Element: Recovery / MB: 8
+Flinching? No.
+Description: Megaman recovers 10 HP.
+Range:
+ Automatically affects Megaman.
+
+141. Recover30
+Codes: C H L * / Stars:* / Damage: None
+Element: Recovery / MB: 16
+Flinching? No.
+Description: Megaman recovers 30 HP.
+Range:
+ Automatically affects Megaman.
+
+142. Recover50
+Codes: B H O * / Stars:* / Damage: None
+Element: Recovery / MB: 24
+Flinching? No.
+Description: Megaman recovers 50 HP.
+Range:
+ Automatically affects Megaman.
+
+143. Recover80
+Codes: B K O * / Stars:** / Damage: None
+Element: Recovery / MB: 32
+Flinching? No.
+Description: Megaman recovers 80 HP.
+Range:
+ Automatically affects Megaman.
+
+144. Recover120
+Codes: K / Stars:** / Damage: None
+Element: Recovery / MB: 40
+Flinching? No.
+Description: Megaman recovers 120 HP.
+Range:
+ Automatically affects Megaman.
+
+145. Recover150
+Codes: Q / Stars:*** / Damage: None
+Element: Recovery / MB: 48
+Flinching? No.
+Description: Megaman recovers 150 HP.
+Range:
+ Automatically affects Megaman.
+
+146. Recover200
+Codes: I / Stars:*** / Damage: None
+Element: Recovery / MB: 56
+Flinching? No.
+Description: Megaman recovers 200 HP.
+Range:
+ Automatically affects Megaman.
+
+147. Recover300
+Codes: Y / Stars:**** / Damage: None
+Element: Recovery / MB: 64
+Flinching? No.
+Description: Megaman recovers 300 HP.
+Range:
+ Automatically affects Megaman.
+
+148. PanelGrab
+Codes: * / Stars:* / Damage: None
+Element: None / MB: 6
+Flinching? Yes.
+Description: Megaman steals the opponents front panel in Megamans
+row.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Panel that is stolen
+ |   | M |   | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+149. AreaGrab
+Codes: A L S * / Stars:** / Damage: None
+Element: None / MB: 8
+Flinching? Yes.
+Description: Megaman steals the opponents front column.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Panels that are stolen
+ |   |   | M | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |
+  --- --- --- --- --- ---
+
+150. MetaGel 
+Codes: F N T / Stars:**** / Damage: 120
+Element: Aqua / MB: 52
+Flinching? Yes.
+Description: Megaman steals the opponents frontmost panels, regardless of
+the shape the column is in.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Panels that are stolen
+ |   |   | M | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |
+  --- --- --- --- --- ---
+
+151. GrabBnsh
+Codes: D L R / Stars:*** / Damage: 20
+Element: Normal / MB: 24
+Flinching? Yes.
+Description: Should be activated after losing your panels.  It does
+20 damage to all enemies for each panel stolen.
+Range:
+ Attacks all enemies.
+
+152. GrabRvng
+Codes: F N P / Stars:**** / Damage: 40
+Element: Normal / MB: 48
+Flinching? Yes.
+Description: Should be activated after losing your panels.  It does
+40 damage to all enemies for each panel stolen.
+Range:
+ Attacks all enemies.
+
+153. PanelReturn
+Codes * / Stars:** / Damage: None
+Element: Normal / MB: 14
+Flinching? No.
+Description: All of Megamans panels return to normal.
+Range:
+ Megamans panels.
+
+154. DeathMatch 1
+Codes: M P Z * / Stars:*** / Damage: None
+Element: Normal / MB: 34
+Flinching? No.
+Description: Makes all panels on the field cracked.
+Range:
+ All panels.
+
+155. DeathMatch 2
+Codes: H T W / Stars:*** / Damage: None
+Element: Normal / MB: 47
+Flinching? No.
+Description: Makes all panels on the field broken.
+Range:
+ All panels.
+
+156. DeathMatch 3
+Codes: A O V / Stars:**** / Damage: Infinite
+Element: Normal / MB: 62
+Flinching? No.
+Description: Makes all panels on the field poison panels.
+Range:
+ All panels.
+
+157. Slowgauge
+Codes: H Q W * / Stars:*** / Damage: None
+Element: Normal/ MB: 69
+Flinching? No.
+Description: Makes the custom gauge fill slower.
+Range:
+ Custom Gauge
+
+158. Fastgauge
+Codes: H Q W * / Stars:*** / Damage: None
+Element: Normal / MB: 32
+Flinching? No.
+Description: Makes the custom gauge fill faster.
+Range:
+ Custom Gauge
+
+159. BusterUp
+Codes: * / Stars:** / Damage: None
+Element: Variable / MB: 5
+Flinching? No.
+Description: Makes the Megamans buster attack +1.
+Range:
+ Automatically affects Megaman.
+
+160. Blinder
+Codes: A D H * / Stars:** / Damage: None
+Element: Invisibility / MB: 9
+Flinching? No.
+Description: Makes the enemy blinded to you.  The opponent can still
+hit you though.  Also pulls enemy out of Invis.
+Range:
+ Automatically affects the opponent.
+
+161. Northwind
+Codes: D Q V * / Stars:*** / Damage: None
+Element: Wind / MB: 33
+Flinching? No.
+Description: Gets rid of Auras and Barriers of the opponent.
+Range:
+ Automatically affects the opponent.  
+
+162. HolyPanel
+Codes: A N U * / Stars:** / Damage: None
+Element: Normal / MB: 24
+Flinching? No.
+Description: Megaman creates a Holy Panel in front of him.  When 
+standing on this panel, he takes half damage from enemy attacks.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Holy Panel formed
+ |   | M | X |   |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+163. Invis
+Codes: * / Stars:*** / Damage: None
+Element: Invisibility / MB: 12
+Flinching? No.
+Description: Megaman turns invisible.  He is immune to all enemy
+attacks except for attack that super-pierce.
+Range:
+ Automatically affects Megaman.
+
+164. Barrier
+Codes: B L S * / Stars:** / Damage: None
+Element: Normal / MB: 7
+Flinching? No.
+Description: Megaman puts up a 10 HP Barrier.  While the Barrier is
+up, Megaman cannot be hurt (except by poison).
+Range:
+ Automatically affects Megaman.
+
+165. Barrier100
+Codes: P / Stars:*** / Damage: None
+Element: Normal / MB: 27
+Flinching? No.
+Description: Megaman puts up a 100 HP Barrier.  While the Barrier is
+up, Megaman cannot be hurt (except by poison).
+Range:
+ Automatically affects Megaman.
+
+166. Barrier200
+Codes: W / Stars:**** / Damage: None
+Element: Normal / MB: 47
+Flinching? No.
+Description: Megaman puts up a 200 HP Barrier.  While the Barrier is
+up, Megaman cannot be hurt (except by poison).
+Range:
+ Automatically affects Megaman.
+
+167. BubbleWrap
+Codes: Y / Stars:*** / Damage: None
+Element: Aqua / MB: 35
+Flinching? No.
+Description: A 1 HP Aura is put up.  It regenerates from time to time.
+But if hit with an Elec attack, it goes right through and the aura
+does not regenerate anymore.
+Range:
+ Automatically affects Megaman.
+
+168. AntiFire
+Codes: E K T * / Stars:*** / Damage: 200
+Element: Fire / MB: 58
+Flinching? Yes.
+Description: Press A to activate.  When an opponent uses a Fire chip,
+the attack doesnt hit you, but rather he takes damage.
+Range:
+ Automatically hits opponent.
+
+169. AntiAqua
+Codes: D G Q * / Stars:*** / Damage: 200  
+Element: Aqua / MB: 54
+Flinching? Yes.
+Description: Press A to activate.  When an opponent uses an Aqua chip,
+the attack doesnt hit you, but rather he takes damage.
+Range:
+ Automatically hits opponent.
+
+170. AntiElec
+Codes: A N Y * / Stars:*** / Damage: 200
+Element: Elec / MB: 59
+Flinching? Yes.
+Description: Press A to activate.  When an opponent uses a Elec chip,
+the attack doesnt hit you, but rather he takes damage.
+Range:
+ Automatically hits opponent.
+
+171. AntiWood
+Codes: M S Z * / Stars:*** / Damage: 200
+Element: Wood / MB: 55
+Flinching? Yes.
+Description: Press A to activate.  When an opponent uses a Wood chip,
+the attack doesnt hit you, but rather he takes damage.
+Range:
+ Automatically hits opponent.
+
+172. AntiDmg
+Codes: C F M * / Stars:*** / Damage: 120
+Element: Invisibility / MB: 31
+Flinching? Yes.
+Description: Press A to activate.  When HIT by an opponents attack,
+a doll appears and Megaman throws a shuriken at the opponent.
+Range:
+ Throws at opponent wherever he is.
+
+173. AntiSword
+Codes: D O R / Stars:*** / Damage: 100
+Element: Sword / MB: 43
+Flinching? Yes.
+Description: Press A to activate.  When an opponent HITS you with Sword 
+chip, the attack doesnt hit you, but rather he takes damage.
+Range:
+ Automatically hits opponent.
+
+174. AntiNavi
+Codes: M T V / Stars:**** / Damage: Depends
+Element: Normal / MB: 44
+Flinching? Yes.
+Description: Press A to activate.  When an opponent uses a Navi chip,
+the attack doesnt hit you, but rather the navi hits the opponent.
+Range:
+ Automatically hits opponent.
+
+175. AntiRecover
+Codes: B J P / Stars:*** / Damage: None
+Element: Normal / MB: 37
+Flinching? Yes.
+Description: Press A to activate.  When an opponent uses a Recovery 
+chip, the opponent doesnt recover, but rather the amount of recovery
+becomes damage.
+Range:
+ Automatically hits opponent.
+
+176. CopyDamage
+Codes: * / Stars:** / Damage: None
+Element: Aiming / MB: 12
+Flinching? No.
+Description: Press A and a circle outlines an enemy in CopyDamages line
+of fire.  The next attack that does damage to another enemy, does damage
+also to the enemy with the circle on him.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    > - CopyDmg's Line of fire
+ |   | M | > | > | > | O |   O - Enemy with circle
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+177. LifeSynchro
+Codes: B R S * / Stars:** / Damage: None
+Element: Aiming / MB: 12
+Flinching? No.
+Description: Press A and a circle outlines an enemy in LifeSynchro's line
+of fire.  All enemies HPs are dropped to the HP of the outlines enemy.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    > - LifeSynchro Line of fire
+ |   | M | > | > | O |   |   O - Enemy with circle
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+178. Attack +10
+Codes: * / Stars:* / Damage: None
+Element: Variable / MB: 6
+Flinching? No.
+Description: Adds 10 more damage to a chips attack.
+Range:
+ Previously selected offensive chip.
+
+179. Navi +20
+Codes: * / Stars:*** / Damage: None
+Element: Variable / MB: 36
+Flinching? No.
+Description: Adds 20 more damage to a navi chips attack.
+Range:
+ Previously selected navi chip.
+
+180. Colorpoint
+Codes: * / Stars:** / Damage: None
+Element: Variable / MB: 25
+Flinching? No.
+Description: Megaman sacrifices front 3 panels.  Next Offensive chips 
+attack gets a +10 boost for each panel sacrificed.  Does not work on 
+broken panels.
+Range: 
+ Next offensive chip.      
+     
+==============================================================
+
+
+==============================================================
+7. All the info you need on Mega Chips			[MEGAS]
+==============================================================
+Here is everything you need to know on all the Mega Chips in the
+game.
+
+001. SuperVulcan
+Codes: S / Stars:**** / Damage: 10
+Element: Normal / MB: 75
+Flinching? No.
+Description: Megaman shoots 12 Rapid fire shots in a straight line,
+each dealing 10 dmg.  Also damages the panel behind.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X | Y |   Y - Also hit
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+002. NeoVarSword
+Codes: V  / Stars:***** / Damage: 240
+Element: Sword / MB: 74
+Flinching? Yes.
+Description: By holding down A and inputting a button combo,NeoVarSword 
+becomes a different sword with a different range.
+Range:
+ Button Combos: CrossSlash: Down, Right, Up
+                DoubleLifeSword: Up, B, Down, B, Up, B
+                PiercingSonicBoom: Left, B, Right, B
+
+003. Shotstar
+Codes: R / Stars:***** / Damage: 40
+Element: Fire / MB: 73
+Flinching? Yes.
+Description: 24 Meteors come flying down into the enemies area, hitting
+random panels.
+Range:
+ Random in Enemies Area.
+
+004. Numberball
+Codes: N * / Stars:**** / Damage: ???
+Element: Normal / MB: 69
+Flinching? Yes.
+Description: Numberball deals damage equal to last two digits in your
+HP.  It sends 5 Balls out each dealing that much damage, in a straight
+line.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   |   | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+005. Guardian
+Codes: O / Stars:**** / Damage: 200
+Element: Obstacle / MB: 64
+Flinching? Yes.
+Description: A Guardian statue is placed on the field.  If a player hits
+it with an attack, the Guardian will deal 200 super-piercing damage to the
+player.
+Range:
+ Guardian will hit player on the field regardless of position.
+
+006. Jealousy
+Codes: J / Stars:**** / Damage: 80
+Element: Normal / MB: 35
+Flinching? Yes.
+Description:  Jealousy breaks all of the opponent chips and deals 80
+damage per chip broken to the opponent.
+Range:
+ Automatically affects opponent.
+
+007. Poltergeist
+Codes: P / Stars:**** / Damage: 150
+Element: Normal / MB: 40
+Flinching? Yes.
+Description: Throws all obstacles on the field at opponent for 150
+damage per obstacle.
+Range:
+ Automatically works.
+
+008. BugFix
+Codes: H * / Stars:**** / Damage: None 
+Element: Normal / MB: 62
+Flinching? No.
+Description: Fixes all bugs Megaman has.  It cannot be used by Dark 
+Megaman.
+Range:
+ Automatically works.
+
+009. Fullcust
+Codes: * / Stars:**** / Damage: None
+Element: Normal / MB: 45
+Flinching? No.
+Description: Increases the speed at which the Custom gauge fills.
+Range:
+ Automatically works.
+
+010. LifeAura
+Codes: D / Stars:***** / Damage: None
+Element: Normal / MB: 70
+Flinching? No.
+Description: An 200 HP aura surrounds Megaman.  Aura cannot be broken
+unless an attack of at least 200 damage is done.
+Range:
+ Automatically works.
+
+011. Sanctuary
+Codes: S / Stars:**** / Damage: None
+Element: Normal / MB: 62
+Flinching? No.
+Description: Turns all panels on Megaman's side of the field into holy
+panels.  While Megaman stands on them, he takes half-damage from enemy
+attacks.
+Range:
+ Automatically works.
+
+012. Attack +30
+Codes: * / Stars:**** / Damage: None
+Element: Variable / MB: 66
+Flinching? No.
+Description: Adds 30 damage to the previously selected attack chip.
+Range:
+ Previously selected offensive chip.
+
+013. DoublePoint
+Codes: * / Stars:**** / Damage: None
+Element: Variable / MB: 50
+Flinching? No.
+Description: Megaman sacrifices front 3 panels.  Next Offensive chips 
+attack gets a +20 boost for each panel sacrificed.  Does not work on 
+broken panels.
+Range: 
+ Next offensive chip.
+
+014. Muramasa
+Codes: M / Stars:***** / Damage: ???
+Element: Sword / MB: 81
+Flinching? Yes.
+Description: Deals damage equal to the amount of damage lost from your
+MAX HP.  Dark Megaman only.  
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   |   | M | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+015. Anubis
+Codes: A / Stars:***** / Damage: None
+Element: Obstacle / MB: 86
+Flinching? No.
+Description: Summons a 100HP Anubis Statue in front of Megaman.  Each 
+enemy is drained 10 HP per second.  Dark Megaman only.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M | A | X | X | X |   A - Anubis Statue
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |
+  --- --- --- --- --- ---
+
+016. BlackWing
+Codes: W / Stars:**** / Damage: 20
+Element: Normal / MB: 58
+Flinching? Yes.
+Description: Multiple bats fly down each column in the enemies area.
+Dark Megaman only.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | V | V | V |   M - Megaman
+  --- --- --- --- --- ---    V - Target hit
+ |   | M |   | V | V | V |   
+  --- --- --- --- --- ---
+ |   |   |   | V | V | V |
+  --- --- --- --- --- ---
+
+017. JusticeOne
+Codes: J / Stars:***** / Damage: 280
+Element: Break / MB: 90
+Flinching? Yes.
+Description: A fist flys into the enemies area hitting all enemies and 
+cracking all enemy panels.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   | X | X | X |   
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |
+  --- --- --- --- --- --- 
+
+018. Z-Saber
+Codes: Z / Stars:***** / Damage: 100
+Element: Sword / MB: 80
+Flinching? No.
+Description: Megaman uses a triple sword slash.  He uses a LongSword, then
+WideSword, then a HeroSword.  
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   |   | M | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+Then...
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   |   | M | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X |   |   |
+  --- --- --- --- --- --- 
+Then...
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   |   | M | X | X | X |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+019. Roll
+Codes: R / Stars:*** / Damage: 20
+Element: Recovery / MB: 20
+Flinching? Yes.
+Description: Roll goes to closest enemy and hits three times, and then
+heals some of Megaman's HP.
+Range:
+ Automatically hits.
+
+020. RollSP
+Codes: R / Stars:**** / Damage: ???
+Element: Recovery / MB: 60
+Flinching? Yes.
+Description: Roll goes to closest enemy and hits three times, and then
+heals some of Megaman's HP.  Does even more damage depending on the amount
+of holy panels on the field.
+Range:
+ Automatically hits.
+
+021. RollDS
+Codes: R / Stars:**** / Damage: ???
+Element: Recovery / MB: 60
+Flinching? Yes.
+Description: Roll goes to closest enemy and hits three times, and then
+heals some of Megaman's HP.  
+Range:
+ Automatically hits.
+
+022. Blues
+Codes: B / Stars:*** / Damage: 130
+Element: Sword / MB: 54
+Flinching? Yes.
+Description: Blues goes to all enemies and hits with a WideSword.
+Range:
+ Blues automatically goes up to all enemies.
+
+023. BluesSP
+Codes: B / Stars:**** / Damage: 150 +
+Element: Sword / MB: 79
+Flinching? Yes.
+Description: Blues goes to all enemies and hits with a WideSword.  The
+chip does even more damage depending on how fast you delete the SP version.
+Range:
+ Blues automatically goes up to all enemies.
+
+024. BluesDS
+Codes: B / Stars:**** / Damage: ???
+Element: Sword / MB: 79
+Flinching? Yes.
+Description: Blues goes to all enemies and hits with a WideSword.
+Range:
+ Blues automatically goes up to all enemies.
+
+025. Gyroman
+Codes: G / Stars:*** / Damage: 80
+Element: Normal / MB: 32
+Flinching? Yes.
+Description: Gyroman drops bombs, on one row, on each column of the enemy
+area.
+*Thanks to austin80112@msn.com* If you hold L and R, Gyroman will drop bombs on
+only one enemy.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   | X | X | X |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+026. GyromanSP
+Codes: G / Stars:**** / Damage: 90 +
+Element: Normal / MB: 66
+Flinching? Yes.
+Description: Gyroman drops bombs, on one row, on each column of the enemy
+area.  Does even more damage depending on how fast you delete the SP version.
+*Thanks to austin80112@msn.com* If you hold L and R, Gyroman will drop bombs on
+only one enemy.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   | X | X | X |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+027. GyromanDS
+Codes: G / Stars:**** / Damage: ???
+Element: Normal / MB: 66
+Flinching? Yes.
+Description: Gyroman drops bombs, on one row, on each column of the enemy
+area.
+*Thanks to austin80112@msn.com* If you hold L and R, Gyroman will drop bombs on
+only one enemy.  
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Target hit
+ |   | M |   | X | X | X |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+028. Searchman
+Codes: S / Stars:*** / Damage: 20
+Element: Aiming / MB: 42
+Flinching? Yes.
+Description: A target is sent out and it scopes all panels in the 
+enemy’s area. Press the A button again to stop the target and fire. If
+you press A and B, it will break any chips the enemy has equipped. 
+Range: 
+ Entire enemy area.
+
+029. SearchmanSP
+Codes: S / Stars:**** / Damage: 25 +
+Element: Aiming / MB: 72
+Flinching? Yes.
+Description: A target is sent out and it scopes all panels in the 
+enemy’s area. Press the A button again to stop the target and fire. If
+you press A and B, it will break any chips the enemy has equipped.
+Does more damage depending on how fast you delete the SP version. 
+Range: 
+ Entire enemy area.
+
+030. SearchmanDS
+Codes: S / Stars:**** / Damage: ???
+Element: Aiming / MB: 72
+Flinching? Yes.
+Description: A target is sent out and it scopes all panels in the 
+enemy’s area. Press the A button again to stop the target and fire. If
+you press A and B, it will break any chips the enemy has equipped. 
+Range: 
+ Entire enemy area.
+
+031. Napalmman
+Codes: N / Stars:*** / Damage: 120
+Element: Fire / MB: 38
+Flinching? Yes.
+Description: Napalmman throws a Napalmbomb 4 spaces ahead and explodes
+to hit all surrounding panels for damage.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |   N - Napalmman
+  --- --- --- --- --- ---    X - Napalmbomb lands
+ | N |   |   | Y | X | Y |   Y - Panels Hit
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |
+  --- --- --- --- --- ---
+
+032. NapalmmanSP
+Codes: N / Stars:**** / Damage: 150
+Element: Fire / MB: 72
+Flinching? Yes.
+Description: Napalmman throws a Napalmbomb 4 spaces ahead and explodes
+to hit all surrounding panels for damage.  Does even more damage depending
+on how fast you delete the SP Navi.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |   N - Napalmman
+  --- --- --- --- --- ---    X - Napalmbomb lands
+ | N |   |   | Y | X | Y |   Y - Panels Hit
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |
+  --- --- --- --- --- --- 
+
+033. NapalmmanDS
+Codes: N / Stars:**** / Damage: ???
+Element: Fire / MB: 72
+Flinching? Yes.
+Description: Napalmman throws a Napalmbomb 4 spaces ahead and explodes
+to hit all surrounding panels for damage.  
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |   N - Napalmman
+  --- --- --- --- --- ---    X - Napalmbomb lands
+ | N |   |   | Y | X | Y |   Y - Panels Hit
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |
+  --- --- --- --- --- --- 
+
+034. Magnetman
+Codes: M / Stars:*** / Damage: 90
+Element: Elec / MB: 25
+Flinching? Yes.
+Description: Magnetman appears and tackles the opponent in that row.  If two
+columns are empty in back of the opponent, another Magnetman would form and hit
+a second time for double damage.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Magnetman
+  --- --- --- --- --- ---    X - Enemy
+ |   | M | > | X | < | M |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+035. MagnetmanSP
+Codes: M / Stars:**** / Damage: 100
+Element: Elec / MB: 75
+Flinching? Yes.
+Description: Magnetman appears and tackles the opponent in that row.  If two
+columns are empty in back of the opponent, another Magnetman would form and hit
+a second time for double damage.  Does even more damage depending
+on how fast you delete the SP Navi.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Magnetman
+  --- --- --- --- --- ---    X - Enemy
+ |   | M | > | X | < | M |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+036. MagnetmanDS
+Codes: M / Stars:**** / Damage: ???
+Element: Elec / MB: 75
+Flinching? Yes.
+Description: Magnetman appears and tackles the opponent in that row.  If two
+columns are empty in back of the opponent, another Magnetman would form and hit
+a second time for double damage.  
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Magnetman
+  --- --- --- --- --- ---    X - Enemy
+ |   | M | > | X | < | M |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+037. Meddy
+Codes: M / Stars:*** / Damage: 80
+Element: Normal / MB: 36
+Flinching? Yes.
+Description: Meddy appears and throw two pills randomly on two panels. Depending
+on how the pills land, the adjacent panels will be hit.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | | |   |   M - Meddy
+  --- --- --- --- --- ---    X - Enemy
+ |   | M |   | - | X |   |   | - Pill that hits top and bottom
+  --- --- --- --- --- ---    - - Pill that hits right and left
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+038. MeddySP
+Codes: M / Stars:**** / Damage: 100
+Element: Normal / MB: 63
+Flinching? Yes.
+Description: Meddy appears and throw two pills randomly on two panels. Depending
+on how the pills land, the adjacent panels will be hit.  Does even more damage 
+depending on how fast you delete the SP Navi.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | | |   |   M - Meddy
+  --- --- --- --- --- ---    X - Enemy
+ |   | M |   | - | X |   |   | - Pill that hits top and bottom
+  --- --- --- --- --- ---    - - Pill that hits right and left
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+039. MeddyDS
+Codes: M / Stars:**** / Damage: ???
+Element: Normal / MB: 63
+Flinching? Yes.
+Description: Meddy appears and throw two pills randomly on two panels. Depending
+on how the pills land, the adjacent panels will be hit.  
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | | |   |   M - Meddy
+  --- --- --- --- --- ---    X - Enemy
+ |   | M |   | - | X |   |   | - Pill that hits top and bottom
+  --- --- --- --- --- ---    - - Pill that hits right and left
+ |   |   |   |   |   |   |
+  --- --- --- --- --- --- 
+
+040. Colonel
+Codes: C / Stars:*** / Damage: 160
+Element: Normal / MB: 39
+Flinching? Yes.
+Description: Colonel appears and hit the enemy in the same row. The enemy above-
+right and left to it, is also hit.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   C - Colonel
+  --- --- --- --- --- ---    X - Targets hit
+ |   | C |   | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- ---
+
+041. ColonelSP
+Codes: C / Stars:**** / Damage: 200
+Element: Normal / MB: 75
+Flinching? Yes.
+Description: Colonel appears and hit the enemy in the same row. The enemy above-
+right and left to it, is also hit.  Does even more damage depending on how fast
+you delete the SP Navi.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   C - Colonel
+  --- --- --- --- --- ---    X - Targets hit
+ |   | C |   | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- ---
+
+042. ColonelDS
+Codes: C / Stars:**** / Damage: ???
+Element: Normal / MB: 75
+Flinching? Yes.
+Description: Colonel appears and hit the enemy in the same row. The enemy above-
+right and left to it, is also hit.  
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   C - Colonel
+  --- --- --- --- --- ---    X - Targets hit
+ |   | C |   | X |   |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- ---
+
+043. Shadowman
+Codes: S / Stars:*** / Damage: 40
+Element: Normal / MB: 50
+Flinching? Yes.
+Description: 3 Shadowmen appear on the column you activated it on and each throw
+a shiruken at an opponent on the correspnding row.  If there is no opponent 
+on that row, the shiruken is thrown on another row with an opponent.  
+Range:
+  --- --- --- --- --- ---
+ |   | S |   |   | X |   |   S - Shadowman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | S |   | X |   |   |   
+  --- --- --- --- --- ---
+ |   | S |   |   |   | X |
+  --- --- --- --- --- ---
+
+044. ShadowmanSP
+Codes: S / Stars:**** / Damage: 45
+Element: Normal / MB: 80
+Flinching? Yes.
+Description: 3 Shadowmen appear on the column you activated it on and each throw
+a shiruken at an opponent on the correspnding row.  If there is no opponent on 
+that row, the shiruken is thrown on another row with an opponent.  Does even 
+more damage depending on how fast you delete the SP Navi.  
+Range:
+  --- --- --- --- --- ---
+ |   | S |   |   | X |   |   S - Shadowman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | S |   | X |   |   |   
+  --- --- --- --- --- ---
+ |   | S |   |   |   | X |
+  --- --- --- --- --- ---
+
+045. ShadowmanDS
+Codes: S / Stars:**** / Damage: ???
+Element: Normal / MB: 80
+Flinching? Yes.
+Description: 3 Shadowmen appear on the column you activated it on and each throw
+a shiruken at an opponent on the correspnding row.  If there is no opponent on
+that row, the shiruken is thrown on another row with an opponent.    
+Range:
+  --- --- --- --- --- ---
+ |   | S |   |   | X |   |   S - Shadowman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | S |   | X |   |   |   
+  --- --- --- --- --- ---
+ |   | S |   |   |   | X |
+  --- --- --- --- --- ---
+
+046. Numberman
+Codes: N / Stars:*** / Damage: 30
+Element: Normal / MB: 33
+Flinching? Yes.
+Description: Numberman appears and throw a dice bomb on a random panel in the
+enemies field.  The damage is multiplied by the number rolled and hits all 
+surrounding panels.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |   N - Numberman
+  --- --- --- --- --- ---    X - DiceBomb lands
+ | N |   |   | Y | X | Y |   Y - Panels Hit
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |
+  --- --- --- --- --- --- 
+
+047. NumbermanSP
+Codes: N / Stars:**** / Damage: 40
+Element: Normal / MB: 66
+Flinching? Yes.
+Description: Numberman appears and throw a dice bomb on a random panel in the
+enemies field.  The damage is multiplied by the number rolled and hits all 
+surrounding panels.
+Does even more damage depending on how fast you delete the SP Navi.  
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |   N - Numberman
+  --- --- --- --- --- ---    X - DiceBomb lands
+ | N |   |   | Y | X | Y |   Y - Panels Hit
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |
+  --- --- --- --- --- --- 
+
+048. NumbermanDS
+Codes: N / Stars:**** / Damage: ???
+Element: Normal / MB: 66
+Flinching? Yes.
+Description: Numberman appears and throw a dice bomb on a random panel in the
+enemies field.  The damage is multiplied by the number rolled and hits all 
+surrounding panels.  
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |   N - Numberman
+  --- --- --- --- --- ---    X - DiceBomb lands
+ | N |   |   | Y | X | Y |   Y - Panels Hit
+  --- --- --- --- --- ---
+ |   |   |   | Y | Y | Y |
+  --- --- --- --- --- --- 
+
+049. Tomahawkman
+Codes: T / Stars:*** / Damage: 140
+Element: Wood / MB: 43
+Flinching? Yes.
+Description: Tomahawkman appears and uses his axe to hit a 2x3 (Lifesword range)
+area in front of him.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X |   |   T - Tomahawkman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | T | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X | X |   |
+  --- --- --- --- --- ---
+
+050. TomahawkmanSP
+Codes: T / Stars:**** / Damage: 180
+Element: Wood / MB: 81
+Flinching? Yes.
+Description: Tomahawkman appears and uses his axe to hit a 2x3 (Lifesword range)
+area in front of him.  Does even more damage depending on how fast you delete
+the SP Navi.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X |   |   T - Tomahawkman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | T | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X | X |   |
+  --- --- --- --- --- ---
+
+051. TomahawkmanDS
+Codes: T / Stars:**** / Damage: ???
+Element: Wood / MB: 81
+Flinching? Yes.
+Description: Tomahawkman appears and uses his axe to hit a 2x3 (Lifesword range)
+area in front of him.  
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X |   |   T - Tomahawkman
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | T | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X | X |   |
+  --- --- --- --- --- ---
+
+052. Knightman
+Codes: K / Stars:*** / Damage: 170
+Element: Break / MB: 50
+Flinching? Yes.
+Description: Knightman appears and swings his mace, hitting all panels around 
+him once.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |   K - Knightman
+  --- --- --- --- --- ---    X - Targets hit
+ | X | K | X |   |   |   |   
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |
+  --- --- --- --- --- ---
+
+053. KnightmanSP
+Codes: K / Stars:**** / Damage: 220
+Element: Break / MB: 90
+Flinching? Yes.
+Description: Knightman appears and swings his mace, hitting all panels around 
+him once.  Does even more damage depending on how fast you delete the SP Navi.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |   K - Knightman
+  --- --- --- --- --- ---    X - Targets hit
+ | X | K | X |   |   |   |   
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |
+  --- --- --- --- --- --- 
+
+054. KnightmanDS
+Codes: K / Stars:**** / Damage: ???
+Element: Break / MB: 90
+Flinching? Yes.
+Description: Knightman appears and swings his mace, hitting all panels around 
+him once.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |   K - Knightman
+  --- --- --- --- --- ---    X - Targets hit
+ | X | K | X |   |   |   |   
+  --- --- --- --- --- ---
+ | X | X | X |   |   |   |
+  --- --- --- --- --- --- 
+
+055. Toadman
+Codes: T / Stars:*** / Damage: 80
+Element: Elec / MB: 53
+Flinching? No.
+Description: Toadman appears and shoots a melody note that homes onto the 
+opponent and paralyzes him.
+Range:
+ Homes onto opponent.
+
+056. ToadmanSP
+Codes: T / Stars:**** / Damage: 120
+Element: Elec / MB: 69
+Flinching? No.
+Description: Toadman appears and shoots a melody note that homes onto the 
+opponent and paralyzes him.  Does even more damage depending on how fast you 
+delete the SP Navi.
+Range:
+ Homes onto opponent.
+
+057. ToadmanDS
+Codes: T / Stars:**** / Damage: ???
+Element: Elec / MB: 69
+Flinching? No.
+Description: Toadman appears and shoots a melody note that homes onto the 
+opponent and paralyzes him. 
+Range:
+ Homes onto opponent.
+
+058. Blizzardman
+Codes: B / Stars:*** / Damage: 100
+Element: Aqua / MB: 27
+Flinching? Yes.
+Description: Blizzardman appears and rolls a giant snowball down the row.  The
+snowball does more damage for each obstacle it picks up down the row, on the 
+way to the opponent.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   B - Blizzardman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | B |   | X | X | X |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+059. BlizzardmanSP
+Codes: B / Stars:**** / Damage: 130
+Element: Aqua / MB: 55
+Flinching? Yes.
+Description: Blizzardman appears and rolls a giant snowball down the row.  The
+snowball does more damage for each obstacle it picks up down the row, on the 
+way to the opponent.Does even more damage depending on how fast you delete the 
+SP Navi.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   B - Blizzardman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | B |   | X | X | X |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+060. BlizzardmanDS
+Codes: B / Stars:**** / Damage: ???
+Element: Aqua / MB: 55
+Flinching? Yes.
+Description: Blizzardman appears and rolls a giant snowball down the row.  The
+snowball does more damage for each obstacle it picks up down the row, on the 
+way to the opponent.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   B - Blizzardman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | B |   | X | X | X |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+061. Shademan
+Codes: S / Stars:*** / Damage: 120
+Element: Normal / MB: 44
+Flinching? Yes.
+Description: Shadmeman appears and hits the panel in front of him, as well as
+the entire next column.  If you press down, down-right, and right while he does 
+the attack the enemy will be paralyzed. If you press down, down-left, and left 
+to confuse the enemy.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   S - Shademan
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | S | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- ---
+
+062. ShademanSP
+Codes: S / Stars:**** / Damage: 140
+Element: Normal / MB: 74
+Flinching? Yes.
+Description: Shadmeman appears and hits the panel in front of him, as well as 
+the entire next column.  If you press down, down-right, and right while he does 
+the attack the enemy will be paralyzed. If you press down, down-left, and left 
+to confuse the enemy. Does even more damage depending on how fast you delete 
+the SP Navi.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   S - Shademan
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | S | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- ---
+
+063. ShademanDS
+Codes: S / Stars:**** / Damage: ???
+Element: Normal / MB: 74
+Flinching? Yes.
+Description: Shadmeman appears and hits the panel in front of him, as well as 
+the entire next column.  If you press down, down-right, and right while he does 
+the attack the enemy will be paralyzed. If you press down, down-left, and left 
+to confuse the enemy. 
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |   S - Shademan
+  --- --- --- --- --- ---    X - Targets hit
+ |   |   | S | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   | X |   |
+  --- --- --- --- --- ---
+
+064. Cloudman
+Codes: C / Stars:*** / Damage: 50
+Element: Elec / MB: 60
+Flinching? No.
+Description: Cloudman appears and forms clouds for every panel on a row behind
+all enemies.  Each cloud shoots a Thunderball down the row at the enemy, 
+paralyzing the opponent.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   C - Cloudman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | C |   | X | O | O |   O - Clouds formed
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+065. CloudmanSP
+Codes: C / Stars:**** / Damage: 60
+Element: Elec / MB: 74
+Flinching? No.
+Description: Cloudman appears and forms clouds for every panel on a row behind
+all enemies.  Each cloud shoots a Thunderball down the row at the enemy, 
+paralyzing the opponent.  Does even more damage depending on how fast you delete
+the SP Navi.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   C - Cloudman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | C |   | X | O | O |   O - Clouds formed
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+066. CloudmanDS
+Codes: C / Stars:**** / Damage: ???
+Element: Elec / MB: 74
+Flinching? No.
+Description: Cloudman appears and forms clouds for every panel on a row behind
+all enemies.  Each cloud shoots a Thunderball down the row at the enemy, 
+paralyzing the opponent. 
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   C - Cloudman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | C |   | X | O | O |   O - Clouds formed
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+067. Cosmoman
+Codes: C / Stars:*** / Damage: 70
+Element: Normal / MB: 50
+Flinching? Yes.
+Description: Cosmoman appears and throws three Meteors at the opponents.  If
+there were obstcles on your side of the field, a max of two of them would also
+be thrown at the opponent.
+Range:
+ Auto-Locks on opponent.
+
+068. CosmomanSP
+Codes: C / Stars:**** / Damage: 80
+Element: Normal / MB: 80
+Flinching? Yes.
+Description: Cosmoman appears and throws three Meteors at the opponents.  If
+there were obstcles on your side of the field, a max of two of them would also
+be thrown at the opponent.  Does even more damage depending on how fast you 
+delete the SP Navi.
+Range:
+ Auto-Locks on opponent.
+
+069. CosmomanDS
+Codes: C / Stars:**** / Damage: ???
+Element: Normal / MB: 80
+Flinching? Yes.
+Description: Cosmoman appears and throws three Meteors at the opponents.  If
+there were obstcles on your side of the field, a max of two of them would also
+be thrown at the opponent.  
+Range:
+ Auto-Locks on opponent.
+
+070. Swallowman
+Codes: S / Stars:*** / Damage: 140
+Element: Normal / MB: 45
+Flinching? Yes.
+Description: Swallowman appears and flies around in "lower-case alpha" pattern.
+Range:
+  --- --- --- --- --- ---
+ | 9 |   | 3 | 4 |   |   |   S - Swallowman (Also hits 2 and 8)
+  --- --- --- --- --- ---    1-9 - Order of hits
+ |   | S |   |   | 5 |   |   
+  --- --- --- --- --- ---
+ | 1 |   | 7 | 6 |   |   |
+  --- --- --- --- --- ---
+
+071. SwallowmanSP
+Codes: S / Stars:**** / Damage: 170
+Element: Normal / MB: 77
+Flinching? Yes.
+Description: Swallowman appears and flies around in "lower-case alpha" pattern.
+Does even more damage depending on how fast you delete the SP Navi.
+Range:
+  --- --- --- --- --- ---
+ | 9 |   | 3 | 4 |   |   |   S - Swallowman (Also hits 2 and 8)
+  --- --- --- --- --- ---    1-9 - Order of hits
+ |   | S |   |   | 5 |   |   
+  --- --- --- --- --- ---
+ | 1 |   | 7 | 6 |   |   |
+  --- --- --- --- --- ---
+
+072. SwallowmanDS
+Codes: S / Stars:**** / Damage: ???
+Element: Normal / MB: 77
+Flinching? Yes.
+Description: Swallowman appears and flies around in "lower-case alpha" pattern.
+Range:
+  --- --- --- --- --- ---
+ | 9 |   | 3 | 4 |   |   |   S - Swallowman (Also hits 2 and 8)
+  --- --- --- --- --- ---    1-9 - Order of hits
+ |   | S |   |   | 5 |   |   
+  --- --- --- --- --- ---
+ | 1 |   | 7 | 6 |   |   |
+  --- --- --- --- --- ---
+
+073. Footman
+Codes: F / Stars:*** / Damage: 100
+Element: Normal / MB: 46
+Flinching? Yes.
+Description: Footman appears and runs in a diagnol motion, up and down.  If he 
+manages to reach the end of the field without hitting an enemy, he will deal 
+damage to the whole enemy field.
+Range:
+  --- --- --- --- --- ---
+ |   |   | 1 |   |   |   |   F - Footman
+  --- --- --- --- --- ---    1-4 - Movement of Footman
+ |   | F |   | 2 |   | 4 |   
+  --- --- --- --- --- ---
+ |   |   |   |   | 3 |   |
+  --- --- --- --- --- ---
+
+074. FootmanSP
+Codes: F / Stars:**** / Damage: 150
+Element: Normal / MB: 72
+Flinching? Yes.
+Description: Footman appears and runs in a diagnol motion, up and down.  If he 
+manages to reach the end of the field without hitting an enemy, he will deal 
+damage to the whole enemy field.  Does even more damage depending on how fast 
+you delete the SP Navi.
+Range:
+  --- --- --- --- --- ---
+ |   |   | 1 |   |   |   |   F - Footman
+  --- --- --- --- --- ---    1-4 - Movement of Footman
+ |   | F |   | 2 |   | 4 |   
+  --- --- --- --- --- ---
+ |   |   |   |   | 3 |   |
+  --- --- --- --- --- ---
+
+075. FootmanDS
+Codes: F / Stars:**** / Damage: ???
+Element: Normal / MB: 72
+Flinching? Yes.
+Description: Footman appears and runs in a diagnol motion, up and down.  If he 
+manages to reach the end of the field without hitting an enemy, he will deal 
+damage to the whole enemy field. 
+Range:
+  --- --- --- --- --- ---
+ |   |   | 1 |   |   |   |   F - Footman
+  --- --- --- --- --- ---    1-4 - Movement of Footman
+ |   | F |   | 2 |   | 4 |   
+  --- --- --- --- --- ---
+ |   |   |   |   | 3 |   |
+  --- --- --- --- --- ---
+
+076. Django
+Codes: D / Stars:*** / Damage: ???
+Element: Normal / MB: 40
+Flinching? Yes.
+Description: Django appears and puts the nearest enemy in his row in a coffin.  
+Rocks then drop hitting panels on top, below, right, and left of the coffin.  
+Then "light" damage is dealt to every panel surrounding the coffin, and the 
+coffin itself.  This "light" damage is increased if Lan is outside.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | Y | X | Y |   D - Django
+  --- --- --- --- --- ---    C - Coffin
+ |   | D |   | X | C | X |   X - Hit by rocks and "light" damage
+  --- --- --- --- --- ---    Y - Hit by "light" damage
+ |   |   |   | Y | X | Y |
+  --- --- --- --- --- ---
+
+077. DjangoSP
+Codes: D / Stars:**** / Damage: ???
+Element: Normal / MB: 68
+Flinching? Yes.
+Description: Django appears and puts the nearest enemy in his row in a coffin.  
+Rocks then drop hitting panels on top, below, right, and left of the coffin.  
+Then "light" damage is dealt to every panel surrounding the coffin, and the 
+coffin itself.  This "light" damage is increased if Lan is outside.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | Y | X | Y |   D - Django
+  --- --- --- --- --- ---    C - Coffin
+ |   | D |   | X | C | X |   X - Hit by rocks and "light" damage
+  --- --- --- --- --- ---    Y - Hit by "light" damage
+ |   |   |   | Y | X | Y |
+  --- --- --- --- --- ---
+
+078. DjangoDS
+Codes: D / Stars:**** / Damage: ???
+Element: Normal / MB: 68
+Flinching? Yes.
+Description: Django appears and puts the nearest enemy in his row in a coffin.  
+Rocks then drop hitting panels on top, below, right, and left of the coffin.  
+Then "light" damage is dealt to every panel surrounding the coffin, and the 
+coffin itself.  This "light" damage is increased if Lan is outside.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | Y | X | Y |   D - Django
+  --- --- --- --- --- ---    C - Coffin
+ |   | D |   | X | C | X |   X - Hit by rocks and "light" damage
+  --- --- --- --- --- ---    Y - Hit by "light" damage
+ |   |   |   | Y | X | Y |
+  --- --- --- --- --- ---
+
+==============================================================
+
+
+==============================================================
+8. All the info you need on Giga Chips			[GIGAS]
+==============================================================
+Here is everything you need to know on all the Giga chips in the game.
+
+001. DeltaRayEdge
+Codes: Z / Stars:***** / Damage: 220
+Element: Sword / MB: 82
+Flinching? Yes.
+Description: Blues appears and slashes the opponent with a Widesword.   If
+you press A after he slashes the enemy, but BEFORE he teleports, he will slash
+again. Do it one more time, and Protoman will do a final slash and make a 
+Delta Symbol.  Enemy must be either on the front center panel, or the center 
+panel, in order to make all three hits.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   | 2 |   |   B - Blues and first hit
+  --- --- --- --- --- ---    X - Enemy
+ |   |   | B | X |   |   |   2-3 - Second and third hits
+  --- --- --- --- --- ---
+ |   |   |   |   | 3 |   |
+  --- --- --- --- --- ---
+
+002. GiantHook 
+Codes: G / Stars:***** / Damage: 240
+Element: Break / MB: 92
+Flinching? Yes.
+Description: Giant Hook hits the first two enemy columns, then hits the last
+two columns.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | 1 | 2 | 1 |   M - Megaman
+  --- --- --- --- --- ---    1 - Columns hit once
+ |   | M |   | 1 | 2 | 1 |   2 - Column hit twice
+  --- --- --- --- --- ---
+ |   |   |   | 1 | 2 | 1 |
+  --- --- --- --- --- ---
+
+003. Forte
+Codes: F / Stars:***** / Damage: 60
+Element: Normal / MB: 95
+Flinching? Yes.
+Description: Forte appears and hits every enemy panel 8 times, each hit 
+being 60 damage.
+Range:
+ Hits whole enemy field.
+
+004. Holydream
+Codes: H / Stars:***** / Damage: 50
+Element: Normal / MB: 92
+Flinching? No.
+Description: Megaman hit’s the target ahead, and  fires multiple shots for 
+each holy panel on the field. The damage is increased by 50 per Holy Panel on 
+the field.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Enemy hit
+ |   | M | > | > | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+005. BugCurse
+Codes: C / Stars:***** / Damage: None
+Element: Normal / MB: 73
+Flinching? No.
+Description: Enemies are given many bugs and glitches in their programs.
+Range:
+ Automatically happens.
+
+006. DeathPhoenix
+Codes: D / Stars:***** / Damage: 150
+Element: Normal / MB: 93
+Flinching? Yes.
+Description: Many "Worm-Like" things come up from the ground and hit random 
+panels all over the field.  Then, the last Navi used is summoned and used again 
+on the enemy.
+Range:
+ Automatically happens.
+
+001. CrossSlash
+Codes: C / Stars:***** / Damage: 220
+Element: Normal / MB: 90
+Flinching? Yes.
+Description: Colonel appears and hits enemy area in an X-cross pattern.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | Y |   | Y |   C - Colonel
+  --- --- --- --- --- ---    X - Enemy hit
+ |   | C |   |   | X |   |   Y - Panels also hit
+  --- --- --- --- --- ---
+ |   |   |   | Y |   | Y |
+  --- --- --- --- --- ---
+
+002. MeteoKnucle
+Codes: M / Stars:***** / Damage: 100
+Element: Break / MB: 90
+Flinching? Yes.
+Description: 15 fists rain down on random enemy panels, cracking and breaking 
+the panels they hit.
+Range:
+ Hits whole enemy field.
+
+003. ForteAnother
+Codes: F / Stars:***** / Damage: 160
+Element: Normal / MB: 95
+Flinching? Yes.
+Description: Forte appears and sends out Four Hells Rolling wheels.  They 
+basically go across all panels and home in one enemies. A single enemy can get 
+hit up to 4 times. Any obstacles that are in the way will put a complete stop 
+to the Hells Rolling Wheel.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | O |   |   F - Forte
+  --- --- --- --- --- ---    X - Hells Rollin Wheel
+ |   | F |   | X | X | Y |   Y - Enemy hit
+  --- --- --- --- --- ---    O - Potential Obstacle stopping the attack
+ |   |   |   | X | X | X |
+  --- --- --- --- --- ---
+
+004. OmegaRocket
+Codes: R / Stars:***** / Damage: 270
+Element: Normal / MB: 89
+Flinching? Yes.
+Description: A Rocket appears in your center backrow and it shot forward.  
+When it hits an opponent, it will create a 3x3 explosion, hurting all enemies 
+on those panels.  If it goes off the screen, then it will hit the last two 
+columns.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X | X |   M - Megaman
+  --- --- --- --- --- ---    X - Explosion
+ | R | M |   | X | Y | X |   Y - Enemy
+  --- --- --- --- --- ---    R - OmegaRocket
+ |   |   |   | X | X | X |
+  --- --- --- --- --- ---
+
+005. BugCharge
+Codes: B / Stars:***** / Damage: 200
+Element: Normal / MB: 77
+Flinching? Yes.
+Description: Can only be used by DarkMegaman.  Megaman uses a Gospel Cannon 
+to fire a shot at the opponent for each Dark Chip used in that battle, plus 
+the initial shot.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |   M - Megaman
+  --- --- --- --- --- ---    X - Enemy hit
+ |   | M | > | > | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   |   |   |   |
+  --- --- --- --- --- ---
+
+006. Phoenix
+Codes: P / Stars:***** / Damage: 150
+Element: Fire / MB: 95
+Flinching? Yes.
+Description: Meteors are randomly dropped on your panels, and the enemy's 
+first two columns.  The Meteors do not reach the far column.  Phoenix then 
+heals you with some HP.
+Range:
+  --- --- --- --- --- ---
+ | X | X | X | X | X |   |   M - Megaman
+  --- --- --- --- --- ---    X - Panels Hit
+ | X | M | X | X | X |   |   
+  --- --- --- --- --- ---
+ | X | X | X | X | X |   |
+  --- --- --- --- --- ---
+
+==============================================================
+
+
+==============================================================
+9. All the info you need on Secret Chips		[SECRT]
+==============================================================
+Here is everything you need to know on all the Secret chips in the game.
+
+001. Otenko
+Codes: O / Stars:***** / Damage: None
+Element: Obstacle / MB: 66
+Flinching? No.
+Description: Otenko appears and stays on the panel in front of you.  The 
+longer he stays in the panel, the more powered up the next chip will be.
+When he disappears, the chip becomes its regular power, sort of like a
+"CustomSword" chip.  Otenko cannot be destroyed by the opponent nor you.
+Range:
+ Panel in front of you.
+
+002. GunSolEX
+Codes: G / Stars:***** / Damage: ???
+Element: Normal / MB: 80
+Flinching? No.
+Description: Hold A to activate.  GunSol hits two columns ahead
+and does damage for as long as its held.  Also can destroy obstacles,
+hit people with Invis, and get rid of flinching.  Dark Megaman
+cannot use this chip.
+Range:
+  --- --- --- --- --- ---
+ |   |   |   | X | X |   |   M - Megaman
+  --- --- --- --- --- ---    X - Targets hit
+ |   | M |   | X | X |   |   
+  --- --- --- --- --- ---
+ |   |   |   | X | X |   |
+  --- --- --- --- --- ---
+
+003. LeadersRaid
+Codes: L / Stars:***** / Damage: 200
+Element: Normal / MB: 99
+Flinching? Yes.
+Description: Colonel and Blues appear and each does there own attack, dealing 
+either 200 damage each, 400 damage total if there is one enemy on the field.
+Range:
+ Auto-Locks opponent.
+
+004. NebulaGrey
+Codes: X / Stars:***** / Damage: 500
+Element: Normal / MB: 99
+Flinching? Yes.
+Description: NebulaGrey and Forte appear.  Bass attacks the whole enemy area, 
+dealing damage, as well as breaking all enemy panels.
+Range:
+ Hits entire enemy area.
+
+005. Final Gun???
+Codes: A B C * / Damage: ???
+Element: Normal / MB: 10
+Description: Coming Soon!
+
+==============================================================
+
+
+==============================================================
+10. All the info you need on Dark Chips			[DARKS]
+==============================================================
+For an in-depth look at Dark Chips, check out TheDarkUnknown's Dark Chip FAQ.
+It has everything you need.  
+
+==============================================================
+
+
+==============================================================
+11. Frequently asked Questions				[FAQS-]
+==============================================================
+None at the moment.  If you email me questions, then here they will go!
+
+==============================================================
+
+
+==============================================================
+12. Acknowledgments					[ACKSS]
+==============================================================
+I would like to thank a couple people in this section here:
+
+Everyone on the EXE5 boards.  Everyone is great there!
+
+Zidanet129 for helping me read some of the Japanese chip names and
+helping me figure out some of the chips abilities and proofreading it.
+
+Asakura Yoh just for talking with me all the time!
+
+Zephyr Delta for being a consultant of sorts.
+
+TheDarkUnknown for helping with the RedFruit chips, as well as chip
+names.
+
+Capcom for making such a great SERIES.  Notice I didn't say game.
+
+Nintendo, who will one day take over the world!
+
+CJayC for creating the most awesome website on the face of the earth.
+==============================================================
+
+
+==============================================================
+13. Contact Info					[CONTC]
+==============================================================
+Please do not send spam.
+
+If you have any questions/suggestions/corrections to this guide please
+email me:
+
+H0tSh0tZ1627@gmail.com
+
+AIM: H0tSh0tZ1416
+
+MSN: H0tSh0tZ1627@hotmail.com
+
+I am also plenty on the GameFAQs and Neoseeker boards, so you can 
+catch me there.
+==============================================================
+
+Fin. =P

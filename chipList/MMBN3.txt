@@ -1,0 +1,685 @@
+	     _  _
+	|\/||_ |_ /_\|\/|/_\|\ |
+	|  ||_ |_|| ||  || || \|
+ _    ______   _        ____     __  _
+|_)/_\ |  | | |_   |\ ||_ | |  ||  ||_||/
+|_)| | |  | |_|_   | \||_ | |/\||__|| \|\
+                  _
+                  _|
+                  _|
+	      _         _
+	     |_)|  | | |_
+	     |_)|_ |_| |_
+
+
+This Chip list is for Megaman Battle Network 3 Blue only.
+Created by: WoohooO
+woohoo986@yahoo.com
+
+These chip names are all official and this information comes
+directly from the library in the game.  Later Updates may
+include PA's, Chip locations, and other information.
+
+Note: All descriptions are directly from the chip, spelling
+errors such as enmy instead of enemy are common.
+
+Note2: All Navi chips(in exception to Roll V1-3 and Bass
+chips can be found by defeating their corresponding Navi)
+V5 chips can be received after defeating their corresponding
+SP Navis (see Bonus Materials)
+
+Update3: Added all chip locations
+Update2: Added new section and a few more chip locations
+Update1: Placed information on where to find chips in the faq.  -incomplete
+
+-----------------------------------------------------------------------------------
+
+Standard Class Chips
+#.	Chip Name	Damage	Element	Rareness What it does
+	Where to find it
+
+1.	Cannon		40	None	*	 Cannon to attack 1 enemy
+	Canodumb's in Den Area 1
+2.	HiCannon	60	None	**	 Cannon to attack 1 enemy
+	Canodumb2's in yoka areas
+3.	M-Cannon	80	None	***	 Cannon to attack 1 enemy
+	Canodumb3's in Tank in ACDC Town
+4.	Airshot1	20	None	*	 Knocks enemy back 1
+	Comes in starting folder
+5.	Airshot2	30	None	**	 Knocks enemy back 1
+	GMD's in beach area
+6.	Airshot3	40	None	**	 Knocks enemy back 1
+	Enter 15789208 at the number machine in Higsby's shop
+7.	LavaCan1	90	Fire	*	 Fires lava fr. area
+	Beat Volcano in Secret Area 2 and 3, undernet 3
+8.	LavaCan2	120	Fire	**	 Fires lava fr. area
+	Beat Volcaner in Secret Area 2 and 3
+9.	LavaCan3	150	Fire	***	 Fires lava fr. area
+	Beat Volcanest in Secret Area 3
+10.	Volcanoe	150	Fire	****	 Fire lava from your area
+	Beat Volcanest with Custom style in Secret Area 3
+11.	ShotGun		30	None	*	 Explodes 1 square behind
+	GMD's in ACDC areas
+12.	V-Gun		30	None	*	 Explodes 2 diag. squares
+	GMD's in ACDC areas
+13.	SideGun		30	None	*	 Explodes up, down on hit
+	GMD's in ACDC areas
+14.	Spreader	30	None	**	 Creates a large explosion
+	GMD's in ACDC areas
+15.	Bubbler		60	Aqua	*	 Explodes 1 square behind
+	Shrimpy in Yoka areas
+16.	Bub-V		60	Aqua	*	 Explodes 2 diag. squares
+	Shrimpy2 in undernet1
+17.	BublSide	60	Aqua	**	 Explodes up, down on hit
+	Shrimpy3 in undernet7
+18.	HeatShot	40	Fire	***	 Explodes 1 square behind
+	Spikey in lans doghouse
+19.	Heat-V		40	Fire	*	 Explodes 2 diag. squares
+	Spikey2 in lans doghouse
+20.	HeatSide	40	Fire	**	 Explodes up, down on hit
+	Spikey3 in undernet 7, lans doghouse
+21.	MiniBomb	50	None	***	 Throws a bomb 3 squares
+	Comes in starting folder
+22.	SnglBomb	50	None	*	 Throws a big bomb 3 squares
+	Beetle in beach areas
+23.	DublBomb	50	None	*	 Throws 2 big bombs 3 squares
+	Deetle on Hades Isle
+24.	TrplBomb	50	None	**	 Throws 3 big bombs 3 squares
+	Geetle in Secret areas
+25.	CannBall	160	None	***	 Breaks 3rd panel ahead
+	Hardheads in hospital area
+26.	IceBall		120	Aqua	***	 Freezes 3rd sqr. ahead
+	Coldheads in Hades Island's elimination console, must have fish
+27.	LavaBall	140	Fire	***	 Shoot lava 3rd sq. ahead
+	Heatheads in scilabs door to virus lab, must have oilbody
+28.	BlkBomb1	120	Fire	**	 Firebomb hits 3rd sq ahead!
+	BMD in Hades elimination console
+29.	BlkBomb2	170	Fire	***	 Firebomb hits 3rd sq ahead!
+	BMD in undernet 2
+30.	BlkBomb3	220	Fire	****	 Firebomb hits 3rd sq ahead!
+	bugfrag trader in yoka area 1, costs 90
+31.	Sword		80	None	*	 Cuts enmy in front! Range: 1
+	Comes in starting folder
+32.	WideSwrd	80	None	**	 Cuts enmy in front! Range: 3
+	Comes in starting folder
+33.	LongSwrd	80	None	***	 Cuts enmy in front! Range: 2
+	Swordy in scilab areas
+34.	FireSwrd	150	Fire	***	 Fire: Cuts fwd 3 squares
+	Swordy2 in hospital areas
+35.	AquaSwrd	150	Aqua	***	 Water: Cuts fwd 3 squares
+	Swordy3 in secret areas
+36.	ElecSwrd	130	Elec	***	 Elec: Cuts fwd 3 squares
+	Shop in acdc square
+37.	BambSwrd	140	Wood	***	 Wood: Cuts fwd 3 squares
+	Shop in acdc square
+38.	CustSwrd	????	None	***	 Cust Gauge = Atk Str
+	Shop in acdc square
+39.	VarSwrd		160	None	****	 A magical shifting sword
+	Shop in beach square
+40.	AirSwrd		100	None	***	 Wide swrd with air attack!
+	Shop in under square
+41.	StepSwrd	130	None	****	 2 steps, then uses wide swrd
+	Job
+42.	StepCros	130	None	****	 2 steps, then uses cross atk
+	Bugfrag shop in undernet 2
+43.	Slasher		240	None	***	 Cut while A button is held!
+	Job
+44.	ShockWav	60	None	*	 Shock through enemies
+	Metool in acdc areas
+45.	SonicWav	80	None	**	 Shock through enemies
+	Metool2 in yoka areas
+46.	DynaWave	100	None	***	 Shock through enemies
+	Metool3 in yoka inn tv
+47.	BigWave		190	None	****	 Shck wave cracks panels
+	S-rank metool3 with custom style in yoka inn tv
+48.	GutPunch	80	None	*	 Punch pushes 1 square
+	BMD in dex's pc
+49.	GutStrgt	100	None	**	 Punch 2 square range
+	GMD's in beach areas
+50.	GutImpct	160	None	***	 Punch pushes 1 square
+	bugfrag trader in yoka area 1, costs 100
+51.	DashAtk		90	None	*	 Dash through enemies!
+	Fishy in scilab area
+52.	Burner		130	Fire	***	 Envelops you in flame!
+	Fishy2 in yoka area 1
+53.	Condor		180	None	****	 Chrge atk pierces enemies
+	Fishy3 in undernet1
+54.	Burning		150	Fire	****	 Fire atk in cross shape!
+	S-rank Fishy2 with custom style in yoka area 1
+55.	Zapring1	20	Elec	*	 Pralyzing electric ring atk!
+	Bunny in ACDC areas
+56.	Zapring2	40	Elec	**	 Pralyzing electric ring atk!
+	HiBunny in undernet areas
+57.	Zapring3	60	Elec	***	 Pralyzing electric ring atk!
+	MegaBunny in WWW comp (flashmans)
+58.	IceWave1	80	Aqua	*	 Creates a 2 sq wide ice wave!
+	Pengi in scilab vending machine
+59.	IceWave2	100	Aqua	**	 Creates a 2 sq wide ice wave!
+	Pengu in scilab vending machine
+60.	IceWave3	140	Aqua	***	 Creates a 2 sq wide ice wave!
+	Penga in hospital area 5, equip fish
+61.	Yo-Yo1		40	None	*	 3-square yo-yo attack!
+	Yorts in Beach areas
+62.	Yo-Yo2		50	None	**	 3-square yo-yo attack!
+	Yurt in Undernet areas
+63.	Yo-Yo3		60	None	***	 3-square yo-yo attack!
+	Yart in Secret areas
+64.	AirStrm1	50	None	*	 Creates 3 whirlwinds
+	SnoBlow in Beach areas
+65.	AirStrm2	60	None	**	 Creates 3 whirlwinds
+	LoBlow in Hades Isle gargoyle
+66.	AirStrm3	70	None	***	 Creates 3 whirlwinds
+	MoBlow in Secret areas
+67.	Arrow1		100	Elec	*	 Bee fly diagonal paths
+	Elebee in WWW area
+68.	Arrow2		130	Elec	**	 Bee fly diagonal paths
+	Elewasp in Secret area 2
+69.	Arrow3		160	Elec	***	 Bee fly diagonal paths
+	Elehornet in Principals PC, equip battery
+70.	Ratton1		80	None	*	 Crawling rat, turns once
+	Ratty1 in Scilab area 1
+71.	Ratton2		100	None	**	 Crawling rat, turns once
+	Ratty2 in undernet 7
+72.	Ratton3		120	None	***	 Crawling rat, turns once
+	Ratty3 in secret area 1
+73.	FireRatn	230	None	***	 Activates when hit w/fire!
+	PMD near Bowlman
+74.	Wave		80	Aqua	***	 Creates a wave that moves 3 sq
+	Jelly in WWW comps
+75.	RedWave		90	Fire	***	 Creates a 3 sq wave of lava
+	HeatJelly in undernet 7
+76.	MudWave		100	Wood	***	 Mud wave advances 3 squares
+	EarthJelly in Secret area 2
+77.	Tornado		20	None	**	 An 8-hit tornado 2 ahead
+	BMD in Yoka area 1
+78.	Spice1		80	Wood	*	 Dangerous powder on all grass
+	Mushy in Hospital bed
+79.	Spice2		110	Wood	**	 Dangerous powder on all grass
+	Mashy in Hospital bed
+80.	Spice3		140	Wood	***	 Dangerous powder on all grass
+	Moshy in Secret areas
+81.	Shake1		90	None	*	 Vertical shaking 3 sq ahead
+	Heavy in undernet5
+82.	Shake2		110	None	**	 Vertical shaking 3 sq ahead
+	Heavier in WWW hidden console
+83.	Shake3		140	None	***	 Vertical shaking 3 sq ahead
+	Heaviest in Secret areas
+84.	NoBeam1		200	None	**	 Fires if something behind
+	NO1's in secret area 1
+85.	NoBeam2		260	None	***	 Fires if something behind
+	NO2's in secret area 2
+86.	NoBeam3		300	None	****	 Fires if something behind
+	NO3's in secret area 3
+87.	Hammer		100	None	**	 Hammer smashes front!
+	BMD in ZOO area 4
+88.	Geyser		200	Aqua	****	 Geyser 3 squares forward
+	PMD in Zoo, hidden console
+89.	Rope1		50	Wood	*	 Entwines adjacent enemies!
+	Viney in Hospital areas
+90.	Rope2		70	Wood	**	 Entwines adjacent enemies!
+	Viner in Undernet
+91.	Rope3		90	Wood	***	 Entwines adjacent enemies!
+	Vinest in WWW comps, equip jungle
+92.	Boomer1		60	Wood	*	 Boomerang encircles field
+	Boomer in SciLab areas
+93.	Boomer2		80	Wood	**	 Boomerang encircles field
+	Gloomer in undernet areas
+94.	Boomer3		100	Wood	***	 Boomerang encircles field
+	Doomer in Secret areas
+95.	PoisMask		None	*	 Poison area w/ A button!
+	Puffball in Undernet areas
+96.	PoisFace		None	**	 Spread poison w/ A button!
+	Poofball in Hospital areas
+97.	RockArm1	100	None	*	 Paralyzes enemy w/ erthquake
+	Crasher in Scilab areas
+98.	RockArm2	150	None	**	 Paralyzes enemy w/ erthquake
+	Crasher2 in DNN van
+99.	RockArm3	200	None	***	 Paralyzes enemy w/ erthquake
+	Breaker in Secret areas
+100.	CrsShld1	160	None	*	 Guard, and bite into the enemy
+	Dominerd in Undernet areas
+101.	CrsShld2	210	None	**	 Guard, and bite into the enemy
+	Dominerd2 in WWW consoles
+102.	CrsShld3	260	None	***	 Guard, and bite into the enemy
+	Dominerd3 in Secret area 3
+103.	Magnum1		120	Fire	*	 Cursor destroys panel!
+	Basher in WWW areas
+104.	Magnum2		150	Fire	**	 Cursor destroys panel!
+	Smasher in Secret area 3
+105.	Magnum3		180	Fire	***	 Cursor destroys panel!
+	Trasher in Tank in ACDC Town, equip oilbody
+106.	Plasma1		30	Elec	*	 Launches electric attack
+	Plasma in Principals PC
+107.	Plasma2		60	Elec	**	 Launches electric attack
+	PlasmaBall in WWW areas
+108.	Plasma3		90	Elec	***	 Launches electric attack
+	PlasmaGlobe in Secret areas
+109.	RndmMetr	100	Fire	***	 Meteors smash enemies!
+	Metrid in undernet1
+110.	HoleMetr	100	Fire	***	 Meteors smash into sq
+	WWW areas
+111.	ShotMetr	100	Fire	***	 Meteors shoot out forward
+	Secret areas
+112.	Needler1	30	None	*	 Advance w/ A, stop to attack
+	Needler in Hospital areas
+113.	Needler2	40	None	**	 Advance w/ A, stop to attack
+	Nailer in tank in ACDC Town
+114.	Needler3	50	None	***	 Advance w/ A, stop to attack
+	Needlest in Secret area 3
+115.	Totem1		100	Fire	*	 Creates a totem to blow fire
+	Totem in Hospital areas
+116.	Totem2		140	Fire	**	 Creates a totem to blow fire
+	Totam in undernet 5
+117.	Totem3		180	Fire	***	 Creates a totem to blow fire
+	Totem in secret area 1
+118.	Sensor1		100	Elec	***	 Sensor to watch sq ahead
+	KillerEye in Undernet
+119.	Sensor2		130	Elec	***	 Watch sq ahead or diagonal
+	DemonsEye in Undernet
+120.	Sensor3		130	Elec	***	 Watch sq ahead or diagonal
+	JokersEye in Secret area
+121.	MetaGel1	90	Aqua	*	 Gel atk steals a panel!
+	Slimey in Yoka areas
+122.	MetaGel2	130	Aqua	**	 Gel atk steals a panel!
+	Slimer in Hospital Vending Machine
+123.	MetaGel3	170	Aqua	***	 Gel atk steals a panel!
+	Slimest in Secret areas
+124.	Pawn		90	None	***	 Attack by pressing A button
+	Shop in Undernet 4
+125.	Knight		150	None	***	 Jumps fwd and attacks
+	Shop in Under Square
+126.	Rook			None	***	 Protects you from attacks
+	GMD's In Secret areas
+127.	Team1		10	None	**	 Powers up when ally is hit
+	Teamy in DNN editting room control panel
+128.	Team2			None	**	 Ally's HP recovered if hurt
+	Teamy in DNN editting room control panel
+129.	TimeBomb	150	None	***	 An area-wide time bomb
+	Shop in Beach Square
+130.	Mine		300	None	***	 Places a mine in enmy area
+	GMD's in Secret area 3
+131.	Lance		130	Wood	***	 Lances through back line
+	BMD in Undernet 3
+132.	Snake		40	Wood	***	 Snake from hole in area
+	Recieve from higsby
+133.	Guard			None	*	 Repels enemy's attack
+	Mettaurs in ACDC areas
+134.	PanlOut1		None	*	 Destroys 1 panel in front
+	GMD's in ACDC area
+135.	PanlOut3		None	*	 Destroys 3 panels in front
+	BMD in ACDC area 3
+136.	PanlGrab		None	*	 Steals one enemy square!
+	Shop in ACDC Square
+137.	AreaGrab		None	**	 Steals left edge from enmy
+	Shop in Yoka Square
+138.	GrabBack	40	None	***	 Retaliate stolen panels!
+	BMD in Scilab 2
+139.	GrabRvng	80	None	****	 Retaliate stolen panels!
+	Job
+140.	RockCube		None	*	 Places a rock cube in front
+	Shop in Scilab Square
+141.	Prism			None	***	 Prism fires randomly
+	Win gambling in scilab 4 times in a row
+142.	Wind			None	*	 Windbox blows at enmy area
+	Windbox in Yoka areas
+143.	Fan			None	*	 Vacuum pulls enemies
+	FanBox in Undernet areas
+144.	Fanfare			None	***	 Take no damage for a while
+	Trumpy in Beach areas
+145.	Discord			None	***	 Confuses enemies w/ music
+	Tuby in Undernet areas
+146.	Timpani			None	***	 Paralyzes enemies w/ music
+	Piccolo in WWW areas
+147.	Recov10			None	*	 Recovers 10HP
+	Shop in ACDC 2
+148.	Recov30			None	*	 Recovers 30HP
+	BMD in ZOO area 3
+149.	Recov50			None	**	 Recovers 50HP
+	GMD's in Yoka and Scilab areas
+150.	Recov80			None	**	 Recovers 80HP
+	Beach area GMD's
+151.	Recov120		None	***	 Recovers 120HP
+	BMD in Hospital area 1
+152.	Recov150		None	***	 Recovers 150HP
+	BMD in WWW areas
+153.	Recov200		None	****	 Recovers 200HP
+	BMD in Undernet 4
+154.	Recov300		None	****	 Recovers 300HP
+	Will Job
+155.	Repair			None	*	 Fix your area's panels
+	BMD in Yai's Phone
+156.	SloGauge		None	***	 CustGauge slows down in battle
+	Job
+157.	FstGauge		None	***	 CustGauge speeds up in battle
+	Job
+158.	Panic			None	***	 Confuses enmies if you are
+	PMD in ACDC area 1
+159.	Geddon1			None	***	 Cracks all panels!
+	BMD in Zoo comp
+160.	Geddon2			None	****	 Breaks all empty squares!
+	Under plant in Hospital area 3
+161.	Geddon3			None	****	 Turn all panels to swamp!
+	BMD in Secret area 1
+162.	CopyDmg			None	***	 Duplicate damage on 2nd enemy
+	BMD in Zoo area 2
+163.	Invis			None	***	 Invisible for a while
+	ACDC Square Shop
+164.	Shadow			None	***	 Only swrd attack hurt you
+	Shadow in Secret area 2
+165.	Mole1			None	*	 Attacks fr. under ground!
+	Momogra in Hades area
+166.	Mole2			None	**	 Attacks fr. under ground!
+	Momogro in undernet 7
+167.	Mole3			None	***	 Attacks fr. under ground!
+	Momogru in secret areas
+168.	AirShoes		None	***	 Can stand on empty squares
+	BMD in Virus Lab door
+169.	Barrier			None	*	 Nullifies 10HP of damage!
+	Shop in ACDC area 2
+170.	Barr100			None	**	 Nullifies 100HP of damage!
+	Shop in Beach Square
+171.	Barr200			None	***	 Nullifies 200HP of damage!
+	Job
+172.	Aura			None	***	 Repels attacks under 100
+	Undernet 6, access from DNN Editting room
+173.	NrthWind		None	****	 Wind removes auras, etc
+	Shop in Secret area 2
+174.	Mettaur		????	None	*****	 Summons a Mettaur to fight!
+	Virus lab
+175.	Bunny		????	Elec	*****	 Summons a Bunny to fight!
+	Virus lab
+176.	Spikey		????	Fire	*****	 Summons a Spikey to fight!
+	Virus lab
+177.	Swordy		????	None	*****	 Summons a Swordy to fight!
+	Virus lab
+178.	Jelly		????	None	*****	 Summons a Jelly to fight!
+	Virus lab
+179.	Mushy		????	Wood	*****	 Summons a Mushy to fight!
+	Virus lab
+180.	Momogra		????	None	*****	 Summons a Momogra to fight!
+	Virus lab
+181.	KillrEye	????	Elec	*****	 Summons a KillerEye to fight!
+	Virus lab
+182.	Scuttlst	????	None	*****	 Summons a Scuttlest to fight!
+	Virus lab
+183.	Hole			None	****	 Open hole to dark world
+	BMD in secret area 3
+184.	HolyPanl		None	**	 Creates a holy pnl in front
+	Brushman in Undernet 5
+185.	LavaStge		None	***	 Changes all panls to lava
+	Mr. Match (main story)
+186.	IceStage		None	***	 Changes all panls to ice
+	Trade for FireSword P outside Ura Inn
+187.	GrassStg		None	***	 Changes all panls to grass
+	ACDC Square Shop
+188.	SandStge		None	***	 Changes all panls to sand
+	GMD's in Undernet area 3
+189.	MetlStge		None	***	 Changes all panls to metal
+	Shop in Beach Square
+190.	Snctuary		None	****	 Change own panls to holy
+	BMD in Secret area 3
+191.	AntiDamg	100	None	***	 Sets trap & throws stars!
+	Shop in Scilab Square
+192.	AntiSwrd	100	None	***	 Retaliate for sword damage
+	Trade for Shadow J with man in DNN Editting Room
+193.	AntiNavi		None	****	 Take the enemy's Navi away
+	BMD in Secret area 2
+194.	AntiRecv		None	***	 Punish recovery of HPs!
+	Job
+195.	Atk+10			None	*	 +10 for selected atk chip
+	ACDC area 2 shop
+196.	Fire+30			None	**	 +30 for Fire atk chip
+	BMD in hot springs Lion Console
+197.	Aqua+30			None	**	 +30 for Aqua atk chip
+	Job
+198.	Elec+30			None	**	 +30 for Elec atk chip
+	Zoo area
+199.	Wood+30			None	**	 +30 for Wood atk chip
+	Bugfrag shop in Yoka 1
+200.	Navi+20			None	**	 +20 for selected Navi chip
+	Bugfrag shop in Undernet 2
+
+-----------------------------------------------------------------------------------
+
+Mega Class Chips
+#.	Chip Name	Damage	Element	Rareness What it does
+	Where to find it
+
+1.	Muramasa	????	None	*****	 Power= amount of HP lost!
+	Enter 50098263 at the number machine in Higsby's shop
+2.	HeroSwrd	180	None	****	 Legendary swrd cuts 3 sq!
+	Enter 03284579 at the number machine in Higsby's shop
+3.	ZeusHamr	250	None	*****	 Damages anyone on a panel
+	Trade at hades isle, bring grabback K
+4.	StandOut	220	Fire	***	 Heat: Send Fire into hole
+	Can be bought from Mr. Higsby at his shop
+5.	Salamndr	300	Fire	****	 Heat: Send Fire into hole
+	Enter 65497812 at the number machine in Higsby's shop
+6.	WatrLine	180	Aqua	***	 Water: Draw wter from hole
+	Can be bought from Mr. Higsby at his shop
+7.	Fountain	240	Aqua	***	 Water: Draw wter from hole
+	Enter 88543997 at the number machine in Higsby's shop
+8.	Ligtning	160	Elec	***	 Elec: Dmgs object & area
+	Can be bought from Mr. Higsby at his shop
+9.	Bolt		210	Elec	***	 Elec: Dmgs object & area
+	Enter 54390805 at the number machine in Higsby's shop
+10.	GaiaSwrd	100	Wood	***	 Wood: Take power frm next chip
+	Can be bought from Mr. Higsby at his shop
+11.	GaiaBlad	100	Wood	****	 Wood: Take power fr. next chip
+	Enter 33157825 at the number machine in Higsby's shop
+12.	Meteors		40	Fire	****	 Drop many meteors on enemy
+	Bugfrag Trader in Undernet 2, use gargoyle on Hades Isle to access
+13.	Guardian		None	*****	 Statue punishes when hit
+	BMD in undernet 7
+14.	Anubis			None	*****	 Anubis poisons enemies
+	Can be bought from Mr. Higsby at his shop for 80000z
+15.	Godstone	150	None	****	 Summons a GodStone from hole
+	Bugfrag Trader in Undernet 2, use gargoyle on Hades Isle to access
+16.	OldWood		100	Wood	****	 Summons OldWood from hole
+	Can be bought from shop in Undernet Square
+17.	Jealousy	100	None	***	 More dmg if enemy has chips
+	DNN editting console
+18.	Poltrgst		None	*****	 Objects thrown at enemies!
+	Basement of hospital, behind tree of life
+19.	LifAura			None	****	 Repel all attacks under 200
+	Scuttles in Secret Area 3
+20.	FullCust		None	***	 CustGauge instantly refills!
+	Bugfrag Shop in undernet 2
+21.	Atk+30			None	***	 +30 for selected atk chip
+	Shop in undernet 4
+22.	Navi+40			None	***	 +40 for selected Navi chip
+	Quiz Master on Hades Isle
+23.	Roll		20	None	***	 Attack an enemy, heal you
+24.	RollV2		30	None	****	 Attack an enemy, heal you
+25.	RollV3		40	None	*****	 Attack an enemy, heal you
+26.	GutsMan		50	None	***	 Sneaks up to smash panels
+27.	GutsManV2	70	None	****	 Sneaks up to smash panels
+28.	GutsManV3	90	None	*****	 Sneaks up to smash panels
+29.	GutsManV4	100	None	*****	 Sneaks up to smash panels
+30.	ProtoMan	160	None	***	 Moves in to slice the enemy
+31.	ProtoMnV2	180	None	****	 Moves in to slice the enemy
+32.	ProtoMnV3	200	None	*****	 Moves in to slice the enemy
+33.	ProtoMnV4	220	None	*****	 Moves in to slice the enemy
+34.	FlashMan	50	Elec	***	 Flash atk paralyzes enemy
+35.	FlashMnV2	70	Elec	****	 Flash atk paralyzes enemy
+36.	FlashMnV3	90	Elec	*****	 Flash atk paralyzes enemy
+37.	FlashMnV4	120	Elec	*****	 Flash atk paralyzes enemy
+38.	BeastMan	40	None	***	 Claw atk 3 squares ahead!
+39.	BeastMnV2	50	None	****	 Claw atk 3 squares ahead!
+40.	BeastMnV3	60	None	*****	 Claw atk 3 squares ahead!
+41.	BeastMnV4	70	None	*****	 Claw atk 3 squares ahead!
+42.	BubblMan	20	Aqua	***	 Fires several AquaShots
+43.	BubblMnV2	20	Aqua	****	 Fires several AquaShots
+44.	BubblMnV3	20	Aqua	*****	 Fires several AquaShots
+45.	BubblMnV4	20	Aqua	*****	 Fires several AquaShots
+46.	DesrtMan	120	None	***	 Launches fists at enemies!
+47.	DesrtMnV2	140	None	****	 Launches fists at enemies!
+48.	DesrtMnV3	160	None	*****	 Launches fists at enemies!
+49.	DesrtMnV4	180	None	*****	 Launches fists at enemies!
+50.	PlantMan	20	Wood	***	 Vines harm all enemies!
+51.	PlantMnV2	30	Wood	****	 Vines harm all enemies!
+52.	PlantMnV3	40	Wood	*****	 Vines harm all enemies!
+53.	PlantMnV4	50	Wood	*****	 Vines harm all enemies!
+54.	FlamMan		120	Fire	***	 Flames burn all enemies!
+55.	FlamManV2	150	Fire	****	 Flames burn all enemies!
+56.	FlamManV3	180	Fire	*****	 Flames burn all enemies!
+57.	FlamManV4	210	Fire	*****	 Flames burn all enemies!
+58.	DrillMan	70	None	***	 3 drills fly at enemies!
+59.	DrillMnV2	90	None	****	 3 drills fly at enemies!
+60.	DrillMnV3	110	None	*****	 3 drills fly at enemies!
+61.	DrillMnV4	130	None	*****	 3 drills fly at enemies!
+62.	MetalMan	100	None	***	 Iron fist smashes 1 square!
+63.	MetalMnV2	130	None	****	 Iron fist smashes 1 square!
+64.	MetalMnV3	160	None	*****	 Iron fist smashes 1 square!
+65.	MetalMnV4	190	None	*****	 Iron fist smashes 1 square!
+66.	KingMan		140	None	***	 Move up 3 square & 4-way hit
+67.	KingManV2	170	None	****	 Move up 3 square & 4-way hit
+68.	KingManV3	200	None	*****	 Move up 3 square & 4-way hit
+69.	KingManV4	240	None	*****	 Move up 3 square & 4-way hit
+70.	MistMan		90	None	***	 Appears from mist & attacks
+71.	MistManV2	110	None	****	 Appears from mist & attacks
+72.	MistManV3	130	None	*****	 Appears from mist & attacks
+73.	MistManV4	150	None	*****	 Appears from mist & attacks
+74.	BowlMan		100	None	***	 Lines up pins for a strike!
+75.	BowlManV2	120	None	****	 Lines up pins for a strike!
+76.	BowlManV3	140	None	*****	 Lines up pins for a strike!
+77.	BowlManV4	160	None	*****	 Lines up pins for a strike!
+78.	DarkMan		30	None	***	 Creates 3 caves in enmy area
+79.	DarkManV2	30	None	****	 Creates 3 caves in enmy area
+80.	DarkManV3	30	None	*****	 Creates 3 caves in enmy area
+81.	DarkManV4	30	None	*****	 Creates 3 caves in enmy area
+82.	JapanMan	40	None	***	 Multiple attacks w/ spear
+83.	JapanMnV2	45	None	****	 Multiple attacks w/ spear
+84.	JapanMnV3	50	None	*****	 Multiple attacks w/ spear
+85.	JapanMnV4	55	None	*****	 Multiple attacks w/ spear
+
+-----------------------------------------------------------------------------------
+
+Giga Class Chips
+#.	Chip Name	Damage	Element	Rareness What it does
+	Where to find it
+
+1.	FoldrBak		None	*****	 Restores all chips & folders
+	Bugfrag Trader in Undernet 3, use gargoyle on Hades Isle to access.
+2.	Bass+		550	None	*****	 Dark chip Smashes panels!
+	Defeat Bass GS
+3.	DarkAura		None	*****	 Dark chip repels <300 atks
+	Complete serenade time trials
+4.	DeltaRay	220	None	*****	 Use A btn for up to 3 attacks
+	Have 3 stars and then netbattle with a friend.  S-rank them to earn it.
+5.	AlphArmQ	500	None	*****	 Launches a giant rocket
+	Defeat Alpha omega after obtaining 7 stars
+6.	GutsManV5	120	None	*****	 Sneaks up to smash panels
+7.	ProtoMnV5	240	None	*****	 Moves in to slice the enemy
+8.	FlashMnV5	150	Elec	*****	 Flash atk paralyzes enemy
+9.	BeastMnV5	80	None	*****	 Claw atk 3 squares ahead!
+10.	BubblMnV5	20	Aqua	*****	 Fires several AquaShots
+11.	DesrtMnV5	210	None	*****	 Launches fists at enemies!
+12.	PlantMnV5	60	Wood	*****	 Vines harm all enemies!
+13.	FlamManV5	240	Fire	*****	 Flames burn all enemies!
+14.	DrillMnV5	150	None	*****	 3 drills fly at enemies!
+15.	MetalMnV5	250	None	*****	 Iron fist smashes 1 square!
+16.	KingManV5	280	None	*****	 Move up 3 square & 4-way hit
+17.	MistManV5	170	None	*****	 Appears from mist & attacks
+18.	BowlManV5	180	None	*****	 Lines up pins for a strike!
+19.	DarkManV5	30	None	*****	 Creates 3 caves in enmy area
+20.	JapanMnV5	60	None	*****	 Multiple attacks w/ spear
+
+-----------------------------------------------------------------------------------
+
+Bonus Material:
+
+Get all 7 stars!
+1: Beat Alpha
+2: Get all Standard Chips
+3: Beat Forte GS
+4: Finish all Serenade Time-Trials
+5: Get all Megachips
+6: Complete PA Library
+7: Defeating all SP Navis (Not including Proto SP)
+
+SP Navis!
+After earning atleast 5 stars, go to the title screen and enter the code...
+Hold Left and press... RRLRLRLL
+The stars should move closer together and you can now fight SP Navis
+
+Custom Style * Codes (entire section by PhatoseAlpha)
+The following chips are known to drop in * code if you s-rank the
+appropriate viruses in custom style without using the buster or megachips.
+
+Cannon * - Cannondumb, ACDC and other places
+SnglBomb * - Beetle, Zoo computer
+DbleBomb * - Beetle2, Beach area
+DashAtk * - Fishy1s, Scilab Area
+IceWave * - Penguin, Hospital TV/Scilab drink machine
+IceWav2 * - Penguin2, Hospital Drink Machine
+Spice * - Mushy, Bed Yai was in in the hospital
+Boomer * - Boomer, Tamiko's HP
+Boomer2 * - Boomer2, lower areas of undernet
+PosnFace * - Poisonface, Undernet 7
+Rockarm * - Rockarms, scilab
+Rockarm2 * - Rockarms2s, beach area/undernet
+CrseShld * - Dominerds, lower areas of undernet
+Team 1 * - Twins1 enemy - don't remember where, I think TV station
+computer that leads to bubbleman
+Fanfare * - Eh..the trumpet looking things, Numberman poster
+Discord * - The purple trumpets, Undernet 7
+Shadow * - Shadow enemys, secret area/Undernet 6 when darkman beta
+can appear there
+HolyPanl * - Brushman, Undernet 4/5/6
+Lavaball * - Lavahead, Scilab door w/ oilbody
+Iceball * - Coldheal, Hades isle w/fish
+PosnMask * - Poisonmasks, Hospital computer 4 ect
+Mole1 * - Mole1s, Hades Isle
+Mole2 * - Mole2s, Undernet 7
+
+Those are all the ones I know of. There may be others, I've missed.
+If you have one to add, let me know, I'll check it out and add it.
+No "Only rarely drops in custom sytles" please - if I can't confirm
+it, I can't add it.
+
+Crseshld 1 * is very hard to obtain, just cause dominerds are a
+pain to S rank. I got lucky with a blackbomb 3, heatside, and
+lifesword draw against 2 ratton2s and a dominerd. Expect difficulties
+if you're after that one.
+
+Shadow * is easiest to obtain when darkman can appear in Undernet 6.
+An encounter with a shadow and some other weak virus appears, and you
+can kill both in 1 shot with lifesword.
+
+Poisonface's always seem to appear with totems 2s. Use copydamage on
+the poisonface, and a high powered attack on the totem2 to s-rank them.
+
+Lavaball is the easiest - quickly chuck a blackbomb 3 directly at it,
+it will detonate and take out it and the 2 fishys that are always with
+it. Unforunately, you usually get dash *, so keep at it.
+
+Iceball is a pain too, primarily cause they appear in only pairs, so
+you have to work darned fast for the S rank. I did this - equip a heatstyle
+or floatshoes. Move forward 1 square, toss a blackbomb 3 L. Move up 1 square.
+Wait till the bottom coldhead makes the about to open motion, then copydamage
+on the top one, then a heatside L to detonate the blackbomb.
+
+PosnMask - Use the Poisonface copydamage trick. Copydamage on the face, hit
+the totem1 that's always there with something hard enough to kill them.
+
+Mole 1/2 - Oh good lord, this one is sheer torture. Since you can't use
+gutsman, you're very limited. I suppose you could hope to get lucky with
+a gelrain PA. I personally got lucky with Bigwaves and Mine * - move to
+the back row to use bigwave, so they won't jump behind you and dodge it.
+Use mines, and hope. It's not pleasant.
+
+-----------------------------------------------------------------------------------
+
+Credits:	PhatoseAlpha for the Custom Style * Code drops
+		Phoenix Blade for the Godstone location
+		Capcom for the great game
+		The game for the info
+
+-----------------------------------------------------------------------------------
+
+This Chip List is copyrighted to WoohooO, 2003.
+Please do not put on the web without my authorization first.
+Megaman Battle Network and all related characters and names
+are trademarks of Capcom Entertainment Inc.
+

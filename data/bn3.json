@@ -1,0 +1,2402 @@
+[
+  {
+    "number": "001",
+    "name": "Cannon",
+    "rarity": "*",
+    "damage": "40",
+    "element": "None",
+    "description": "Cannon to attack 1 enemy"
+  },
+  {
+    "number": "002",
+    "name": "HiCannon",
+    "rarity": "**",
+    "damage": "60",
+    "element": "None",
+    "description": "Cannon to attack 1 enemy"
+  },
+  {
+    "number": "003",
+    "name": "M-Cannon",
+    "rarity": "***",
+    "damage": "80",
+    "element": "None",
+    "description": "Cannon to attack 1 enemy"
+  },
+  {
+    "number": "004",
+    "name": "Airshot1",
+    "rarity": "*",
+    "damage": "20",
+    "element": "None",
+    "description": "Knocks enemy back 1"
+  },
+  {
+    "number": "005",
+    "name": "Airshot2",
+    "rarity": "**",
+    "damage": "30",
+    "element": "None",
+    "description": "Knocks enemy back 1"
+  },
+  {
+    "number": "006",
+    "name": "Airshot3",
+    "rarity": "**",
+    "damage": "40",
+    "element": "None",
+    "description": "Knocks enemy back 1"
+  },
+  {
+    "number": "007",
+    "name": "LavaCan1",
+    "rarity": "*",
+    "damage": "90",
+    "element": "Fire",
+    "description": "Fires lava fr. area"
+  },
+  {
+    "number": "008",
+    "name": "LavaCan2",
+    "rarity": "**",
+    "damage": "120",
+    "element": "Fire",
+    "description": "Fires lava fr. area"
+  },
+  {
+    "number": "009",
+    "name": "LavaCan3",
+    "rarity": "***",
+    "damage": "150",
+    "element": "Fire",
+    "description": "Fires lava fr. area"
+  },
+  {
+    "number": "010",
+    "name": "Volcanoe",
+    "rarity": "****",
+    "damage": "150",
+    "element": "Fire",
+    "description": "Fire lava from your area"
+  },
+  {
+    "number": "011",
+    "name": "ShotGun",
+    "rarity": "*",
+    "damage": "30",
+    "element": "None",
+    "description": "Explodes 1 square behind"
+  },
+  {
+    "number": "012",
+    "name": "V-Gun",
+    "rarity": "*",
+    "damage": "30",
+    "element": "None",
+    "description": "Explodes 2 diag. squares"
+  },
+  {
+    "number": "013",
+    "name": "SideGun",
+    "rarity": "*",
+    "damage": "30",
+    "element": "None",
+    "description": "Explodes up, down on hit"
+  },
+  {
+    "number": "014",
+    "name": "Spreader",
+    "rarity": "**",
+    "damage": "30",
+    "element": "None",
+    "description": "Creates a large explosion"
+  },
+  {
+    "number": "015",
+    "name": "Bubbler",
+    "rarity": "*",
+    "damage": "60",
+    "element": "Aqua",
+    "description": "Explodes 1 square behind"
+  },
+  {
+    "number": "016",
+    "name": "Bub-V",
+    "rarity": "*",
+    "damage": "60",
+    "element": "Aqua",
+    "description": "Explodes 2 diag. squares"
+  },
+  {
+    "number": "017",
+    "name": "BublSide",
+    "rarity": "**",
+    "damage": "60",
+    "element": "Aqua",
+    "description": "Explodes up, down on hit"
+  },
+  {
+    "number": "018",
+    "name": "HeatShot",
+    "rarity": "***",
+    "damage": "40",
+    "element": "Fire",
+    "description": "Explodes 1 square behind"
+  },
+  {
+    "number": "019",
+    "name": "Heat-V",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Fire",
+    "description": "Explodes 2 diag. squares"
+  },
+  {
+    "number": "020",
+    "name": "HeatSide",
+    "rarity": "**",
+    "damage": "40",
+    "element": "Fire",
+    "description": "Explodes up, down on hit"
+  },
+  {
+    "number": "021",
+    "name": "MiniBomb",
+    "rarity": "***",
+    "damage": "50",
+    "element": "None",
+    "description": "Throws a bomb 3 squares"
+  },
+  {
+    "number": "022",
+    "name": "SnglBomb",
+    "rarity": "*",
+    "damage": "50",
+    "element": "None",
+    "description": "Throws a big bomb 3 squares"
+  },
+  {
+    "number": "023",
+    "name": "DublBomb",
+    "rarity": "*",
+    "damage": "50",
+    "element": "None",
+    "description": "Throws 2 big bombs 3 squares"
+  },
+  {
+    "number": "024",
+    "name": "TrplBomb",
+    "rarity": "**",
+    "damage": "50",
+    "element": "None",
+    "description": "Throws 3 big bombs 3 squares"
+  },
+  {
+    "number": "025",
+    "name": "CannBall",
+    "rarity": "***",
+    "damage": "160",
+    "element": "None",
+    "description": "Breaks 3rd panel ahead"
+  },
+  {
+    "number": "026",
+    "name": "IceBall",
+    "rarity": "***",
+    "damage": "120",
+    "element": "Aqua",
+    "description": "Freezes 3rd sqr. ahead"
+  },
+  {
+    "number": "027",
+    "name": "LavaBall",
+    "rarity": "***",
+    "damage": "140",
+    "element": "Fire",
+    "description": "Shoot lava 3rd sq. ahead"
+  },
+  {
+    "number": "028",
+    "name": "BlkBomb1",
+    "rarity": "**",
+    "damage": "120",
+    "element": "Fire",
+    "description": "Firebomb hits 3rd sq ahead!"
+  },
+  {
+    "number": "029",
+    "name": "BlkBomb2",
+    "rarity": "***",
+    "damage": "170",
+    "element": "Fire",
+    "description": "Firebomb hits 3rd sq ahead!"
+  },
+  {
+    "number": "030",
+    "name": "BlkBomb3",
+    "rarity": "****",
+    "damage": "220",
+    "element": "Fire",
+    "description": "Firebomb hits 3rd sq ahead!"
+  },
+  {
+    "number": "031",
+    "name": "Sword",
+    "rarity": "*",
+    "damage": "80",
+    "element": "None",
+    "description": "Cuts enmy in front! Range: 1"
+  },
+  {
+    "number": "032",
+    "name": "WideSwrd",
+    "rarity": "**",
+    "damage": "80",
+    "element": "None",
+    "description": "Cuts enmy in front! Range: 3"
+  },
+  {
+    "number": "033",
+    "name": "LongSwrd",
+    "rarity": "***",
+    "damage": "80",
+    "element": "None",
+    "description": "Cuts enmy in front! Range: 2"
+  },
+  {
+    "number": "034",
+    "name": "FireSwrd",
+    "rarity": "***",
+    "damage": "150",
+    "element": "Fire",
+    "description": "Fire: Cuts fwd 3 squares"
+  },
+  {
+    "number": "035",
+    "name": "AquaSwrd",
+    "rarity": "***",
+    "damage": "150",
+    "element": "Aqua",
+    "description": "Water: Cuts fwd 3 squares"
+  },
+  {
+    "number": "036",
+    "name": "ElecSwrd",
+    "rarity": "***",
+    "damage": "130",
+    "element": "Elec",
+    "description": "Elec: Cuts fwd 3 squares"
+  },
+  {
+    "number": "037",
+    "name": "BambSwrd",
+    "rarity": "***",
+    "damage": "140",
+    "element": "Wood",
+    "description": "Wood: Cuts fwd 3 squares"
+  },
+  {
+    "number": "038",
+    "name": "CustSwrd",
+    "rarity": "***",
+    "damage": "???",
+    "element": "None",
+    "description": "Cust Gauge = Atk Str"
+  },
+  {
+    "number": "039",
+    "name": "VarSwrd",
+    "rarity": "****",
+    "damage": "160",
+    "element": "None",
+    "description": "A magical shifting sword"
+  },
+  {
+    "number": "040",
+    "name": "AirSwrd",
+    "rarity": "***",
+    "damage": "100",
+    "element": "None",
+    "description": "Wide swrd with air attack!"
+  },
+  {
+    "number": "041",
+    "name": "StepSwrd",
+    "rarity": "****",
+    "damage": "130",
+    "element": "None",
+    "description": "2 steps, then uses wide swrd"
+  },
+  {
+    "number": "042",
+    "name": "StepCros",
+    "rarity": "****",
+    "damage": "130",
+    "element": "None",
+    "description": "2 steps, then uses cross atk"
+  },
+  {
+    "number": "043",
+    "name": "Slasher",
+    "rarity": "***",
+    "damage": "240",
+    "element": "None",
+    "description": "Cut while A button is held!"
+  },
+  {
+    "number": "044",
+    "name": "ShockWav",
+    "rarity": "*",
+    "damage": "60",
+    "element": "None",
+    "description": "Shock through enemies"
+  },
+  {
+    "number": "045",
+    "name": "SonicWav",
+    "rarity": "**",
+    "damage": "80",
+    "element": "None",
+    "description": "Shock through enemies"
+  },
+  {
+    "number": "046",
+    "name": "DynaWave",
+    "rarity": "***",
+    "damage": "100",
+    "element": "None",
+    "description": "Shock through enemies"
+  },
+  {
+    "number": "047",
+    "name": "BigWave",
+    "rarity": "****",
+    "damage": "190",
+    "element": "None",
+    "description": "Shck wave cracks panels"
+  },
+  {
+    "number": "048",
+    "name": "GutPunch",
+    "rarity": "*",
+    "damage": "80",
+    "element": "None",
+    "description": "Punch pushes 1 square"
+  },
+  {
+    "number": "049",
+    "name": "GutStrgt",
+    "rarity": "**",
+    "damage": "100",
+    "element": "None",
+    "description": "Punch 2 square range"
+  },
+  {
+    "number": "050",
+    "name": "GutImpct",
+    "rarity": "***",
+    "damage": "160",
+    "element": "None",
+    "description": "Punch pushes 1 square"
+  },
+  {
+    "number": "051",
+    "name": "DashAtk",
+    "rarity": "*",
+    "damage": "90",
+    "element": "None",
+    "description": "Dash through enemies!"
+  },
+  {
+    "number": "052",
+    "name": "Burner",
+    "rarity": "***",
+    "damage": "Fire",
+    "element": "None",
+    "description": "Envelops you in flame!"
+  },
+  {
+    "number": "053",
+    "name": "Condor",
+    "rarity": "****",
+    "damage": "180",
+    "element": "None",
+    "description": "Chrge atk pierces enemies"
+  },
+  {
+    "number": "054",
+    "name": "Burning",
+    "rarity": "****",
+    "damage": "150",
+    "element": "Fire",
+    "description": "Fire atk in cross shape!"
+  },
+  {
+    "number": "055",
+    "name": "Zapring1",
+    "rarity": "*",
+    "damage": "20",
+    "element": "Elec",
+    "description": "Pralyzing electric ring atk!"
+  },
+  {
+    "number": "056",
+    "name": "Zapring2",
+    "rarity": "**",
+    "damage": "40",
+    "element": "Elec",
+    "description": "Pralyzing electric ring atk!"
+  },
+  {
+    "number": "057",
+    "name": "Zapring3",
+    "rarity": "***",
+    "damage": "60",
+    "element": "Elec",
+    "description": "Pralyzing electric ring atk!"
+  },
+  {
+    "number": "058",
+    "name": "IceWave1",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Aqua",
+    "description": "Creates a 2 sq wide ice wave!"
+  },
+  {
+    "number": "059",
+    "name": "IceWave2",
+    "rarity": "**",
+    "damage": "100",
+    "element": "Aqua",
+    "description": "Creates a 2 sq wide ice wave!"
+  },
+  {
+    "number": "060",
+    "name": "IceWave3",
+    "rarity": "***",
+    "damage": "140",
+    "element": "Aqua",
+    "description": "Creates a 2 sq wide ice wave!"
+  },
+  {
+    "number": "061",
+    "name": "Yo-Yo1",
+    "rarity": "*",
+    "damage": "40",
+    "element": "None",
+    "description": "3-square yo-yo attack!"
+  },
+  {
+    "number": "062",
+    "name": "Yo-Yo2",
+    "rarity": "**",
+    "damage": "50",
+    "element": "None",
+    "description": "3-square yo-yo attack!"
+  },
+  {
+    "number": "063",
+    "name": "Yo-Yo3",
+    "rarity": "***",
+    "damage": "60",
+    "element": "None",
+    "description": "3-square yo-yo attack!"
+  },
+  {
+    "number": "064",
+    "name": "AirStrm1",
+    "rarity": "*",
+    "damage": "50",
+    "element": "None",
+    "description": "Creates 3 whirlwinds"
+  },
+  {
+    "number": "065",
+    "name": "AirStrm2",
+    "rarity": "**",
+    "damage": "60",
+    "element": "None",
+    "description": "Creates 3 whirlwinds"
+  },
+  {
+    "number": "066",
+    "name": "AirStrm3",
+    "rarity": "***",
+    "damage": "70",
+    "element": "None",
+    "description": "Creates 3 whirlwinds"
+  },
+  {
+    "number": "067",
+    "name": "Arrow1",
+    "rarity": "*",
+    "damage": "100",
+    "element": "None",
+    "description": "Bee fly diagonal paths"
+  },
+  {
+    "number": "068",
+    "name": "Arrow2",
+    "rarity": "**",
+    "damage": "130",
+    "element": "None",
+    "description": "Bee fly diagonal paths"
+  },
+  {
+    "number": "069",
+    "name": "Arrow3",
+    "rarity": "***",
+    "damage": "160",
+    "element": "None",
+    "description": "Bee fly diagonal paths"
+  },
+  {
+    "number": "070",
+    "name": "Ratton1",
+    "rarity": "*",
+    "damage": "80",
+    "element": "None",
+    "description": "Crawling rat, turns once"
+  },
+  {
+    "number": "071",
+    "name": "Ratton2",
+    "rarity": "**",
+    "damage": "100",
+    "element": "None",
+    "description": "Crawling rat, turns once"
+  },
+  {
+    "number": "072",
+    "name": "Ratton3",
+    "rarity": "***",
+    "damage": "120",
+    "element": "None",
+    "description": "Crawling rat, turns once"
+  },
+  {
+    "number": "073",
+    "name": "FireRatn",
+    "rarity": "***",
+    "damage": "230",
+    "element": "None",
+    "description": "Activates when hit w/fire!"
+  },
+  {
+    "number": "074",
+    "name": "Wave",
+    "rarity": "***",
+    "damage": "80",
+    "element": "Aqua",
+    "description": "Creates a wave that moves 3 sq"
+  },
+  {
+    "number": "075",
+    "name": "RedWave",
+    "rarity": "***",
+    "damage": "90",
+    "element": "Fire",
+    "description": "Creates a 3 sq wave of lava"
+  },
+  {
+    "number": "076",
+    "name": "MudWave",
+    "rarity": "***",
+    "damage": "100",
+    "element": "Wood",
+    "description": "Mud wave advances 3 squares"
+  },
+  {
+    "number": "077",
+    "name": "Tornado",
+    "rarity": "**",
+    "damage": "20",
+    "element": "None",
+    "description": "An 8-hit tornado 2 ahead"
+  },
+  {
+    "number": "078",
+    "name": "Spice1",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Wood",
+    "description": "Dangerous powder on all grass"
+  },
+  {
+    "number": "079",
+    "name": "Spice2",
+    "rarity": "**",
+    "damage": "110",
+    "element": "Wood",
+    "description": "Dangerous powder on all grass"
+  },
+  {
+    "number": "080",
+    "name": "Spice3",
+    "rarity": "***",
+    "damage": "140",
+    "element": "Wood",
+    "description": "Dangerous powder on all grass"
+  },
+  {
+    "number": "081",
+    "name": "Shake1",
+    "rarity": "*",
+    "damage": "90",
+    "element": "None",
+    "description": " Vertical shaking 3 sq ahead"
+  },
+  {
+    "number": "082",
+    "name": "Shake2",
+    "rarity": "**",
+    "damage": "110",
+    "element": "None",
+    "description": " Vertical shaking 3 sq ahead"
+  },
+  {
+    "number": "083",
+    "name": "Shake3",
+    "rarity": "***",
+    "damage": "140",
+    "element": "None",
+    "description": " Vertical shaking 3 sq ahead"
+  },
+  {
+    "number": "084",
+    "name": "NoBeam1",
+    "rarity": "**",
+    "damage": "200",
+    "element": "None",
+    "description": "Fires if something behind"
+  },
+  {
+    "number": "085",
+    "name": "NoBeam2",
+    "rarity": "***",
+    "damage": "260",
+    "element": "None",
+    "description": "Fires if something behind"
+  },
+  {
+    "number": "086",
+    "name": "NoBeam3",
+    "rarity": "****",
+    "damage": "300",
+    "element": "None",
+    "description": "Fires if something behind"
+  },
+  {
+    "number": "087",
+    "name": "Hammer",
+    "rarity": "**",
+    "damage": "100",
+    "element": "None",
+    "description": "Hammer smashes front!"
+  },
+  {
+    "number": "088",
+    "name": "Geyser",
+    "rarity": "****",
+    "damage": "200",
+    "element": "Aqua",
+    "description": "Geyser 3 squares forward"
+  },
+  {
+    "number": "089",
+    "name": "Rope1",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Wood",
+    "description": "Entwines adjacent enemies!"
+  },
+  {
+    "number": "090",
+    "name": "Rope2",
+    "rarity": "**",
+    "damage": "70",
+    "element": "Wood",
+    "description": "Entwines adjacent enemies!"
+  },
+  {
+    "number": "091",
+    "name": "Rope3",
+    "rarity": "***",
+    "damage": "90",
+    "element": "Wood",
+    "description": "Entwines adjacent enemies!"
+  },
+  {
+    "number": "092",
+    "name": "Boomer1",
+    "rarity": "*",
+    "damage": "60",
+    "element": "Wood",
+    "description": "Boomerang encircles field"
+  },
+  {
+    "number": "093",
+    "name": "Boomer2",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Wood",
+    "description": "Boomerang encircles field"
+  },
+  {
+    "number": "094",
+    "name": "Boomer3",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Wood",
+    "description": "Boomerang encircles field"
+  },
+  {
+    "number": "095",
+    "name": "PoisMask",
+    "rarity": "*",
+    "damage": "???",
+    "element": "None",
+    "description": "Poison area w/ A button!"
+  },
+  {
+    "number": "096",
+    "name": "PoisFace",
+    "rarity": "**",
+    "damage": "???",
+    "element": "None",
+    "description": "Spread poison w/ A button!"
+  },
+  {
+    "number": "097",
+    "name": "RockArm1",
+    "rarity": "*",
+    "damage": "100",
+    "element": "None",
+    "description": "Paralyzes enemy w/ erthquake"
+  },
+  {
+    "number": "098",
+    "name": "RockArm2",
+    "rarity": "**",
+    "damage": "150",
+    "element": "None",
+    "description": "Paralyzes enemy w/ erthquake"
+  },
+  {
+    "number": "099",
+    "name": "RockArm3",
+    "rarity": "***",
+    "damage": "200",
+    "element": "None",
+    "description": "Paralyzes enemy w/ erthquake"
+  },
+  {
+    "number": "100",
+    "name": "CrsShld1",
+    "rarity": "*",
+    "damage": "160",
+    "element": "None",
+    "description": "Guard, and bite into the enemy"
+  },
+  {
+    "number": "101",
+    "name": "CrsShld2",
+    "rarity": "**",
+    "damage": "210",
+    "element": "None",
+    "description": "Guard, and bite into the enemy"
+  },
+  {
+    "number": "102",
+    "name": "CrsShld3",
+    "rarity": "***",
+    "damage": "260",
+    "element": "None",
+    "description": "Guard, and bite into the enemy"
+  },
+  {
+    "number": "103",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "104",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "105",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "106",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "107",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "108",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "109",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "110",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "111",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "112",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "113",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "114",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "115",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "116",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "117",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "118",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "119",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "120",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "121",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "122",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "123",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "124",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "125",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "126",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "127",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "128",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "129",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "130",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "131",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "132",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "133",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "134",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "135",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "136",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "137",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "138",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "139",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "140",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "141",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "142",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "143",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "144",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "145",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "146",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "147",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "148",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "149",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "150",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "151",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "152",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "153",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "154",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "155",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "156",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "157",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "158",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "159",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "160",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "161",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "162",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "163",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "164",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "165",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "166",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "167",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "168",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "169",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "170",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "171",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "172",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "173",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "174",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "175",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "176",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "177",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "178",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "179",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "180",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "181",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "182",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "183",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "184",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "185",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "186",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "187",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "188",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "189",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "190",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "191",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "192",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "193",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "194",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "195",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "196",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "197",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "198",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "199",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "200",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "201",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "202",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "203",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "204",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "205",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "206",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "207",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "208",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "209",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "210",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "211",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "212",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "213",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "214",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "215",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "216",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "217",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "218",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "219",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "220",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "221",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "222",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "223",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "224",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "225",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "226",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "227",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "228",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "229",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "230",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "231",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "232",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "233",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "234",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "235",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "236",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "237",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "238",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "239",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "240",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "241",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "242",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "243",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "244",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "245",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "246",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "247",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "248",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "249",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "250",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "251",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "252",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "253",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "254",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "255",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "256",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "257",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "258",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "259",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "260",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "261",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "262",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "263",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "264",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "265",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "266",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "267",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "268",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "269",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "270",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "271",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "272",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "273",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "274",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "275",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "276",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "277",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "278",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "279",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "280",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "281",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "282",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "283",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "284",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "285",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "286",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "287",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "288",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "289",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "290",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "291",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "292",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "293",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "294",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "295",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "296",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "297",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "298",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "299",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  },
+  {
+    "number": "300",
+    "name": "",
+    "rarity": "*",
+    "damage": "",
+    "element": "None",
+    "description": ""
+  }
+]

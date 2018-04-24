@@ -1,0 +1,2130 @@
+[
+  {
+    "number": "001",
+    "name": "Cannon",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Null",
+    "description": "Cannon for attacking 1 enemy"
+  },
+  {
+    "number": "002",
+    "name": "HiCannon",
+    "rarity": "*",
+    "damage": "60",
+    "element": "Null",
+    "description": "Cannon for attacking 1 enemy"
+  },
+  {
+    "number": "003",
+    "name": "M-Cannon",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Null",
+    "description": "Cannon for attacking 1 enemy"
+  },
+  {
+    "number": "004",
+    "name": "ShotGun",
+    "rarity": "*",
+    "damage": "30",
+    "element": "Null",
+    "description": "Explodes 1 square behind"
+  },
+  {
+    "number": "005",
+    "name": "V-Gun",
+    "rarity": "*",
+    "damage": "30",
+    "element": "Null",
+    "description": "Explodes 2 diagonal squares"
+  },
+  {
+    "number": "006",
+    "name": "CrossGun",
+    "rarity": "*",
+    "damage": "30",
+    "element": "Null",
+    "description": "Explodes 4 diagonal squares"
+  },
+  {
+    "number": "007",
+    "name": "Spreader",
+    "rarity": "*",
+    "damage": "30",
+    "element": "Aqua",
+    "description": "Creates a large explosion"
+  },
+  {
+    "number": "008",
+    "name": "Bubbler",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Aqua",
+    "description": "Explodes 1 square behind"
+  },
+  {
+    "number": "009",
+    "name": "Bub-V",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Aqua",
+    "description": "Explodes 2 diagonal squares"
+  },
+  {
+    "number": "010",
+    "name": "BubCross",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Aqua",
+    "description": "Explodes 4 diagonal squares"
+  },
+  {
+    "number": "011",
+    "name": "BubSprd",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Aqua",
+    "description": "Creates a large explosion"
+  },
+  {
+    "number": "012",
+    "name": "HeatShot",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Fire",
+    "description": "Explodes 1 square behind"
+  },
+  {
+    "number": "013",
+    "name": "Heat-V",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Fire",
+    "description": "Explodes 2 diagonal squares"
+  },
+  {
+    "number": "014",
+    "name": "HeatCros",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Fire",
+    "description": "Explodes 4 diagonal squares"
+  },
+  {
+    "number": "015",
+    "name": "HeatSprd",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Fire",
+    "description": "Creates a large explosion"
+  },
+  {
+    "number": "016",
+    "name": "MiniBomb",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Null",
+    "description": "Throws a bomb 3 squares"
+  },
+  {
+    "number": "017",
+    "name": "LilBomb",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Null",
+    "description": "Bomb that explodes vertically"
+  },
+  {
+    "number": "018",
+    "name": "CrosBomb",
+    "rarity": "*",
+    "damage": "60",
+    "element": "Null",
+    "description": "Bomb that explodes in a cross"
+  },
+  {
+    "number": "019",
+    "name": "BigBomb",
+    "rarity": "*",
+    "damage": "70",
+    "element": "Null",
+    "description": "Bomb with a 9-square explosion"
+  },
+  {
+    "number": "020",
+    "name": "TreeBom1",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Wood",
+    "description": "Tree seed! Water for a PowerUp!"
+  },
+  {
+    "number": "021",
+    "name": "TreeBom2",
+    "rarity": "*",
+    "damage": "120",
+    "element": "Wood",
+    "description": "Tree seed! Water for a PowerUp!"
+  },
+  {
+    "number": "022",
+    "name": "TreeBom3",
+    "rarity": "*",
+    "damage": "150",
+    "element": "Wood",
+    "description": "Tree seed! Water for a PowerUp!"
+  },
+  {
+    "number": "023",
+    "name": "Sword",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Null",
+    "description": "Cut enemy in front! Range is 1"
+  },
+  {
+    "number": "024",
+    "name": "WideSwrd",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Null",
+    "description": "Cut enemy in front! Range is 3"
+  },
+  {
+    "number": "025",
+    "name": "LongSwrd",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Null",
+    "description": "Cut enemy in front! Range is 2"
+  },
+  {
+    "number": "026",
+    "name": "FireSwrd",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Fire",
+    "description": "Flame sword cuts 3 vertical"
+  },
+  {
+    "number": "027",
+    "name": "AquaSwrd",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Aqua",
+    "description": "Water sword cuts 3 vertical"
+  },
+  {
+    "number": "028",
+    "name": "ElecSwrd",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Elec",
+    "description": "Electric sword cuts 3 vertical"
+  },
+  {
+    "number": "029",
+    "name": "FireBlde",
+    "rarity": "*",
+    "damage": "90",
+    "element": "Fire",
+    "description": "Flame sword cuts 2 horizontal"
+  },
+  {
+    "number": "030",
+    "name": "AquaBlde",
+    "rarity": "*",
+    "damage": "90",
+    "element": "Aqua",
+    "description": "Water sword cuts 2 horizontal"
+  },
+  {
+    "number": "031",
+    "name": "ElecBlde",
+    "rarity": "*",
+    "damage": "90",
+    "element": "Elec",
+    "description": "Electric sword cuts 2 horizontal"
+  },
+  {
+    "number": "032",
+    "name": "StepSword",
+    "rarity": "*",
+    "damage": "150",
+    "element": "Null",
+    "description": "Two steps, then use a wide sword"
+  },
+  {
+    "number": "033",
+    "name": "Kunai1",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Null",
+    "description": "Kunais up and down 1 square"
+  },
+  {
+    "number": "034",
+    "name": "Kunai2",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Null",
+    "description": "Kunais up and down 2 squares"
+  },
+  {
+    "number": "035",
+    "name": "Kunai3",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Null",
+    "description": "Kunais up and down 3 squares"
+  },
+  {
+    "number": "036",
+    "name": "CustSwrd",
+    "rarity": "*",
+    "damage": "???",
+    "element": "Null",
+    "description": "Custom Gauge = Attack Strength"
+  },
+  {
+    "number": "037",
+    "name": "Muramasa",
+    "rarity": "*",
+    "damage": "???",
+    "element": "Null",
+    "description": "Sword that uses HPs to attack"
+  },
+  {
+    "number": "038",
+    "name": "VarSwrd",
+    "rarity": "*",
+    "damage": "160",
+    "element": "Null",
+    "description": "A magical, shifting sword"
+  },
+  {
+    "number": "039",
+    "name": "Slasher",
+    "rarity": "*",
+    "damage": "180",
+    "element": "Null",
+    "description": "Cuts while A button is held!"
+  },
+  {
+    "number": "040",
+    "name": "ShockWav",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Null",
+    "description": "Shock goes through enemies"
+  },
+  {
+    "number": "041",
+    "name": "Sonicwav",
+    "rarity": "*",
+    "damage": "60",
+    "element": "Null",
+    "description": "Shock goes through enemies"
+  },
+  {
+    "number": "042",
+    "name": "Dynawav",
+    "rarity": "*",
+    "damage": "90",
+    "element": "Null",
+    "description": "Shock goes through enemies"
+  },
+  {
+    "number": "043",
+    "name": "Quake1",
+    "rarity": "*",
+    "damage": "90",
+    "element": "Null",
+    "description": "Attack cracks the floor"
+  },
+  {
+    "number": "044",
+    "name": "Quake2",
+    "rarity": "*",
+    "damage": "110",
+    "element": "Null",
+    "description": "Attack cracks the floor"
+  },
+  {
+    "number": "045",
+    "name": "Quake3",
+    "rarity": "*",
+    "damage": "130",
+    "element": "Null",
+    "description": "Attack cracks the floor"
+  },
+  {
+    "number": "046",
+    "name": "GutPunch",
+    "rarity": "*",
+    "damage": "70",
+    "element": "Null",
+    "description": "Punch that punches 1 square"
+  },
+  {
+    "number": "047",
+    "name": "ColdPnch",
+    "rarity": "*",
+    "damage": "70",
+    "element": "Aqua",
+    "description": "Cold punch punches 1 square"
+  },
+  {
+    "number": "048",
+    "name": "DashAtk",
+    "rarity": "*",
+    "damage": "90",
+    "element": "Null",
+    "description": "Dash right through enemies"
+  },
+  {
+    "number": "049",
+    "name": "Wrecker",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Null",
+    "description": "Can break 3rd square ahead"
+  },
+  {
+    "number": "050",
+    "name": "CannBall",
+    "rarity": "*",
+    "damage": "150",
+    "element": "Null",
+    "description": "Can break 3rd square ahead"
+  },
+  {
+    "number": "051",
+    "name": "DoubNdl",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Null",
+    "description": "2 volleys of needles"
+  },
+  {
+    "number": "052",
+    "name": "TripNdl",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Null",
+    "description": "3 volleys of needles"
+  },
+  {
+    "number": "053",
+    "name": "QuadNdl",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Null",
+    "description": "5 volleys of needles"
+  },
+  {
+    "number": "054",
+    "name": "Trident",
+    "rarity": "*",
+    "damage": "60",
+    "element": "Null",
+    "description": "3 volleys of spears"
+  },
+  {
+    "number": "055",
+    "name": "Ratton1",
+    "rarity": "*",
+    "damage": "70",
+    "element": "Null",
+    "description": "A crawling rat that turns once"
+  },
+  {
+    "number": "056",
+    "name": "Ratton2",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Null",
+    "description": "A crawling rat that turns once"
+  },
+  {
+    "number": "057",
+    "name": "Ratton3",
+    "rarity": "*",
+    "damage": "90",
+    "element": "Null",
+    "description": "A crawling rat that turns once"
+  },
+  {
+    "number": "058",
+    "name": "FireRat",
+    "rarity": "*",
+    "damage": "200",
+    "element": "Null",
+    "description": "Amazing when lit with fire"
+  },
+  {
+    "number": "059",
+    "name": "Tornado",
+    "rarity": "*",
+    "damage": "20",
+    "element": "Null",
+    "description": "8-hit tornado 2 ahead"
+  },
+  {
+    "number": "060",
+    "name": "Twister",
+    "rarity": "*",
+    "damage": "20",
+    "element": "Wood",
+    "description": "8-hit tornado 2 ahead"
+  },
+  {
+    "number": "061",
+    "name": "Blower",
+    "rarity": "*",
+    "damage": "20",
+    "element": "Fire",
+    "description": "8-hit tornado 2 ahead"
+  },
+  {
+    "number": "062",
+    "name": "Burner",
+    "rarity": "*",
+    "damage": "150",
+    "element": "Fire",
+    "description": "Envelopes you with flames!"
+  },
+  {
+    "number": "063",
+    "name": "ZapRing1",
+    "rarity": "*",
+    "damage": "20",
+    "element": "Elec",
+    "description": "Paralyzing electric rings!"
+  },
+  {
+    "number": "064",
+    "name": "ZapRing2",
+    "rarity": "*",
+    "damage": "30",
+    "element": "Elec",
+    "description": "Paralyzing electric rings!"
+  },
+  {
+    "number": "065",
+    "name": "ZapRing3",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Elec",
+    "description": "Paralyzing electric rings!"
+  },
+  {
+    "number": "066",
+    "name": "Satelit1",
+    "rarity": "*",
+    "damage": "60",
+    "element": "Elec",
+    "description": "A floating & spinning satellite"
+  },
+  {
+    "number": "067",
+    "name": "Satelit2",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Elec",
+    "description": "A floating & spinning satellite"
+  },
+  {
+    "number": "068",
+    "name": "Satelit3",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Elec",
+    "description": "A floating & spinning satellite"
+  },
+  {
+    "number": "069",
+    "name": "Spice1",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Wood",
+    "description": "Unhealthy powder on all grass"
+  },
+  {
+    "number": "070",
+    "name": "Spice2",
+    "rarity": "*",
+    "damage": "120",
+    "element": "Wood",
+    "description": "Unhealthy powder on all grass"
+  },
+  {
+    "number": "071",
+    "name": "Spice3",
+    "rarity": "*",
+    "damage": "140",
+    "element": "Wood",
+    "description": "Unhealthy powder on all grass"
+  },
+  {
+    "number": "072",
+    "name": "MagBomb1",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Elec",
+    "description": "Stops the enemy in its tracks"
+  },
+  {
+    "number": "073",
+    "name": "MagBomb2",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Elec",
+    "description": "Stops the enemy in its tracks"
+  },
+  {
+    "number": "074",
+    "name": "MagBomb3",
+    "rarity": "*",
+    "damage": "120",
+    "element": "Elec",
+    "description": "Stops the enemy in its tracks"
+  },
+  {
+    "number": "075",
+    "name": "Yo-Yo1",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Null",
+    "description": "A 3-square yo-yo attack!"
+  },
+  {
+    "number": "076",
+    "name": "Yo-Yo2",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Null",
+    "description": "A 3-square yo-yo attack!"
+  },
+  {
+    "number": "077",
+    "name": "Yo-Yo3",
+    "rarity": "*",
+    "damage": "60",
+    "element": "Null",
+    "description": "A 3-square yo-yo attack!"
+  },
+  {
+    "number": "078",
+    "name": "CrsShld1",
+    "rarity": "*",
+    "damage": "130",
+    "element": "Null",
+    "description": "Guard then bite into the enemy"
+  },
+  {
+    "number": "079",
+    "name": "CrsShld2",
+    "rarity": "*",
+    "damage": "170",
+    "element": "Null",
+    "description": "Guard then bite into the enemy"
+  },
+  {
+    "number": "080",
+    "name": "CrsShld3",
+    "rarity": "*",
+    "damage": "210",
+    "element": "Null",
+    "description": "Guard then bite into the enemy"
+  },
+  {
+    "number": "081",
+    "name": "Hammer",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Null",
+    "description": "Hammer for smashing things"
+  },
+  {
+    "number": "082",
+    "name": "ZeusHamr",
+    "rarity": "*",
+    "damage": "200",
+    "element": "Null",
+    "description": "Damage all if panel"
+  },
+  {
+    "number": "083",
+    "name": "Lance",
+    "rarity": "*",
+    "damage": "90",
+    "element": "Wood",
+    "description": "A lance through back line"
+  },
+  {
+    "number": "084",
+    "name": "BrnzFist",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Null",
+    "description": "Fist of death!"
+  },
+  {
+    "number": "085",
+    "name": "SilvFist",
+    "rarity": "*",
+    "damage": "140",
+    "element": "Null",
+    "description": "Fist of death!"
+  },
+  {
+    "number": "086",
+    "name": "GoldFist",
+    "rarity": "*",
+    "damage": "180",
+    "element": "Null",
+    "description": "Fist of death!"
+  },
+  {
+    "number": "087",
+    "name": "PoisMask",
+    "rarity": "*",
+    "damage": "???",
+    "element": "Null",
+    "description": "Poison 1 panel with A Button!"
+  },
+  {
+    "number": "088",
+    "name": "PoisFace",
+    "rarity": "*",
+    "damage": "???",
+    "element": "Null",
+    "description": "Spread poison w/ A Button!"
+  },
+  {
+    "number": "089",
+    "name": "Whirlpl",
+    "rarity": "*",
+    "damage": "???",
+    "element": "Null",
+    "description": "Whirlpool kills weak enemies!"
+  },
+  {
+    "number": "090",
+    "name": "Blckhole",
+    "rarity": "*",
+    "damage": "???",
+    "element": "Null",
+    "description": "Black hole kills weak enemies!"
+  },
+  {
+    "number": "091",
+    "name": "Meteor9",
+    "rarity": "*",
+    "damage": "60",
+    "element": "Fire",
+    "description": "Magic wand shoots 9 meteors"
+  },
+  {
+    "number": "092",
+    "name": "Meteor12",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Fire",
+    "description": "Magic wand shoots 12 meteors"
+  },
+  {
+    "number": "093",
+    "name": "Meteor15",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Fire",
+    "description": "Magic wand shoots 15 meteors"
+  },
+  {
+    "number": "094",
+    "name": "Meteor18",
+    "rarity": "*",
+    "damage": "150",
+    "element": "Fire",
+    "description": "Magic wand shoots 18 meteors"
+  },
+  {
+    "number": "095",
+    "name": "TimeBom1",
+    "rarity": "*",
+    "damage": "70",
+    "element": "Null",
+    "description": "An area-wide time bomb!"
+  },
+  {
+    "number": "096",
+    "name": "TimeBom2",
+    "rarity": "*",
+    "damage": "120",
+    "element": "Null",
+    "description": "An area-wide time bomb!"
+  },
+  {
+    "number": "097",
+    "name": "TimeBom3",
+    "rarity": "*",
+    "damage": "200",
+    "element": "Null",
+    "description": "An area-wide time bomb!"
+  },
+  {
+    "number": "098",
+    "name": "LilCloud",
+    "rarity": "*",
+    "damage": "70",
+    "element": "Aqua",
+    "description": "Rain cloud goes back and forth"
+  },
+  {
+    "number": "099",
+    "name": "MedCloud",
+    "rarity": "*",
+    "damage": "90",
+    "element": "Aqua",
+    "description": "Rain cloud goes back and forth"
+  },
+  {
+    "number": "100",
+    "name": "BigCloud",
+    "rarity": "*",
+    "damage": "110",
+    "element": "Aqua",
+    "description": "Rain cloud goes back and forth"
+  },
+  {
+    "number": "101",
+    "name": "Mine",
+    "rarity": "*",
+    "damage": "300",
+    "element": "Null",
+    "description": "Place mine in enemy area"
+  },
+  {
+    "number": "102",
+    "name": "FrntSnsr",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Null",
+    "description": "Automatic dynamic device"
+  },
+  {
+    "number": "103",
+    "name": "DblSnsr",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Null",
+    "description": "Diagonal dynamite device"
+  },
+  {
+    "number": "104",
+    "name": "Remobit1",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Elec",
+    "description": "Generates remobit in enemy area"
+  },
+  {
+    "number": "105",
+    "name": "Remobit2",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Elec",
+    "description": "Generates remobit in enemy area"
+  },
+  {
+    "number": "106",
+    "name": "Remobit3",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Elec",
+    "description": "Generates remobit in enemy area"
+  },
+  {
+    "number": "107",
+    "name": "AquaBall",
+    "rarity": "*",
+    "damage": "10",
+    "element": "Aqua",
+    "description": "Pops when it hits something"
+  },
+  {
+    "number": "108",
+    "name": "ElecBall",
+    "rarity": "*",
+    "damage": "10",
+    "element": "Elec",
+    "description": "Pops when it hits something"
+  },
+  {
+    "number": "109",
+    "name": "HeatBall",
+    "rarity": "*",
+    "damage": "10",
+    "element": "Fire",
+    "description": "Pops when it hits something"
+  },
+  {
+    "number": "110",
+    "name": "Geyser",
+    "rarity": "*",
+    "damage": "200",
+    "element": "Aqua",
+    "description": "Geyser if there is no panel"
+  },
+  {
+    "number": "111",
+    "name": "LavaDrag",
+    "rarity": "*",
+    "damage": "200",
+    "element": "Fire",
+    "description": "Summons a nasty lava dragon!"
+  },
+  {
+    "number": "112",
+    "name": "GodStone",
+    "rarity": "*",
+    "damage": "150",
+    "element": "Null",
+    "description": "Summons a God Stone!"
+  },
+  {
+    "number": "113",
+    "name": "Old Wood",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Wood",
+    "description": "Summons Old Wood!"
+  },
+  {
+    "number": "114",
+    "name": "Guard",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Repel the enemy's attack"
+  },
+  {
+    "number": "115",
+    "name": "PanlOut1",
+    "rarity": "*",
+    "damage": "None (10, if hit)",
+    "element": "Null",
+    "description": "Destroy 1 panel in front"
+  },
+  {
+    "number": "116",
+    "name": "PanlOut3",
+    "rarity": "*",
+    "damage": "None (10, if hit)",
+    "element": "Null",
+    "description": "Destroy 3 panels in front"
+  },
+  {
+    "number": "117",
+    "name": "LineOut",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Fire",
+    "description": "Destroy 1 line of panels!"
+  },
+  {
+    "number": "118",
+    "name": "Catcher",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Sends UFO to steal a chip"
+  },
+  {
+    "number": "119",
+    "name": "Mindbndr",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Enemy loses control"
+  },
+  {
+    "number": "120",
+    "name": "Recov10",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Recovers 10HP"
+  },
+  {
+    "number": "121",
+    "name": "Recov30",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Recovers 30HP"
+  },
+  {
+    "number": "122",
+    "name": "Recov50",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Recovers 50HP"
+  },
+  {
+    "number": "123",
+    "name": "Recov80",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Recovers 80HP"
+  },
+  {
+    "number": "124",
+    "name": "Recov120",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Recovers 120HP"
+  },
+  {
+    "number": "125",
+    "name": "Recov150",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Recovers 150HP"
+  },
+  {
+    "number": "126",
+    "name": "Recov200",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Recovers 200HP"
+  },
+  {
+    "number": "127",
+    "name": "Recov300",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Recovers 300HP"
+  },
+  {
+    "number": "128",
+    "name": "PanlGrab",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Steals 1 enemy square!"
+  },
+  {
+    "number": "129",
+    "name": "AreaGrab",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Steals left edge from enemy"
+  },
+  {
+    "number": "130",
+    "name": "GrabRvng",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Punishes for stolen panels!"
+  },
+  {
+    "number": "131",
+    "name": "Geddon1",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Cracks all panels!"
+  },
+  {
+    "number": "132",
+    "name": "Geddon2",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Breaks all empty squares!"
+  },
+  {
+    "number": "133",
+    "name": "Geddon3",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Turns all panels to swamp!"
+  },
+  {
+    "number": "134",
+    "name": "Escape",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Escapes from some enemies"
+  },
+  {
+    "number": "135",
+    "name": "AirShoes",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Stand on empty square"
+  },
+  {
+    "number": "136",
+    "name": "Repair",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Fixes your side's panels"
+  },
+  {
+    "number": "137",
+    "name": "Candle1",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Places a healing candle"
+  },
+  {
+    "number": "138",
+    "name": "Candle2",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Places a healing candle"
+  },
+  {
+    "number": "139",
+    "name": "Candle3",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Places a healing candle"
+  },
+  {
+    "number": "140",
+    "name": "RockCube",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Places a stone cube in front"
+  },
+  {
+    "number": "141",
+    "name": "Prism",
+    "rarity": "*",
+    "damage": "???",
+    "element": "Null",
+    "description": "Shoots all over after it hits"
+  },
+  {
+    "number": "142",
+    "name": "Guardian",
+    "rarity": "*",
+    "damage": "200",
+    "element": "Null",
+    "description": "Statue punishes when hit"
+  },
+  {
+    "number": "143",
+    "name": "Wind",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "WindBox blows at enemy area"
+  },
+  {
+    "number": "144",
+    "name": "Fan",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "VacuumFan sucks from enemy area"
+  },
+  {
+    "number": "145",
+    "name": "Anubis",
+    "rarity": "*",
+    "damage": "???",
+    "element": "Null",
+    "description": "Anubis poisons enemy area"
+  },
+  {
+    "number": "146",
+    "name": "SloGauge",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Cust Gauge slows down for battle"
+  },
+  {
+    "number": "147",
+    "name": "FstGauge",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Cust Gauge speeds up for battle"
+  },
+  {
+    "number": "148",
+    "name": "FullCust",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Cust Gauge is always full!"
+  },
+  {
+    "number": "149",
+    "name": "Invis1",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Invisible for a while"
+  },
+  {
+    "number": "150",
+    "name": "Invis2",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Invisible for a while"
+  },
+  {
+    "number": "151",
+    "name": "Invis3",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Invisible for a while"
+  },
+  {
+    "number": "152",
+    "name": "DropDown",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Invisible until you attack!"
+  },
+  {
+    "number": "153",
+    "name": "PopUp",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Invisible except for attack!"
+  },
+  {
+    "number": "154",
+    "name": "StoneBod",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Stone body takes only 1HP damage"
+  },
+  {
+    "number": "155",
+    "name": "Shadow1",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Only sword attacks hurt you"
+  },
+  {
+    "number": "156",
+    "name": "Shadow2",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Only sword attacks hurt you"
+  },
+  {
+    "number": "157",
+    "name": "Shadow3",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Only sword attacks hurt you"
+  },
+  {
+    "number": "158",
+    "name": "UnderSht",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Lethal hit reduced to just 1HP!"
+  },
+  {
+    "number": "159",
+    "name": "Barrier",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Nullify damage one time!"
+  },
+  {
+    "number": "160",
+    "name": "BblWrap",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Aqua",
+    "description": "Water barrier reforms"
+  },
+  {
+    "number": "161",
+    "name": "LeafShld",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Wood",
+    "description": "Next attack heals you"
+  },
+  {
+    "number": "162",
+    "name": "AquaAura",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Aqua",
+    "description": "Repels attacks under 10"
+  },
+  {
+    "number": "163",
+    "name": "FireAura",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Fire",
+    "description": "Repels attacks under 40"
+  },
+  {
+    "number": "164",
+    "name": "WoodAura",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Wood",
+    "description": "Repels attacks under 80"
+  },
+  {
+    "number": "165",
+    "name": "ElecAura",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Elec",
+    "description": "Repels non wd attacks under 100"
+  },
+  {
+    "number": "166",
+    "name": "LifeAur1",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Repels all attacks under 100"
+  },
+  {
+    "number": "167",
+    "name": "LifeAur2",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Repels all attacks under 150"
+  },
+  {
+    "number": "168",
+    "name": "LifeAur3",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Repels all attacks under 200"
+  },
+  {
+    "number": "169",
+    "name": "MagLine",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Changes your line to magnet"
+  },
+  {
+    "number": "170",
+    "name": "LavaLine",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Changes your line to lava"
+  },
+  {
+    "number": "171",
+    "name": "IceLine",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Changes your line to ice"
+  },
+  {
+    "number": "172",
+    "name": "GrassLine",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Changes your line to grass"
+  },
+  {
+    "number": "173",
+    "name": "LavaStge",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Changes all panels to lava"
+  },
+  {
+    "number": "174",
+    "name": "IceStage",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Changes all panels to ice"
+  },
+  {
+    "number": "175",
+    "name": "GrassStg",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Changes all panels to grass"
+  },
+  {
+    "number": "176",
+    "name": "HolyPanl",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Makes all panels holy"
+  },
+  {
+    "number": "177",
+    "name": "Jealousy",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "More chips means more damage"
+  },
+  {
+    "number": "178",
+    "name": "AntiFire",
+    "rarity": "*",
+    "damage": "200",
+    "element": "Fire",
+    "description": "Punishes enemy for using fire"
+  },
+  {
+    "number": "179",
+    "name": "AntiElec",
+    "rarity": "*",
+    "damage": "200",
+    "element": "Elec",
+    "description": "Punishes enemy for using elec"
+  },
+  {
+    "number": "180",
+    "name": "AntiWatr",
+    "rarity": "*",
+    "damage": "200",
+    "element": "Aqua",
+    "description": "Punishes enemy for using aqua"
+  },
+  {
+    "number": "181",
+    "name": "AntiDmg",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Null",
+    "description": "Fake pain and throw shurikens!"
+  },
+  {
+    "number": "182",
+    "name": "AntiSwrd",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Null",
+    "description": "Punishes use of swords"
+  },
+  {
+    "number": "183",
+    "name": "AntiNavi",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Take the enemy's Navi away"
+  },
+  {
+    "number": "184",
+    "name": "AntiRecv",
+    "rarity": "*",
+    "damage": "???",
+    "element": "Null",
+    "description": "Punish the recovery of HPs!"
+  },
+  {
+    "number": "185",
+    "name": "Atk+10",
+    "rarity": "*",
+    "damage": "",
+    "element": "Null",
+    "description": "+10 to selected AtkChip!"
+  },
+  {
+    "number": "186",
+    "name": "Atk+20",
+    "rarity": "*",
+    "damage": "",
+    "element": "Null",
+    "description": "+20 to selected AtkChip!"
+  },
+  {
+    "number": "187",
+    "name": "Atk+30",
+    "rarity": "*",
+    "damage": "",
+    "element": "Null",
+    "description": "+30 to selected AtkChip!"
+  },
+  {
+    "number": "188",
+    "name": "Fire+40",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Adds 40 to Fire AttackChip"
+  },
+  {
+    "number": "189",
+    "name": "Aqua+40",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Adds 40 to Aqua AttackChip"
+  },
+  {
+    "number": "190",
+    "name": "Wood+40",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Adds 40 to Wood AttackChip"
+  },
+  {
+    "number": "191",
+    "name": "Elec+40",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Adds 40 to Elec AttackChip"
+  },
+  {
+    "number": "192",
+    "name": "Navi+20",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "+20 to selected NaviChip!"
+  },
+  {
+    "number": "193",
+    "name": "Navi+40",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "+40 to selected NaviChip!"
+  },
+  {
+    "number": "194",
+    "name": "Roll",
+    "rarity": "*",
+    "damage": "60",
+    "element": "Null",
+    "description": "Attacks 1 enemy then heals you"
+  },
+  {
+    "number": "195",
+    "name": "RollV2",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Null",
+    "description": "Attacks 1 enemy then heals you"
+  },
+  {
+    "number": "196",
+    "name": "RollV3",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Null",
+    "description": "Attacks 1 enemy then heals you"
+  },
+  {
+    "number": "197",
+    "name": "GutsMan",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Null",
+    "description": "Creeps and smashes panels!"
+  },
+  {
+    "number": "198",
+    "name": "GutsManV2",
+    "rarity": "*",
+    "damage": "70",
+    "element": "Null",
+    "description": "Creeps and smashes panels!"
+  },
+  {
+    "number": "199",
+    "name": "GutsManV3",
+    "rarity": "*",
+    "damage": "90",
+    "element": "Null",
+    "description": "Creeps and smashes panels!"
+  },
+  {
+    "number": "200",
+    "name": "ProtoMan",
+    "rarity": "*",
+    "damage": "120",
+    "element": "Null",
+    "description": "Swings sword at enemy face"
+  },
+  {
+    "number": "201",
+    "name": "ProtoMnV2",
+    "rarity": "*",
+    "damage": "160",
+    "element": "Null",
+    "description": "Swings sword at enemy face"
+  },
+  {
+    "number": "202",
+    "name": "ProtoMnV3",
+    "rarity": "*",
+    "damage": "200",
+    "element": "Null",
+    "description": "Swings sword at enemy face"
+  },
+  {
+    "number": "203",
+    "name": "AirMan",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Null",
+    "description": "Shoots air twisters in a line"
+  },
+  {
+    "number": "204",
+    "name": "AirManV2",
+    "rarity": "*",
+    "damage": "70",
+    "element": "Null",
+    "description": "Shoots air twisters in a line"
+  },
+  {
+    "number": "205",
+    "name": "AirManV3",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Null",
+    "description": "Shoots air twisters in a line"
+  },
+  {
+    "number": "206",
+    "name": "QuickMan",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Null",
+    "description": "Boomerang attacks whole row"
+  },
+  {
+    "number": "207",
+    "name": "QuickMnV2",
+    "rarity": "*",
+    "damage": "70",
+    "element": "Null",
+    "description": "Boomerang attacks whole row"
+  },
+  {
+    "number": "208",
+    "name": "QuickMnV3",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Null",
+    "description": "Boomerang attacks whole row"
+  },
+  {
+    "number": "209",
+    "name": "CutMan",
+    "rarity": "*",
+    "damage": "150",
+    "element": "Null",
+    "description": "Scissor attacks one square"
+  },
+  {
+    "number": "210",
+    "name": "CutManV2",
+    "rarity": "*",
+    "damage": "200",
+    "element": "Null",
+    "description": "Scissor attacks one square"
+  },
+  {
+    "number": "211",
+    "name": "CutManV3",
+    "rarity": "*",
+    "damage": "300",
+    "element": "Null",
+    "description": "Scissor attacks one square"
+  },
+  {
+    "number": "212",
+    "name": "ShadoMan",
+    "rarity": "*",
+    "damage": "60",
+    "element": "Null",
+    "description": "Splits and shoots 3 shurikens!"
+  },
+  {
+    "number": "213",
+    "name": "ShadoMnV2",
+    "rarity": "*",
+    "damage": "70",
+    "element": "Null",
+    "description": "Splits and shoots 3 shurikens!"
+  },
+  {
+    "number": "214",
+    "name": "ShadoMnV3",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Null",
+    "description": "Splits and shoots 3 shurikens!"
+  },
+  {
+    "number": "215",
+    "name": "KnightMn",
+    "rarity": "*",
+    "damage": "160",
+    "element": "Null",
+    "description": "Smashes enemies in circle!"
+  },
+  {
+    "number": "216",
+    "name": "KnightMnV2",
+    "rarity": "*",
+    "damage": "210",
+    "element": "Null",
+    "description": "Smashes enemies in circle!"
+  },
+  {
+    "number": "217",
+    "name": "KnightMnV3",
+    "rarity": "*",
+    "damage": "260",
+    "element": "Null",
+    "description": "Smashes enemies in circle!"
+  },
+  {
+    "number": "218",
+    "name": "MagnetMn",
+    "rarity": "*",
+    "damage": "130",
+    "element": "Elec",
+    "description": "Bipolar tackle on 1 enemy"
+  },
+  {
+    "number": "219",
+    "name": "MagnetMnV2",
+    "rarity": "*",
+    "damage": "140",
+    "element": "Elec",
+    "description": "Bipolar tackle on 1 enemy"
+  },
+  {
+    "number": "220",
+    "name": "MagnetMnV3",
+    "rarity": "*",
+    "damage": "150",
+    "element": "Elec",
+    "description": "Bipolar tackle on 1 enemy"
+  },
+  {
+    "number": "221",
+    "name": "FreezeMn",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Aqua",
+    "description": "Rains icicles on enemies"
+  },
+  {
+    "number": "222",
+    "name": "FrzManV2",
+    "rarity": "*",
+    "damage": "60",
+    "element": "Aqua",
+    "description": "Rains icicles on enemies"
+  },
+  {
+    "number": "223",
+    "name": "FrzManV3",
+    "rarity": "*",
+    "damage": "70",
+    "element": "Aqua",
+    "description": "Rains icicles on enemies"
+  },
+  {
+    "number": "224",
+    "name": "HeatMan",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Fire",
+    "description": "Flame attack! Range is 3"
+  },
+  {
+    "number": "225",
+    "name": "HeatManV2",
+    "rarity": "*",
+    "damage": "130",
+    "element": "Fire",
+    "description": "Flame attack! Range is 3"
+  },
+  {
+    "number": "226",
+    "name": "HeatManV3",
+    "rarity": "*",
+    "damage": "160",
+    "element": "Fire",
+    "description": "Flame attack! Range is 3"
+  },
+  {
+    "number": "227",
+    "name": "ToadMan",
+    "rarity": "*",
+    "damage": "",
+    "element": "Elec",
+    "description": "Shocking melody paralyzes!"
+  },
+  {
+    "number": "228",
+    "name": "ToadManV2",
+    "rarity": "*",
+    "damage": "",
+    "element": "Elec",
+    "description": "Shocking melody paralyzes!"
+  },
+  {
+    "number": "229",
+    "name": "ToadManV3",
+    "rarity": "*",
+    "damage": "",
+    "element": "Elec",
+    "description": "Shocking melody paralyzes!"
+  },
+  {
+    "number": "230",
+    "name": "ThunMan",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Elec",
+    "description": "Thunder attacks 3rd line"
+  },
+  {
+    "number": "231",
+    "name": "ThunManV2",
+    "rarity": "*",
+    "damage": "130",
+    "element": "Elec",
+    "description": "Thunder attacks 3rd line"
+  },
+  {
+    "number": "232",
+    "name": "ThunManV3",
+    "rarity": "*",
+    "damage": "180",
+    "element": "Elec",
+    "description": "Thunder attacks 3rd line"
+  },
+  {
+    "number": "233",
+    "name": "SnakeMan",
+    "rarity": "*",
+    "damage": "30",
+    "element": "Wood",
+    "description": "Main attack and snakes!"
+  },
+  {
+    "number": "234",
+    "name": "SnakeMnV2",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Wood",
+    "description": "Main attack and snakes!"
+  },
+  {
+    "number": "235",
+    "name": "SnakeMnV3",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Wood",
+    "description": "Main attack and snakes!"
+  },
+  {
+    "number": "236",
+    "name": "GateMan",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Null",
+    "description": "3 soldiers charge forward!"
+  },
+  {
+    "number": "237",
+    "name": "GateManV2",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Null",
+    "description": "3 soldiers charge forward!"
+  },
+  {
+    "number": "238",
+    "name": "GateManV3",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Null",
+    "description": "3 soldiers charge forward!"
+  },
+  {
+    "number": "239",
+    "name": "PharoMan",
+    "rarity": "*",
+    "damage": "240",
+    "element": "Null",
+    "description": "Laser-shooting coffin etc."
+  },
+  {
+    "number": "240",
+    "name": "PharoMnV2",
+    "rarity": "*",
+    "damage": "270",
+    "element": "Null",
+    "description": "Laser-shooting coffin etc."
+  },
+  {
+    "number": "241",
+    "name": "PharoMnV3",
+    "rarity": "*",
+    "damage": "300",
+    "element": "Null",
+    "description": "Laser-shooting coffin etc."
+  },
+  {
+    "number": "242",
+    "name": "NapalmMn",
+    "rarity": "*",
+    "damage": "220",
+    "element": "Fire",
+    "description": "Bombs that even break panels!"
+  },
+  {
+    "number": "243",
+    "name": "NaplmMnV2",
+    "rarity": "*",
+    "damage": "240",
+    "element": "Fire",
+    "description": "Bombs that even break panels!"
+  },
+  {
+    "number": "244",
+    "name": "NaplmMnV3",
+    "rarity": "*",
+    "damage": "260",
+    "element": "Fire",
+    "description": "Bombs that even break panels!"
+  },
+  {
+    "number": "245",
+    "name": "PlanetMn",
+    "rarity": "*",
+    "damage": "70",
+    "element": "Wood",
+    "description": "Planet smashes 1 enemy!"
+  },
+  {
+    "number": "246",
+    "name": "PlnetMnV2",
+    "rarity": "*",
+    "damage": "80",
+    "element": "Wood",
+    "description": "Planet smashes 1 enemy!"
+  },
+  {
+    "number": "247",
+    "name": "PlnetMnV3",
+    "rarity": "*",
+    "damage": "90",
+    "element": "Wood",
+    "description": "Planet smashes 1 enemy!"
+  },
+  {
+    "number": "248",
+    "name": "Bass",
+    "rarity": "*",
+    "damage": "50",
+    "element": "Null",
+    "description": "Air-burst attack on all lines!"
+  },
+  {
+    "number": "249",
+    "name": "BassV2",
+    "rarity": "*",
+    "damage": "60",
+    "element": "Null",
+    "description": "Air-burst attack on all lines!"
+  },
+  {
+    "number": "250",
+    "name": "BassV3",
+    "rarity": "*",
+    "damage": "70",
+    "element": "Null",
+    "description": "Air-burst attack on all lines!"
+  },
+  {
+    "number": "251",
+    "name": "BgRedWav",
+    "rarity": "*",
+    "damage": "220",
+    "element": "Fire",
+    "description": "Heat chip Creates a lava wave!"
+  },
+  {
+    "number": "252",
+    "name": "FreezBom",
+    "rarity": "*",
+    "damage": "180",
+    "element": "Aqua",
+    "description": "Aqua chip Tosses ice bomb!"
+  },
+  {
+    "number": "253",
+    "name": "Sparker",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Elec",
+    "description": "Elec chip A Button to spark!"
+  },
+  {
+    "number": "254",
+    "name": "GaiaSwrd",
+    "rarity": "*",
+    "damage": "200",
+    "element": "Wood",
+    "description": "Wood chip Steals atk from chip!"
+  },
+  {
+    "number": "255",
+    "name": "BlkBomb",
+    "rarity": "*",
+    "damage": "200",
+    "element": "Fire",
+    "description": "Exploding firebomb attack!"
+  },
+  {
+    "number": "256",
+    "name": "FtrSword",
+    "rarity": "*",
+    "damage": "100",
+    "element": "Null",
+    "description": "Normal sword. 3 spaces fwd"
+  },
+  {
+    "number": "257",
+    "name": "KngtSwrd",
+    "rarity": "*",
+    "damage": "150",
+    "element": "Null",
+    "description": "Normal sword. 3 spaces fwd"
+  },
+  {
+    "number": "258",
+    "name": "HeroSwrd",
+    "rarity": "*",
+    "damage": "200",
+    "element": "Null",
+    "description": "Normal sword. 3 spaces fwd"
+  },
+  {
+    "number": "259",
+    "name": "Meteors",
+    "rarity": "*",
+    "damage": "40",
+    "element": "Fire",
+    "description": "Shooting stars shot at enemy!"
+  },
+  {
+    "number": "260",
+    "name": "Poltrgst",
+    "rarity": "*",
+    "damage": "???",
+    "element": "Null",
+    "description": "Items are thrown at the enemy!"
+  },
+  {
+    "number": "261",
+    "name": "GateSP",
+    "rarity": "*",
+    "damage": "300",
+    "element": "Null",
+    "description": "Cannon of another dimension!"
+  },
+  {
+    "number": "262",
+    "name": "FireGspl",
+    "rarity": "*",
+    "damage": "600",
+    "element": "Fire",
+    "description": "Gospel's breath of fire!"
+  },
+  {
+    "number": "263",
+    "name": "AquaGspl",
+    "rarity": "*",
+    "damage": "600",
+    "element": "Aqua",
+    "description": "Gospel's breath of water!"
+  },
+  {
+    "number": "264",
+    "name": "ElecGspl",
+    "rarity": "*",
+    "damage": "600",
+    "element": "Elec",
+    "description": "Gospel's electric breath!"
+  },
+  {
+    "number": "265",
+    "name": "WoodGspl",
+    "rarity": "*",
+    "damage": "600",
+    "element": "Wood",
+    "description": "Breath of wood that slices!"
+  },
+  {
+    "number": "266",
+    "name": "Snctuary",
+    "rarity": "*",
+    "damage": "None",
+    "element": "Null",
+    "description": "Turns your panels holy!"
+  }
+]

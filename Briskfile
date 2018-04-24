@@ -1,0 +1,9 @@
+{
+  "name": "Gingnet",
+  "commands": [
+    {
+      "description": "Removing cruft...",
+      "command": "rm -rf node_modules package-lock.json"
+    }
+  ]
+}
